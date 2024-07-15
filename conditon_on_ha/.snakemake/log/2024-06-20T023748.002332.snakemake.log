@@ -1,0 +1,42 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 6
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count    min threads    max threads
+---------  -------  -------------  -------------
+align            8              1              1
+all              1              1              1
+ancestral        8              1              1
+export           8              1              1
+filter           8              1              1
+refine           8              1              1
+traits           8              1              1
+translate        8              1              1
+tree             8              1              1
+total           65              1              1
+
+Select jobs to execute...
+
+[Thu Jun 20 02:37:48 2024]
+Job 5: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_ha.fasta
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_ha.fasta             --metadata results/metadata/metadata_h3nx_ha.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_ha.fasta             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 1600             --non-nucleotide
+        
+Waiting at most 5 seconds for missing files.
+MissingOutputException in rule filter in file /nextstrain/build/Snakefile, line 122:
+Job 5  completed successfully, but some output files are missing. Missing files after 5 seconds. This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait:
+results/filtered/filtered_h3nx_ha.txt
+Removing output files of failed job filter since they might be corrupted:
+results/filtered/filtered_h3nx_ha.fasta
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-06-20T023748.002332.snakemake.log

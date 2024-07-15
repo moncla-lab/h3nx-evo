@@ -1,0 +1,229 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 6
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count    min threads    max threads
+---------  -------  -------------  -------------
+align            8              1              1
+all              1              1              1
+ancestral        8              1              1
+export           8              1              1
+filter           8              1              1
+refine           8              1              1
+traits           8              1              1
+translate        8              1              1
+tree             8              1              1
+total           65              1              1
+
+Select jobs to execute...
+
+[Thu Jun 20 02:43:35 2024]
+Job 5: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_ha.txt, results/filtered/filtered_h3nx_ha.fasta
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_ha.fasta             --metadata results/metadata/metadata_h3nx_ha.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_ha.fasta             --output-strains results/filtered/filtered_h3nx_ha.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 1600             --non-nucleotide
+        
+[Thu Jun 20 02:43:38 2024]
+Finished job 5.
+1 of 65 steps (2%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:38 2024]
+Job 50: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_pa.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_pa.fasta             --metadata results/metadata/metadata_h3nx_pa.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_pa.fasta             --output-strains results/filtered/filtered_h3nx_pa.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 2000             --non-nucleotide
+        
+
+[Thu Jun 20 02:43:38 2024]
+Job 41: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_np.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_np.fasta             --metadata results/metadata/metadata_h3nx_np.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_np.fasta             --output-strains results/filtered/filtered_h3nx_np.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 1400             --non-nucleotide
+        
+
+[Thu Jun 20 02:43:38 2024]
+Job 4: 
+        Aligning sequences to config/references/h3nx_ha.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_ha.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_ha.fasta             --reference-sequence config/references/h3nx_ha.gb             --output results/alignments/aligned_h3nx_ha.fasta             --remove-reference             --nthreads 1
+        
+
+[Thu Jun 20 02:43:38 2024]
+Job 32: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_na.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_na.fasta             --metadata results/metadata/metadata_h3nx_na.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_na.fasta             --output-strains results/filtered/filtered_h3nx_na.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 1270             --non-nucleotide
+        
+
+[Thu Jun 20 02:43:38 2024]
+Job 23: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_pb1.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_pb1.fasta             --metadata results/metadata/metadata_h3nx_pb1.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_pb1.fasta             --output-strains results/filtered/filtered_h3nx_pb1.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 2100             --non-nucleotide
+        
+
+[Thu Jun 20 02:43:38 2024]
+Job 14: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_pb2.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_pb2.fasta             --metadata results/metadata/metadata_h3nx_pb2.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_pb2.fasta             --output-strains results/filtered/filtered_h3nx_pb2.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 2100             --non-nucleotide
+        
+[Thu Jun 20 02:43:42 2024]
+Finished job 41.
+2 of 65 steps (3%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:42 2024]
+Job 68: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_mp.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_mp.fasta             --metadata results/metadata/metadata_h3nx_mp.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_mp.fasta             --output-strains results/filtered/filtered_h3nx_mp.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 900             --non-nucleotide
+        
+[Thu Jun 20 02:43:42 2024]
+Finished job 32.
+3 of 65 steps (5%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:42 2024]
+Job 59: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_ns.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_ns.fasta             --metadata results/metadata/metadata_h3nx_ns.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_ns.fasta             --output-strains results/filtered/filtered_h3nx_ns.txt             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 800             --non-nucleotide
+        
+[Thu Jun 20 02:43:42 2024]
+Finished job 50.
+4 of 65 steps (6%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:42 2024]
+Job 49: 
+        Aligning sequences to config/references/h3nx_pa.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_pa.fasta; Input files updated by another job: results/filtered/filtered_h3nx_pa.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_pa.fasta             --reference-sequence config/references/h3nx_pa.gb             --output results/alignments/aligned_h3nx_pa.fasta             --remove-reference             --nthreads 1
+        
+[Thu Jun 20 02:43:42 2024]
+Finished job 23.
+5 of 65 steps (8%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:42 2024]
+Job 22: 
+        Aligning sequences to config/references/h3nx_pb1.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_pb1.fasta; Input files updated by another job: results/filtered/filtered_h3nx_pb1.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_pb1.fasta             --reference-sequence config/references/h3nx_pb1.gb             --output results/alignments/aligned_h3nx_pb1.fasta             --remove-reference             --nthreads 1
+        
+[Thu Jun 20 02:43:42 2024]
+Finished job 14.
+6 of 65 steps (9%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:42 2024]
+Job 13: 
+        Aligning sequences to config/references/h3nx_pb2.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_pb2.fasta; Input files updated by another job: results/filtered/filtered_h3nx_pb2.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_pb2.fasta             --reference-sequence config/references/h3nx_pb2.gb             --output results/alignments/aligned_h3nx_pb2.fasta             --remove-reference             --nthreads 1
+        
+[Thu Jun 20 02:43:44 2024]
+Finished job 68.
+7 of 65 steps (11%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:44 2024]
+Job 31: 
+        Aligning sequences to config/references/h3nx_na.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_na.fasta; Input files updated by another job: results/filtered/filtered_h3nx_na.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_na.fasta             --reference-sequence config/references/h3nx_na.gb             --output results/alignments/aligned_h3nx_na.fasta             --remove-reference             --nthreads 1
+        
+[Thu Jun 20 02:43:44 2024]
+Finished job 59.
+8 of 65 steps (12%) done
+Select jobs to execute...
+
+[Thu Jun 20 02:43:44 2024]
+Job 40: 
+        Aligning sequences to config/references/h3nx_np.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_np.fasta; Input files updated by another job: results/filtered/filtered_h3nx_np.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_np.fasta             --reference-sequence config/references/h3nx_np.gb             --output results/alignments/aligned_h3nx_np.fasta             --remove-reference             --nthreads 1
+        

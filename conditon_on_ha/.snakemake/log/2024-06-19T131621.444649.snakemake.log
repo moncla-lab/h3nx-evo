@@ -1,0 +1,77 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 6
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count    min threads    max threads
+---------  -------  -------------  -------------
+align            8              1              1
+all              1              1              1
+ancestral        8              1              1
+export           8              1              1
+filter           8              1              1
+parse            3              1              1
+refine           8              1              1
+traits           8              1              1
+translate        8              1              1
+tree             8              1              1
+total           68              1              1
+
+Select jobs to execute...
+
+[Wed Jun 19 13:16:21 2024]
+Job 6: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_ha.fasta, results/metadata/metadata_h3nx_ha.tsv
+
+
+        augur parse             --sequences sequences/h3nx_ha.fasta             --output-sequences results/sequences/sequences_h3nx_ha.fasta             --output-metadata results/metadata/metadata_h3nx_ha.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+
+[Wed Jun 19 13:16:21 2024]
+Job 60: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_ns.fasta, results/metadata/metadata_h3nx_ns.tsv
+
+
+        augur parse             --sequences sequences/h3nx_ns.fasta             --output-sequences results/sequences/sequences_h3nx_ns.fasta             --output-metadata results/metadata/metadata_h3nx_ns.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+
+[Wed Jun 19 13:16:21 2024]
+Job 69: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_mp.fasta, results/metadata/metadata_h3nx_mp.tsv
+
+
+        augur parse             --sequences sequences/h3nx_mp.fasta             --output-sequences results/sequences/sequences_h3nx_mp.fasta             --output-metadata results/metadata/metadata_h3nx_mp.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+[Wed Jun 19 13:16:23 2024]
+Finished job 60.
+1 of 68 steps (1%) done
+[Wed Jun 19 13:16:24 2024]
+Finished job 69.
+2 of 68 steps (3%) done
+[Wed Jun 19 13:16:25 2024]
+Finished job 6.
+3 of 68 steps (4%) done
+Select jobs to execute...
+
+[Wed Jun 19 13:16:25 2024]
+Job 5: 
+        Filtering to
+          - 30 sequence(s) per year country host subtype
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+          - excluding strains prior to 1960
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_ha.txt, results/filtered/filtered_h3nx_ha.fasta; Input files updated by another job: results/sequences/sequences_h3nx_ha.fasta, results/metadata/metadata_h3nx_ha.tsv
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_ha.fasta             --metadata results/metadata/metadata_h3nx_ha.tsv             --exclude config/dropped_strains_h3nx.txt             --include config/include_strains_h3nx.txt             --output results/filtered/filtered_h3nx_ha.fasta             --group-by year country host subtype             --sequences-per-group 30             --min-date 1960             --exclude-where host=ferret             --min-length 1600             --non-nucleotide
+        
+Waiting at most 5 seconds for missing files.
+MissingOutputException in rule filter in file /nextstrain/build/Snakefile, line 122:
+Job 5  completed successfully, but some output files are missing. Missing files after 5 seconds. This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait:
+results/filtered/filtered_h3nx_ha.txt
+Removing output files of failed job filter since they might be corrupted:
+results/filtered/filtered_h3nx_ha.fasta
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-06-19T131621.444649.snakemake.log

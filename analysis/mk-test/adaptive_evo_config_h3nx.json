@@ -1,0 +1,23 @@
+{
+  "virus": "h3nx",
+  "virus_family": "orthomyxovirus",
+  "genome_type": "Negative-sense RNA, segmented",
+  "enveloped": "True",
+  "transmission": "Respiratory",
+  "cellular_receptor": "Sialic acid",
+  "fusion_protein_class": "Class I",
+  "subtype": "False",
+  "legible_name": "Influenza A/H3Nx",
+  "color": "#9F2A44",
+  "alignment_file": "/Users/monclalab1/Documents/nonhuman_H3_project/non-human-h3/host_specific/04-2023_11-2023/augur_aligned/h3n2/results/aligned_{virus}_cladeNA2012_{gene}.fasta",
+  "meta_file": "/Users/monclalab1/Documents/nonhuman_H3_project/non-human-h3/results/metadata_{virus}_{gene}.tsv",
+  "metafile_sep": "\t",
+  "reference_file": "/Users/monclalab1/Documents/nonhuman_H3_project/non-human-h3/host_specific/04-2023_11-2023/augur_aligned/h3n2/config/references/{virus}_{gene}.gb",
+  "genes": ["ha", "pb1","na", "mp", "ns", "np", "pb2", "pa"],
+  "ha_protein": {"virus_gene": "ha"},
+  "receptor_binding": {"virus_gene": "ha1"},
+  "membrane_fusion": {"virus_gene": "ha2"},
+  "polymerase": {"virus_gene": "pb1"},
+  "nonantigenic_gene": "pb1"
+
+}

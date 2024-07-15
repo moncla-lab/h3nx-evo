@@ -1,0 +1,2 @@
+SyntaxError in file /nextstrain/build/Snakefile, line 135:
+invalid syntax. Perhaps you forgot a comma?
