@@ -1,0 +1,211 @@
+['rate_of_adaptation.py', 'avianNA']
+./mk-test-files/alignments/avianNA/aligned_h3nx_ha.fasta
+./mk-test-files/alignments/avianNA/aligned_h3nx_ha.fasta
+h3nx ha: 0 bootstraps done
+h3nx ha: 10 bootstraps done
+h3nx ha: 20 bootstraps done
+h3nx ha: 30 bootstraps done
+h3nx ha: 40 bootstraps done
+h3nx ha: 50 bootstraps done
+h3nx ha: 60 bootstraps done
+h3nx ha: 70 bootstraps done
+h3nx ha: 80 bootstraps done
+h3nx ha: 90 bootstraps done
+./mk-test-files/alignments/avianNA/aligned_h3nx_pb1.fasta
+./mk-test-files/alignments/avianNA/aligned_h3nx_pb1.fasta
+h3nx pb1: 0 bootstraps done
+h3nx pb1: 10 bootstraps done
+h3nx pb1: 20 bootstraps done
+h3nx pb1: 30 bootstraps done
+h3nx pb1: 40 bootstraps done
+h3nx pb1: 50 bootstraps done
+h3nx pb1: 60 bootstraps done
+h3nx pb1: 70 bootstraps done
+h3nx pb1: 80 bootstraps done
+h3nx pb1: 90 bootstraps done
+./mk-test-files/alignments/avianNA/aligned_h3nx_na.fasta
+./mk-test-files/alignments/avianNA/aligned_h3nx_na.fasta
+h3nx na: 0 bootstraps done
+h3nx na: 10 bootstraps done
+h3nx na: 20 bootstraps done
+h3nx na: 30 bootstraps done
+h3nx na: 40 bootstraps done
+h3nx na: 50 bootstraps done
+h3nx na: 60 bootstraps done
+h3nx na: 70 bootstraps done
+h3nx na: 80 bootstraps done
+h3nx na: 90 bootstraps done
+./mk-test-files/alignments/avianNA/aligned_h3nx_pb2.fasta
+./mk-test-files/alignments/avianNA/aligned_h3nx_pb2.fasta
+h3nx pb2: 0 bootstraps done
+h3nx pb2: 10 bootstraps done
+h3nx pb2: 20 bootstraps done
+h3nx pb2: 30 bootstraps done
+h3nx pb2: 40 bootstraps done
+h3nx pb2: 50 bootstraps done
+h3nx pb2: 60 bootstraps done
+h3nx pb2: 70 bootstraps done
+h3nx pb2: 80 bootstraps done
+h3nx pb2: 90 bootstraps done
+./mk-test-files/alignments/avianNA/aligned_h3nx_np.fasta
+./mk-test-files/alignments/avianNA/aligned_h3nx_np.fasta
+h3nx np: 0 bootstraps done
+h3nx np: 10 bootstraps done
+h3nx np: 20 bootstraps done
+h3nx np: 30 bootstraps done
+h3nx np: 40 bootstraps done
+h3nx np: 50 bootstraps done
+h3nx np: 60 bootstraps done
+h3nx np: 70 bootstraps done
+h3nx np: 80 bootstraps done
+h3nx np: 90 bootstraps done
+./mk-test-files/alignments/avianNA/aligned_h3nx_pa.fasta
+./mk-test-files/alignments/avianNA/aligned_h3nx_pa.fasta
+h3nx pa: 0 bootstraps done
+h3nx pa: 10 bootstraps done
+h3nx pa: 20 bootstraps done
+h3nx pa: 30 bootstraps done
+h3nx pa: 40 bootstraps done
+h3nx pa: 50 bootstraps done
+h3nx pa: 60 bootstraps done
+h3nx pa: 70 bootstraps done
+h3nx pa: 80 bootstraps done
+h3nx pa: 90 bootstraps done
+./mk-test-files/alignments/avianNA/aligned_h3nx_mp.fasta
+./mk-test-files/alignments/avianNA/aligned_h3nx_mp.fasta
+h3nx mp: 0 bootstraps done
+h3nx mp: 10 bootstraps done
+h3nx mp: 20 bootstraps done
+h3nx mp: 30 bootstraps done
+h3nx mp: 40 bootstraps done
+h3nx mp: 50 bootstraps done
+h3nx mp: 60 bootstraps done
+h3nx mp: 70 bootstraps done
+h3nx mp: 80 bootstraps done
+h3nx mp: 90 bootstraps done
+./mk-test-files/alignments/avianNA/aligned_h3nx_ns.fasta
+h3nx ns not divisible by 3, check config files
+./mk-test-files/alignments/avianNA/aligned_h3nx_ns.fasta
+h3nx ns not divisible by 3, check config files
+h3nx ns: 0 bootstraps done
+h3nx ns: 10 bootstraps done
+h3nx ns: 20 bootstraps done
+h3nx ns: 30 bootstraps done
+h3nx ns: 40 bootstraps done
+h3nx ns: 50 bootstraps done
+h3nx ns: 60 bootstraps done
+h3nx ns: 70 bootstraps done
+h3nx ns: 80 bootstraps done
+h3nx ns: 90 bootstraps done
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "ha",
+    "adaptive_subs_per_codon_per_year": 0.10790095322457642,
+    "lower_95ci": 0.0016463374426982774,
+    "upper_95ci": 0.28031795855174607,
+    "ci": [
+        0.0016463374426982774,
+        0.28031795855174607
+    ]
+}
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "pb1",
+    "adaptive_subs_per_codon_per_year": 0.030392229181876226,
+    "lower_95ci": 0.0,
+    "upper_95ci": 0.10785894278452704,
+    "ci": [
+        0.0,
+        0.10785894278452704
+    ]
+}
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "na",
+    "adaptive_subs_per_codon_per_year": -0.00014525108644107852,
+    "lower_95ci": -0.0020554185523793175,
+    "upper_95ci": 0.0004075222638628261,
+    "ci": [
+        -0.0020554185523793175,
+        0.0004075222638628261
+    ]
+}
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "pb2",
+    "adaptive_subs_per_codon_per_year": 0.0006084470042225388,
+    "lower_95ci": 0.0,
+    "upper_95ci": 0.003355441112520589,
+    "ci": [
+        0.0,
+        0.003355441112520589
+    ]
+}
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "np",
+    "adaptive_subs_per_codon_per_year": -0.0007699322530776841,
+    "lower_95ci": -0.002405550423007486,
+    "upper_95ci": 0.0,
+    "ci": [
+        -0.002405550423007486,
+        0.0
+    ]
+}
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "pa",
+    "adaptive_subs_per_codon_per_year": 0.0,
+    "lower_95ci": 0.0,
+    "upper_95ci": 1.7707907026834993e-05,
+    "ci": [
+        0.0,
+        1.7707907026834993e-05
+    ]
+}
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "mp",
+    "adaptive_subs_per_codon_per_year": 1.355748000222572,
+    "lower_95ci": 0.8273278476386031,
+    "upper_95ci": 2.108029220215172,
+    "ci": [
+        0.8273278476386031,
+        2.108029220215172
+    ]
+}
+{
+    "host": "avianNA",
+    "virus": "h3nx",
+    "subtype": null,
+    "virus_and_subtype": "h3nx",
+    "gene": "ns",
+    "adaptive_subs_per_codon_per_year": 0.8396207751241974,
+    "lower_95ci": 0.35556696422110873,
+    "upper_95ci": 1.4946727053445685,
+    "ci": [
+        0.35556696422110873,
+        1.4946727053445685
+    ]
+}

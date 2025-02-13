@@ -1,0 +1,8 @@
+HA,prepped/alignments/h3nx_ha.fasta,prepped/div_tree/h3nx_ha.nwk
+PB2,prepped/alignments/h3nx_pb2.fasta,prepped/div_tree/h3nx_pb2.nwk
+PB1,prepped/alignments/h3nx_pb1.fasta,prepped/div_tree/h3nx_pb1.nwk
+*NA,prepped/alignments/h3nx_na.fasta,prepped/div_tree/h3nx_na.nwk
+NP,prepped/alignments/h3nx_np.fasta,prepped/div_tree/h3nx_np.nwk
+PA,prepped/alignments/h3nx_pa.fasta,prepped/div_tree/h3nx_pa.nwk
+NS,prepped/alignments/h3nx_ns.fasta,prepped/div_tree/h3nx_ns.nwk
+MP,prepped/alignments/h3nx_mp.fasta,prepped/div_tree/h3nx_mp.nwk
