@@ -1,7 +1,0 @@
-Building DAG of jobs...
-MissingInputException in rule translate in file /nextstrain/build/Snakefile, line 53:
-Missing input files for rule translate:
-    output: prepped/div_tree/aa_muts/aa-muts_h3nx_na.json
-    wildcards: subtype=h3nx, segment=na
-    affected files:
-        config/references/h3nx_na.gb
