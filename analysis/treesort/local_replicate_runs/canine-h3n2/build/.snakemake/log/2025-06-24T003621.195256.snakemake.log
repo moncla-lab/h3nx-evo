@@ -1,0 +1,20 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 6
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+all             1
+treesort        1
+total           2
+
+Select jobs to execute...
+
+[Tue Jun 24 00:36:21 2025]
+Job 1: running treesort to infer reassortment events
+Reason: Missing output files: results/ha_treesort.tre
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2025-06-24T003621.195256.snakemake.log

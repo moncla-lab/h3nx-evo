@@ -1,0 +1,40 @@
+P-value threshold for significance was set to 0.001
+Read 8 segments: HA, PB2, PB1, NA, NP, PA, NS, MP
+Estimating molecular clock rates for each segment (TreeTime)...
+	HA estimated molecular clock rate: 0.0017367 (R^2 = 0.958)
+	PB2 estimated molecular clock rate: 0.001534 (R^2 = 0.956)
+	PB1 estimated molecular clock rate: 0.0011577 (R^2 = 0.942)
+	NA estimated molecular clock rate: 0.001121 (R^2 = 0.907)
+	NP estimated molecular clock rate: 0.0011426 (R^2 = 0.91)
+	PA estimated molecular clock rate: 0.001222 (R^2 = 0.957)
+	NS estimated molecular clock rate: 0.0016933 (R^2 = 0.967)
+	MP estimated molecular clock rate: 0.0006435 (R^2 = 0.763)
+Found 425 strains in common across the alignments.
+Optimally resolving the multifurcations to minimize reassortment...
+Multifurcations resolved: 0
+Inferring reassortment with the PB2 segment...
+	Inferred reassortment events with PB2: 1.
+	Identified exact branches for 1/1 of them
+Inferring reassortment with the PB1 segment...
+	Inferred reassortment events with PB1: 2.
+	Identified exact branches for 2/2 of them
+Inferring reassortment with the NA segment...
+	Inferred reassortment events with NA: 1.
+	Identified exact branches for 1/1 of them
+Inferring reassortment with the NP segment...
+	Inferred reassortment events with NP: 2.
+	Identified exact branches for 2/2 of them
+Inferring reassortment with the PA segment...
+	Inferred reassortment events with PA: 1.
+	Identified exact branches for 1/1 of them
+Inferring reassortment with the NS segment...
+	Inferred reassortment events with NS: 2.
+	Identified exact branches for 2/2 of them
+Inferring reassortment with the MP segment...
+	Inferred reassortment events with MP: 2.
+	Identified exact branches for 2/2 of them
+
+Estimated reassortment rate per ancestral lineage per year.
+	Bernoulli estimate: 0.031557
+	Poisson estimate (for dense datasets): 0.033427
+Saved the annotated tree file to results/ha_treesort.tre

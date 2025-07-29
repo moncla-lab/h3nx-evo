@@ -1,0 +1,247 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: ML-MONCLALAB1.local
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+all             1
+root            7
+tree            7
+treesort        1
+total          16
+
+Select jobs to execute...
+Execute 7 jobs...
+[Wed Jun 25 13:27:41 2025]
+Job 15: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_mp.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_mp.fasta             --output results/trees_unrooted/h3nx_mp.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 13:27:41 2025]
+Job 5: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_pb1.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_pb1.fasta             --output results/trees_unrooted/h3nx_pb1.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 13:27:41 2025]
+Job 11: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_pa.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_pa.fasta             --output results/trees_unrooted/h3nx_pa.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 13:27:41 2025]
+Job 3: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_pb2.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_pb2.fasta             --output results/trees_unrooted/h3nx_pb2.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 13:27:41 2025]
+Job 7: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_na.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_na.fasta             --output results/trees_unrooted/h3nx_na.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 13:27:41 2025]
+Job 9: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_np.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_np.fasta             --output results/trees_unrooted/h3nx_np.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 13:27:41 2025]
+Job 13: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_ns.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_ns.fasta             --output results/trees_unrooted/h3nx_ns.nwk             --method iqtree             --nthreads 1
+        
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 31:
+Command 'set -euo pipefail;  
+        augur tree             --alignment data/alignments/h3nx_pb2.fasta             --output results/trees_unrooted/h3nx_pb2.nwk             --method iqtree             --nthreads 1' returned non-zero exit status 2.
+[Wed Jun 25 13:27:43 2025]
+Error in rule tree:
+    message: None
+    jobid: 3
+    input: data/alignments/h3nx_pb2.fasta
+    output: results/trees_unrooted/h3nx_pb2.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_pb2.fasta             --output results/trees_unrooted/h3nx_pb2.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 31:
+Command 'set -euo pipefail;  
+        augur tree             --alignment data/alignments/h3nx_np.fasta             --output results/trees_unrooted/h3nx_np.nwk             --method iqtree             --nthreads 1' returned non-zero exit status 2.
+[Wed Jun 25 13:27:43 2025]
+Error in rule tree:
+    message: None
+    jobid: 9
+    input: data/alignments/h3nx_np.fasta
+    output: results/trees_unrooted/h3nx_np.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_np.fasta             --output results/trees_unrooted/h3nx_np.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 31:
+Command 'set -euo pipefail;  
+        augur tree             --alignment data/alignments/h3nx_pa.fasta             --output results/trees_unrooted/h3nx_pa.nwk             --method iqtree             --nthreads 1' returned non-zero exit status 2.
+[Wed Jun 25 13:27:43 2025]
+Error in rule tree:
+    message: None
+    jobid: 11
+    input: data/alignments/h3nx_pa.fasta
+    output: results/trees_unrooted/h3nx_pa.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_pa.fasta             --output results/trees_unrooted/h3nx_pa.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 31:
+Command 'set -euo pipefail;  
+        augur tree             --alignment data/alignments/h3nx_ns.fasta             --output results/trees_unrooted/h3nx_ns.nwk             --method iqtree             --nthreads 1' returned non-zero exit status 2.
+[Wed Jun 25 13:27:43 2025]
+Error in rule tree:
+    message: None
+    jobid: 13
+    input: data/alignments/h3nx_ns.fasta
+    output: results/trees_unrooted/h3nx_ns.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_ns.fasta             --output results/trees_unrooted/h3nx_ns.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 31:
+Command 'set -euo pipefail;  
+        augur tree             --alignment data/alignments/h3nx_na.fasta             --output results/trees_unrooted/h3nx_na.nwk             --method iqtree             --nthreads 1' returned non-zero exit status 2.
+[Wed Jun 25 13:27:43 2025]
+Error in rule tree:
+    message: None
+    jobid: 7
+    input: data/alignments/h3nx_na.fasta
+    output: results/trees_unrooted/h3nx_na.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_na.fasta             --output results/trees_unrooted/h3nx_na.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 31:
+Command 'set -euo pipefail;  
+        augur tree             --alignment data/alignments/h3nx_pb1.fasta             --output results/trees_unrooted/h3nx_pb1.nwk             --method iqtree             --nthreads 1' returned non-zero exit status 2.
+[Wed Jun 25 13:27:43 2025]
+Error in rule tree:
+    message: None
+    jobid: 5
+    input: data/alignments/h3nx_pb1.fasta
+    output: results/trees_unrooted/h3nx_pb1.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_pb1.fasta             --output results/trees_unrooted/h3nx_pb1.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 31:
+Command 'set -euo pipefail;  
+        augur tree             --alignment data/alignments/h3nx_mp.fasta             --output results/trees_unrooted/h3nx_mp.nwk             --method iqtree             --nthreads 1' returned non-zero exit status 2.
+[Wed Jun 25 13:27:43 2025]
+Error in rule tree:
+    message: None
+    jobid: 15
+    input: data/alignments/h3nx_mp.fasta
+    output: results/trees_unrooted/h3nx_mp.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_mp.fasta             --output results/trees_unrooted/h3nx_mp.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look below for error messages
+[Wed Jun 25 13:27:44 2025]
+Error in rule tree:
+    message: None
+    jobid: 15
+    input: data/alignments/h3nx_mp.fasta
+    output: results/trees_unrooted/h3nx_mp.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_mp.fasta             --output results/trees_unrooted/h3nx_mp.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+[Wed Jun 25 13:27:44 2025]
+Error in rule tree:
+    message: None
+    jobid: 5
+    input: data/alignments/h3nx_pb1.fasta
+    output: results/trees_unrooted/h3nx_pb1.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_pb1.fasta             --output results/trees_unrooted/h3nx_pb1.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+[Wed Jun 25 13:27:44 2025]
+Error in rule tree:
+    message: None
+    jobid: 11
+    input: data/alignments/h3nx_pa.fasta
+    output: results/trees_unrooted/h3nx_pa.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_pa.fasta             --output results/trees_unrooted/h3nx_pa.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+[Wed Jun 25 13:27:44 2025]
+Error in rule tree:
+    message: None
+    jobid: 3
+    input: data/alignments/h3nx_pb2.fasta
+    output: results/trees_unrooted/h3nx_pb2.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_pb2.fasta             --output results/trees_unrooted/h3nx_pb2.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+[Wed Jun 25 13:27:44 2025]
+Error in rule tree:
+    message: None
+    jobid: 7
+    input: data/alignments/h3nx_na.fasta
+    output: results/trees_unrooted/h3nx_na.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_na.fasta             --output results/trees_unrooted/h3nx_na.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+[Wed Jun 25 13:27:44 2025]
+Error in rule tree:
+    message: None
+    jobid: 9
+    input: data/alignments/h3nx_np.fasta
+    output: results/trees_unrooted/h3nx_np.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_np.fasta             --output results/trees_unrooted/h3nx_np.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+[Wed Jun 25 13:27:44 2025]
+Error in rule tree:
+    message: None
+    jobid: 13
+    input: data/alignments/h3nx_ns.fasta
+    output: results/trees_unrooted/h3nx_ns.nwk
+    shell:
+        
+        augur tree             --alignment data/alignments/h3nx_ns.fasta             --output results/trees_unrooted/h3nx_ns.nwk             --method iqtree             --nthreads 1
+        
+        (command exited with non-zero exit code)
+Complete log(s): /Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/.snakemake/log/2025-06-25T132740.632394.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.

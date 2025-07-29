@@ -1,0 +1,7344 @@
+{
+  "annotations": {
+    "NA": {
+      "end": 1421,
+      "seqid": "config/references/h3nx_na.gb",
+      "start": 9,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 1435,
+      "seqid": "config/references/h3nx_na.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "27.0.0"
+  },
+  "nodes": {
+    "A/American_black_duck/Alberta/284/2016": {
+      "aa_muts": {
+        "NA": [
+          "I70V",
+          "I74V",
+          "M426T",
+          "K469T"
+        ]
+      }
+    },
+    "A/American_black_duck/Maine/UGAI16-5433/2016": {
+      "aa_muts": {
+        "NA": [
+          "D395X"
+        ]
+      }
+    },
+    "A/American_black_duck/New_Brunswick/00425/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/00454/2010": {
+      "aa_muts": {
+        "NA": [
+          "A253V"
+        ]
+      }
+    },
+    "A/American_black_duck/New_Brunswick/00484/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/00500/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/00525/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/00687/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/00953/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02491/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02496/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02502/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02525/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02549/2007": {
+      "aa_muts": {
+        "NA": [
+          "F113L"
+        ]
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02629/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02656/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/02749/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/03395/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/03398/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/03408/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/03495/2009": {
+      "aa_muts": {
+        "NA": [
+          "I59V",
+          "Q382H"
+        ]
+      }
+    },
+    "A/American_black_duck/New_Brunswick/03509/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/04484/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/New_Brunswick/19350/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X",
+          "I7X",
+          "I8X",
+          "T9X",
+          "I10X",
+          "G11X",
+          "S12X",
+          "V13X",
+          "S14X",
+          "L15X",
+          "G16X",
+          "L17X",
+          "V18X",
+          "V19X",
+          "L20X",
+          "N21X",
+          "I22X",
+          "L23X",
+          "L24X",
+          "H25X",
+          "I26X",
+          "V27X",
+          "S28X",
+          "I29X",
+          "T30X",
+          "I31X",
+          "T32X",
+          "V33X",
+          "L34X",
+          "V35X",
+          "L36X",
+          "P37X",
+          "G38X",
+          "N39X",
+          "G40X",
+          "N41X",
+          "N42X",
+          "G43X",
+          "N44X",
+          "C45X",
+          "N46X",
+          "E47X",
+          "T48X",
+          "V49X",
+          "I50X",
+          "R51X",
+          "E52X",
+          "Y53X",
+          "N54X",
+          "E55X",
+          "T56X",
+          "V57X",
+          "R58X",
+          "I59X",
+          "E60X",
+          "K61X",
+          "V62X",
+          "T63X",
+          "Q64X",
+          "W65X",
+          "H66X",
+          "N67X",
+          "T68X",
+          "N69X",
+          "V70X",
+          "I71X",
+          "E72X",
+          "Y73X",
+          "I74X",
+          "E75X",
+          "R76X",
+          "P77X",
+          "E78X",
+          "S79X",
+          "N80X",
+          "H81X",
+          "F82X",
+          "M83X",
+          "N84X",
+          "N85X",
+          "T86X",
+          "E87X",
+          "A88X",
+          "L89X",
+          "C90X",
+          "D91X",
+          "A92X",
+          "K93X",
+          "G94X",
+          "F95X",
+          "A96X",
+          "P97X",
+          "F98X",
+          "S99X",
+          "K100X",
+          "D101X",
+          "N102X",
+          "G103X",
+          "I104X",
+          "R105X",
+          "I106X",
+          "G107X",
+          "S108X",
+          "R109X",
+          "G110X",
+          "H111X",
+          "V112X",
+          "F113X",
+          "V114X",
+          "I115X",
+          "R116X",
+          "E117X",
+          "P118X",
+          "F119X",
+          "V120X",
+          "S121X",
+          "C122X",
+          "S123X",
+          "P124X",
+          "A125X",
+          "E126X",
+          "C127X",
+          "R128X",
+          "T129X",
+          "F130X",
+          "F131X",
+          "L132X",
+          "T133X",
+          "Q134X",
+          "G135X",
+          "S136X",
+          "L137X",
+          "L138X",
+          "N139X",
+          "D140X",
+          "K141X",
+          "H142X",
+          "S143X",
+          "N144X",
+          "G145X",
+          "T146X",
+          "V147X",
+          "K148X",
+          "D149X",
+          "R150X",
+          "S151X",
+          "P152X",
+          "Y153X",
+          "R154X",
+          "T155X",
+          "L156X",
+          "M157X",
+          "S158X",
+          "V159X",
+          "E160X",
+          "I161X",
+          "G162X",
+          "Q163X",
+          "S164X",
+          "P165X",
+          "N166X",
+          "V167X",
+          "Y168X",
+          "Q169X",
+          "A170X",
+          "R171X",
+          "F172X",
+          "E173X",
+          "A174X",
+          "V175X",
+          "A176X",
+          "W177X",
+          "S178X",
+          "A179X",
+          "T180X",
+          "A181X",
+          "C182X",
+          "H183X",
+          "D184X",
+          "G185X",
+          "K186X",
+          "K187X",
+          "W188X",
+          "M189X",
+          "T190X",
+          "I191X",
+          "G192X",
+          "V193X",
+          "T194X",
+          "G195X",
+          "P196X",
+          "D197X",
+          "A198X",
+          "K199X",
+          "A200X",
+          "V201X",
+          "A202X",
+          "V203X",
+          "V204X",
+          "H205X",
+          "Y206X",
+          "G207X",
+          "G208X",
+          "I209X",
+          "P210X",
+          "T211X",
+          "D212X",
+          "V213X",
+          "I214X",
+          "N215X",
+          "S216X",
+          "W217X",
+          "A218X",
+          "G219X",
+          "D220X",
+          "I221X",
+          "L222X",
+          "R223X",
+          "T224X",
+          "Q225X",
+          "E226X",
+          "S227X",
+          "S228X",
+          "C229X",
+          "T230X",
+          "C231X",
+          "I232X",
+          "Q233X",
+          "G234X",
+          "E235X",
+          "C236X",
+          "Y237X",
+          "W238X",
+          "V239X",
+          "M240X",
+          "T241X",
+          "D242X",
+          "G243X"
+        ]
+      }
+    },
+    "A/American_black_duck/Newfoundland/734/2008": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X",
+          "I7X",
+          "I8X",
+          "T9X",
+          "I10X",
+          "G11X",
+          "S12X",
+          "V13X",
+          "S14X",
+          "L15X",
+          "G16X",
+          "L17X",
+          "V18X",
+          "V19X",
+          "L20X",
+          "N21X",
+          "I22X",
+          "L23X",
+          "L24X",
+          "H25X",
+          "I26X",
+          "V27X",
+          "S28X",
+          "I29X",
+          "T30X",
+          "I31X",
+          "T32X",
+          "V33X",
+          "L34X",
+          "V35X",
+          "L36X",
+          "P37X",
+          "G38X",
+          "N39X",
+          "G40X",
+          "H41X",
+          "N42X",
+          "G43X",
+          "N44X",
+          "C45X",
+          "N46X",
+          "E47X",
+          "T48X",
+          "V49X",
+          "I50X",
+          "R51X",
+          "E52X",
+          "Y53X",
+          "N54X",
+          "E55X",
+          "T56X",
+          "V57X",
+          "R58X",
+          "V59X",
+          "E60X",
+          "K61X",
+          "I62X",
+          "T63X",
+          "Q64X",
+          "W65X",
+          "H66X",
+          "N67X",
+          "T68X",
+          "N69X",
+          "V70X",
+          "I71X",
+          "E72X",
+          "Y73X",
+          "I74X",
+          "E75X",
+          "R76X",
+          "P77X",
+          "E78X",
+          "S79X",
+          "D80X",
+          "H81X",
+          "F82X",
+          "M83X",
+          "N84X",
+          "N85X",
+          "T86X",
+          "E87X",
+          "P88X",
+          "L89X",
+          "C90X",
+          "D91X",
+          "A92X",
+          "K93X",
+          "G94X",
+          "F95X",
+          "A96X",
+          "P97X",
+          "F98X",
+          "S99X",
+          "K100X",
+          "D101X",
+          "N102X",
+          "G103X",
+          "I104X",
+          "R105X",
+          "I106X",
+          "G107X",
+          "S108X",
+          "R109X",
+          "G110X",
+          "H111X",
+          "V112X",
+          "F113X",
+          "V114X",
+          "I115X",
+          "R116X",
+          "E117X",
+          "P118X",
+          "F119X",
+          "V120X",
+          "S121X",
+          "C122X",
+          "S123X",
+          "P124X",
+          "T125X",
+          "E126X",
+          "C127X",
+          "R128X",
+          "T129X",
+          "F130X",
+          "F131X",
+          "L132X",
+          "T133X",
+          "Q134X",
+          "G135X",
+          "S136X",
+          "L137X",
+          "L138X",
+          "N139X",
+          "D140X",
+          "K141X",
+          "H142X",
+          "S143X",
+          "N144X",
+          "G145X",
+          "T146X",
+          "V147X",
+          "K148X",
+          "D149X",
+          "R150X",
+          "S151X",
+          "P152X",
+          "Y153X",
+          "R154X",
+          "T155X",
+          "L156X",
+          "M157X",
+          "S158X",
+          "V159X",
+          "E160X",
+          "I161X",
+          "G162X",
+          "Q163X",
+          "S164X",
+          "P165X",
+          "N166X",
+          "V167X",
+          "Y168X",
+          "Q169X",
+          "A170X",
+          "R171X",
+          "F172X",
+          "E173X",
+          "A174X",
+          "V175X",
+          "A176X",
+          "W177X",
+          "S178X",
+          "A179X",
+          "T180X",
+          "A181X",
+          "N298X",
+          "R299X",
+          "V444X",
+          "K469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/American_black_duck/Nova_Scotia/03273/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/Ohio/12OS5510/2012": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/Prince_Edward_Island/00672/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/Prince_Edward_Island/00788/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_black_duck/Prince_Edward_Island/14228/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X",
+          "I7X",
+          "I8X",
+          "T9X",
+          "I10X",
+          "G11X",
+          "N80D"
+        ]
+      }
+    },
+    "A/American_black_duck/Prince_Edward_Island/14230/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X",
+          "I7X",
+          "K141R"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Alaska/137886/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Alaska/44155-169/2006": {
+      "aa_muts": {
+        "NA": [
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Interior_Alaska/10BM05376R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Interior_Alaska/11BM03661/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Interior_Alaska/11BM03897/2011": {
+      "aa_muts": {
+        "NA": [
+          "I59V",
+          "I381V"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Interior_Alaska/11CH00044/2011": {
+      "aa_muts": {
+        "NA": [
+          "S77P"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Interior_Alaska/3/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Interior_Alaska/7MP1049/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Interior_Alaska/9BM6410R0/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Mississippi/15OS7984/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Missouri/15OS4838/2015": {
+      "aa_muts": {
+        "NA": [
+          "R76K",
+          "I115V"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Missouri/17OS3186/2017": {
+      "aa_muts": {
+        "NA": [
+          "S79G",
+          "G80S",
+          "N270S",
+          "V376I"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Ohio/13OS1844/2013": {
+      "aa_muts": {
+        "NA": [
+          "I26V",
+          "V193I"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Ohio/13OS1861/2013": {
+      "aa_muts": {
+        "NA": [
+          "V27A",
+          "G40V",
+          "E78G"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Ohio/13OS2106/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Ohio/13OS2108/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_green-winged_teal/Oregon/44336-124/2007": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X",
+          "N84E"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Wisconsin/08OS2270/2008": {
+      "aa_muts": {
+        "NA": [
+          "I26V",
+          "G43R",
+          "V303A",
+          "M339V"
+        ]
+      }
+    },
+    "A/American_green-winged_teal/Wisconsin/13OS3462/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_widgeon/Alaska/7MP1061/2007": {
+      "aa_muts": {
+        "NA": [
+          "N4I",
+          "V147I"
+        ]
+      }
+    },
+    "A/American_wigeon/Alberta/215/1992": {
+      "aa_muts": {
+        "NA": [
+          "I104V"
+        ]
+      }
+    },
+    "A/American_wigeon/New_Brunswick/04487/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_wigeon/New_Brunswick/04488/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_wigeon/New_Brunswick/04490/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_wigeon/New_Brunswick/04494/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_wigeon/New_Brunswick/04497/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/American_wigeon/Ohio/16OS3665/2016": {
+      "aa_muts": {
+        "NA": [
+          "T63A",
+          "K434R"
+        ]
+      }
+    },
+    "A/Blue-Winged_Teal/Alberta/1/2020": {
+      "aa_muts": {
+        "NA": [
+          "D39G",
+          "K93R",
+          "V394I"
+        ]
+      }
+    },
+    "A/Blue-winged_Teal/Missouri/17OS3072/2017": {
+      "aa_muts": {
+        "NA": [
+          "R76K",
+          "E126G",
+          "T336N"
+        ]
+      }
+    },
+    "A/Blue-winged_Teal/Ohio/18OS1705/2018": {
+      "aa_muts": {
+        "NA": [
+          "V92A"
+        ]
+      }
+    },
+    "A/Green-Winged_Teal/Alberta/395/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/100/2023": {
+      "aa_muts": {
+        "NA": [
+          "V265G"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/101/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/108/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/109/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/113/2023": {
+      "aa_muts": {
+        "NA": [
+          "I74L",
+          "E126G"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/166/2022": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "D91N",
+          "R171K"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/237/2021": {
+      "aa_muts": {
+        "NA": [
+          "V35I"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/253/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/306/2023": {
+      "aa_muts": {
+        "NA": [
+          "Y53H"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/337/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/355/2022": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/361/2022": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/362/2022": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/371/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/377/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/379/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/418/2023": {
+      "aa_muts": {
+        "NA": [
+          "K414E"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/478/2023": {
+      "aa_muts": {
+        "NA": [
+          "D449G"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/481/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/482/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/483/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/497/2023": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "S79N",
+          "D449N"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/509/2023": {
+      "aa_muts": {
+        "NA": [
+          "V381I"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/56/2022": {
+      "aa_muts": {
+        "NA": [
+          "I20T"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/598/2023": {
+      "aa_muts": {
+        "NA": [
+          "A170T"
+        ]
+      }
+    },
+    "A/Mallard/Alberta/83/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/95/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/96/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/98/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Alberta/99/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Nevada/D1511740/2015": {
+      "aa_muts": {
+        "NA": [
+          "N46S"
+        ]
+      }
+    },
+    "A/Mallard/Ohio/17OS1696/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1716/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1781/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1918/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1919/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1921/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1925/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1929/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1936/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/17OS1939/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard/Ohio/18OS1219/2018": {
+      "aa_muts": {
+        "NA": [
+          "V57I",
+          "K434R"
+        ]
+      }
+    },
+    "A/Mallard/Ohio/18OS4675/2018": {
+      "aa_muts": {
+        "NA": [
+          "S268N"
+        ]
+      }
+    },
+    "A/Mallard_duck/Alberta/147/2019": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard_duck/Alberta/319/2019": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard_duck/Alberta/331/2019": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard_duck/Alberta/339/2019": {
+      "aa_muts": {
+        "NA": [
+          "I209V"
+        ]
+      }
+    },
+    "A/Mallard_duck/Alberta/343/2019": {
+      "aa_muts": {
+        "NA": [
+          "Y53C"
+        ]
+      }
+    },
+    "A/Mallard_duck/Alberta/347/2019": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/Mallard_duck/Alberta/471/2019": {
+      "aa_muts": {
+        "NA": [
+          "V31I",
+          "Q81K"
+        ]
+      }
+    },
+    "A/Ruddy_Turnstone/Delaware/141/2021": {
+      "aa_muts": {
+        "NA": [
+          "V49I",
+          "K199Q"
+        ]
+      }
+    },
+    "A/Ruddy_Turnstone/Delaware/260/2021": {
+      "aa_muts": {
+        "NA": [
+          "N41S",
+          "L138I"
+        ]
+      }
+    },
+    "A/black_scoter/New_Brunswick/00002/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_Teal/Alberta/459/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/ALB/569/1985": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/11646/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/130/1987": {
+      "aa_muts": {
+        "NA": [
+          "K257R"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Alberta/221/1978": {
+      "aa_muts": {
+        "NA": [
+          "T265A",
+          "S329G"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Alberta/222/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/266/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/3/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/366/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/4/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/456/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/458/2017": {
+      "aa_muts": {
+        "NA": [
+          "V31I",
+          "A265T",
+          "V373I",
+          "R377K",
+          "K389R"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Alberta/459/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/465/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/467/2023": {
+      "aa_muts": {
+        "NA": [
+          "G271R"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Alberta/469/2023": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Alberta/90/2017": {
+      "aa_muts": {
+        "NA": [
+          "I71V"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Canada/3233/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Canada/3244/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Canada/3264/2011": {
+      "aa_muts": {
+        "NA": [
+          "D80G"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Canada/3285/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Canada/3286/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Canada/3287/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Canada/3288/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Canada/3289/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Guatemala/CIP049-05/2010": {
+      "aa_muts": {
+        "NA": [
+          "V35I",
+          "V201I",
+          "R247K",
+          "Q382H",
+          "R415K"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Guatemala/CIP049-I_H116-16/2013": {
+      "aa_muts": {
+        "NA": [
+          "V262I"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Guatemala/CIP049H101-24/2011": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X",
+          "I7X",
+          "I8X",
+          "T9X",
+          "V13M",
+          "H25P",
+          "I304V"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Guatemala/CIP049H109-38/2012": {
+      "aa_muts": {
+        "NA": [
+          "V62I",
+          "S79N",
+          "T125I",
+          "F254Y",
+          "E266D"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Illinois/12OS2929/2012": {
+      "aa_muts": {
+        "NA": [
+          "V10I",
+          "L20I",
+          "I59V",
+          "V381I"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Illinois/12OS2986/2012": {
+      "aa_muts": {
+        "NA": [
+          "D466X",
+          "I467X",
+          "D468X",
+          "K469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Illinois/16OS1724/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Illinois/17OS2629/2017": {
+      "aa_muts": {
+        "NA": [
+          "P37S",
+          "V70I"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Iowa/13OS2340/2013": {
+      "aa_muts": {
+        "NA": [
+          "V33L",
+          "M359V",
+          "I373V"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Iowa/13OS2345/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Iowa/13OS2346/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Kansas/ND0006685/2013": {
+      "aa_muts": {
+        "NA": [
+          "Y237F"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Louisiana/AH054274/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Louisiana/AI13-3483/2013": {
+      "aa_muts": {
+        "NA": [
+          "S77P",
+          "T297A",
+          "V381I",
+          "I388V"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Louisiana/Sg-00218/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Manitoba/13436/2005": {
+      "aa_muts": {
+        "NA": [
+          "G263R"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Minnesota/Sg-00787/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Mississippi/23-028162-001/2023": {
+      "aa_muts": {
+        "NA": [
+          "I59V",
+          "D80E",
+          "T366A"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Missouri/15OS4826/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Missouri/15OS4859/2015": {
+      "aa_muts": {
+        "NA": [
+          "V312I"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Missouri/17OS3219/2017": {
+      "aa_muts": {
+        "NA": [
+          "E40D"
+        ]
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00283/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00285/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00291/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00766/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00767/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00768/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00771/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00774/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/New_Brunswick/00775/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/North_Dakota/Sg-00740/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Nova_Scotia/00071/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Nova_Scotia/00072/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Nova_Scotia/00077/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Nova_Scotia/00079/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Nova_Scotia/00081/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Nova_Scotia/01027/2010": {
+      "aa_muts": {
+        "NA": [
+          "S79N",
+          "H81Y",
+          "K260R"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Nova_Scotia/03971/2009": {
+      "aa_muts": {
+        "NA": [
+          "V19I",
+          "P37T"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Ohio/13OS2018/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Ohio/13OS3827/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Ohio/15OS5135/2015": {
+      "aa_muts": {
+        "NA": [
+          "D39N",
+          "V265I"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Ohio/17OS2004/2017": {
+      "aa_muts": {
+        "NA": [
+          "V18A",
+          "I31T",
+          "V35F",
+          "V59I",
+          "T336N",
+          "H450Y"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Ohio/17OS2907/2017": {
+      "aa_muts": {
+        "NA": [
+          "V35I",
+          "T332M"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Ohio/17OS2925/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Ohio/1858/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Ohio/1864/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Ohio/926/2002": {
+      "aa_muts": {
+        "NA": [
+          "N341S"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Prince_Edward_Island/03912/2009": {
+      "aa_muts": {
+        "NA": [
+          "K61R"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Prince_Edward_Island/03927/2009": {
+      "aa_muts": {
+        "NA": [
+          "T30A",
+          "I261V",
+          "I388T"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Saskatchewan/75/1982": {
+      "aa_muts": {
+        "NA": [
+          "V35I",
+          "N42S",
+          "S44N",
+          "V49I",
+          "R51K",
+          "K389Q",
+          "V392I"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Texas/AI10-3317/2010": {
+      "aa_muts": {
+        "NA": [
+          "V213A"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Texas/AI10-4179/2010": {
+      "aa_muts": {
+        "NA": [
+          "V35F",
+          "I104V"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Texas/AI11-3220/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI11-3407/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI11-3764/2011": {
+      "aa_muts": {
+        "NA": [
+          "I20V",
+          "V35I",
+          "N41S",
+          "V393I",
+          "K414R",
+          "D416G"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Texas/AI11-3766/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI11-4014/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI12-3655/2012": {
+      "aa_muts": {
+        "NA": [
+          "Q81H",
+          "D91N"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Texas/AI12-4394/2012": {
+      "aa_muts": {
+        "NA": [
+          "E47G"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Texas/AI13-3629/2013": {
+      "aa_muts": {
+        "NA": [
+          "V49I"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Texas/AI13-3636/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI13-3971/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI13-4012/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI13-4087/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/AI13-4289/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/Sg-00078/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/UGAI15-5684/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/blue-winged_teal/Texas/UGAI18-1914/2018": {
+      "aa_muts": {
+        "NA": [
+          "T63A",
+          "I161T"
+        ]
+      }
+    },
+    "A/blue-winged_teal/Wisconsin/124/1980": {
+      "aa_muts": {
+        "NA": [
+          "P37S",
+          "G38E",
+          "S44C",
+          "P77S",
+          "R252K",
+          "K434R"
+        ]
+      }
+    },
+    "A/bufflehead/Alberta/400/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/cinnamon_teal/Idaho/UGAI16-1864/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/cinnamon_teal/Idaho/UGAI16-1905/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/cinnamon_teal/Idaho/UGAI16-1907/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/cinnamon_teal/Utah/AH0166335/2021": {
+      "aa_muts": {
+        "NA": [
+          "S79G"
+        ]
+      }
+    },
+    "A/duck/Alaska/429/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/duck/Alberta/16/1976": {
+      "aa_muts": {
+        "NA": [
+          "V301I"
+        ]
+      }
+    },
+    "A/gadwall/Ohio/12OS2222/2012": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/glaucous_gull/Alaska/44201-161/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4S",
+          "H81R",
+          "I373V",
+          "V392I"
+        ]
+      }
+    },
+    "A/greater_white-fronted_goose/Alaska/44299-055/2007": {
+      "aa_muts": {
+        "NA": [
+          "N41K",
+          "K199Q",
+          "M359I"
+        ]
+      }
+    },
+    "A/green-winged_teal/ALB/438/1979": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Idaho/UGAI16-1900/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Interior_Alaska/6MP0736/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Louisiana/Sg-00092/2007": {
+      "aa_muts": {
+        "NA": [
+          "M83L",
+          "K141R"
+        ]
+      }
+    },
+    "A/green-winged_teal/Minnesota/Sg-00991/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/New_Brunswick/02595/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/New_Brunswick/02596/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/New_Brunswick/03483/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Ohio/1289/2005": {
+      "aa_muts": {
+        "NA": [
+          "V13I"
+        ]
+      }
+    },
+    "A/green-winged_teal/Ohio/466/1987": {
+      "aa_muts": {
+        "NA": [
+          "V193I"
+        ]
+      }
+    },
+    "A/green-winged_teal/Ohio/960/2002": {
+      "aa_muts": {
+        "NA": [
+          "T63I",
+          "S79G",
+          "V213I",
+          "I261V",
+          "L302V",
+          "N341S",
+          "K390R"
+        ]
+      }
+    },
+    "A/green-winged_teal/Prince_Edward_Island/00839/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Prince_Edward_Island/00840/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Prince_Edward_Island/00841/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Wisconsin/282/1978": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/green-winged_teal/Wisconsin/496/1983": {
+      "aa_muts": {
+        "NA": [
+          "N270S",
+          "S337N"
+        ]
+      }
+    },
+    "A/hooded_merganser/New_Brunswick/03749/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/laughing_gull/Delaware_Bay/409/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/laughing_gull/New_Jersey/UGAI17-2848/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/laughing_gull/New_Jersey/UGAI17-2964/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/lesser_scaup/Alberta/206/1995": {
+      "aa_muts": {
+        "NA": [
+          "V13M",
+          "I443V"
+        ]
+      }
+    },
+    "A/long-tailed_duck/Wisconsin/11OS4248/2011": {
+      "aa_muts": {
+        "NA": [
+          "V27I",
+          "P37S",
+          "R377K"
+        ]
+      }
+    },
+    "A/longtail_duck/Maryland/291/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard-black_duck_hybrid/New_Brunswick/02642/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alaska/256/2005": {
+      "aa_muts": {
+        "NA": [
+          "V59I"
+        ]
+      }
+    },
+    "A/mallard/Alaska/44244-050/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "V19I",
+          "K148X",
+          "G343X"
+        ]
+      }
+    },
+    "A/mallard/Alaska/AH0185290/2021": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/107/2007": {
+      "aa_muts": {
+        "NA": [
+          "I26V"
+        ]
+      }
+    },
+    "A/mallard/Alberta/109/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/114/1997": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/115/1991": {
+      "aa_muts": {
+        "NA": [
+          "H66R"
+        ]
+      }
+    },
+    "A/mallard/Alberta/11527/2005": {
+      "aa_muts": {
+        "NA": [
+          "A88V",
+          "I209V"
+        ]
+      }
+    },
+    "A/mallard/Alberta/116/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/117/1997": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/117/97": {
+      "aa_muts": {
+        "NA": [
+          "I467F",
+          "M470I",
+          "*471-"
+        ]
+      }
+    },
+    "A/mallard/Alberta/122/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/127/00": {
+      "aa_muts": {
+        "NA": [
+          "V49I",
+          "V201I"
+        ]
+      }
+    },
+    "A/mallard/Alberta/130/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/134/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/137/2007": {
+      "aa_muts": {
+        "NA": [
+          "S44N",
+          "A256S"
+        ]
+      }
+    },
+    "A/mallard/Alberta/140/1987": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/156/2001": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/16/1987": {
+      "aa_muts": {
+        "NA": [
+          "T125I",
+          "K257R",
+          "R390K"
+        ]
+      }
+    },
+    "A/mallard/Alberta/160/2001": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/167/1998": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/169/1998": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/182/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/192/1993": {
+      "aa_muts": {
+        "NA": [
+          "N41D",
+          "K199Q"
+        ]
+      }
+    },
+    "A/mallard/Alberta/193/1994": {
+      "aa_muts": {
+        "NA": [
+          "T30A"
+        ]
+      }
+    },
+    "A/mallard/Alberta/20/1989": {
+      "aa_muts": {
+        "NA": [
+          "G40R",
+          "E47G"
+        ]
+      }
+    },
+    "A/mallard/Alberta/212/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/214/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/219/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/220/1990": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/225/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/228/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/230/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/238/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/241/2004": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/242/1998": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/242/98": {
+      "aa_muts": {
+        "NA": [
+          "W455X",
+          "S456X",
+          "W457X",
+          "H458X",
+          "D459X",
+          "G460X",
+          "A461X",
+          "I462X",
+          "L463X",
+          "P464X",
+          "F465X",
+          "D466X",
+          "I467X",
+          "D468X",
+          "K469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/mallard/Alberta/246/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/274/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/279/2006": {
+      "aa_muts": {
+        "NA": [
+          "I26V",
+          "V31I",
+          "I261V"
+        ]
+      }
+    },
+    "A/mallard/Alberta/279/98": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/28/2007": {
+      "aa_muts": {
+        "NA": [
+          "V27I"
+        ]
+      }
+    },
+    "A/mallard/Alberta/292/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/30/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/31/1994": {
+      "aa_muts": {
+        "NA": [
+          "T30A",
+          "V49F"
+        ]
+      }
+    },
+    "A/mallard/Alberta/312/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/32/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/362/2017": {
+      "aa_muts": {
+        "NA": [
+          "V31I"
+        ]
+      }
+    },
+    "A/mallard/Alberta/363/2018": {
+      "aa_muts": {
+        "NA": [
+          "D39N",
+          "V57I",
+          "I74V",
+          "D91E",
+          "Q258K"
+        ]
+      }
+    },
+    "A/mallard/Alberta/378/1988": {
+      "aa_muts": {
+        "NA": [
+          "N341S",
+          "V376I"
+        ]
+      }
+    },
+    "A/mallard/Alberta/40/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/482/2017": {
+      "aa_muts": {
+        "NA": [
+          "K6T"
+        ]
+      }
+    },
+    "A/mallard/Alberta/507/2008": {
+      "aa_muts": {
+        "NA": [
+          "L36F",
+          "I161V",
+          "V201I"
+        ]
+      }
+    },
+    "A/mallard/Alberta/515/2015": {
+      "aa_muts": {
+        "NA": [
+          "I10V",
+          "E160K",
+          "I261V",
+          "V381I"
+        ]
+      }
+    },
+    "A/mallard/Alberta/53/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/54/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/551/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/595/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/60/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/61/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/62/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/64/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/72/1993": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/772/1986": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Alberta/782/1986": {
+      "aa_muts": {
+        "NA": [
+          "H81R"
+        ]
+      }
+    },
+    "A/mallard/Alberta/81/2017": {
+      "aa_muts": {
+        "NA": [
+          "I8T",
+          "L463X",
+          "P464X",
+          "F465X",
+          "D466X",
+          "I467X",
+          "D468X",
+          "E469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/mallard/Alberta/85/1994": {
+      "aa_muts": {
+        "NA": [
+          "K6R",
+          "L20F",
+          "N270D"
+        ]
+      }
+    },
+    "A/mallard/British_Columbia/07569/2005": {
+      "aa_muts": {
+        "NA": [
+          "I31M",
+          "S44N",
+          "A88S",
+          "N270T",
+          "M359I",
+          "V392I",
+          "E411G"
+        ]
+      }
+    },
+    "A/mallard/British_Columbia/07706/2005": {
+      "aa_muts": {
+        "NA": [
+          "T32M",
+          "A245S",
+          "N246S"
+        ]
+      }
+    },
+    "A/mallard/California/2521P/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/2547V/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/2550P/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/2568P/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/2569V/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/2578P/2011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/2744/2012": {
+      "aa_muts": {
+        "NA": [
+          "I443V"
+        ]
+      }
+    },
+    "A/mallard/California/2752/2012": {
+      "aa_muts": {
+        "NA": [
+          "V265I"
+        ]
+      }
+    },
+    "A/mallard/California/2783/2012": {
+      "aa_muts": {
+        "NA": [
+          "D466N"
+        ]
+      }
+    },
+    "A/mallard/California/2823/2012": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/2904/2012": {
+      "aa_muts": {
+        "NA": [
+          "D80G"
+        ]
+      }
+    },
+    "A/mallard/California/2924/2012": {
+      "aa_muts": {
+        "NA": [
+          "Q81R"
+        ]
+      }
+    },
+    "A/mallard/California/3036/2012": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/3072/2012": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/3304/2012": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/6471/2008": {
+      "aa_muts": {
+        "NA": [
+          "V35I",
+          "N41D",
+          "I262V"
+        ]
+      }
+    },
+    "A/mallard/California/M11t72maH3/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/M15t72maH3/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/SL01B72maH3/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/SL06B72maH3/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/UCD101475mdck/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/California/UCD1322/2017": {
+      "aa_muts": {
+        "NA": [
+          "R51M",
+          "M189L"
+        ]
+      }
+    },
+    "A/mallard/California/UCD1357/2017": {
+      "aa_muts": {
+        "NA": [
+          "G38E",
+          "K199R",
+          "K375R"
+        ]
+      }
+    },
+    "A/mallard/California/UCD840/2015": {
+      "aa_muts": {
+        "NA": [
+          "S268N"
+        ]
+      }
+    },
+    "A/mallard/California/UCD880/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Idaho/AH0011459/2015": {
+      "aa_muts": {
+        "NA": [
+          "T190A"
+        ]
+      }
+    },
+    "A/mallard/Idaho/ND0002644/2013": {
+      "aa_muts": {
+        "NA": [
+          "N69S",
+          "H450Y"
+        ]
+      }
+    },
+    "A/mallard/Idaho/UGAI16-1929/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Idaho/UGAI16-1930/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Idaho/UGAI16-1942/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Idaho/UGAI16-1943/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Idaho/UGAI16-1948/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Illinois/11OS5570/2011": {
+      "aa_muts": {
+        "NA": [
+          "V394I"
+        ]
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM05900R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM09158R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM09159R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM09561R0/2010": {
+      "aa_muts": {
+        "NA": [
+          "N396D"
+        ]
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM11414R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM11415R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM11416R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM11420R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM12049R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM12350R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM12352R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM12362R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/10BM12370R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/11BM02923/2011": {
+      "aa_muts": {
+        "NA": [
+          "E160G",
+          "A198T",
+          "K199N",
+          "M339I",
+          "K469G"
+        ]
+      }
+    },
+    "A/mallard/Interior_Alaska/6MP0878/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/6MP0951/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/7MP1094/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/7MP1835/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/8BM2312/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/8BM3586/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Interior_Alaska/9BM11382R0/2009": {
+      "aa_muts": {
+        "NA": [
+          "G145S"
+        ]
+      }
+    },
+    "A/mallard/Interior_Alaska/9BM12326R0/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Iowa/10OS2426/2010": {
+      "aa_muts": {
+        "NA": [
+          "I26V",
+          "E78K",
+          "G263R",
+          "M359V"
+        ]
+      }
+    },
+    "A/mallard/Maine/AH0190539/2021": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maine/AH0190543/2021": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maine/ME-Y17-166/2017": {
+      "aa_muts": {
+        "NA": [
+          "T63I"
+        ]
+      }
+    },
+    "A/mallard/Maine/UGAI15-7648/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maine/UGAI15-7667/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maine/UGAI15-7670/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maine/UGAI16-5406/2016": {
+      "aa_muts": {
+        "NA": [
+          "E60X",
+          "R76X",
+          "D80G"
+        ]
+      }
+    },
+    "A/mallard/Maryland/05OS1403/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maryland/05OS1508/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maryland/05OS622/2005": {
+      "aa_muts": {
+        "NA": [
+          "V49I"
+        ]
+      }
+    },
+    "A/mallard/Maryland/09OS1400/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maryland/09OS1403/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Maryland/1127/2005": {
+      "aa_muts": {
+        "NA": [
+          "E266K",
+          "K375R"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/190/1999": {
+      "aa_muts": {
+        "NA": [
+          "T190I"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/199106/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/283/1999": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "R76K",
+          "K93N"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/354/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/AI09-2434/2009": {
+      "aa_muts": {
+        "NA": [
+          "V392I"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/MN18-WB1-065A/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/MN18-WB1-087A/2018": {
+      "aa_muts": {
+        "NA": [
+          "I265V"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/MN18-WB1-095A/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/MN18-WB1-103A/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/MN18-WB1-105A/2018": {
+      "aa_muts": {
+        "NA": [
+          "V419I"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/MN18-WB2-162A/2018": {
+      "aa_muts": {
+        "NA": [
+          "N270S"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/MN18-WB2-204A/2018": {
+      "aa_muts": {
+        "NA": [
+          "Q387R"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/Sg-00051/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-00061/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-00589/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-00590/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-00605/2008": {
+      "aa_muts": {
+        "NA": [
+          "T32A"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/Sg-00672/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-00674/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-00804/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-00831/2008": {
+      "aa_muts": {
+        "NA": [
+          "K257R",
+          "R311K"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/Sg-00868/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Minnesota/Sg-01035/2008": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "K430R"
+        ]
+      }
+    },
+    "A/mallard/Minnesota/UGAI15-7137/2015": {
+      "aa_muts": {
+        "NA": [
+          "P77T"
+        ]
+      }
+    },
+    "A/mallard/New_Brunswick/00341/2010": {
+      "aa_muts": {
+        "NA": [
+          "K148E"
+        ]
+      }
+    },
+    "A/mallard/New_Brunswick/00495/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/New_Brunswick/02747/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/New_Brunswick/03396/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/New_Brunswick/03397/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/New_Brunswick/03482/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/New_Brunswick/04482/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/New_Brunswick/04485/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/New_Jersey/AH0005870/2014": {
+      "aa_muts": {
+        "NA": [
+          "V303I"
+        ]
+      }
+    },
+    "A/mallard/New_Jersey/AH0005885/2014": {
+      "aa_muts": {
+        "NA": [
+          "I304V"
+        ]
+      }
+    },
+    "A/mallard/New_Jersey/Sg-00892/2008": {
+      "aa_muts": {
+        "NA": [
+          "I26M",
+          "L319I"
+        ]
+      }
+    },
+    "A/mallard/New_York/AH0179439/2021": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "I59V",
+          "S77P",
+          "E160G",
+          "M189T",
+          "I388V",
+          "K434R"
+        ]
+      }
+    },
+    "A/mallard/North_Dakota/AH0050030/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Nova_Scotia/03271/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Nova_Scotia/14728/2005": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X"
+        ]
+      }
+    },
+    "A/mallard/Ohio/11OS1992/2011": {
+      "aa_muts": {
+        "NA": [
+          "N215D",
+          "T336N"
+        ]
+      }
+    },
+    "A/mallard/Ohio/14OS0985/2014": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Ohio/15OS3603/2015": {
+      "aa_muts": {
+        "NA": [
+          "K199R",
+          "I267V"
+        ]
+      }
+    },
+    "A/mallard/Ohio/15OS4201/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Ohio/15OS4229/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Ohio/17OS1739/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Ohio/17OS1816/2017": {
+      "aa_muts": {
+        "NA": [
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/mallard/Ohio/17OS1973/2017": {
+      "aa_muts": {
+        "NA": [
+          "D39G"
+        ]
+      }
+    },
+    "A/mallard/Ohio/1801/2005": {
+      "aa_muts": {
+        "NA": [
+          "K434R"
+        ]
+      }
+    },
+    "A/mallard/Ohio/264/1986": {
+      "aa_muts": {
+        "NA": [
+          "V33M",
+          "R76K",
+          "V303I",
+          "K375R",
+          "E411K",
+          "N416D"
+        ]
+      }
+    },
+    "A/mallard/Ohio/649/2002": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Ohio/651/2002": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Ohio/654/2002": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Quebec/11082/2006": {
+      "aa_muts": {
+        "NA": [
+          "V57I",
+          "S79N"
+        ]
+      }
+    },
+    "A/mallard/Saskatchewan/14/1982": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Vermont/AH0188131/2021": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "T32M",
+          "I262T",
+          "T435A"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/10OS2909/2010": {
+      "aa_muts": {
+        "NA": [
+          "T68I",
+          "S329N",
+          "T336I"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/11OS4383/2011": {
+      "aa_muts": {
+        "NA": [
+          "V114I"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/12OS4331/2012": {
+      "aa_muts": {
+        "NA": [
+          "S44G",
+          "N69S",
+          "S79N",
+          "T336A"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/13OS2767/2013": {
+      "aa_muts": {
+        "NA": [
+          "L17F",
+          "M359V"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/144/1979": {
+      "aa_muts": {
+        "NA": [
+          "C45W",
+          "E47G"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/1636/1983": {
+      "aa_muts": {
+        "NA": [
+          "G40E",
+          "S337N"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/168/1979": {
+      "aa_muts": {
+        "NA": [
+          "A170T"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/2083/1984": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/2084/1984": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/2087/1984": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/2090/1984": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/2117/1984": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/213/1979": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/2211/1984": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/2221/1984": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/283/1976": {
+      "aa_muts": {
+        "NA": [
+          "E47K",
+          "K199E",
+          "K257R",
+          "K260R"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/29/1979": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/31/1979": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/409/1981": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/415/1981": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/420/1981": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/421/1981": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/471/1976": {
+      "aa_muts": {
+        "NA": [
+          "N42D",
+          "A198T"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/483/1983": {
+      "aa_muts": {
+        "NA": [
+          "M339V"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/487/1981": {
+      "aa_muts": {
+        "NA": [
+          "K186R"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/603/1983": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/72/1979": {
+      "aa_muts": {
+        "NA": [
+          "M426T"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/827/1982": {
+      "aa_muts": {
+        "NA": [
+          "S268G"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/834/1982": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/847/1982": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/865/1982": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard/Wisconsin/890/1982": {
+      "aa_muts": {
+        "NA": [
+          "V301I"
+        ]
+      }
+    },
+    "A/mallard/Wisconsin/908/1982": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard_duck/ALB/525/1985": {
+      "aa_muts": {
+        "NA": [
+          "V13L",
+          "D220N",
+          "S268N"
+        ]
+      }
+    },
+    "A/mallard_duck/ALB/564/1979": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard_duck/California/UCD558/2016": {
+      "aa_muts": {
+        "NA": [
+          "G38E",
+          "N41D",
+          "S44N",
+          "V265I"
+        ]
+      }
+    },
+    "A/mallard_duck/Ohio/16OS0843/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard_duck/Ohio/16OS0859/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/mallard_duck/Ohio/16OS0862/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Alaska/44184-003/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X"
+        ]
+      }
+    },
+    "A/northern_pintail/Alaska/44202-126/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "K61R"
+        ]
+      }
+    },
+    "A/northern_pintail/Alaska/44340-347/2007": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "V201M",
+          "A265T",
+          "V381I",
+          "S456X",
+          "W457X",
+          "H458X",
+          "D459X",
+          "G460X",
+          "A461X",
+          "I462X",
+          "L463X",
+          "P464X",
+          "F465X",
+          "D466X",
+          "I467X",
+          "D468X",
+          "K469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/northern_pintail/Alaska/44344-506/2007": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "S329G",
+          "S456X",
+          "W457X",
+          "H458X",
+          "D459X",
+          "G460X",
+          "A461X",
+          "I462X",
+          "L463X",
+          "P464X",
+          "F465X",
+          "D466X",
+          "I467X",
+          "D468X",
+          "K469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/northern_pintail/Alaska/7MP0508/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Alaska/911/2013": {
+      "aa_muts": {
+        "NA": [
+          "V33M",
+          "S44G",
+          "V49I",
+          "I50V",
+          "V57I",
+          "T63I"
+        ]
+      }
+    },
+    "A/northern_pintail/Alaska/AH0185297/2021": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Alaska/UGAI15-7320/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Alberta/11701/2005": {
+      "aa_muts": {
+        "NA": [
+          "I71V"
+        ]
+      }
+    },
+    "A/northern_pintail/Alberta/8/2009": {
+      "aa_muts": {
+        "NA": [
+          "H450Y"
+        ]
+      }
+    },
+    "A/northern_pintail/California/44221-794/2006": {
+      "aa_muts": {
+        "NA": [
+          "M1X",
+          "N2X",
+          "P3X",
+          "N4X",
+          "Q5X",
+          "K6X",
+          "I7X",
+          "I8X",
+          "S456X",
+          "W457X",
+          "H458X",
+          "D459X",
+          "G460X",
+          "A461X",
+          "I462X",
+          "L463X",
+          "P464X",
+          "F465X",
+          "D466X",
+          "I467X",
+          "D468X",
+          "K469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/10BM00303R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/10BM08488R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/10BM09105R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/10BM12163R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/10BM12552R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/6MP0964/2006": {
+      "aa_muts": {
+        "NA": [
+          "G80D",
+          "Q342H"
+        ]
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/6MP1080R1/2006": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/7MP0509/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/7MP1822/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/8BM2528R1/2008": {
+      "aa_muts": {
+        "NA": [
+          "R311T",
+          "N383T"
+        ]
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/8BM3696/2008": {
+      "aa_muts": {
+        "NA": [
+          "I10V",
+          "I13V",
+          "S44N",
+          "E47K",
+          "V59I",
+          "G80D",
+          "F237Y"
+        ]
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/8BM3700/2008": {
+      "aa_muts": {
+        "NA": [
+          "E47K"
+        ]
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/9BM11487R0/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/9BM11789R0/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/9BM12647R0/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/9BM12700R0/2009": {
+      "aa_muts": {
+        "NA": [
+          "G40R",
+          "T211I"
+        ]
+      }
+    },
+    "A/northern_pintail/Interior_Alaska/9BM6145R0/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/New_Brunswick/03547/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_pintail/Oregon/44249-559/2006": {
+      "aa_muts": {
+        "NA": [
+          "V10I",
+          "R76K",
+          "S268I",
+          "I388V"
+        ]
+      }
+    },
+    "A/northern_shoveler/Alaska/UGAI15-7320/2015": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Interior_Alaska/10BM05491R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Interior_Alaska/10BM05649R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Interior_Alaska/2/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Interior_Alaska/4/2007": {
+      "aa_muts": {
+        "NA": [
+          "D466N"
+        ]
+      }
+    },
+    "A/northern_shoveler/Interior_Alaska/7MP1765/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Interior_Alaska/7MP1766/2007": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Interior_Alaska/9BM12298R0/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Minnesota/Sg-00645/2008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/northern_shoveler/Ohio/35/1986": {
+      "aa_muts": {
+        "NA": [
+          "V49I"
+        ]
+      }
+    },
+    "A/northern_shoveler/Ohio/454/1987": {
+      "aa_muts": {
+        "NA": [
+          "N2D"
+        ]
+      }
+    },
+    "A/pintail/Alaska/211/2005": {
+      "aa_muts": {
+        "NA": [
+          "K141R",
+          "P306S"
+        ]
+      }
+    },
+    "A/pintail/Alaska/279/2005": {
+      "aa_muts": {
+        "NA": [
+          "I262T",
+          "S337G"
+        ]
+      }
+    },
+    "A/pintail/Alaska/315/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/pintail/Alaska/49/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/pintail/Alaska/779/2005": {
+      "aa_muts": {
+        "NA": [
+          "K389R"
+        ]
+      }
+    },
+    "A/pintail/Alberta/105/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/pintail/Alberta/114/1995": {
+      "aa_muts": {
+        "NA": [
+          "S305F"
+        ]
+      }
+    },
+    "A/pintail/Alberta/118/1991": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/pintail/Alberta/128/1987": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/pintail/Alberta/156/97": {
+      "aa_muts": {
+        "NA": [
+          "G43E",
+          "T180A",
+          "A253V",
+          "D466A",
+          "I467X",
+          "D468X",
+          "K469X",
+          "M470X",
+          "*471X"
+        ]
+      }
+    },
+    "A/pintail/Alberta/232/1992": {
+      "aa_muts": {
+        "NA": [
+          "N41S",
+          "L397S"
+        ]
+      }
+    },
+    "A/pintail/Alberta/37/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/pintail/Alberta/37/99": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/pintail/Alberta/81/1991": {
+      "aa_muts": {
+        "NA": [
+          "I22T",
+          "N42S",
+          "A253V"
+        ]
+      }
+    },
+    "A/pintail/Barrow/155/2005": {
+      "aa_muts": {
+        "NA": [
+          "V35I",
+          "S268N",
+          "E275X"
+        ]
+      }
+    },
+    "A/pintail/Ohio/339/1987": {
+      "aa_muts": {
+        "NA": [
+          "G38R",
+          "K61R",
+          "L319F"
+        ]
+      }
+    },
+    "A/pintail/Ohio/454/1987": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/red_knot/Delaware_Bay/218/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/red_knot/Delaware_Bay/236/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/redhead/Ohio/13OS363/2013": {
+      "aa_muts": {
+        "NA": [
+          "R93K"
+        ]
+      }
+    },
+    "A/ring-necked_duck/Interior_Alaska/10BM05792R0/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ring-necked_duck/New_Brunswick/03400/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ring-necked_duck/Nova_Scotia/03378/2009": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/118/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/125/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/144/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/150/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/158/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/167/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/176/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/180/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/189/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/215/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/229/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/244/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/250/1998": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/267/1998": {
+      "aa_muts": {
+        "NA": [
+          "N341S"
+        ]
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/276/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/296/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/297/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/324/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/331/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/347/2018": {
+      "aa_muts": {
+        "NA": [
+          "A174P",
+          "V175I",
+          "W177L",
+          "S178L",
+          "K186E",
+          "M189Q",
+          "D197H"
+        ]
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/354/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/425/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/44/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/45/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/450/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/451/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/596/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/86/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/87/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Delaware_Bay/88/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-465/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-615/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-626/2018": {
+      "aa_muts": {
+        "NA": [
+          "A198T"
+        ]
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-643/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-646/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-713/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-715/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-722/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/Georgia/UGAI18-765/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/1321399/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/1321414/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/1321415/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/1321420/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/1321430/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/Sg-00525/2008": {
+      "aa_muts": {
+        "NA": [
+          "K199N"
+        ]
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/UGAI16-1244/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/UGAI16-1289/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/New_Jersey/UGAI17-2729/2017": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/ruddy_turnstone/South_Carolina/UGAI18-895/2018": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/sanderling/Delaware_Bay/248/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/sanderling/Delaware_Bay/426/2016": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/sanderling/Delaware_Bay/70/1999": {
+      "aa_muts": {
+        "NA": [
+          "V13A",
+          "N46S",
+          "I49V",
+          "N215S"
+        ]
+      }
+    },
+    "A/shorebird/Delaware_Bay/11/1998": {
+      "aa_muts": {
+        "NA": [
+          "E266V"
+        ]
+      }
+    },
+    "A/shorebird/Delaware_Bay/110/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/122/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/159/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/167/2005": {
+      "aa_muts": {
+        "NA": [
+          "M189I"
+        ]
+      }
+    },
+    "A/shorebird/Delaware_Bay/206/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/207/1994": {
+      "aa_muts": {
+        "NA": [
+          "M339I"
+        ]
+      }
+    },
+    "A/shorebird/Delaware_Bay/207/1998": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/210/1998": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/237/1998": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/239/1998": {
+      "aa_muts": {
+        "NA": [
+          "V13A",
+          "N39D",
+          "Q382K"
+        ]
+      }
+    },
+    "A/shorebird/Delaware_Bay/268/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/270/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/272/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/277/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/28/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/282/1999": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/286/1994": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/435/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shorebird/Delaware_Bay/450/2005": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/shoveler/Saskatchewan/3/1982": {
+      "aa_muts": {
+        "NA": [
+          "S268N",
+          "E411D"
+        ]
+      }
+    },
+    "A/teal/Oregon/44336-122/2007": {
+      "aa_muts": {
+        "NA": [
+          "V18A",
+          "D220N",
+          "K375R"
+        ]
+      }
+    },
+    "A/widgeon/Saskatchewan/10/1982": {
+      "aa_muts": {
+        "NA": [
+          "T63I",
+          "Q258R"
+        ]
+      }
+    },
+    "A/widgeon/Saskatchewan/33/1982": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/widgeon/Wisconsin/541/1976": {
+      "aa_muts": {
+        "NA": [
+          "M189L",
+          "V204L",
+          "N246D",
+          "I462V"
+        ]
+      }
+    },
+    "A/widgeon/Wisconsin/638/1983": {
+      "aa_muts": {
+        "NA": [
+          "T265I"
+        ]
+      }
+    },
+    "A/wildbird/California/187718-36/2008": {
+      "aa_muts": {
+        "NA": [
+          "K93R",
+          "V203M"
+        ]
+      }
+    },
+    "A/wood_duck/Nova_Scotia/00738/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/wood_duck/Ohio/13OS3300/2013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "A/wood_duck/Wisconsin/10OS2778/2010": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "NA": [
+          "P306S"
+        ]
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "NA": []
+      },
+      "aa_sequences": {
+        "NA": "MNPNQKIITIGSVSLGLVVLNILLHIVSITITVLVLPGNGNNGSCNETVIREYNETVRIEKVTQWHNTNVIEYIERPESDHFMNNTEPLCDAKGFAPFSKDNGIRIGSRGHVFVIREPFVSCSPTECRTFFLTQGSLLNDKHSNGTVKDRSPYRTLMSVEIGQSPNVYQARFEAVAWSATACHDGKKWMTIGVTGPDAKAVAVVHYGGIPTDVINSWAGDILRTQESSCTCIQGECYWVMTDGPANRQAQYRAFKAKQGKIIGQTEISFNGGHIEECSCYPNEGKVECVCRDNWTGTNRPVLVISPDLSYRVGYLCAGLPSDTPRGEDSQFTGSCTSPMGNQGYGVKGFGFRQGNDVWMGRTISRTSRSGFEILKVRNGWVQNSKEQIKRQVVVDNLNWSGYSGSFTLPVELTKRNCLVPCFWVEMIRGKPEEKTIWTSSSSIVMCGVDHEIADWSWHDGAILPFDIDKM*"
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "NA": [
+          "V381I"
+        ]
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "NA": [
+          "N42S",
+          "A198V",
+          "K434R"
+        ]
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "NA": [
+          "V376I",
+          "H450Y"
+        ]
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "NA": [
+          "V57I",
+          "N246D",
+          "I304V"
+        ]
+      }
+    },
+    "NODE_0000019": {
+      "aa_muts": {
+        "NA": [
+          "R311S"
+        ]
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "NA": [
+          "S44R",
+          "M359I",
+          "L374M",
+          "I388V",
+          "V392I",
+          "I436V"
+        ]
+      }
+    },
+    "NODE_0000021": {
+      "aa_muts": {
+        "NA": [
+          "N396K"
+        ]
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "NA": [
+          "M83V",
+          "I373V"
+        ]
+      }
+    },
+    "NODE_0000023": {
+      "aa_muts": {
+        "NA": [
+          "K61R",
+          "E78D",
+          "K199N"
+        ]
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "NA": [
+          "K434T"
+        ]
+      }
+    },
+    "NODE_0000026": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000030": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000033": {
+      "aa_muts": {
+        "NA": [
+          "V27I",
+          "I388T"
+        ]
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "NA": [
+          "V376I"
+        ]
+      }
+    },
+    "NODE_0000036": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "NA": [
+          "H81Q",
+          "K199E",
+          "I373V"
+        ]
+      }
+    },
+    "NODE_0000038": {
+      "aa_muts": {
+        "NA": [
+          "V13A",
+          "K389E"
+        ]
+      }
+    },
+    "NODE_0000039": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000042": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000048": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000049": {
+      "aa_muts": {
+        "NA": [
+          "K61R",
+          "I74L"
+        ]
+      }
+    },
+    "NODE_0000050": {
+      "aa_muts": {
+        "NA": [
+          "P88S"
+        ]
+      }
+    },
+    "NODE_0000051": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000053": {
+      "aa_muts": {
+        "NA": [
+          "L20F",
+          "V33A",
+          "P37H",
+          "S44R",
+          "V62I",
+          "E126G",
+          "R390K",
+          "N416D",
+          "I452V"
+        ]
+      }
+    },
+    "NODE_0000054": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000056": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000058": {
+      "aa_muts": {
+        "NA": [
+          "R390K"
+        ]
+      }
+    },
+    "NODE_0000059": {
+      "aa_muts": {
+        "NA": [
+          "I26V"
+        ]
+      }
+    },
+    "NODE_0000060": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000061": {
+      "aa_muts": {
+        "NA": [
+          "R252K"
+        ]
+      }
+    },
+    "NODE_0000062": {
+      "aa_muts": {
+        "NA": [
+          "I31V",
+          "G40R",
+          "N42D",
+          "V193I",
+          "R311K",
+          "I462T"
+        ]
+      }
+    },
+    "NODE_0000063": {
+      "aa_muts": {
+        "NA": [
+          "D80G",
+          "K390R"
+        ]
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000065": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000066": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000067": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000068": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000069": {
+      "aa_muts": {
+        "NA": [
+          "I59V"
+        ]
+      }
+    },
+    "NODE_0000070": {
+      "aa_muts": {
+        "NA": [
+          "N69S",
+          "I71V",
+          "R76K"
+        ]
+      }
+    },
+    "NODE_0000072": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000073": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000074": {
+      "aa_muts": {
+        "NA": [
+          "N69S"
+        ]
+      }
+    },
+    "NODE_0000075": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000077": {
+      "aa_muts": {
+        "NA": [
+          "T125I",
+          "E235D"
+        ]
+      }
+    },
+    "NODE_0000078": {
+      "aa_muts": {
+        "NA": [
+          "H66Q"
+        ]
+      }
+    },
+    "NODE_0000079": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000080": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000081": {
+      "aa_muts": {
+        "NA": [
+          "V62I",
+          "T125I"
+        ]
+      }
+    },
+    "NODE_0000082": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000083": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000084": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000085": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000086": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000087": {
+      "aa_muts": {
+        "NA": [
+          "P306S",
+          "V392I",
+          "L397S"
+        ]
+      }
+    },
+    "NODE_0000088": {
+      "aa_muts": {
+        "NA": [
+          "V62I",
+          "T265I"
+        ]
+      }
+    },
+    "NODE_0000089": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000090": {
+      "aa_muts": {
+        "NA": [
+          "N41H"
+        ]
+      }
+    },
+    "NODE_0000091": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000092": {
+      "aa_muts": {
+        "NA": [
+          "Q258H",
+          "K390R"
+        ]
+      }
+    },
+    "NODE_0000093": {
+      "aa_muts": {
+        "NA": [
+          "S79N",
+          "V381I"
+        ]
+      }
+    },
+    "NODE_0000094": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000095": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000096": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000097": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000098": {
+      "aa_muts": {
+        "NA": [
+          "R76K",
+          "S329G",
+          "K390R",
+          "I452V"
+        ]
+      }
+    },
+    "NODE_0000099": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000101": {
+      "aa_muts": {
+        "NA": [
+          "S44N"
+        ]
+      }
+    },
+    "NODE_0000102": {
+      "aa_muts": {
+        "NA": [
+          "S268N"
+        ]
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "NA": [
+          "T30A"
+        ]
+      }
+    },
+    "NODE_0000104": {
+      "aa_muts": {
+        "NA": [
+          "I74V"
+        ]
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000107": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000108": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000109": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000114": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000115": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000116": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000118": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000119": {
+      "aa_muts": {
+        "NA": [
+          "I265T"
+        ]
+      }
+    },
+    "NODE_0000120": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000121": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000122": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000125": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000128": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000138": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000141": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "NA": [
+          "K252R"
+        ]
+      }
+    },
+    "NODE_0000149": {
+      "aa_muts": {
+        "NA": [
+          "P88A"
+        ]
+      }
+    },
+    "NODE_0000150": {
+      "aa_muts": {
+        "NA": [
+          "I262V"
+        ]
+      }
+    },
+    "NODE_0000151": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000152": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000153": {
+      "aa_muts": {
+        "NA": [
+          "V35I",
+          "N41S",
+          "S44N",
+          "D80N",
+          "K199Q",
+          "T265I",
+          "S268N",
+          "I452V"
+        ]
+      }
+    },
+    "NODE_0000154": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000155": {
+      "aa_muts": {
+        "NA": [
+          "T336N",
+          "N341D"
+        ]
+      }
+    },
+    "NODE_0000156": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000157": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000158": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000159": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000160": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000161": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000162": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000163": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000164": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000167": {
+      "aa_muts": {
+        "NA": [
+          "M339V"
+        ]
+      }
+    },
+    "NODE_0000168": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000169": {
+      "aa_muts": {
+        "NA": [
+          "V339M"
+        ]
+      }
+    },
+    "NODE_0000171": {
+      "aa_muts": {
+        "NA": [
+          "V27I",
+          "K93R"
+        ]
+      }
+    },
+    "NODE_0000172": {
+      "aa_muts": {
+        "NA": [
+          "V49I"
+        ]
+      }
+    },
+    "NODE_0000173": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000174": {
+      "aa_muts": {
+        "NA": [
+          "S44N"
+        ]
+      }
+    },
+    "NODE_0000175": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000176": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000178": {
+      "aa_muts": {
+        "NA": [
+          "R109K"
+        ]
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "NA": [
+          "D80N",
+          "V376I"
+        ]
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000183": {
+      "aa_muts": {
+        "NA": [
+          "I29V",
+          "K260I"
+        ]
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "NA": [
+          "T125A"
+        ]
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000186": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000189": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000190": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000191": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000192": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
+        "NA": [
+          "I31V",
+          "V339M"
+        ]
+      }
+    },
+    "NODE_0000195": {
+      "aa_muts": {
+        "NA": [
+          "I10V"
+        ]
+      }
+    },
+    "NODE_0000196": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000197": {
+      "aa_muts": {
+        "NA": [
+          "I209V"
+        ]
+      }
+    },
+    "NODE_0000198": {
+      "aa_muts": {
+        "NA": [
+          "D80G"
+        ]
+      }
+    },
+    "NODE_0000199": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000200": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000201": {
+      "aa_muts": {
+        "NA": [
+          "V10I"
+        ]
+      }
+    },
+    "NODE_0000202": {
+      "aa_muts": {
+        "NA": [
+          "V19I"
+        ]
+      }
+    },
+    "NODE_0000204": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000206": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000207": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "S79N"
+        ]
+      }
+    },
+    "NODE_0000208": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000209": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000210": {
+      "aa_muts": {
+        "NA": [
+          "N416K"
+        ]
+      }
+    },
+    "NODE_0000211": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000212": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000214": {
+      "aa_muts": {
+        "NA": [
+          "G40E",
+          "V49I",
+          "K93E"
+        ]
+      }
+    },
+    "NODE_0000215": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000216": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000217": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000218": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000219": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000220": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000221": {
+      "aa_muts": {
+        "NA": [
+          "V10I",
+          "S79N",
+          "V112I"
+        ]
+      }
+    },
+    "NODE_0000222": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000223": {
+      "aa_muts": {
+        "NA": [
+          "V62I",
+          "V262I"
+        ]
+      }
+    },
+    "NODE_0000224": {
+      "aa_muts": {
+        "NA": [
+          "V213A"
+        ]
+      }
+    },
+    "NODE_0000225": {
+      "aa_muts": {
+        "NA": [
+          "V10I",
+          "N42S"
+        ]
+      }
+    },
+    "NODE_0000226": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000227": {
+      "aa_muts": {
+        "NA": [
+          "E160G",
+          "R377K",
+          "K389R"
+        ]
+      }
+    },
+    "NODE_0000228": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000229": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000230": {
+      "aa_muts": {
+        "NA": [
+          "N46S",
+          "I443V"
+        ]
+      }
+    },
+    "NODE_0000231": {
+      "aa_muts": {
+        "NA": [
+          "I22T"
+        ]
+      }
+    },
+    "NODE_0000232": {
+      "aa_muts": {
+        "NA": [
+          "P124Q"
+        ]
+      }
+    },
+    "NODE_0000233": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000235": {
+      "aa_muts": {
+        "NA": [
+          "G38R",
+          "I74V",
+          "I373V",
+          "E451D"
+        ]
+      }
+    },
+    "NODE_0000236": {
+      "aa_muts": {
+        "NA": [
+          "K434E"
+        ]
+      }
+    },
+    "NODE_0000246": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000247": {
+      "aa_muts": {
+        "NA": [
+          "R311K"
+        ]
+      }
+    },
+    "NODE_0000248": {
+      "aa_muts": {
+        "NA": [
+          "T125I",
+          "T265I",
+          "K375R"
+        ]
+      }
+    },
+    "NODE_0000249": {
+      "aa_muts": {
+        "NA": [
+          "V301I"
+        ]
+      }
+    },
+    "NODE_0000250": {
+      "aa_muts": {
+        "NA": [
+          "G263E"
+        ]
+      }
+    },
+    "NODE_0000251": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000252": {
+      "aa_muts": {
+        "NA": [
+          "H81Q",
+          "V381I"
+        ]
+      }
+    },
+    "NODE_0000254": {
+      "aa_muts": {
+        "NA": [
+          "V10I",
+          "K257R",
+          "S268N",
+          "K389R"
+        ]
+      }
+    },
+    "NODE_0000255": {
+      "aa_muts": {
+        "NA": [
+          "V49I",
+          "V112I",
+          "R311K"
+        ]
+      }
+    },
+    "NODE_0000256": {
+      "aa_muts": {
+        "NA": [
+          "V19I",
+          "T63I",
+          "A92V",
+          "Q258H",
+          "N416D"
+        ]
+      }
+    },
+    "NODE_0000260": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000261": {
+      "aa_muts": {
+        "NA": [
+          "I50V",
+          "L319I"
+        ]
+      }
+    },
+    "NODE_0000263": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000266": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000267": {
+      "aa_muts": {
+        "NA": [
+          "G43K"
+        ]
+      }
+    },
+    "NODE_0000268": {
+      "aa_muts": {
+        "NA": [
+          "V10I"
+        ]
+      }
+    },
+    "NODE_0000269": {
+      "aa_muts": {
+        "NA": [
+          "R76K",
+          "M339V"
+        ]
+      }
+    },
+    "NODE_0000270": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000271": {
+      "aa_muts": {
+        "NA": [
+          "V112I"
+        ]
+      }
+    },
+    "NODE_0000272": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "E78G",
+          "S329N",
+          "N416D"
+        ]
+      }
+    },
+    "NODE_0000273": {
+      "aa_muts": {
+        "NA": [
+          "T265A"
+        ]
+      }
+    },
+    "NODE_0000274": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000276": {
+      "aa_muts": {
+        "NA": [
+          "T63I",
+          "N355D"
+        ]
+      }
+    },
+    "NODE_0000277": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000278": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000279": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000280": {
+      "aa_muts": {
+        "NA": [
+          "V49I"
+        ]
+      }
+    },
+    "NODE_0000281": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000282": {
+      "aa_muts": {
+        "NA": [
+          "R76K"
+        ]
+      }
+    },
+    "NODE_0000283": {
+      "aa_muts": {
+        "NA": [
+          "V312A",
+          "N355D"
+        ]
+      }
+    },
+    "NODE_0000284": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000285": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000286": {
+      "aa_muts": {
+        "NA": [
+          "N69S",
+          "R76K",
+          "H81Q",
+          "I214V"
+        ]
+      }
+    },
+    "NODE_0000287": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000288": {
+      "aa_muts": {
+        "NA": [
+          "T63I"
+        ]
+      }
+    },
+    "NODE_0000291": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000292": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000293": {
+      "aa_muts": {
+        "NA": [
+          "D80G"
+        ]
+      }
+    },
+    "NODE_0000294": {
+      "aa_muts": {
+        "NA": [
+          "S329N"
+        ]
+      }
+    },
+    "NODE_0000295": {
+      "aa_muts": {
+        "NA": [
+          "E47G"
+        ]
+      }
+    },
+    "NODE_0000296": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000297": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000298": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000299": {
+      "aa_muts": {
+        "NA": [
+          "I31V",
+          "Y237F"
+        ]
+      }
+    },
+    "NODE_0000300": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000301": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000302": {
+      "aa_muts": {
+        "NA": [
+          "V31I",
+          "N42S",
+          "V112I",
+          "V376I"
+        ]
+      }
+    },
+    "NODE_0000303": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000304": {
+      "aa_muts": {
+        "NA": [
+          "S44N",
+          "P77S",
+          "S79N",
+          "I443V"
+        ]
+      }
+    },
+    "NODE_0000305": {
+      "aa_muts": {
+        "NA": [
+          "D80G"
+        ]
+      }
+    },
+    "NODE_0000306": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000307": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "N79D",
+          "M189V",
+          "R311K",
+          "V443I"
+        ]
+      }
+    },
+    "NODE_0000308": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000309": {
+      "aa_muts": {
+        "NA": [
+          "V31I",
+          "H66Y",
+          "V193I"
+        ]
+      }
+    },
+    "NODE_0000310": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000313": {
+      "aa_muts": {
+        "NA": [
+          "N79D",
+          "V381I"
+        ]
+      }
+    },
+    "NODE_0000314": {
+      "aa_muts": {
+        "NA": [
+          "V394I"
+        ]
+      }
+    },
+    "NODE_0000315": {
+      "aa_muts": {
+        "NA": [
+          "I74V"
+        ]
+      }
+    },
+    "NODE_0000316": {
+      "aa_muts": {
+        "NA": [
+          "G40E"
+        ]
+      }
+    },
+    "NODE_0000317": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000318": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000319": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000320": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000321": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000322": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000325": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000326": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000327": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000328": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000329": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000332": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000333": {
+      "aa_muts": {
+        "NA": [
+          "V13I",
+          "I59V"
+        ]
+      }
+    },
+    "NODE_0000334": {
+      "aa_muts": {
+        "NA": [
+          "N41S",
+          "S79N",
+          "I262V"
+        ]
+      }
+    },
+    "NODE_0000335": {
+      "aa_muts": {
+        "NA": [
+          "I26V",
+          "G40E",
+          "S44N",
+          "N46S",
+          "N69S",
+          "I74V",
+          "V201M",
+          "I261V",
+          "L397S"
+        ]
+      }
+    },
+    "NODE_0000336": {
+      "aa_muts": {
+        "NA": [
+          "D80G",
+          "I373V"
+        ]
+      }
+    },
+    "NODE_0000337": {
+      "aa_muts": {
+        "NA": [
+          "K61R",
+          "V70I",
+          "I209V",
+          "A253V",
+          "I443V"
+        ]
+      }
+    },
+    "NODE_0000338": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000339": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000340": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000341": {
+      "aa_muts": {
+        "NA": [
+          "I13T",
+          "K469E"
+        ]
+      }
+    },
+    "NODE_0000344": {
+      "aa_muts": {
+        "NA": [
+          "R311K"
+        ]
+      }
+    },
+    "NODE_0000349": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000350": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000351": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000352": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000353": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000355": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000358": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000359": {
+      "aa_muts": {
+        "NA": [
+          "S44G",
+          "V193I"
+        ]
+      }
+    },
+    "NODE_0000361": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000362": {
+      "aa_muts": {
+        "NA": [
+          "N41S"
+        ]
+      }
+    },
+    "NODE_0000363": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000365": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000366": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000367": {
+      "aa_muts": {
+        "NA": [
+          "V35I"
+        ]
+      }
+    },
+    "NODE_0000368": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000369": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000370": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000371": {
+      "aa_muts": {
+        "NA": [
+          "K61E",
+          "V376I",
+          "K414G"
+        ]
+      }
+    },
+    "NODE_0000372": {
+      "aa_muts": {
+        "NA": [
+          "P77S"
+        ]
+      }
+    },
+    "NODE_0000373": {
+      "aa_muts": {
+        "NA": [
+          "E47G",
+          "Q233K"
+        ]
+      }
+    },
+    "NODE_0000374": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000375": {
+      "aa_muts": {
+        "NA": [
+          "V13A",
+          "G40V",
+          "N46S",
+          "N215S",
+          "R311K",
+          "K375R",
+          "K434R"
+        ]
+      }
+    },
+    "NODE_0000376": {
+      "aa_muts": {
+        "NA": [
+          "I363L",
+          "V381I"
+        ]
+      }
+    },
+    "NODE_0000377": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000378": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000379": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000380": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000381": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000384": {
+      "aa_muts": {
+        "NA": [
+          "V376I"
+        ]
+      }
+    },
+    "NODE_0000385": {
+      "aa_muts": {
+        "NA": [
+          "N41D",
+          "V392I"
+        ]
+      }
+    },
+    "NODE_0000386": {
+      "aa_muts": {
+        "NA": [
+          "V62I",
+          "F254Y"
+        ]
+      }
+    },
+    "NODE_0000387": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000388": {
+      "aa_muts": {
+        "NA": [
+          "A265V"
+        ]
+      }
+    },
+    "NODE_0000389": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000390": {
+      "aa_muts": {
+        "NA": [
+          "Q233R",
+          "Q258H"
+        ]
+      }
+    },
+    "NODE_0000391": {
+      "aa_muts": {
+        "NA": [
+          "I59V"
+        ]
+      }
+    },
+    "NODE_0000392": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000393": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000394": {
+      "aa_muts": {
+        "NA": [
+          "N270S"
+        ]
+      }
+    },
+    "NODE_0000395": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000397": {
+      "aa_muts": {
+        "NA": [
+          "V301I"
+        ]
+      }
+    },
+    "NODE_0000398": {
+      "aa_muts": {
+        "NA": [
+          "A92V",
+          "I376V",
+          "N416D"
+        ]
+      }
+    },
+    "NODE_0000399": {
+      "aa_muts": {
+        "NA": [
+          "L23I",
+          "H81Q"
+        ]
+      }
+    },
+    "NODE_0000400": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000401": {
+      "aa_muts": {
+        "NA": [
+          "A198S"
+        ]
+      }
+    },
+    "NODE_0000402": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000403": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000404": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000405": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000406": {
+      "aa_muts": {
+        "NA": [
+          "A88T",
+          "S268N"
+        ]
+      }
+    },
+    "NODE_0000408": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000409": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000410": {
+      "aa_muts": {
+        "NA": [
+          "R171K"
+        ]
+      }
+    },
+    "NODE_0000412": {
+      "aa_muts": {
+        "NA": [
+          "L20I"
+        ]
+      }
+    },
+    "NODE_0000413": {
+      "aa_muts": {
+        "NA": [
+          "A88T",
+          "I209V",
+          "V376I"
+        ]
+      }
+    },
+    "NODE_0000415": {
+      "aa_muts": {
+        "NA": [
+          "N341S"
+        ]
+      }
+    },
+    "NODE_0000416": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000417": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000418": {
+      "aa_muts": {
+        "NA": [
+          "V27A",
+          "N39D",
+          "I74V",
+          "Q258L"
+        ]
+      }
+    },
+    "NODE_0000419": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000420": {
+      "aa_muts": {
+        "NA": [
+          "K93R"
+        ]
+      }
+    },
+    "NODE_0000421": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000422": {
+      "aa_muts": {
+        "NA": [
+          "M83V"
+        ]
+      }
+    },
+    "NODE_0000424": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000425": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000426": {
+      "aa_muts": {
+        "NA": [
+          "T125I"
+        ]
+      }
+    },
+    "NODE_0000427": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000429": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000430": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000432": {
+      "aa_muts": {
+        "NA": [
+          "V19A"
+        ]
+      }
+    },
+    "NODE_0000433": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000434": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000435": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000436": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000437": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000438": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000439": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000440": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000444": {
+      "aa_muts": {
+        "NA": [
+          "T30I"
+        ]
+      }
+    },
+    "NODE_0000445": {
+      "aa_muts": {
+        "NA": [
+          "T63I",
+          "Q233L",
+          "I452V"
+        ]
+      }
+    },
+    "NODE_0000446": {
+      "aa_muts": {
+        "NA": [
+          "P37S",
+          "V62I",
+          "V201L",
+          "M359I"
+        ]
+      }
+    },
+    "NODE_0000447": {
+      "aa_muts": {
+        "NA": [
+          "V19A",
+          "G43E"
+        ]
+      }
+    },
+    "NODE_0000448": {
+      "aa_muts": {
+        "NA": [
+          "S337N"
+        ]
+      }
+    },
+    "NODE_0000449": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000450": {
+      "aa_muts": {
+        "NA": [
+          "I31V",
+          "V59I"
+        ]
+      }
+    },
+    "NODE_0000451": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000452": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000453": {
+      "aa_muts": {
+        "NA": [
+          "V19A",
+          "P306S"
+        ]
+      }
+    },
+    "NODE_0000454": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000455": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000456": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000458": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000459": {
+      "aa_muts": {
+        "NA": [
+          "M189L",
+          "A253V",
+          "S329N"
+        ]
+      }
+    },
+    "NODE_0000460": {
+      "aa_muts": {
+        "NA": [
+          "Q233R",
+          "D449N"
+        ]
+      }
+    },
+    "NODE_0000461": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000462": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000463": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000464": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000465": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000466": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000467": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000468": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000469": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000470": {
+      "aa_muts": {
+        "NA": [
+          "D449N"
+        ]
+      }
+    },
+    "NODE_0000475": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000476": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000477": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000478": {
+      "aa_muts": {
+        "NA": [
+          "R76K"
+        ]
+      }
+    },
+    "NODE_0000479": {
+      "aa_muts": {
+        "NA": [
+          "V49I"
+        ]
+      }
+    },
+    "NODE_0000480": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000481": {
+      "aa_muts": {
+        "NA": [
+          "V33L",
+          "I74V",
+          "D80N",
+          "I106V"
+        ]
+      }
+    },
+    "NODE_0000482": {
+      "aa_muts": {
+        "NA": [
+          "I26V",
+          "T332M"
+        ]
+      }
+    },
+    "NODE_0000483": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000484": {
+      "aa_muts": {
+        "NA": [
+          "T86S"
+        ]
+      }
+    },
+    "NODE_0000485": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000486": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000488": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000489": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000490": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000491": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000492": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000493": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000494": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000495": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000496": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000497": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000498": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000499": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000500": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000501": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000507": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000509": {
+      "aa_muts": {
+        "NA": [
+          "N46S"
+        ]
+      }
+    },
+    "NODE_0000510": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000511": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000514": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000515": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000517": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000518": {
+      "aa_muts": {
+        "NA": [
+          "N39D",
+          "V49I"
+        ]
+      }
+    },
+    "NODE_0000519": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000520": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000521": {
+      "aa_muts": {
+        "NA": [
+          "D39G"
+        ]
+      }
+    },
+    "NODE_0000522": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000523": {
+      "aa_muts": {
+        "NA": [
+          "S28G",
+          "A253I"
+        ]
+      }
+    },
+    "NODE_0000524": {
+      "aa_muts": {
+        "NA": [
+          "Y53H",
+          "V62I",
+          "T125I",
+          "R311K"
+        ]
+      }
+    },
+    "NODE_0000525": {
+      "aa_muts": {
+        "NA": [
+          "G39D"
+        ]
+      }
+    },
+    "NODE_0000526": {
+      "aa_muts": {
+        "NA": [
+          "S46N"
+        ]
+      }
+    },
+    "NODE_0000527": {
+      "aa_muts": {
+        "NA": [
+          "R247K",
+          "Q264H"
+        ]
+      }
+    },
+    "NODE_0000528": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000529": {
+      "aa_muts": {
+        "NA": [
+          "R377K"
+        ]
+      }
+    },
+    "NODE_0000530": {
+      "aa_muts": {
+        "NA": [
+          "I74V",
+          "K414R"
+        ]
+      }
+    },
+    "NODE_0000531": {
+      "aa_muts": {
+        "NA": [
+          "I262V",
+          "S268N",
+          "K285E",
+          "V376I"
+        ]
+      }
+    },
+    "NODE_0000532": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000533": {
+      "aa_muts": {
+        "NA": [
+          "V265I"
+        ]
+      }
+    },
+    "NODE_0000534": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000537": {
+      "aa_muts": {
+        "NA": [
+          "D39N",
+          "E78K",
+          "N383S"
+        ]
+      }
+    },
+    "NODE_0000538": {
+      "aa_muts": {
+        "NA": [
+          "L36F",
+          "V203I"
+        ]
+      }
+    },
+    "NODE_0000541": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000543": {
+      "aa_muts": {
+        "NA": [
+          "R311K"
+        ]
+      }
+    },
+    "NODE_0000545": {
+      "aa_muts": {
+        "NA": [
+          "S305A"
+        ]
+      }
+    },
+    "NODE_0000546": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000547": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000549": {
+      "aa_muts": {
+        "NA": [
+          "V19I"
+        ]
+      }
+    },
+    "NODE_0000550": {
+      "aa_muts": {
+        "NA": [
+          "H66Y"
+        ]
+      }
+    },
+    "NODE_0000551": {
+      "aa_muts": {
+        "NA": [
+          "E72K"
+        ]
+      }
+    },
+    "NODE_0000552": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000553": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000554": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000555": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000556": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000557": {
+      "aa_muts": {
+        "NA": [
+          "G40E",
+          "T63I",
+          "S79R"
+        ]
+      }
+    },
+    "NODE_0000559": {
+      "aa_muts": {
+        "NA": [
+          "D80N"
+        ]
+      }
+    },
+    "NODE_0000560": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000564": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000565": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000566": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000567": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000568": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000571": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000574": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000575": {
+      "aa_muts": {
+        "NA": [
+          "R51K",
+          "A88E"
+        ]
+      }
+    },
+    "NODE_0000576": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000578": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000582": {
+      "aa_muts": {
+        "NA": [
+          "V193I"
+        ]
+      }
+    },
+    "NODE_0000583": {
+      "aa_muts": {
+        "NA": [
+          "G38R",
+          "N41S",
+          "S44N",
+          "R311K",
+          "G326E",
+          "I388V"
+        ]
+      }
+    },
+    "NODE_0000584": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000586": {
+      "aa_muts": {
+        "NA": [
+          "I262V"
+        ]
+      }
+    },
+    "NODE_0000587": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000588": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000589": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000590": {
+      "aa_muts": {
+        "NA": [
+          "I388T"
+        ]
+      }
+    },
+    "NODE_0000591": {
+      "aa_muts": {
+        "NA": [
+          "G40R",
+          "D80G"
+        ]
+      }
+    },
+    "NODE_0000592": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000593": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000594": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000596": {
+      "aa_muts": {
+        "NA": [
+          "A174S"
+        ]
+      }
+    },
+    "NODE_0000597": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000599": {
+      "aa_muts": {
+        "NA": [
+          "Q258L",
+          "R377K"
+        ]
+      }
+    },
+    "NODE_0000600": {
+      "aa_muts": {
+        "NA": [
+          "Y53H",
+          "H450Y"
+        ]
+      }
+    },
+    "NODE_0000606": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000609": {
+      "aa_muts": {
+        "NA": [
+          "K187G"
+        ]
+      }
+    },
+    "NODE_0000610": {
+      "aa_muts": {
+        "NA": [
+          "V62I"
+        ]
+      }
+    },
+    "NODE_0000611": {
+      "aa_muts": {
+        "NA": [
+          "G38R",
+          "I74V",
+          "I274M",
+          "I443V"
+        ]
+      }
+    },
+    "NODE_0000613": {
+      "aa_muts": {
+        "NA": []
+      }
+    },
+    "NODE_0000617": {
+      "aa_muts": {
+        "NA": [
+          "S46N",
+          "T48I",
+          "K141R"
+        ]
+      }
+    },
+    "NODE_0000618": {
+      "aa_muts": {
+        "NA": [
+          "V376I"
+        ]
+      }
+    },
+    "NODE_0000619": {
+      "aa_muts": {
+        "NA": [
+          "D80G",
+          "I214V"
+        ]
+      }
+    },
+    "NODE_0000625": {
+      "aa_muts": {
+        "NA": []
+      }
+    }
+  },
+  "reference": {
+    "NA": "MNPNQKIITIGSVSLGLVVLNILLHIVSITITVLVLPGNGNNGSCNETVIREYNETVRIEKVTQWHNTNVIEYIERPESDHFMNNTEPLCDAKGFAPFSKDNGIRIGSRGHVFVIREPFVSCSPTECRTFFLTQGSLLNDKHSNGTVKDRSPYRTLMSVEIGQSPNVYQARFEAVAWSATACHDGKKWMTIGVTGPDAKAVAVVHYGGIPTDVINSWAGDILRTQESSCTCIQGECYWVMTDGPANRQAQYRAFKAKQGKIIGQTEISFNGGHIEECSCYPNEGKVECVCRDNWTGTNRPVLVISPDLSYRVGYLCAGLPSDTPRGEDSQFTGSCTSPMGNQGYGVKGFGFRQGNDVWMGRTISRTSRSGFEILKVRNGWVQNSKEQIKRQVVVDNLNWSGYSGSFTLPVELTKRNCLVPCFWVEMIRGKPEEKTIWTSSSSIVMCGVDHEIADWSWHDGAILPFDIDKM*"
+  }
+}

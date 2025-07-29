@@ -1,0 +1,8 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: ML-MONCLALAB1.local
+Building DAG of jobs...
+MissingInputException in rule all in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 7:
+Missing input files for rule all:
+    affected files:
+        results/summary.nwk

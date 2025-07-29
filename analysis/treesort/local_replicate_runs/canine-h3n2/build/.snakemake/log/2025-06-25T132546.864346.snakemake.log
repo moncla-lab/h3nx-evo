@@ -1,0 +1,10 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: ML-MONCLALAB1.local
+Building DAG of jobs...
+MissingInputException in rule root in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 39:
+Missing input files for rule root:
+    output: results/trees_rooted/h3nx_pb2_rooted/rerooted.newick
+    wildcards: subtype=h3nx, segment=pb2
+    affected files:
+        data/strain_dates.csv

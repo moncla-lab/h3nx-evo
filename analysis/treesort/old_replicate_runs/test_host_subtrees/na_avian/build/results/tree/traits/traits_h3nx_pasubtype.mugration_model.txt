@@ -1,0 +1,21 @@
+Map from character to field name
+A:	H3N2
+B:	H3N8
+C:	?
+
+
+Substitution rate (mu): 0.480386
+
+Equilibrium frequencies (pi_i):
+  A: 0.1584
+  B: 0.8416
+
+Symmetrized rates from j->i (W_ij):
+	A	B
+  A	0	3.7501
+  B	3.7501	0
+
+Actual rates from j->i (Q_ij):
+	A	B
+  A	0	0.5941
+  B	3.1559	0

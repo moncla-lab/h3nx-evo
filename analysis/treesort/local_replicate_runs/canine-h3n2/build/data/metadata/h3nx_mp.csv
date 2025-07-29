@@ -1,0 +1,430 @@
+strain,accession,subtype,date,host,country,region,species,broad,order,n_segments
+A/canine/Alabama/CVM-194456-1/2022|2022-08-24,EPI2907465,H3N2,2022-08-24,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Beijing/1016/2018|2018-10-01,EPI2510850,H3N2,2018-10-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1028/2010|2010-02-02,EPI407501,H3N2,2010-02-02,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/1102/2018|2018-11-01,ON877557,H3N2,2018-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1103/2018|2018-11-01,ON877565,H3N2,2018-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1115/2019|2019-12-01,ON877573,H3N2,2019-12-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1167/2019|2019-04-01,ON877581,H3N2,2019-04-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1183/2019|2019-05-01,ON877590,H3N2,2019-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1364/2019|2019-08-01,ON877597,H3N2,2019-08-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1372/2019|2019-08-01,ON877605,H3N2,2019-08-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/1389/2019|2019-09-01,ON877613,H3N2,2019-09-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/18/2019|2019-03-01,ON877621,H3N2,2019-03-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20121215-34/2012|2012-12-15,EPI1554903,H3N2,2012-12-15,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20121230-62/2012|2012-12-30,EPI1554879,H3N2,2012-12-30,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/20131112-279/2013|2013-11-12,EPI1554944,H3N2,2013-11-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20131203-341/2013|2013-12-03,EPI1554936,H3N2,2013-12-03,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20131203-342/2013|2013-12-03,EPI1554927,H3N2,2013-12-03,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20131204-349/2013|2013-12-04,EPI1554919,H3N2,2013-12-04,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20131207-365/2013|2013-12-07,EPI1554911,H3N2,2013-12-07,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20140103-90/2014|2014-01-03,EPI1555219,H3N2,2014-01-03,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20140110-2/2014|2014-01-10,EPI1555210,H3N2,2014-01-10,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20150118-256/2015|2015-01-18,EPI1555202,H3N2,2015-01-18,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/20150120-265/2015|2015-01-20,EPI1555194,H3N2,2015-01-20,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20150122-284/2015|2015-01-22,EPI1555186,H3N2,2015-01-22,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/20150124-300/2015|2015-01-24,EPI1555178,H3N2,2015-01-24,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/20161216-8/2016|2016-12-16,EPI1554895,H3N2,2016-12-16,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20161228-9/2016|2016-12-28,EPI1554887,H3N2,2016-12-28,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170314-73/2017|2017-03-14,EPI1555170,H3N2,2017-03-14,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170417-81/2017|2017-04-17,EPI1555162,H3N2,2017-04-17,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170417-83/2017|2017-04-17,EPI1555154,H3N2,2017-04-17,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170424-102/2017|2017-04-24,EPI1555146,H3N2,2017-04-24,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170501-108/2017|2017-05-01,EPI1555138,H3N2,2017-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170510-118/2017|2017-05-10,EPI1555130,H3N2,2017-05-10,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170512-120/2017|2017-05-12,EPI1555122,H3N2,2017-05-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170512-121/2017|2017-05-12,EPI1555114,H3N2,2017-05-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170512-122/2017|2017-05-12,EPI1555105,H3N2,2017-05-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170512-133/2017|2017-05-12,EPI1555097,H3N2,2017-05-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170512-137/2017|2017-05-12,EPI1555089,H3N2,2017-05-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170527-146/2017|2017-05-27,EPI1555081,H3N2,2017-05-27,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170528-147/2017|2017-05-28,EPI1555073,H3N2,2017-05-28,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170528-148/2017|2017-05-28,EPI1555065,H3N2,2017-05-28,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170604-164/2017|2017-06-04,EPI1555057,H3N2,2017-06-04,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170610-172/2017|2017-06-10,EPI1555049,H3N2,2017-06-10,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170610-173/2017|2017-06-10,EPI1555041,H3N2,2017-06-10,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170610-174/2017|2017-06-10,EPI1555033,H3N2,2017-06-10,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170612-183/2017|2017-06-12,EPI1555025,H3N2,2017-06-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170614-185/2017|2017-06-14,EPI1555017,H3N2,2017-06-14,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170615-195/2017|2017-06-15,EPI1555009,H3N2,2017-06-15,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170616-200/2017|2017-06-16,EPI1555001,H3N2,2017-06-16,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170616-202/2017|2017-06-16,EPI1554993,H3N2,2017-06-16,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170618-206/2017|2017-06-18,EPI1554985,H3N2,2017-06-18,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170709-15/2017|2017-07-09,EPI1554977,H3N2,2017-07-09,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170711-16/2017|2017-07-11,EPI1554969,H3N2,2017-07-11,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170712-18/2017|2017-07-12,EPI1554961,H3N2,2017-07-12,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/20170720-30/2017|2017-07-20,MK212564,H3N2,2017-07-20,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/253/2009|2009-12-09,EPI407567,H3N2,2009-12-09,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/295/2009|2009-12-14,EPI407557,H3N2,2009-12-14,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/305/2009|2009-12-13,EPI407549,H3N2,2009-12-13,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/308/2017|2017-09-01,ON877629,H3N2,2017-09-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/309/2017|2017-09-01,ON877637,H3N2,2017-09-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/359/2009|2009-12-17,EPI407541,H3N2,2009-12-17,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/362/2009|2009-12-17,EPI407533,H3N2,2009-12-17,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/364/2009|2009-12-17,EPI407525,H3N2,2009-12-17,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/418/2010|2010-01-08,EPI407517,H3N2,2010-01-08,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/420/2010|2010-01-08,EPI407559,H3N2,2010-01-08,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/509/2017|2017-12-01,ON877645,H3N2,2017-12-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/511/2010|2010-01-03,EPI407510,H3N2,2010-01-03,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/547/2018|2018-01-01,ON877653,H3N2,2018-01-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/618/2018|2018-02-01,ON877677,H3N2,2018-02-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Beijing/CAU-118/2018|2018-01-01,EPI2868536,H3N2,2018-01-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/CAU-501/2001|2001-05-01,EPI2868544,H3N2,2001-05-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/CAU-510/2010|2010-05-01,EPI2868552,H3N2,2010-05-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/CAU-511/2011|2011-05-01,EPI2868560,H3N2,2011-05-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/CAU-JC2538/2010|2010-08-01,EPI2868568,H3N2,2010-08-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Beijing/CAU-JC2550/2010|2010-08-01,EPI2868576,H3N2,2010-08-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/California/043670/2017|2017-03-24,EPI1304921,H3N2,2017-03-24,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/20170411-20/2017|2017-04-01,EPI1224053,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/84315/2017|2017-05-18,EPI1304915,H3N2,2017-05-18,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/BRW002/2018|2018-01-06,MK690580,H3N2,2018-01-06,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/BRW003/2018|2018-01-01,MK690588,H3N2,2018-01-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/CVM-17384101/2019|2019-06-01,EPI2906690,H3N2,2019-06-01,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-1738411/2019|2019-06-01,EPI2906698,H3N2,2019-06-01,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-32151101/2021|2021-10-14,EPI2906864,H3N2,2021-10-14,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-3215141/2021|2021-10-14,EPI2906872,H3N2,2021-10-14,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-3235751/2021|2021-10-17,EPI2906880,H3N2,2021-10-17,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-3275921/2021|2021-10-20,EPI2906888,H3N2,2021-10-20,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-32918141/2021|2021-10-21,EPI2906896,H3N2,2021-10-21,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-3299021/2021|2021-10-23,EPI2906904,H3N2,2021-10-23,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-33954291/2021|2021-10-29,EPI2906912,H3N2,2021-10-29,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/California/CVM-3466381/2021|2021-11-01,EPI2906920,H3N2,2021-11-01,Canine,Usa,North America,Canine,Canine,Canine,8
+A/Canine/California/LACPHL-INF00004/2021|2021-08-06,EPI1914387,H3N2,2021-08-06,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canine/California/LACPHL-INF00006/2021|2021-08-06,EPI1914432,H3N2,2021-08-06,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M19-17384-1-1/2019|2019-06-01,OR731154,H3N2,2019-06-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M19-17384-10-1/2019|2019-06-01,OR731162,H3N2,2019-06-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-32151-10-1/2021|2021-10-14,OR732120,H3N2,2021-10-14,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-32151-4-1/2021|2021-10-14,OR732128,H3N2,2021-10-14,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-32357-5-1/2021|2021-10-17,OR732136,H3N2,2021-10-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-32759-2-1/2021|2021-10-20,OR732144,H3N2,2021-10-20,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-32918-14-1/2021|2021-10-21,OR732152,H3N2,2021-10-21,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-32990-2-1/2021|2021-10-23,OR732160,H3N2,2021-10-23,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-33954-29-1/2021|2021-10-29,OR732168,H3N2,2021-10-29,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/California/M21-34663-8-1/2021|2021-11-01,OR732176,H3N2,2021-11-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/ChangChun/01/2023|2023-12-28,PQ374168,H3N2,2023-12-28,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/11071/2019|2019-02-11,EPI2254399,H3N2,2019-02-11,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/15001/2019|2019-02-02,EPI2475615,H3N2,2019-02-02,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/15027/2019|2019-03-02,EPI2475623,H3N2,2019-03-02,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/15066/2019|2019-03-02,EPI2475631,H3N2,2019-03-02,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/15068/2019|2019-03-02,EPI2475639,H3N2,2019-03-02,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/18004/2019|2019-04-30,MZ323822,H3N2,2019-04-30,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/6068/2018|2018-11-26,EPI2475612,H3N2,2018-11-26,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/A4/2021|2021-05-02,OK639106,H3N2,2021-05-02,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/HN3/2018|2018-05-22,EPI2254407,H3N2,2018-05-22,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/HN6/2018|2018-06-03,EPI2254415,H3N2,2018-06-03,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/JLM1/2015|2015-11-25,MG386677,H3N2,2015-11-25,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/JLM2/2015|2015-11-25,MG386685,H3N2,2015-11-25,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/LG1/2015|2015-12-16,EPI1172890,H3N2,2015-12-16,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/LG2/2015|2015-12-16,MG309811,H3N2,2015-12-16,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/QiaoKe01/2017|2017-05-01,EPI1898055,H3N2,2017-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/China/Shanghai-0315-2019/2019|2019-03-08,MK905519,H3N2,2019-03-08,Canine,China,China,Canine,canine,Canine,8
+A/canine/Florida/090919/2017|2017-05-26,EPI1308096,H3N2,2017-05-26,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/20170606-11/2017|2017-04-01,EPI1224088,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/20170606-17/2017|2017-04-01,EPI1224118,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/20170606-18/2017|2017-04-01,EPI1224180,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/20170606-2/2017|2017-04-01,EPI1224226,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/20170606-7/2017|2017-04-01,EPI1224017,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/20170606-8/2017|2017-04-01,EPI1224101,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/20170606-9/2017|2017-04-01,EPI1224119,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/269770/2015|2015-11-01,EPI1098560,H3N2,2015-11-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/88807.2/2017|2017-05-25,EPI1304926,H3N2,2017-05-25,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/CAIS-B1/2021|2021-06-01,OR732184,H3N2,2021-06-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/CAIS-F1/2021|2021-06-01,OR732192,H3N2,2021-06-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/CAIS-H1/2021|2021-06-01,OR732200,H3N2,2021-06-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Florida/CVM-B1/2021|2021-06-01,EPI2906928,H3N2,2021-06-01,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Florida/CVM-F1/2021|2021-06-01,EPI2906939,H3N2,2021-06-01,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Florida/CVM-H1/2021|2021-06-01,EPI2906948,H3N2,2021-06-01,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Fujian/11/2018|2018-11-01,ON877685,H3N2,2018-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Fujian/1108/2018|2018-12-01,ON877693,H3N2,2018-12-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Fujian/1109/2018|2018-12-01,ON877701,H3N2,2018-12-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Fujian/601/2018|2018-01-01,ON877709,H3N2,2018-01-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Georgia/101875/2015|2015-09-01,EPI1308188,H3N2,2015-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Georgia/104940/2015|2015-07-17,EPI839124,H3N2,2015-07-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Georgia/20170606-19/2017|2017-05-25,EPI1304901,H3N2,2017-05-25,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Georgia/42632/2015|2015-06-12,EPI1777103,H3N2,2015-06-12,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Georgia/89750.1/2017|2017-05-26,EPI1304897,H3N2,2017-05-26,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Georgia/95391/2015|2015-07-13,EPI838680,H3N2,2015-07-13,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Guangdong/01/2013|2013-04-01,KJ917348,H3N2,2013-04-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/01/2014|2014-02-01,EPI1307953,H3N2,2014-02-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/02/2013|2013-04-01,KJ917356,H3N2,2013-04-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/02/2014|2014-02-01,EPI1307976,H3N2,2014-02-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Guangdong/03/2013|2013-11-01,EPI1307945,H3N2,2013-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/04/2013|2013-11-01,EPI1307957,H3N2,2013-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/05/2011|2011-02-01,EPI439986,H3N2,2011-02-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/1/2006|2006-06-01,EPI284207,H3N2,2006-06-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Guangdong/1/2007|2007-04-18,EPI284231,H3N2,2007-04-18,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Guangdong/1/2011|2011-02-01,EPI439980,H3N2,2011-02-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Guangdong/1/2018|2018-05-14,EPI1765844,H3N2,2018-05-14,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/12/2012|2012-09-15,KF826950,H3N2,2012-09-15,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/2/2006|2006-08-01,EPI284216,H3N2,2006-08-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Guangdong/2/2007|2007-10-18,EPI284223,H3N2,2007-10-18,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Guangdong/2/2011|2011-02-01,EPI394663,H3N2,2011-02-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/2/2018|2018-05-16,EPI1765845,H3N2,2018-05-16,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/23/2012|2012-09-18,KF826958,H3N2,2012-09-18,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/3/2011|2011-03-01,EPI457523,H3N2,2011-03-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/3/2018|2018-05-17,EPI1765846,H3N2,2018-05-17,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/DY1/2019|2019-06-23,MW126987,H3N2,2019-06-23,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangdong/GY01/2018|2018-05-01,EPI1931803,H3N2,2018-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangxi/L1/2013|2013-05-01,EPI530756,H3N2,2013-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangxi/L2/2013|2013-05-01,EPI530769,H3N2,2013-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/11/2019|2019-01-01,ON877717,H3N2,2019-01-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/1180/2019|2019-05-01,ON877725,H3N2,2019-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/15/2019|2019-07-01,ON877733,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/16/2019|2019-07-01,ON877741,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/17/2019|2019-02-01,ON877749,H3N2,2019-02-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/20/2019|2019-06-01,ON877757,H3N2,2019-06-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/25/2019|2019-07-01,ON877765,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/35/2019|2019-07-01,ON877773,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/37/2019|2019-07-01,ON877781,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/38/2019|2019-07-01,ON877789,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/603/2018|2018-02-01,ON877797,H3N2,2018-02-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Guangzhou/8/2018|2018-11-01,ON877805,H3N2,2018-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Hainan/615/2018|2018-02-01,ON877813,H3N2,2018-02-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Hainan/79/2019|2019-07-01,ON877821,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Hainan/CAU-W17/2015|2015-05-01,EPI2868584,H3N2,2015-05-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Hainan/F4/2018|2018-12-01,ON877829,H3N2,2018-12-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Hainan/W3/2019|2019-06-01,ON877837,H3N2,2019-06-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Hainan/W5/2019|2019-06-01,ON877845,H3N2,2019-06-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Hainan/W8/2019|2019-06-01,ON877853,H3N2,2019-06-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Heilongjiang/1/2018|2018-10-15,EPI3097588,H3N2,2018-10-15,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Heilongjiang/1/2019|2019-01-23,EPI3097744,H3N2,2019-01-23,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Heilongjiang/2/2019|2019-05-04,EPI3097752,H3N2,2019-05-04,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Heilongjiang/3/2019|2019-11-21,EPI3097760,H3N2,2019-11-21,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Heilongjiang/L1/2013|2013-03-10,EPI531367,H3N2,2013-03-10,Canine,China,China,Canine,canine,Canine,8
+A/canine/Henan/L02/2018|2018-03-01,EPI1931787,H3N2,2018-03-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Henan/L03/2018|2018-05-01,OK354200,H3N2,2018-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Henan/L06/2018|2018-05-01,EPI1931795,H3N2,2018-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Illinois/077752/2016|2016-09-01,EPI1308203,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/077753/2016|2016-11-01,EPI1098538,H3N2,2016-11-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/0843093/2015|2015-03-30,EPI839097,H3N2,2015-03-30,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/091375-16-1-1/2016|2016-09-01,EPI1308181,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/12191/2015|2015-04-15,EPI620467,H3N2,2015-04-15,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/145135-16-3-1/2016|2016-09-01,EPI1308193,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/1619144/2015|2015-04-14,EPI839127,H3N2,2015-04-14,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/187427-16-7/2016|2016-04-01,EPI1224228,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/20170110-1A4/2016|2016-09-01,EPI1308183,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/20170110-1G12/2016|2016-04-01,EPI1224116,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/20170110-1G4/2016|2016-04-01,EPI1224080,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/20170110-2F1/2016|2016-04-01,EPI1224221,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/20170110-2G1/2016|2016-04-01,EPI1224100,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/21-015197-001/2021|2021-05-17,EPI1896542,H3N2,2021-05-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/21-015197-005/2021|2021-05-17,EPI1896550,H3N2,2021-05-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/278597/2016|2016-09-01,EPI1308197,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/283066/2015|2015-11-01,EPI1098570,H3N2,2015-11-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/2883703/2015|2015-05-07,EPI838676,H3N2,2015-05-07,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/328292/2015|2015-11-01,EPI1098557,H3N2,2015-11-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/41915/2015|2015-09-01,EPI1308121,H3N2,2015-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/A37/2017|2017-11-01,EPI1308104,H3N2,2017-11-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/I0182389/2015|2015-09-01,EPI1308144,H3N2,2015-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M16-16391-2-1/2016|2016-04-01,EPI1224046,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M16-25374-14-1/2016|2016-04-01,EPI1224061,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M16-25374-19-1/2016|2016-04-01,EPI1224227,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M16-30480-3-1/2016|2016-04-01,EPI1224066,H3N2,2016-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M17-05782-1-1/2017|2017-04-01,EPI1224107,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M17-05782-11-1/2017|2017-04-01,EPI1224039,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M17-05782-4-1/2017|2017-04-01,EPI1224129,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M17-05782-7-1/2017|2017-04-01,EPI1224070,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Illinois/M17-05782-8-1/2017|2017-04-01,EPI1224183,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/003018/2016|2016-11-01,EPI1098554,H3N2,2016-11-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/093165-16-1-1/2016|2016-09-01,EPI1308137,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/1177-17-1/2017|2017-09-01,EPI1308120,H3N2,2017-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/130636/2017|2017-07-29,EPI1308012,H3N2,2017-07-29,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/132276-16-1-2/2016|2016-09-01,EPI1308119,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/17031-16-2/2016|2016-09-01,EPI1308154,H3N2,2016-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/2093681/2015|2015-09-01,EPI1308094,H3N2,2015-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Indiana/96198/2015|2015-07-02,EPI838688,H3N2,2015-07-02,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Indiana/M16-09378-32-1/2016|2016-04-05,OQ954720,H3N2,2016-04-05,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Jiangsu/01/2009|2009-12-01,JN247582,H3N2,2009-12-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Jiangsu/02/2010|2010-03-01,JN247590,H3N2,2010-03-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Jiangsu/03/2010|2010-04-01,JN247598,H3N2,2010-04-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Jiangsu/04/2010|2010-05-01,EPI326415,H3N2,2010-05-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Jiangsu/05/2010|2010-05-01,EPI326407,H3N2,2010-05-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Jiangsu/06/2010|2010-06-01,EPI326399,H3N2,2010-06-01,Canine,China,China,Canine,Canine,Canine,8
+A/canine/Jilin/01/2023|2023-12-28,EPI3571363,H3N2,2023-12-28,Canine,China,China,Canine,canine,Canine,8
+A/canine/Kentucky/128656/2017|2017-07-26,EPI1308020,H3N2,2017-07-26,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Kentucky/174490/2017|2017-10-09,EPI1308028,H3N2,2017-10-09,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Kentucky/20170606-23/2017|2017-04-01,EPI1224023,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Kentucky/20170606-6/2017|2017-04-01,EPI1224084,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Korea/01/2007|2007-05-01,EPI389762,H3N2,2007-05-01,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/0589318/2015|2015-03-05,EPI839118,H3N2,2015-03-05,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-01/2009|2009-09-18,MH105835,H3N2,2009-09-18,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-03/2012|2012-05-10,MH105836,H3N2,2012-05-10,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-04/2012|2012-06-11,MH105837,H3N2,2012-06-11,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-05/2012|2012-07-14,MH105838,H3N2,2012-07-14,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-06/2012|2012-08-24,MH105839,H3N2,2012-08-24,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-08/2012|2012-09-17,MH105840,H3N2,2012-09-17,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-09/2012|2012-10-15,MH105841,H3N2,2012-10-15,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-11/2013|2013-06-08,MH105842,H3N2,2013-06-08,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-14/2013|2013-08-09,MH105843,H3N2,2013-08-09,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/AS-15/2013|2013-09-11,MH105844,H3N2,2013-09-11,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/BD-1/2013|2013-05-30,KR154324,H3N2,2013-05-30,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/CY009/2010|2010-10-01,KC755921,H3N2,2010-10-01,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/CY053/2014|2014-03-02,KX509808,H3N2,2014-03-02,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/DG1/2014|2014-02-13,KR154332,H3N2,2014-02-13,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/GCVP01/2007|2007-01-01,FJ560885,H3N2,2007-01-01,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/KRIBB01/2011|2011-11-01,EPI398993,H3N2,2011-11-01,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/LBM412/2008|2008-10-01,GU122045,H3N2,2008-10-01,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/MV1/2012|2012-11-07,EPI460108,H3N2,2012-11-07,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/S1/2012|2012-11-05,KP137813,H3N2,2012-11-05,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Korea/SH1/2014|2014-09-01,EPI2467567,H3N2,2014-09-01,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/SH2/2016|2016-07-22,EPI2467947,H3N2,2016-07-22,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/SH3/2016|2016-07-22,EPI2468088,H3N2,2016-07-22,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/SH4/2016|2016-07-22,EPI2468352,H3N2,2016-07-22,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/SH5/2015|2015-11-20,EPI2468359,H3N2,2015-11-20,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/SH6/2017|2017-11-07,EPI2468367,H3N2,2017-11-07,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/VC123578/2012|2012-03-13,EPI544909,H3N2,2012-03-13,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Korea/VC378/2012|2012-03-13,EPI544902,H3N2,2012-03-13,Canine,South Korea,Japan Korea,Canine,Canine,Canine,8
+A/canine/Liaoning/10/2018|2018-11-01,ON877861,H3N2,2018-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/1388/2019|2019-09-01,ON877877,H3N2,2019-09-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/1578/2010|2010-04-06,EPI407581,H3N2,2010-04-06,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/1585/2010|2010-04-06,EPI407493,H3N2,2010-04-06,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/27/2012|2012-04-11,EPI531351,H3N2,2012-04-11,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/282/2017|2017-08-01,ON877885,H3N2,2017-08-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/284/2017|2017-08-01,ON877893,H3N2,2017-08-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/530/2018|2018-01-01,ON877901,H3N2,2018-01-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Liaoning/H6/2012|2012-05-19,EPI531359,H3N2,2012-05-19,Canine,China,China,Canine,canine,Canine,8
+A/canine/Minnesota/012684/2023|2023-04-17,EPI2564006,H3N2,2023-04-17,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Minnesota/139684/2017|2017-08-10,EPI1308036,H3N2,2017-08-10,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Minnesota/23-012684-001/2023|2023-04-17,OQ990378,H3N2,2023-04-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Nanjing/20170328-7/2017|2017-03-28,EPI1554871,H3N2,2017-03-28,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nanjing/20170419-12/2017|2017-04-19,EPI1554863,H3N2,2017-04-19,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nanjing/20170515-25/2017|2017-05-15,EPI1554855,H3N2,2017-05-15,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nanjing/20170607-40/2017|2017-06-07,EPI1554847,H3N2,2017-06-07,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nanjing/20170620-47/2017|2017-06-20,EPI1554839,H3N2,2017-06-20,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nanjing/20170704-53/2017|2017-07-04,EPI1554831,H3N2,2017-07-04,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nanjing/404/2017|2017-11-01,ON877909,H3N2,2017-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nanjing/543/2018|2018-01-01,ON877917,H3N2,2018-01-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Nevada/BRW015/2018|2018-02-07,MK690596,H3N2,2018-02-07,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Nevada/BRW018/2018|2018-03-01,MK690604,H3N2,2018-03-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/New_Jersey/CRP036/2018|2018-05-13,MK690612,H3N2,2018-05-13,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/New_York/CRP034/2018|2018-05-07,MK690620,H3N2,2018-05-07,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/North_Carolina/090487/2017|2017-05-26,EPI1308044,H3N2,2017-05-26,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/North_Carolina/103297/2015|2015-09-01,EPI1308073,H3N2,2015-09-01,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/North_Carolina/109904/2015|2015-07-29,EPI839099,H3N2,2015-07-29,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/NorthCarolina/20170606-28/2017|2017-04-01,EPI1224176,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Ohio/174509/2017|2017-10-08,EPI1308052,H3N2,2017-10-08,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Ohio/188191/2017|2017-10-31,MK690128,H3N2,2017-10-31,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Ohio/A82/2017|2017-10-28,EPI1308060,H3N2,2017-10-28,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Ohio/A91/2017|2017-10-28,MH266377,H3N2,2017-10-28,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Ohio/A97/2017|2017-10-28,EPI1307992,H3N2,2017-10-28,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Oklahoma/011242/2023|2023-04-05,EPI2564014,H3N2,2023-04-05,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Oklahoma/23-011242-001/2023|2023-04-05,OQ990386,H3N2,2023-04-05,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-001-4/2018|2018-01-05,EPI1772341,H3N2,2018-01-05,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-064-1/2018|2018-10-15,EPI1772349,H3N2,2018-10-15,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-069-1/2018|2018-10-22,EPI1772357,H3N2,2018-10-22,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-069-10/2018|2018-10-18,EPI1772365,H3N2,2018-10-18,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-069-6/2018|2018-10-22,EPI1772373,H3N2,2018-10-22,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-069-9/2018|2018-10-24,EPI1772381,H3N2,2018-10-24,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-1/2018|2018-01-09,EPI1772389,H3N2,2018-01-09,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-10/2018|2018-03-09,EPI1772397,H3N2,2018-03-09,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-11/2018|2018-03-09,EPI1772405,H3N2,2018-03-09,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-12/2018|2018-03-13,EPI1772413,H3N2,2018-03-13,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-13/2018|2018-03-13,EPI1772421,H3N2,2018-03-13,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-14/2018|2018-03-14,EPI1772429,H3N2,2018-03-14,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-15/2018|2018-03-14,EPI1772437,H3N2,2018-03-14,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-16/2018|2018-03-26,EPI1772445,H3N2,2018-03-26,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-2/2018|2018-01-09,EPI1772453,H3N2,2018-01-09,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-3/2018|2018-01-13,EPI1772461,H3N2,2018-01-13,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-4/2018|2018-01-26,EPI1772469,H3N2,2018-01-26,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-5/2018|2018-02-01,EPI1772477,H3N2,2018-02-01,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-7/2018|2018-03-02,EPI1772485,H3N2,2018-03-02,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-8/2018|2018-03-02,EPI1772493,H3N2,2018-03-02,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Ontario/NCFAD-2018-070-9/2018|2018-03-02,EPI1772501,H3N2,2018-03-02,Canine,Canada,North America,Canine,canine,Canine,8
+A/canine/Pennsylvania/0261885/2015|2015-09-01,EPI1308080,H3N2,2015-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Pennsylvania/037756-1/2023|2023-02-22,OR738655,H3N2,2023-02-22,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Pennsylvania/20170411-5/2017|2017-04-01,EPI1224166,H3N2,2017-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Pennsylvania/985419/2023|2023-02-07,OR732208,H3N2,2023-02-07,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Pennsylvania/CVM-037756-1/2023|2023-02-22,EPI2907473,H3N2,2023-02-22,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Pennsylvania/CVM-985419/2023|2023-02-07,EPI2906958,H3N2,2023-02-07,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Shanghai/1204/2019|2019-05-01,ON877925,H3N2,2019-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanghai/159/2017|2017-10-01,ON877941,H3N2,2017-10-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanghai/20170622-7/2017|2017-06-22,EPI1554823,H3N2,2017-06-22,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanghai/20170713-18/2017|2017-07-13,EPI1554815,H3N2,2017-07-13,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanghai/20170721-36/2017|2017-07-21,EPI1554807,H3N2,2017-07-21,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanghai/354/2017|2017-10-01,ON877949,H3N2,2017-10-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanghai/755/2018|2018-05-01,ON877957,H3N2,2018-05-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanxi/1286/2019|2019-07-01,ON877965,H3N2,2019-07-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanxi/361/2017|2017-10-01,ON877981,H3N2,2017-10-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Shanxi/676/2018|2018-04-01,ON877989,H3N2,2018-04-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Singapore/SG_NParks_CIV_M10305/2018|2018-06-01,EPI2162123,H3N2,2018-06-01,Canine,Singapore,Southeast Asia,Canine,Canine,Canine,8
+A/canine/Singapore/SG_NParks_CIV_M3405/2018|2018-06-01,EPI2162107,H3N2,2018-06-01,Canine,Singapore,Southeast Asia,Canine,canine,Canine,8
+A/canine/Singapore/SG_NParks_CIV_M4705/2018|2018-06-01,ON965272,H3N2,2018-06-01,Canine,Singapore,Southeast Asia,Canine,canine,Canine,8
+A/canine/South_Carolina/132956/2017|2017-08-01,EPI1308000,H3N2,2017-08-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/South_Korea/0173915/2015|2015-11-01,EPI1098573,H3N2,2015-11-01,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/South_Korea/20170110-1F1/2016|2016-04-01,EPI1224208,H3N2,2016-04-01,Canine,South Korea,Japan Korea,Canine,canine,Canine,8
+A/canine/Tennessee/231361-1/2022|2022-10-10,OR738663,H3N2,2022-10-10,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Tennessee/CVM-231361-1/2022|2022-10-10,EPI2907481,H3N2,2022-10-10,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/042018-2/2023|2023-02-28,OR738671,H3N2,2023-02-28,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/042018-3/2023|2023-02-28,OR738679,H3N2,2023-02-28,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/21-011409-001/2021|2021-04-01,EPI1896558,H3N2,2021-04-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/2100186/2015|2015-09-01,EPI1308077,H3N2,2015-09-01,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/343907/2015|2015-12-22,EPI839135,H3N2,2015-12-22,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/CVM-0204151/2023|2023-01-20,EPI2907367,H3N2,2023-01-20,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-0204171/2023|2023-01-20,EPI2907359,H3N2,2023-01-20,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-042018-3/2023|2023-02-28,EPI2907490,H3N2,2023-02-28,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-0420182/2023|2023-02-28,EPI2907375,H3N2,2023-02-28,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-04914241/2023|2023-02-20,EPI2907138,H3N2,2023-02-20,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-04914311/2023|2023-02-20,EPI2907146,H3N2,2023-02-20,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-06880321/2023|2023-03-08,EPI2907154,H3N2,2023-03-08,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-0688041/2023|2023-03-07,EPI2907199,H3N2,2023-03-07,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-0688071/2023|2023-03-08,EPI2907207,H3N2,2023-03-08,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-09336121/2023|2023-03-24,EPI2907215,H3N2,2023-03-24,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-09336221/2023|2023-03-25,EPI2907223,H3N2,2023-03-25,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-0933631/2023|2023-03-23,EPI2907231,H3N2,2023-03-23,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-0933641/2023|2023-03-23,EPI2907239,H3N2,2023-03-23,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-09336441/2023|2023-03-27,EPI2907247,H3N2,2023-03-27,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-09336521/2023|2023-03-26,EPI2907255,H3N2,2023-03-26,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/CVM-3578541/2022|2022-11-09,EPI2906967,H3N2,2022-11-09,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Texas/M22-35785-4-1/2022|2022-11-09,OR732216,H3N2,2022-11-09,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-02041-5-1/2023|2023-01-20,OR737664,H3N2,2023-01-20,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-02041-7-1/2023|2023-01-20,OR737672,H3N2,2023-01-20,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-04914-24-1/2023|2023-02-20,OR737680,H3N2,2023-02-20,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-04914-31-1/2023|2023-02-20,OR737688,H3N2,2023-02-20,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-06880-32-1/2023|2023-03-08,OR737696,H3N2,2023-03-08,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-06880-4-1/2023|2023-03-07,OR737704,H3N2,2023-03-07,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-06880-7-1/2023|2023-03-08,OR737712,H3N2,2023-03-08,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-09336-12-1/2023|2023-03-24,OR737720,H3N2,2023-03-24,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-09336-22-1/2023|2023-03-25,OR737728,H3N2,2023-03-25,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-09336-3-1/2023|2023-03-23,OR737736,H3N2,2023-03-23,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-09336-4-1/2023|2023-03-23,OR737744,H3N2,2023-03-23,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-09336-44-1/2023|2023-03-27,OR737752,H3N2,2023-03-27,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Texas/M23-09336-52-1/2023|2023-03-26,OR737760,H3N2,2023-03-26,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Thailand/CU-DC5299/2012|2012-01-15,KC599545,H3N2,2012-01-15,Canine,Thailand,Southeast Asia,Canine,canine,Canine,8
+A/canine/Tianjin/368/2017|2017-11-01,ON878005,H3N2,2017-11-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Tianjin/570/2018|2018-01-01,ON878013,H3N2,2018-01-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Tianjin/643/2018|2018-03-01,ON878021,H3N2,2018-03-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Tianjin/83/2018|2018-09-01,ON878029,H3N2,2018-09-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Tianjin/84/2018|2018-09-01,ON878037,H3N2,2018-09-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Tianjin/85/2018|2018-09-01,ON878045,H3N2,2018-09-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Tianjin/89/2019|2019-10-01,ON878053,H3N2,2019-10-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Virginia/002912-1/2023|2023-01-04,OR738687,H3N2,2023-01-04,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Virginia/CVM-0029121/2023|2023-01-04,EPI2907263,H3N2,2023-01-04,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/West_Virginia/120508-1/2023|2023-05-19,OR738695,H3N2,2023-05-19,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/West_Virginia/CVM-120508-1/2023|2023-05-19,EPI2907271,H3N2,2023-05-19,Canine,Usa,North America,Canine,Canine,Canine,8
+A/canine/Wisconsin/19137/2016|2016-02-08,EPI838693,H3N2,2016-02-08,Canine,Usa,North America,Canine,canine,Canine,8
+A/canine/Xi'an/20170601-157/2017|2017-06-01,EPI1554799,H3N2,2017-06-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Xi'an/20170601-159/2017|2017-06-01,EPI1554791,H3N2,2017-06-01,Canine,China,China,Canine,canine,Canine,8
+A/canine/Zhejiang/1/2010|2010-09-30,JF714154,H3N2,2010-09-30,Canine,China,China,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/000915/2018|2018-01-03,EPI1526331,H3N2,2018-01-03,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/006974/2018|2018-01-17,EPI1526339,H3N2,2018-01-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/007780/2018|2018-01-17,EPI1526347,H3N2,2018-01-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/007781/2018|2018-01-17,EPI1526355,H3N2,2018-01-17,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/118191/2017|2017-10-31,EPI1526395,H3N2,2017-10-31,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/150620/2018|2018-08-21,EPI1526371,H3N2,2018-08-21,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/152386/2018|2018-08-23,EPI1526379,H3N2,2018-08-23,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/188203/2017|2017-10-31,EPI1526403,H3N2,2017-10-31,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/188226/2017|2017-10-31,EPI1526411,H3N2,2017-10-31,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/188297/2017|2017-10-31,MK690152,H3N2,2017-10-31,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/188305/2017|2017-10-31,MK690160,H3N2,2017-10-31,Canine,Usa,North America,Canine,canine,Canine,8
+A/Canis_lupus_familiaris/USA/218592/2017|2017-12-30,MK690168,H3N2,2017-12-30,Canine,Usa,North America,Canine,canine,Canine,8
+A/dog/Indiana/M16-09378-32-1/2016|2016-04-05,EPI2597125,H3N2,2016-04-05,Canine,Usa,North America,Canine,canine,Canine,8
+C1|2023-02-02,C1,H3N2,2023-02-02,Canine,Usa,North America,Canine,Canine,Canine,8
+C12|2023-02-01,C12,H3N2,2023-02-01,Canine,Usa,North America,Canine,Canine,Canine,8
+C13|2023-03-13,C13,H3N2,2023-03-13,Canine,Usa,North America,Canine,Canine,Canine,8
+C15|2023-03-13,C15,H3N2,2023-03-13,Canine,Usa,North America,Canine,Canine,Canine,8
+C17|2023-02-06,C17,H3N2,2023-02-06,Canine,Usa,North America,Canine,Canine,Canine,8
+C2|2022-11-24,C2,H3N2,2022-11-24,Canine,Usa,North America,Canine,Canine,Canine,8
+C4|2023-02-15,C4,H3N2,2023-02-15,Canine,Usa,North America,Canine,Canine,Canine,8
+C5|2023-03-13,C5,H3N2,2023-03-13,Canine,Usa,North America,Canine,Canine,Canine,8
+C6|2023-02-03,C6,H3N2,2023-02-03,Canine,Usa,North America,Canine,Canine,Canine,8
+C7|2023-04-13,C7,H3N2,2023-04-13,Canine,Usa,North America,Canine,Canine,Canine,8

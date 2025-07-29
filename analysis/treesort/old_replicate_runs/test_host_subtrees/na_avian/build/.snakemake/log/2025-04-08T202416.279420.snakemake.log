@@ -1,0 +1,1069 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 6
+Rules claiming more threads will be scaled down.
+Job stats:
+job                 count
+----------------  -------
+align                   8
+all                     1
+ancestral               8
+count_n_segments        8
+export                  8
+filter                  8
+parse                   8
+refine                  8
+traits                  8
+translate               8
+tree                    8
+total                  81
+
+Select jobs to execute...
+
+[Tue Apr  8 20:24:16 2025]
+Job 9: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_pb1.fasta, results/metadata/metadata_h3nx_pb1.tsv
+
+
+        augur parse             --sequences sequences/h3nx_pb1.fasta             --output-sequences results/sequences/sequences_h3nx_pb1.fasta             --output-metadata results/metadata/metadata_h3nx_pb1.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+
+[Tue Apr  8 20:24:16 2025]
+Job 11: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_np.fasta, results/metadata/metadata_h3nx_np.tsv
+
+
+        augur parse             --sequences sequences/h3nx_np.fasta             --output-sequences results/sequences/sequences_h3nx_np.fasta             --output-metadata results/metadata/metadata_h3nx_np.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+
+[Tue Apr  8 20:24:16 2025]
+Job 6: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_ha.fasta, results/metadata/metadata_h3nx_ha.tsv
+
+
+        augur parse             --sequences sequences/h3nx_ha.fasta             --output-sequences results/sequences/sequences_h3nx_ha.fasta             --output-metadata results/metadata/metadata_h3nx_ha.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+
+[Tue Apr  8 20:24:16 2025]
+Job 8: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/metadata/metadata_h3nx_pb2.tsv, results/sequences/sequences_h3nx_pb2.fasta
+
+
+        augur parse             --sequences sequences/h3nx_pb2.fasta             --output-sequences results/sequences/sequences_h3nx_pb2.fasta             --output-metadata results/metadata/metadata_h3nx_pb2.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+
+[Tue Apr  8 20:24:16 2025]
+Job 12: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_pa.fasta, results/metadata/metadata_h3nx_pa.tsv
+
+
+        augur parse             --sequences sequences/h3nx_pa.fasta             --output-sequences results/sequences/sequences_h3nx_pa.fasta             --output-metadata results/metadata/metadata_h3nx_pa.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+
+[Tue Apr  8 20:24:16 2025]
+Job 14: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/sequences/sequences_h3nx_mp.fasta, results/metadata/metadata_h3nx_mp.tsv
+
+
+        augur parse             --sequences sequences/h3nx_mp.fasta             --output-sequences results/sequences/sequences_h3nx_mp.fasta             --output-metadata results/metadata/metadata_h3nx_mp.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+[Tue Apr  8 20:24:17 2025]
+Finished job 14.
+1 of 81 steps (1%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:17 2025]
+Job 13: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/metadata/metadata_h3nx_ns.tsv, results/sequences/sequences_h3nx_ns.fasta
+
+
+        augur parse             --sequences sequences/h3nx_ns.fasta             --output-sequences results/sequences/sequences_h3nx_ns.fasta             --output-metadata results/metadata/metadata_h3nx_ns.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+[Tue Apr  8 20:24:17 2025]
+Finished job 11.
+2 of 81 steps (2%) done
+[Tue Apr  8 20:24:17 2025]
+Finished job 6.
+3 of 81 steps (4%) done
+[Tue Apr  8 20:24:17 2025]
+Finished job 9.
+4 of 81 steps (5%) done
+[Tue Apr  8 20:24:17 2025]
+Finished job 12.
+5 of 81 steps (6%) done
+[Tue Apr  8 20:24:17 2025]
+Finished job 8.
+6 of 81 steps (7%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:18 2025]
+Job 10: Parsing fasta into sequences and metadata
+Reason: Missing output files: results/metadata/metadata_h3nx_na.tsv, results/sequences/sequences_h3nx_na.fasta
+
+
+        augur parse             --sequences sequences/h3nx_na.fasta             --output-sequences results/sequences/sequences_h3nx_na.fasta             --output-metadata results/metadata/metadata_h3nx_na.tsv             --fields strain accession subtype date host country region species broad order             --prettify-fields country host species region order
+        
+[Tue Apr  8 20:24:18 2025]
+Finished job 13.
+7 of 81 steps (9%) done
+[Tue Apr  8 20:24:18 2025]
+Finished job 10.
+8 of 81 steps (10%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:18 2025]
+Job 7: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_ha.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_ha.tsv         	--output results/metadata_annotated/metadata_h3nx_ha.tsv
+        
+
+[Tue Apr  8 20:24:18 2025]
+Job 32: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_pb1.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_pb1.tsv         	--output results/metadata_annotated/metadata_h3nx_pb1.tsv
+        
+
+[Tue Apr  8 20:24:18 2025]
+Job 77: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_mp.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_mp.tsv         	--output results/metadata_annotated/metadata_h3nx_mp.tsv
+        
+
+[Tue Apr  8 20:24:18 2025]
+Job 23: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_pb2.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_pb2.tsv         	--output results/metadata_annotated/metadata_h3nx_pb2.tsv
+        
+
+[Tue Apr  8 20:24:18 2025]
+Job 59: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_pa.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_pa.tsv         	--output results/metadata_annotated/metadata_h3nx_pa.tsv
+        
+
+[Tue Apr  8 20:24:18 2025]
+Job 50: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_np.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_np.tsv         	--output results/metadata_annotated/metadata_h3nx_np.tsv
+        
+[Tue Apr  8 20:24:18 2025]
+Finished job 32.
+9 of 81 steps (11%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:18 2025]
+Job 68: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_ns.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_ns.tsv         	--output results/metadata_annotated/metadata_h3nx_ns.tsv
+        
+[Tue Apr  8 20:24:18 2025]
+Finished job 77.
+10 of 81 steps (12%) done
+[Tue Apr  8 20:24:18 2025]
+Finished job 7.
+11 of 81 steps (14%) done
+[Tue Apr  8 20:24:18 2025]
+Finished job 23.
+12 of 81 steps (15%) done
+[Tue Apr  8 20:24:18 2025]
+Finished job 59.
+13 of 81 steps (16%) done
+[Tue Apr  8 20:24:18 2025]
+Finished job 50.
+14 of 81 steps (17%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:18 2025]
+Job 41: Counting number of segments each strain has
+Reason: Missing output files: results/metadata_annotated/metadata_h3nx_na.tsv; Input files updated by another job: results/metadata/metadata_h3nx_np.tsv, results/metadata/metadata_h3nx_pb1.tsv, results/metadata/metadata_h3nx_mp.tsv, results/metadata/metadata_h3nx_na.tsv, results/metadata/metadata_h3nx_ns.tsv, results/metadata/metadata_h3nx_ha.tsv, results/metadata/metadata_h3nx_pb2.tsv, results/metadata/metadata_h3nx_pa.tsv
+
+
+        python scripts/add_segment_counts.py         	--segments results/metadata/metadata_h3nx_ha.tsv results/metadata/metadata_h3nx_pb2.tsv results/metadata/metadata_h3nx_pb1.tsv results/metadata/metadata_h3nx_na.tsv results/metadata/metadata_h3nx_np.tsv results/metadata/metadata_h3nx_pa.tsv results/metadata/metadata_h3nx_ns.tsv results/metadata/metadata_h3nx_mp.tsv         	--metadata results/metadata/metadata_h3nx_na.tsv         	--output results/metadata_annotated/metadata_h3nx_na.tsv
+        
+
+[Tue Apr  8 20:24:18 2025]
+Job 5: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_ha.txt, results/filtered/filtered_h3nx_ha.fasta; Input files updated by another job: results/sequences/sequences_h3nx_ha.fasta, results/metadata_annotated/metadata_h3nx_ha.tsv
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_ha.fasta             --metadata results/metadata_annotated/metadata_h3nx_ha.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_ha.fasta             --output-strains results/filtered/filtered_h3nx_ha.txt              --group-by year country host subtype --sequences-per-group 30 --min-date 1960 --include config/include_strains_h3nx.txt --exclude-where host=ferret n_segments!=8 --min-length 1600 --non-nucleotide
+        
+[Tue Apr  8 20:24:18 2025]
+Finished job 68.
+15 of 81 steps (19%) done
+[Tue Apr  8 20:24:18 2025]
+Finished job 41.
+16 of 81 steps (20%) done
+[Tue Apr  8 20:24:19 2025]
+Finished job 5.
+17 of 81 steps (21%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:19 2025]
+Job 22: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_pb2.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt, results/metadata_annotated/metadata_h3nx_pb2.tsv, results/sequences/sequences_h3nx_pb2.fasta
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_pb2.fasta             --metadata results/metadata_annotated/metadata_h3nx_pb2.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_pb2.fasta             --output-strains results/filtered/filtered_h3nx_pb2.txt             --exclude-all --include results/filtered/filtered_h3nx_ha.txt config/include_strains_h3nx.txt
+        
+
+[Tue Apr  8 20:24:19 2025]
+Job 67: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_ns.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt, results/metadata_annotated/metadata_h3nx_ns.tsv, results/sequences/sequences_h3nx_ns.fasta
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_ns.fasta             --metadata results/metadata_annotated/metadata_h3nx_ns.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_ns.fasta             --output-strains results/filtered/filtered_h3nx_ns.txt             --exclude-all --include results/filtered/filtered_h3nx_ha.txt config/include_strains_h3nx.txt
+        
+
+[Tue Apr  8 20:24:19 2025]
+Job 58: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_pa.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt, results/sequences/sequences_h3nx_pa.fasta, results/metadata_annotated/metadata_h3nx_pa.tsv
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_pa.fasta             --metadata results/metadata_annotated/metadata_h3nx_pa.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_pa.fasta             --output-strains results/filtered/filtered_h3nx_pa.txt             --exclude-all --include results/filtered/filtered_h3nx_ha.txt config/include_strains_h3nx.txt
+        
+
+[Tue Apr  8 20:24:19 2025]
+Job 49: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_np.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt, results/sequences/sequences_h3nx_np.fasta, results/metadata_annotated/metadata_h3nx_np.tsv
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_np.fasta             --metadata results/metadata_annotated/metadata_h3nx_np.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_np.fasta             --output-strains results/filtered/filtered_h3nx_np.txt             --exclude-all --include results/filtered/filtered_h3nx_ha.txt config/include_strains_h3nx.txt
+        
+
+[Tue Apr  8 20:24:19 2025]
+Job 31: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_pb1.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt, results/metadata_annotated/metadata_h3nx_pb1.tsv, results/sequences/sequences_h3nx_pb1.fasta
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_pb1.fasta             --metadata results/metadata_annotated/metadata_h3nx_pb1.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_pb1.fasta             --output-strains results/filtered/filtered_h3nx_pb1.txt             --exclude-all --include results/filtered/filtered_h3nx_ha.txt config/include_strains_h3nx.txt
+        
+
+[Tue Apr  8 20:24:19 2025]
+Job 76: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_mp.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt, results/sequences/sequences_h3nx_mp.fasta, results/metadata_annotated/metadata_h3nx_mp.tsv
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_mp.fasta             --metadata results/metadata_annotated/metadata_h3nx_mp.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_mp.fasta             --output-strains results/filtered/filtered_h3nx_mp.txt             --exclude-all --include results/filtered/filtered_h3nx_ha.txt config/include_strains_h3nx.txt
+        
+[Tue Apr  8 20:24:20 2025]
+Finished job 67.
+18 of 81 steps (22%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:20 2025]
+Job 40: 
+        Filtering to
+          - excluding strains in config/dropped_strains_h3nx.txt
+          - samples with missing region and country metadata
+        
+Reason: Missing output files: results/filtered/filtered_h3nx_na.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.txt, results/sequences/sequences_h3nx_na.fasta, results/metadata_annotated/metadata_h3nx_na.tsv
+
+
+        augur filter             --sequences results/sequences/sequences_h3nx_na.fasta             --metadata results/metadata_annotated/metadata_h3nx_na.tsv             --exclude config/dropped_strains_h3nx.txt             --output-sequences results/filtered/filtered_h3nx_na.fasta             --output-strains results/filtered/filtered_h3nx_na.txt             --exclude-all --include results/filtered/filtered_h3nx_ha.txt config/include_strains_h3nx.txt
+        
+[Tue Apr  8 20:24:20 2025]
+Finished job 49.
+19 of 81 steps (23%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:20 2025]
+Job 4: 
+        Aligning sequences to config/references/h3nx_ha.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_ha.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ha.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_ha.fasta             --reference-sequence config/references/h3nx_ha.gb             --output results/alignments/aligned_h3nx_ha.fasta             --remove-reference             --nthreads 1
+        
+[Tue Apr  8 20:24:20 2025]
+Finished job 76.
+20 of 81 steps (25%) done
+[Tue Apr  8 20:24:20 2025]
+Finished job 22.
+21 of 81 steps (26%) done
+[Tue Apr  8 20:24:20 2025]
+Finished job 58.
+22 of 81 steps (27%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:20 2025]
+Job 21: 
+        Aligning sequences to config/references/h3nx_pb2.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_pb2.fasta; Input files updated by another job: results/filtered/filtered_h3nx_pb2.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_pb2.fasta             --reference-sequence config/references/h3nx_pb2.gb             --output results/alignments/aligned_h3nx_pb2.fasta             --remove-reference             --nthreads 1
+        
+
+[Tue Apr  8 20:24:20 2025]
+Job 48: 
+        Aligning sequences to config/references/h3nx_np.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_np.fasta; Input files updated by another job: results/filtered/filtered_h3nx_np.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_np.fasta             --reference-sequence config/references/h3nx_np.gb             --output results/alignments/aligned_h3nx_np.fasta             --remove-reference             --nthreads 1
+        
+
+[Tue Apr  8 20:24:20 2025]
+Job 57: 
+        Aligning sequences to config/references/h3nx_pa.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_pa.fasta; Input files updated by another job: results/filtered/filtered_h3nx_pa.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_pa.fasta             --reference-sequence config/references/h3nx_pa.gb             --output results/alignments/aligned_h3nx_pa.fasta             --remove-reference             --nthreads 1
+        
+[Tue Apr  8 20:24:20 2025]
+Finished job 31.
+23 of 81 steps (28%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:20 2025]
+Job 30: 
+        Aligning sequences to config/references/h3nx_pb1.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_pb1.fasta; Input files updated by another job: results/filtered/filtered_h3nx_pb1.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_pb1.fasta             --reference-sequence config/references/h3nx_pb1.gb             --output results/alignments/aligned_h3nx_pb1.fasta             --remove-reference             --nthreads 1
+        
+Select jobs to execute...
+[Tue Apr  8 20:24:20 2025]
+Finished job 40.
+24 of 81 steps (30%) done
+
+[Tue Apr  8 20:24:20 2025]
+Job 39: 
+        Aligning sequences to config/references/h3nx_na.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_na.fasta; Input files updated by another job: results/filtered/filtered_h3nx_na.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_na.fasta             --reference-sequence config/references/h3nx_na.gb             --output results/alignments/aligned_h3nx_na.fasta             --remove-reference             --nthreads 1
+        
+[Tue Apr  8 20:24:31 2025]
+Finished job 39.
+25 of 81 steps (31%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:31 2025]
+Job 38: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_na.nwk; Input files updated by another job: results/alignments/aligned_h3nx_na.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_na.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_na.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:24:31 2025]
+Finished job 48.
+26 of 81 steps (32%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:31 2025]
+Job 47: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_np.nwk; Input files updated by another job: results/alignments/aligned_h3nx_np.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_np.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_np.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:24:32 2025]
+Finished job 4.
+27 of 81 steps (33%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:32 2025]
+Job 3: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_ha.nwk; Input files updated by another job: results/alignments/aligned_h3nx_ha.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_ha.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_ha.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:24:36 2025]
+Finished job 57.
+28 of 81 steps (35%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:36 2025]
+Job 56: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_pa.nwk; Input files updated by another job: results/alignments/aligned_h3nx_pa.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_pa.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_pa.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:24:36 2025]
+Finished job 21.
+29 of 81 steps (36%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:36 2025]
+Job 20: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_pb2.nwk; Input files updated by another job: results/alignments/aligned_h3nx_pb2.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_pb2.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_pb2.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:24:37 2025]
+Finished job 30.
+30 of 81 steps (37%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:37 2025]
+Job 29: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_pb1.nwk; Input files updated by another job: results/alignments/aligned_h3nx_pb1.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_pb1.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_pb1.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:24:42 2025]
+Finished job 38.
+31 of 81 steps (38%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:42 2025]
+Job 37: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/branch_lengths/branch-lengths_h3nx_na.json, results/iqtree/timed_tree/tree_h3nx_na.nwk; Input files updated by another job: results/metadata/metadata_h3nx_na.tsv, results/alignments/aligned_h3nx_na.fasta, results/iqtree/raw_tree/tree-raw_h3nx_na.nwk
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_na.nwk             --alignment results/alignments/aligned_h3nx_na.fasta             --metadata results/metadata/metadata_h3nx_na.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_na.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_na.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:24:43 2025]
+Finished job 47.
+32 of 81 steps (40%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:43 2025]
+Job 46: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/timed_tree/tree_h3nx_np.nwk, results/iqtree/branch_lengths/branch-lengths_h3nx_np.json; Input files updated by another job: results/alignments/aligned_h3nx_np.fasta, results/iqtree/raw_tree/tree-raw_h3nx_np.nwk, results/metadata/metadata_h3nx_np.tsv
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_np.nwk             --alignment results/alignments/aligned_h3nx_np.fasta             --metadata results/metadata/metadata_h3nx_np.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_np.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_np.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:24:47 2025]
+Finished job 3.
+33 of 81 steps (41%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:47 2025]
+Job 2: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/timed_tree/tree_h3nx_ha.nwk, results/iqtree/branch_lengths/branch-lengths_h3nx_ha.json; Input files updated by another job: results/iqtree/raw_tree/tree-raw_h3nx_ha.nwk, results/metadata/metadata_h3nx_ha.tsv, results/alignments/aligned_h3nx_ha.fasta
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_ha.nwk             --alignment results/alignments/aligned_h3nx_ha.fasta             --metadata results/metadata/metadata_h3nx_ha.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_ha.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_ha.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:24:51 2025]
+Finished job 56.
+34 of 81 steps (42%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:51 2025]
+Job 55: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/timed_tree/tree_h3nx_pa.nwk, results/iqtree/branch_lengths/branch-lengths_h3nx_pa.json; Input files updated by another job: results/iqtree/raw_tree/tree-raw_h3nx_pa.nwk, results/alignments/aligned_h3nx_pa.fasta, results/metadata/metadata_h3nx_pa.tsv
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_pa.nwk             --alignment results/alignments/aligned_h3nx_pa.fasta             --metadata results/metadata/metadata_h3nx_pa.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_pa.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_pa.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:24:52 2025]
+Finished job 29.
+35 of 81 steps (43%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:52 2025]
+Job 28: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/branch_lengths/branch-lengths_h3nx_pb1.json, results/iqtree/timed_tree/tree_h3nx_pb1.nwk; Input files updated by another job: results/iqtree/raw_tree/tree-raw_h3nx_pb1.nwk, results/metadata/metadata_h3nx_pb1.tsv, results/alignments/aligned_h3nx_pb1.fasta
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_pb1.nwk             --alignment results/alignments/aligned_h3nx_pb1.fasta             --metadata results/metadata/metadata_h3nx_pb1.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_pb1.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_pb1.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:24:53 2025]
+Finished job 20.
+36 of 81 steps (44%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:24:53 2025]
+Job 19: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/branch_lengths/branch-lengths_h3nx_pb2.json, results/iqtree/timed_tree/tree_h3nx_pb2.nwk; Input files updated by another job: results/metadata/metadata_h3nx_pb2.tsv, results/iqtree/raw_tree/tree-raw_h3nx_pb2.nwk, results/alignments/aligned_h3nx_pb2.fasta
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_pb2.nwk             --alignment results/alignments/aligned_h3nx_pb2.fasta             --metadata results/metadata/metadata_h3nx_pb2.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_pb2.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_pb2.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:25:03 2025]
+Finished job 37.
+37 of 81 steps (46%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:03 2025]
+Job 43: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_na.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_na.nwk, results/alignments/aligned_h3nx_na.fasta
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_na.nwk             --alignment results/alignments/aligned_h3nx_na.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_na.json             --inference joint            --keep-ambiguous
+        
+[Tue Apr  8 20:25:03 2025]
+Finished job 43.
+38 of 81 steps (47%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:03 2025]
+Job 44: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_na.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_na.nwk, results/tree/nt_muts/nt-muts_h3nx_na.json
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_na.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_na.json             --reference-sequence config/references/h3nx_na.gb             --output results/tree/aa_muts/aa-muts_h3nx_na.json
+        
+[Tue Apr  8 20:25:04 2025]
+Finished job 44.
+39 of 81 steps (48%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:04 2025]
+Job 75: 
+        Aligning sequences to config/references/h3nx_mp.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_mp.fasta; Input files updated by another job: results/filtered/filtered_h3nx_mp.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_mp.fasta             --reference-sequence config/references/h3nx_mp.gb             --output results/alignments/aligned_h3nx_mp.fasta             --remove-reference             --nthreads 1
+        
+[Tue Apr  8 20:25:04 2025]
+Finished job 46.
+40 of 81 steps (49%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:04 2025]
+Job 52: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_np.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_np.nwk, results/alignments/aligned_h3nx_np.fasta
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_np.nwk             --alignment results/alignments/aligned_h3nx_np.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_np.json             --inference joint            --keep-ambiguous
+        
+[Tue Apr  8 20:25:05 2025]
+Finished job 52.
+41 of 81 steps (51%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:05 2025]
+Job 53: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_np.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_np.nwk, results/tree/nt_muts/nt-muts_h3nx_np.json
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_np.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_np.json             --reference-sequence config/references/h3nx_np.gb             --output results/tree/aa_muts/aa-muts_h3nx_np.json
+        
+[Tue Apr  8 20:25:06 2025]
+Finished job 53.
+42 of 81 steps (52%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:06 2025]
+Job 66: 
+        Aligning sequences to config/references/h3nx_ns.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/alignments/aligned_h3nx_ns.fasta; Input files updated by another job: results/filtered/filtered_h3nx_ns.fasta
+
+
+        augur align             --sequences results/filtered/filtered_h3nx_ns.fasta             --reference-sequence config/references/h3nx_ns.gb             --output results/alignments/aligned_h3nx_ns.fasta             --remove-reference             --nthreads 1
+        
+[Tue Apr  8 20:25:08 2025]
+Finished job 2.
+43 of 81 steps (53%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:08 2025]
+Job 16: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_ha.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_ha.nwk, results/alignments/aligned_h3nx_ha.fasta
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_ha.nwk             --alignment results/alignments/aligned_h3nx_ha.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_ha.json             --inference joint            --keep-ambiguous
+        
+[Tue Apr  8 20:25:09 2025]
+Finished job 16.
+44 of 81 steps (54%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:09 2025]
+Job 17: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_ha.json; Input files updated by another job: results/tree/nt_muts/nt-muts_h3nx_ha.json, results/iqtree/timed_tree/tree_h3nx_ha.nwk
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_ha.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_ha.json             --reference-sequence config/references/h3nx_ha.gb             --output results/tree/aa_muts/aa-muts_h3nx_ha.json
+        
+[Tue Apr  8 20:25:10 2025]
+Finished job 17.
+45 of 81 steps (56%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:10 2025]
+Job 15: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_ha.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_ha.nwk, results/metadata/metadata_h3nx_ha.tsv
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_ha.nwk             --metadata results/metadata/metadata_h3nx_ha.tsv             --output results/tree/traits/traits_h3nx_ha.json             --columns host country region subtype order             --confidence
+        
+[Tue Apr  8 20:25:12 2025]
+Finished job 75.
+46 of 81 steps (57%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:12 2025]
+Job 74: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_mp.nwk; Input files updated by another job: results/alignments/aligned_h3nx_mp.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_mp.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_mp.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:25:12 2025]
+Finished job 55.
+47 of 81 steps (58%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:12 2025]
+Job 61: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_pa.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_pa.nwk, results/alignments/aligned_h3nx_pa.fasta
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_pa.nwk             --alignment results/alignments/aligned_h3nx_pa.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_pa.json             --inference joint            --keep-ambiguous
+        
+[Tue Apr  8 20:25:12 2025]
+Finished job 15.
+48 of 81 steps (59%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:12 2025]
+Job 1: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_ha.json; Input files updated by another job: results/tree/nt_muts/nt-muts_h3nx_ha.json, results/iqtree/timed_tree/tree_h3nx_ha.nwk, results/tree/aa_muts/aa-muts_h3nx_ha.json, results/iqtree/branch_lengths/branch-lengths_h3nx_ha.json, results/metadata/metadata_h3nx_ha.tsv, results/tree/traits/traits_h3nx_ha.json
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_ha.nwk             --metadata results/metadata/metadata_h3nx_ha.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_ha.json results/tree/traits/traits_h3nx_ha.json results/tree/nt_muts/nt-muts_h3nx_ha.json results/tree/aa_muts/aa-muts_h3nx_ha.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_ha.json
+        
+[Tue Apr  8 20:25:13 2025]
+Finished job 66.
+49 of 81 steps (60%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:13 2025]
+Job 65: Building tree
+Reason: Missing output files: results/iqtree/raw_tree/tree-raw_h3nx_ns.nwk; Input files updated by another job: results/alignments/aligned_h3nx_ns.fasta
+
+
+        augur tree             --alignment results/alignments/aligned_h3nx_ns.fasta             --output results/iqtree/raw_tree/tree-raw_h3nx_ns.nwk             --method iqtree             --nthreads 1
+        
+[Tue Apr  8 20:25:13 2025]
+Finished job 61.
+50 of 81 steps (62%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:13 2025]
+Job 62: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_pa.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_pa.nwk, results/tree/nt_muts/nt-muts_h3nx_pa.json
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_pa.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_pa.json             --reference-sequence config/references/h3nx_pa.gb             --output results/tree/aa_muts/aa-muts_h3nx_pa.json
+        
+[Tue Apr  8 20:25:13 2025]
+Finished job 1.
+51 of 81 steps (63%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:13 2025]
+Job 51: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_np.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_np.nwk, results/metadata/metadata_h3nx_np.tsv
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_np.nwk             --metadata results/metadata/metadata_h3nx_np.tsv             --output results/tree/traits/traits_h3nx_np.json             --columns host country region subtype order             --confidence
+        
+[Tue Apr  8 20:25:14 2025]
+Finished job 62.
+52 of 81 steps (64%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:14 2025]
+Job 60: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_pa.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_pa.nwk, results/metadata/metadata_h3nx_pa.tsv
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_pa.nwk             --metadata results/metadata/metadata_h3nx_pa.tsv             --output results/tree/traits/traits_h3nx_pa.json             --columns host country region subtype order             --confidence
+        
+[Tue Apr  8 20:25:15 2025]
+Finished job 28.
+53 of 81 steps (65%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:15 2025]
+Job 34: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_pb1.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_pb1.nwk, results/alignments/aligned_h3nx_pb1.fasta
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_pb1.nwk             --alignment results/alignments/aligned_h3nx_pb1.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_pb1.json             --inference joint            --keep-ambiguous
+        
+[Tue Apr  8 20:25:16 2025]
+Finished job 34.
+54 of 81 steps (67%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:16 2025]
+Job 35: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_pb1.json; Input files updated by another job: results/tree/nt_muts/nt-muts_h3nx_pb1.json, results/iqtree/timed_tree/tree_h3nx_pb1.nwk
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_pb1.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_pb1.json             --reference-sequence config/references/h3nx_pb1.gb             --output results/tree/aa_muts/aa-muts_h3nx_pb1.json
+        
+[Tue Apr  8 20:25:16 2025]
+Finished job 19.
+55 of 81 steps (68%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:16 2025]
+Job 25: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_pb2.json; Input files updated by another job: results/alignments/aligned_h3nx_pb2.fasta, results/iqtree/timed_tree/tree_h3nx_pb2.nwk
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_pb2.nwk             --alignment results/alignments/aligned_h3nx_pb2.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_pb2.json             --inference joint            --keep-ambiguous
+        
+[Tue Apr  8 20:25:16 2025]
+Finished job 51.
+56 of 81 steps (69%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:16 2025]
+Job 45: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_np.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_np.nwk, results/tree/nt_muts/nt-muts_h3nx_np.json, results/iqtree/branch_lengths/branch-lengths_h3nx_np.json, results/tree/traits/traits_h3nx_np.json, results/metadata/metadata_h3nx_np.tsv, results/tree/aa_muts/aa-muts_h3nx_np.json
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_np.nwk             --metadata results/metadata/metadata_h3nx_np.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_np.json results/tree/traits/traits_h3nx_np.json results/tree/nt_muts/nt-muts_h3nx_np.json results/tree/aa_muts/aa-muts_h3nx_np.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_np.json
+        
+[Tue Apr  8 20:25:16 2025]
+Finished job 60.
+57 of 81 steps (70%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:16 2025]
+Job 54: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_pa.json; Input files updated by another job: results/tree/traits/traits_h3nx_pa.json, results/tree/nt_muts/nt-muts_h3nx_pa.json, results/tree/aa_muts/aa-muts_h3nx_pa.json, results/iqtree/timed_tree/tree_h3nx_pa.nwk, results/iqtree/branch_lengths/branch-lengths_h3nx_pa.json, results/metadata/metadata_h3nx_pa.tsv
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_pa.nwk             --metadata results/metadata/metadata_h3nx_pa.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_pa.json results/tree/traits/traits_h3nx_pa.json results/tree/nt_muts/nt-muts_h3nx_pa.json results/tree/aa_muts/aa-muts_h3nx_pa.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_pa.json
+        
+[Tue Apr  8 20:25:16 2025]
+Finished job 35.
+58 of 81 steps (72%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:16 2025]
+Job 24: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_pb2.json; Input files updated by another job: results/metadata/metadata_h3nx_pb2.tsv, results/iqtree/timed_tree/tree_h3nx_pb2.nwk
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_pb2.nwk             --metadata results/metadata/metadata_h3nx_pb2.tsv             --output results/tree/traits/traits_h3nx_pb2.json             --columns host country region subtype order             --confidence
+        
+[Tue Apr  8 20:25:17 2025]
+Finished job 45.
+59 of 81 steps (73%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:17 2025]
+Job 33: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_pb1.json; Input files updated by another job: results/metadata/metadata_h3nx_pb1.tsv, results/iqtree/timed_tree/tree_h3nx_pb1.nwk
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_pb1.nwk             --metadata results/metadata/metadata_h3nx_pb1.tsv             --output results/tree/traits/traits_h3nx_pb1.json             --columns host country region subtype order             --confidence
+        
+[Tue Apr  8 20:25:17 2025]
+Finished job 25.
+60 of 81 steps (74%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:17 2025]
+Job 26: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_pb2.json; Input files updated by another job: results/tree/nt_muts/nt-muts_h3nx_pb2.json, results/iqtree/timed_tree/tree_h3nx_pb2.nwk
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_pb2.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_pb2.json             --reference-sequence config/references/h3nx_pb2.gb             --output results/tree/aa_muts/aa-muts_h3nx_pb2.json
+        
+[Tue Apr  8 20:25:17 2025]
+Finished job 54.
+61 of 81 steps (75%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:17 2025]
+Job 42: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_na.json; Input files updated by another job: results/metadata/metadata_h3nx_na.tsv, results/iqtree/timed_tree/tree_h3nx_na.nwk
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_na.nwk             --metadata results/metadata/metadata_h3nx_na.tsv             --output results/tree/traits/traits_h3nx_na.json             --columns host country region subtype order             --confidence
+        
+[Tue Apr  8 20:25:17 2025]
+Finished job 26.
+62 of 81 steps (77%) done
+[Tue Apr  8 20:25:19 2025]
+Finished job 24.
+63 of 81 steps (78%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:19 2025]
+Job 18: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_pb2.json; Input files updated by another job: results/metadata/metadata_h3nx_pb2.tsv, results/tree/nt_muts/nt-muts_h3nx_pb2.json, results/tree/aa_muts/aa-muts_h3nx_pb2.json, results/tree/traits/traits_h3nx_pb2.json, results/iqtree/branch_lengths/branch-lengths_h3nx_pb2.json, results/iqtree/timed_tree/tree_h3nx_pb2.nwk
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_pb2.nwk             --metadata results/metadata/metadata_h3nx_pb2.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_pb2.json results/tree/traits/traits_h3nx_pb2.json results/tree/nt_muts/nt-muts_h3nx_pb2.json results/tree/aa_muts/aa-muts_h3nx_pb2.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_pb2.json
+        
+[Tue Apr  8 20:25:19 2025]
+Finished job 33.
+64 of 81 steps (79%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:19 2025]
+Job 27: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_pb1.json; Input files updated by another job: results/tree/traits/traits_h3nx_pb1.json, results/metadata/metadata_h3nx_pb1.tsv, results/tree/nt_muts/nt-muts_h3nx_pb1.json, results/tree/aa_muts/aa-muts_h3nx_pb1.json, results/iqtree/branch_lengths/branch-lengths_h3nx_pb1.json, results/iqtree/timed_tree/tree_h3nx_pb1.nwk
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_pb1.nwk             --metadata results/metadata/metadata_h3nx_pb1.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_pb1.json results/tree/traits/traits_h3nx_pb1.json results/tree/nt_muts/nt-muts_h3nx_pb1.json results/tree/aa_muts/aa-muts_h3nx_pb1.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_pb1.json
+        
+[Tue Apr  8 20:25:20 2025]
+Finished job 42.
+65 of 81 steps (80%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:20 2025]
+Job 36: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_na.json; Input files updated by another job: results/tree/traits/traits_h3nx_na.json, results/tree/nt_muts/nt-muts_h3nx_na.json, results/metadata/metadata_h3nx_na.tsv, results/iqtree/timed_tree/tree_h3nx_na.nwk, results/iqtree/branch_lengths/branch-lengths_h3nx_na.json, results/tree/aa_muts/aa-muts_h3nx_na.json
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_na.nwk             --metadata results/metadata/metadata_h3nx_na.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_na.json results/tree/traits/traits_h3nx_na.json results/tree/nt_muts/nt-muts_h3nx_na.json results/tree/aa_muts/aa-muts_h3nx_na.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_na.json
+        
+[Tue Apr  8 20:25:20 2025]
+Finished job 18.
+66 of 81 steps (81%) done
+[Tue Apr  8 20:25:20 2025]
+Finished job 74.
+67 of 81 steps (83%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:20 2025]
+Job 73: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/timed_tree/tree_h3nx_mp.nwk, results/iqtree/branch_lengths/branch-lengths_h3nx_mp.json; Input files updated by another job: results/alignments/aligned_h3nx_mp.fasta, results/iqtree/raw_tree/tree-raw_h3nx_mp.nwk, results/metadata/metadata_h3nx_mp.tsv
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_mp.nwk             --alignment results/alignments/aligned_h3nx_mp.fasta             --metadata results/metadata/metadata_h3nx_mp.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_mp.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_mp.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:25:20 2025]
+Finished job 27.
+68 of 81 steps (84%) done
+[Tue Apr  8 20:25:21 2025]
+Finished job 36.
+69 of 81 steps (85%) done
+[Tue Apr  8 20:25:21 2025]
+Finished job 65.
+70 of 81 steps (86%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:21 2025]
+Job 64: 
+        Refining tree
+          - estimate timetree
+          - use const coalescent timescale
+          - estimate marginal node dates
+        
+Reason: Missing output files: results/iqtree/timed_tree/tree_h3nx_ns.nwk, results/iqtree/branch_lengths/branch-lengths_h3nx_ns.json; Input files updated by another job: results/iqtree/raw_tree/tree-raw_h3nx_ns.nwk, results/metadata/metadata_h3nx_ns.tsv, results/alignments/aligned_h3nx_ns.fasta
+
+
+        augur refine             --tree results/iqtree/raw_tree/tree-raw_h3nx_ns.nwk             --alignment results/alignments/aligned_h3nx_ns.fasta             --metadata results/metadata/metadata_h3nx_ns.tsv             --output-tree results/iqtree/timed_tree/tree_h3nx_ns.nwk             --output-node-data results/iqtree/branch_lengths/branch-lengths_h3nx_ns.json             --timetree             --coalescent const             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Tue Apr  8 20:25:38 2025]
+Finished job 64.
+71 of 81 steps (88%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:38 2025]
+Job 69: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_ns.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_ns.nwk, results/metadata/metadata_h3nx_ns.tsv
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_ns.nwk             --metadata results/metadata/metadata_h3nx_ns.tsv             --output results/tree/traits/traits_h3nx_ns.json             --columns host country region subtype order             --confidence
+        
+
+[Tue Apr  8 20:25:38 2025]
+Job 70: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_ns.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_ns.nwk, results/alignments/aligned_h3nx_ns.fasta
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_ns.nwk             --alignment results/alignments/aligned_h3nx_ns.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_ns.json             --inference joint            --keep-ambiguous
+        
+[Tue Apr  8 20:25:38 2025]
+Finished job 70.
+72 of 81 steps (89%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:38 2025]
+Job 71: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_ns.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_ns.nwk, results/tree/nt_muts/nt-muts_h3nx_ns.json
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_ns.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_ns.json             --reference-sequence config/references/h3nx_ns.gb             --output results/tree/aa_muts/aa-muts_h3nx_ns.json
+        
+[Tue Apr  8 20:25:39 2025]
+Finished job 71.
+73 of 81 steps (90%) done
+[Tue Apr  8 20:25:40 2025]
+Finished job 73.
+74 of 81 steps (91%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:40 2025]
+Job 79: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/tree/nt_muts/nt-muts_h3nx_mp.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_mp.nwk, results/alignments/aligned_h3nx_mp.fasta
+
+
+        augur ancestral             --tree results/iqtree/timed_tree/tree_h3nx_mp.nwk             --alignment results/alignments/aligned_h3nx_mp.fasta             --output-node-data results/tree/nt_muts/nt-muts_h3nx_mp.json             --inference joint            --keep-ambiguous
+        
+
+[Tue Apr  8 20:25:40 2025]
+Job 78: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: results/tree/traits/traits_h3nx_mp.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_mp.nwk, results/metadata/metadata_h3nx_mp.tsv
+
+
+        augur traits             --tree results/iqtree/timed_tree/tree_h3nx_mp.nwk             --metadata results/metadata/metadata_h3nx_mp.tsv             --output results/tree/traits/traits_h3nx_mp.json             --columns host country region subtype order             --confidence
+        
+[Tue Apr  8 20:25:40 2025]
+Finished job 69.
+75 of 81 steps (93%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:40 2025]
+Job 63: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_ns.json; Input files updated by another job: results/tree/nt_muts/nt-muts_h3nx_ns.json, results/tree/traits/traits_h3nx_ns.json, results/tree/aa_muts/aa-muts_h3nx_ns.json, results/iqtree/timed_tree/tree_h3nx_ns.nwk, results/metadata/metadata_h3nx_ns.tsv, results/iqtree/branch_lengths/branch-lengths_h3nx_ns.json
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_ns.nwk             --metadata results/metadata/metadata_h3nx_ns.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_ns.json results/tree/traits/traits_h3nx_ns.json results/tree/nt_muts/nt-muts_h3nx_ns.json results/tree/aa_muts/aa-muts_h3nx_ns.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_ns.json
+        
+[Tue Apr  8 20:25:40 2025]
+Finished job 79.
+76 of 81 steps (94%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:40 2025]
+Job 80: Translating amino acid sequences
+Reason: Missing output files: results/tree/aa_muts/aa-muts_h3nx_mp.json; Input files updated by another job: results/iqtree/timed_tree/tree_h3nx_mp.nwk, results/tree/nt_muts/nt-muts_h3nx_mp.json
+
+
+        augur translate             --tree results/iqtree/timed_tree/tree_h3nx_mp.nwk             --ancestral-sequences results/tree/nt_muts/nt-muts_h3nx_mp.json             --reference-sequence config/references/h3nx_mp.gb             --output results/tree/aa_muts/aa-muts_h3nx_mp.json
+        
+[Tue Apr  8 20:25:41 2025]
+Finished job 63.
+77 of 81 steps (95%) done
+[Tue Apr  8 20:25:41 2025]
+Finished job 80.
+78 of 81 steps (96%) done
+[Tue Apr  8 20:25:42 2025]
+Finished job 78.
+79 of 81 steps (98%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:42 2025]
+Job 72: Exporting data files for for auspice
+Reason: Missing output files: auspice/eurasian-avian_h3nx_mp.json; Input files updated by another job: results/iqtree/branch_lengths/branch-lengths_h3nx_mp.json, results/tree/nt_muts/nt-muts_h3nx_mp.json, results/metadata/metadata_h3nx_mp.tsv, results/tree/aa_muts/aa-muts_h3nx_mp.json, results/iqtree/timed_tree/tree_h3nx_mp.nwk, results/tree/traits/traits_h3nx_mp.json
+
+
+        augur export v2             --tree results/iqtree/timed_tree/tree_h3nx_mp.nwk             --metadata results/metadata/metadata_h3nx_mp.tsv             --node-data results/iqtree/branch_lengths/branch-lengths_h3nx_mp.json results/tree/traits/traits_h3nx_mp.json results/tree/nt_muts/nt-muts_h3nx_mp.json results/tree/aa_muts/aa-muts_h3nx_mp.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output auspice/eurasian-avian_h3nx_mp.json
+        
+[Tue Apr  8 20:25:43 2025]
+Finished job 72.
+80 of 81 steps (99%) done
+Select jobs to execute...
+
+[Tue Apr  8 20:25:43 2025]
+localrule all:
+    input: auspice/eurasian-avian_h3nx_ha.json, auspice/eurasian-avian_h3nx_pb2.json, auspice/eurasian-avian_h3nx_pb1.json, auspice/eurasian-avian_h3nx_na.json, auspice/eurasian-avian_h3nx_np.json, auspice/eurasian-avian_h3nx_pa.json, auspice/eurasian-avian_h3nx_ns.json, auspice/eurasian-avian_h3nx_mp.json
+    jobid: 0
+    reason: Input files updated by another job: auspice/eurasian-avian_h3nx_pa.json, auspice/eurasian-avian_h3nx_pb2.json, auspice/eurasian-avian_h3nx_na.json, auspice/eurasian-avian_h3nx_ns.json, auspice/eurasian-avian_h3nx_mp.json, auspice/eurasian-avian_h3nx_pb1.json, auspice/eurasian-avian_h3nx_np.json, auspice/eurasian-avian_h3nx_ha.json
+    resources: tmpdir=/tmp
+
+[Tue Apr  8 20:25:43 2025]
+Finished job 0.
+81 of 81 steps (100%) done
+Complete log: .snakemake/log/2025-04-08T202416.279420.snakemake.log

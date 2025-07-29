@@ -1,0 +1,1371 @@
+strain	accession	subtype	date	host	country	region	species	broad	order	n_segments
+A/American_black_duck/Alberta/284/2016	MG599645	H3N8	2016-08-28	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/Alberta/96/2016	EPI1072972	H3N6	2016-08-11	Avian	Canada	North America	American Black Duck	duck	Anseriformes	5
+A/American_Black_Duck/Maine/A00090256/2007	EPI1581790	H3N2	2007-09-25	Avian	Usa	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/Maine/UGAI15-7694/2015	EPI1774763	H3N2	2015-08-26	Avian	Usa	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/Maine/UGAI15-7795/2015	EPI1774771	H3N2	2015-09-28	Avian	Usa	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/Maine/UGAI16-5433/2016	EPI1774795	H3N8	2016-09-13	Avian	Usa	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/00425/2010	EPI434649	H3N8	2010-08-10	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/00454/2010	EPI434656	H3N8	2010-08-11	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/00484/2010	EPI434754	H3N8	2010-08-12	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/00500/2010	EPI434820	H3N8	2010-08-12	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/00525/2010	CY138072	H3N8	2010-08-13	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/00618/2010	EPI434994	H3N6	2010-08-16	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/00619/2010	EPI435001	H3N6	2010-08-16	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/00620/2010	EPI434976	H3N6	2010-08-16	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/00622/2010	EPI435029	H3N6	2010-08-16	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/00624/2010	EPI435043	H3N6	2010-08-16	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/00687/2010	EPI435064	H3N8	2010-08-09	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/00953/2010	EPI435310	H3N8	2010-09-15	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02491/2007	EPI404843	H3N8	2007-09-17	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02496/2007	EPI405228	H3N8	2007-09-18	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02502/2007	EPI405206	H3N8	2007-09-18	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02525/2007	EPI405278	H3N8	2007-09-24	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02549/2007	EPI404373	H3N8	2007-09-26	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02629/2007	EPI404689	H3N8	2007-09-22	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02649/2007	EPI404737	H3N6	2007-09-24	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/02650/2007	EPI404709	H3N2	2007-09-24	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/02651/2007	EPI405110	H3N2	2007-09-24	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/02656/2007	CY129194	H3N8	2007-09-24	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/02749/2007	EPI405255	H3N8	2007-09-04	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/03395/2009	EPI404647	H3N8	2009-08-09	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/03398/2009	EPI404627	H3N8	2009-08-09	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/03408/2009	EPI404654	H3N8	2009-08-10	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/03451/2009	EPI404593	H3N9	2009-08-12	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/New_Brunswick/03495/2009	EPI404673	H3N8	2009-09-09	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/03509/2009	EPI404666	H3N8	2009-09-10	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/04484/2007	EPI405192	H3N8	2007-09-04	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/19350/2006	CY095425	H3N8	2006-09-14	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/New_Brunswick/25182/2007	CY047703	H3N6	2007-09-21	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/Newfoundland/734/2008	KC492251	H3N8	2008-09-19	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/North_Carolina/1321373/2004	CY144578	H3N2	2004-12-22	Avian	Usa	North America	American Black Duck	duck	Anseriformes	6
+A/American_black_duck/Nova_Scotia/03273/2009	EPI391982	H3N8	2009-08-06	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/Ohio/12OS5510/2012	CY187028	H3N8	2012-11-16	Avian	Usa	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/Prince_Edward_Island/00672/2010	EPI435050	H3N8	2010-08-04	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/American_black_duck/Prince_Edward_Island/00788/2010	EPI435111	H3N8	2010-08-25	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/Prince_Edward_Island/14228/2006	CY095457	H3N8	2006-08-15	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/Prince_Edward_Island/14230/2006	CY095465	H3N8	2006-08-15	Avian	Canada	North America	American Black Duck	duck	Anseriformes	7
+A/American_black_duck/Quebec/11235/2006	EPI224538	H3N2	2006-08-24	Avian	Canada	North America	American Black Duck	duck	Anseriformes	6
+A/American_coot/Oregon/20589-007/2007	CY076172	H3N8	2007-12-17	Avian	Usa	North America	American Coot	coot	Neoave	4
+A/American_Green-winged_Teal/17OS4133/2017	EPI1831359	H3N6	2017-10-14	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Alaska/103781/2008	EPI839272	H3N6	2008-09-13	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Alaska/103885/2008	EPI839280	H3N6	2008-09-13	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Alaska/137886/2009	EPI839320	H3N8	2009-09-27	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Alaska/137916/2009	EPI839336	H3N8	2009-09-18	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	5
+A/American_green-winged_teal/Alaska/14164/2006	EPI839208	H3N6	2006-08-16	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	5
+A/American_Green-Winged_Teal/Alaska/19TL00145/2019	MW872166	H3N8	2019-08-11	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Alaska/306/2014	KT338346	H3N3	2014-09-11	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	5
+A/American_green-winged_teal/Alaska/44155-169/2006	EPI442153	H3N8	2006-08-12	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Alaska/44419-209/2008	EPI442111	H3N6	2008-08-14	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	5
+A/American_green-winged_teal/Alaska/44419-233/2008	EPI442125	H3N6	2008-08-10	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	5
+A/American_green-winged_teal/Alaska/478/2014	KT338417	H3N1	2014-10-02	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	5
+A/American_green-winged_teal/Alaska/524/2014	EPI729606	H3N8	2014-10-10	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Alaska/98313/2008	EPI839248	H3N8	2008-09-13	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Interior_Alaska/10BM04207R0/2010	EPI414499	H3N6	2010-07-13	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Interior_Alaska/10BM05376R0/2010	EPI436583	H3N8	2010-07-25	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Interior_Alaska/11BM03661/2011	CY196233	H3N8	2011-09-01	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Interior_Alaska/11BM03897/2011	CY196293	H3N8	2011-09-04	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Interior_Alaska/11CH00044/2011	CY196386	H3N8	2011-09-10	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Interior_Alaska/3/2007	EPI221409	H3N8	2007-10-17	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Interior_Alaska/7MP1049/2007	CY077387	H3N8	2007-09-10	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Interior_Alaska/9BM6410R0/2009	EPI452566	H3N8	2009-08-03	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Mississippi/15OS7984/2015	EPI967471	H3N8	2015-12-22	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Missouri/15OS4838/2015	EPI961671	H3N8	2015-09-12	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Missouri/17OS3186/2017	MK237410	H3N8	2017-09-09	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Ohio/13OS1778/2013	KJ568254	H3N2	2013-09-14	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Ohio/13OS1844/2013	KJ568246	H3N8	2013-09-07	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Ohio/13OS1861/2013	EPI526366	H3N8	2013-09-08	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Ohio/13OS1867/2013	KJ568278	H3N2	2013-09-08	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Ohio/13OS2056/2013	EPI526317	H3N2	2013-09-21	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Ohio/13OS2106/2013	EPI526336	H3N8	2013-09-22	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Ohio/13OS2108/2013	KJ568358	H3N8	2013-09-22	Avian	Usa	North America	American Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Ohio/15OS3625/2015	EPI962766	H3N1	2015-09-05	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Oregon/44336-124/2007	EPI290780	H3N8	2007-08-16	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Texas/AI09-4396/2009	EPI449977	H3N9	2009-09-19	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Wisconsin/08OS2270/2008	EPI299466	H3N8	2008-10-19	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_green-winged_teal/Wisconsin/08OS2291/2008	EPI299474	H3N2	2008-10-20	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Wisconsin/08OS2292/2008	EPI299386	H3N2	2008-10-20	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/American_green-winged_teal/Wisconsin/13OS3462/2013	EPI526294	H3N8	2013-09-29	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/American_widgeon/Alaska/7MP1061/2007	EPI190717	H3N8	2007-09-10	Avian	Usa	North America	American Wigeon	duck	Anseriformes	7
+A/American_widgeon/Interior_Alaska/1/2007	EPI221441	H3N8	2007-09-06	Avian	Usa	North America	American Wigeon	duck	Anseriformes	6
+A/American_wigeon/Alberta/215/1992	CY101805	H3N8	1992-08-24	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/American_wigeon/Interior_Alaska/7MP1726/2007	EPI298961	H3N8	2007-09-03	Avian	Usa	North America	American Wigeon	duck	Anseriformes	5
+A/American_wigeon/Minnesota/Sg-01067/2008	CY140630	H3N8	2008-10-12	Avian	Usa	North America	American Wigeon	duck	Anseriformes	6
+A/American_wigeon/New_Brunswick/04487/2007	CY125452	H3N8	2007-09-04	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/American_wigeon/New_Brunswick/04488/2007	EPI391905	H3N8	2007-09-04	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/American_wigeon/New_Brunswick/04490/2007	CY125468	H3N8	2007-09-04	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/American_wigeon/New_Brunswick/04494/2007	CY125300	H3N8	2007-09-04	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/American_wigeon/New_Brunswick/04497/2007	EPI391898	H3N8	2007-09-04	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/American_wigeon/Ohio/16OS3665/2016	EPI1154110	H3N8	2016-10-15	Avian	Usa	North America	American Wigeon	duck	Anseriformes	7
+A/American_Wigeon/Utah/D1615126/2016	EPI1549559	H3N2	2016-11-29	Avian	Usa	North America	American Wigeon	duck	Anseriformes	5
+A/black_scoter/New_Brunswick/00002/2009	EPI391706	H3N8	2009-05-02	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/black_scoter/Wisconsin/11OS4260/2011	CY167069	H3N2	2011-10-24	Avian	Usa	North America	Black Scoter	duck	Anseriformes	6
+A/blue-winged_teal/ALB/452/1983	EPI87048	H3N1	1983-08-12	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/ALB/569/1985	EPI87135	H3N8	1985-08-22	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/Blue-Winged_Teal/Alberta/1/2020	MZ171343	H3N8	2020-09-02	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/11646/2005	EPI226903	H3N8	2005-08-05	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/130/1987	CY101453	H3N8	1987-08-12	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/134/1989	CY101088	H3N6	1989-08-22	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Alberta/162/2017	MH412082	H3N8	2017-08-12	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Alberta/164/2017	EPI1304082	H3N8	2017-08-12	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Alberta/221/1978	CY185712	H3N8	1978-08-07	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/222/2005	EPI343513	H3N8	2005-08-10	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/266/2023	PP723179	H3N8	2023-08-17	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/3/2017	EPI1303746	H3N8	2017-08-12	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/366/2007	EPI343070	H3N8	2007-08-28	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/376/2007	CY101370	H3N6	2007-08-28	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Alberta/4/2017	EPI1565355	H3N8	2017-08-12	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/456/2017	MH637389	H3N8	2017-08-13	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/458/2017	EPI1299665	H3N8	2017-08-13	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_Teal/Alberta/459/2017	MH932202	H3N8	2017-08-13	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/459/2023	PP723215	H3N8	2023-08-19	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/465/2023	PP723197	H3N8	2023-08-19	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/467/2023	PP723206	H3N8	2023-08-19	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/469/2023	PP723183	H3N8	2023-08-19	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Alberta/90/2017	EPI1304186	H3N8	2017-08-12	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3233/2011	CY149667	H3N8	2011-08-29	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3244/2011	EPI476284	H3N8	2011-09-19	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3264/2011	CY149707	H3N8	2011-09-22	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3285/2011	EPI476311	H3N8	2011-09-24	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3286/2011	EPI476318	H3N8	2011-09-24	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3287/2011	EPI476325	H3N8	2011-09-24	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3288/2011	EPI476331	H3N8	2011-09-24	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Canada/3289/2011	EPI476338	H3N8	2011-09-24	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Guatemala/CIP049-05/2010	EPI331977	H3N8	2010-01-31	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Guatemala/CIP049-I_H115-29/2013	MK327614	H3N3	2013-08-01	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049-I_H116-16/2013	MK327622	H3N8	2013-08-01	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Guatemala/CIP049-I_H116-17/2013	MK327630	H3N2	2013-08-01	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049-S_H115-29/2013	MK326718	H3N3	2013-08-01	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049-S_H116-17/2013	MK326751	H3N2	2013-08-01	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049-S_H116-76/2013	MK326795	H3N2	2013-08-01	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H101-24/2011	KY644445	H3N8	2011-11-05	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Guatemala/CIP049H102-09/2011	KY644256	H3N2	2011-11-11	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H102-25/2011	KX960415	H3N2	2011-11-11	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H102-29/2011	KX960460	H3N2	2011-11-11	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H102-32/2011	KY644460	H3N2	2011-11-11	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H103-20/2011	KY644196	H3N2	2011-11-25	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H104-93/2011	KY644242	H3N3	2011-12-01	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H105-08/2011	KY673171	H3N3	2011-12-08	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H108-45/2012	KY644197	H3N2	2012-11-09	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H108-67/2012	KX960396	H3N2	2012-11-09	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H109-14/2012	KY644479	H3N3	2012-11-16	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H109-15/2012	KY644297	H3N2	2012-11-16	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H109-28/2012	KX960482	H3N2	2012-11-16	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Guatemala/CIP049H109-38/2012	KY644272	H3N8	2012-11-16	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Guatemala/CIP049H112-60/2012	KY644235	H3N8	2012-12-21	Avian	Guatemala	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Illinois/10OS1546/2010	EPI418487	H3N6	2010-09-04	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Illinois/12OS2929/2012	CY186739	H3N8	2012-09-08	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Illinois/12OS2986/2012	CY186444	H3N8	2012-09-08	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Illinois/15OS6152/2015	KY678648	H3N1	2015-10-29	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Illinois/16OS1724/2016	EPI1154336	H3N8	2016-09-11	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Illinois/17OS2625/2017	MK237311	H3N3	2017-09-09	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Illinois/17OS2629/2017	EPI1538237	H3N8	2017-09-09	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Iowa/10OS2624/2010	EPI419453	H3N2	2010-09-18	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Iowa/10OS2649/2010	EPI419467	H3N6	2010-09-18	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Iowa/13OS2340/2013	KJ568086	H3N8	2013-09-21	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Iowa/13OS2345/2013	KJ568270	H3N8	2013-09-21	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Iowa/13OS2346/2013	EPI526151	H3N8	2013-09-21	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Iowa/44555-551/2011	EPI513029	H3N2	2011-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Kansas/ND0006685/2013	EPI542102	H3N8	2013-09-10	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Louisiana/AH054274/2015	KY551226	H3N8	2015-09-12	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Louisiana/AI13-3483/2013	CY206340	H3N8	2013-09-21	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Louisiana/Sg-00189/2007	CY078153	H3N6	2007-09-18	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Louisiana/Sg-00218/2007	CY078240	H3N8	2007-09-15	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Louisiana/UGAI15-0714/2015	EPI973675	H3N8	2015-03-28	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Lousiana/UGAI14-0342/2014	KY063857	H3N8	2014-03-30	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Lousiana/UGAI14-0420/2014	EPI974166	H3N2	2014-04-04	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Lousiana/UGAI14-0462/2014	EPI974182	H3N2	2014-04-04	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Lousiana/UGAI14-0511/2014	KY063925	H3N2	2014-04-04	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Lousiana/UGAI14-0553/2014	KY063933	H3N2	2014-04-04	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Lousiana/UGAI14-1081/2014	KY063989	H3N2	2014-04-03	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Manitoba/13436/2005	EPI172226	H3N8	2005-08-30	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Minnesota/Sg-00787/2008	CY140203	H3N8	2008-08-03	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Mississippi/23-028162-001/2023	EPI3351010	H3N8	2023-09-13	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Missouri/10MO0011/2010	EPI419591	H3N6	2010-09-15	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Missouri/10MO013/2010	EPI419604	H3N1	2010-09-15	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Missouri/15OS4769/2015	KY284381	H3N2	2015-09-12	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Missouri/15OS4826/2015	KY284363	H3N8	2015-09-12	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Missouri/15OS4859/2015	KY284406	H3N8	2015-09-12	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/Blue-winged_Teal/Missouri/16OS2187/2016	MN552529	H3N6	2016-09-10	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/Blue-winged_Teal/Missouri/17OS3072/2017	MT824646	H3N8	2017-09-09	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Missouri/17OS3211/2017	EPI1537317	H3N1	2017-09-09	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Missouri/17OS3219/2017	EPI1537325	H3N8	2017-09-09	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Missouri/17OS3234/2017	EPI1537732	H3N9	2017-09-09	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/New_Brunswick/00283/2010	CY138303	H3N8	2010-09-14	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00285/2010	EPI433951	H3N8	2010-09-14	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00291/2010	EPI433972	H3N8	2010-09-14	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00595/2010	EPI433986	H3N7	2010-08-15	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/New_Brunswick/00597/2010	CY138359	H3N7	2010-08-15	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/New_Brunswick/00598/2010	EPI434000	H3N7	2010-08-15	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/New_Brunswick/00599/2010	EPI434007	H3N7	2010-08-15	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/New_Brunswick/00600/2010	EPI434014	H3N7	2010-08-15	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/New_Brunswick/00766/2010	EPI434028	H3N8	2010-08-25	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00767/2010	EPI434050	H3N8	2010-08-25	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00768/2010	EPI434065	H3N8	2010-08-25	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00771/2010	EPI434079	H3N8	2010-08-25	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00774/2010	EPI434093	H3N8	2010-08-25	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/00775/2010	EPI434103	H3N8	2010-08-25	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/New_Brunswick/03757/2009	EPI391962	H3N6	2009-09-14	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_Teal/North_Dakota/AI09-3642/2009	EPI449899	H3N1	2009-09-04	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_Teal/North_Dakota/AI09-4039/2009	EPI449950	H3N6	2009-09-14	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/blue-winged_teal/North_Dakota/Sg-00740/2008	EPI449274	H3N8	2008-09-07	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/North_Dakota/Sg-00759/2008	EPI449468	H3N6	2008-09-11	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Nova_Scotia/00071/2010	EPI433811	H3N8	2010-09-07	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Nova_Scotia/00072/2010	EPI433818	H3N8	2010-09-07	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Nova_Scotia/00077/2010	EPI433853	H3N8	2010-09-07	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Nova_Scotia/00079/2010	EPI433909	H3N8	2010-09-07	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Nova_Scotia/00081/2010	EPI433923	H3N8	2010-09-07	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Nova_Scotia/01027/2010	EPI434185	H3N8	2010-09-22	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Nova_Scotia/03971/2009	CY125273	H3N8	2009-08-27	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/12OS2123/2012	EPI616230	H3N2	2012-09-02	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/12OS2154/2012	EPI616116	H3N2	2012-09-15	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/12OS2229/2012	CY186886	H3N6	2012-09-07	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/13OS1410/2013	KJ526077	H3N6	2013-09-07	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/13OS1831/2013	EPI526281	H3N2	2013-09-07	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/13OS2018/2013	KJ568174	H3N8	2013-09-14	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/13OS3827/2013	KJ568262	H3N8	2013-10-12	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/14OS1080/2014	CY204071	H3N2	2014-09-06	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/15OS5135/2015	EPI962178	H3N8	2015-09-12	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/16OS1027/2016	EPI1154480	H3N6	2016-09-03	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/16OS1061/2016	EPI1154558	H3N2	2016-09-07	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/1714/2005	CY081323	H3N6	2005-01-01	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/17OS2004/2017	EPI1537752	H3N8	2017-09-08	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/17OS2907/2017	EPI1537168	H3N8	2017-09-02	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/17OS2925/2017	MK237972	H3N8	2017-09-02	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/1858/2006	CY095647	H3N8	2006-01-01	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/1864/2006	EPI131994	H3N8	2006-01-01	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/Blue-winged_Teal/Ohio/18OS1705/2018	MN431000	H3N8	2018-09-05	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Ohio/31/1999	EPI50019	H3N2	1999-10-16	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/908/2002	CY011055	H3N2	2002-09-07	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Ohio/926/2002	CY011035	H3N8	2002-09-07	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Prince_Edward_Island/00831/2010	EPI434125	H3N7	2010-09-02	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Prince_Edward_Island/03912/2009	EPI391933	H3N8	2009-08-19	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Prince_Edward_Island/03927/2009	CY125292	H3N8	2009-08-19	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Saskatchewan/75/1982	CY178550	H3N8	1982-XX-XX	Avian	Canada	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI09-4405/2009	EPI449984	H3N6	2009-09-19	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/AI10-3317/2010	CY205540	H3N8	2010-09-11	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI10-4179/2010	CY205709	H3N8	2010-09-18	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI11-3100/2011	CY205823	H3N6	2011-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/AI11-3220/2011	EPI751289	H3N8	2011-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI11-3387/2011	CY205970	H3N6	2011-09-18	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/AI11-3407/2011	EPI751368	H3N8	2011-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI11-3764/2011	CY206058	H3N8	2011-09-16	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI11-3766/2011	CY206066	H3N8	2011-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI11-4014/2011	CY206098	H3N8	2011-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI11-4865/2011	CY206170	H3N6	2011-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/AI12-3655/2012	CY206226	H3N8	2012-09-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI12-3834/2012	CY206259	H3N6	2012-09-16	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/AI12-4394/2012	CY206275	H3N8	2012-09-23	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI12-4448/2012	CY206291	H3N6	2012-09-18	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/AI13-3629/2013	CY206437	H3N8	2013-09-14	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI13-3636/2013	CY206445	H3N8	2013-09-14	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI13-3971/2013	CY206495	H3N8	2013-09-20	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI13-4012/2013	CY206519	H3N8	2013-09-14	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI13-4087/2013	CY206551	H3N8	2013-09-18	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/AI13-4289/2013	CY206586	H3N8	2013-09-14	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/Sg-00078/2007	CY064224	H3N8	2007-09-15	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/Sg-00083/2007	EPI297971	H3N6	2007-09-16	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/Sg-00085/2007	EPI298241	H3N6	2007-09-16	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Texas/UGAI15-5684/2015	EPI973871	H3N8	2015-09-15	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Texas/UGAI18-1914/2018	EPI1789829	H3N8	2018-09-26	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Wisconsin/109/1980	CY178389	H3N2	1980-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/10OS2862/2010	EPI418907	H3N2	2010-10-02	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/10OS3092/2010	EPI418947	H3N6	2010-10-03	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/11OS2873/2011	CY167109	H3N2	2011-09-24	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/11OS3052/2011	EPI512976	H3N2	2011-09-24	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/11OS3301/2011	EPI512791	H3N2	2011-10-01	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/11OS3303/2011	EPI512798	H3N2	2011-10-01	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/123/1978	CY181264	H3N6	1978-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/124/1980	CY180875	H3N8	1980-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Wisconsin/13OS3463/2013	KJ567862	H3N2	2013-09-29	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/156/1980	CY180915	H3N2	1980-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/172/1978	CY181288	H3N2	1978-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/2720/2009	CY097493	H3N2	2009-10-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/279/1975	CY179746	H3N8	1975-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	7
+A/blue-winged_teal/Wisconsin/3060/2009	CY097218	H3N2	2009-10-17	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/314/1976	CY180178	H3N2	1976-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/331/1981	CY178670	H3N2	1981-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	4
+A/blue-winged_teal/Wisconsin/634/1983	CY180331	H3N2	1983-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/89/1979	CY180266	H3N2	1979-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue-winged_teal/Wisconsin/97/1978	CY181240	H3N2	1978-XX-XX	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue_winged-teal/Wisconsin/12OS2603/2012	EPI614558	H3N2	2012-09-29	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/blue_winged-teal/Wisconsin/12OS4239/2012	EPI614546	H3N2	2012-10-13	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/bufflehead/Alberta/400/2007	EPI343029	H3N8	2007-08-28	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/Bufflehead/Alberta/600/2021	OP723677	H3N2	2021-08-26	Avian	Canada	North America	Bufflehead	duck	Anseriformes	6
+A/chicken/NY/11602-12/1998	EU743202	H3N2	1998-01-01	Avian	Usa	North America	Chicken	chicken	Galliformes	6
+A/cinnamon_teal/Idaho/UGAI16-1864/2016	EPI1036915	H3N8	2016-08-15	Avian	Usa	North America	Cinnamon Teal	duck	Anseriformes	7
+A/cinnamon_teal/Idaho/UGAI16-1905/2016	CY235185	H3N8	2016-08-16	Avian	Usa	North America	Cinnamon Teal	duck	Anseriformes	7
+A/cinnamon_teal/Idaho/UGAI16-1907/2016	EPI1036991	H3N8	2016-08-16	Avian	Usa	North America	Cinnamon Teal	duck	Anseriformes	7
+A/cinnamon_teal/Utah/AH0166335/2021	EPI1933054	H3N8	2021-08-06	Avian	Usa	North America	Cinnamon Teal	duck	Anseriformes	7
+A/duck/Alaska/429/1991	LC431383	H3N8	1991-08-01	Avian	Usa	North America	Duck	duck	Anseriformes	7
+A/duck/Alberta/16/1976	LC431375	H3N8	1976-08-01	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/duck/Interior_Alaska/11PG00704/2011	EPI702227	H3N8	2011-08-17	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Interior_Alaska/11PG00730/2011	CY196739	H3N8	2011-08-19	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Minnesota/12/1975	CY180787	H3N8	1975-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	5
+A/duck/Minnesota/3/1975	CY180771	H3N8	1975-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	5
+A/duck/Minnesota/34/1976	CY180755	H3N8	1976-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	5
+A/duck/Minnesota/36/1975	CY177581	H3N2	1975-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Minnesota/53/1974	CY180731	H3N8	1974-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	5
+A/duck/Minnesota/54/1974	CY180739	H3N8	1974-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	5
+A/duck/Minnesota/56/1974	CY180747	H3N8	1974-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	5
+A/duck/NY/13822/1995	EPI239394	H3N8	1995-01-01	Avian	Usa	North America	Duck	duck	Anseriformes	7
+A/duck/NY/6874/1978	EPI156231	H3N2	1978-01-01	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1143/1978	CY180931	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1149/1978	CY180939	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1150/1978	CY180947	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1151/1978	CY180955	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1152/1978	CY180963	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1155/1978	CY180971	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1156/1978	CY180979	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1159/1978	CY180987	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1161/1978	CY180995	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1164/1978	CY181003	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1168/1978	CY181011	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1175/1978	CY181028	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/1179/1978	CY181036	H3N2	1978-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/2791/1985	CY178461	H3N6	1985-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/2810/1985	CY178469	H3N6	1985-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/duck/Wisconsin/2843/1985	CY179322	H3N6	1985-XX-XX	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/emperor_goose/Alaska/18/2012	EPI966506	H3N8	2012-09-26	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	6
+A/emperor_goose/Alaska/279/2012	EPI966522	H3N8	2012-09-26	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	6
+A/emperor_goose/Alaska/UGAI15-8432/2015	EPI1565828	H3N7	2015-12-14	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8435/2015	EPI1565836	H3N7	2015-12-14	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8436/2015	EPI1565844	H3N7	2015-12-15	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8440/2015	EPI1565852	H3N7	2015-12-15	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8444/2015	EPI1565860	H3N7	2015-12-15	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8445/2015	EPI1565868	H3N7	2015-12-15	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8446/2015	EPI1565876	H3N3	2015-12-16	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8448/2015	EPI1565884	H3N3	2015-12-16	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8461/2015	EPI1565900	H3N7	2015-12-17	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/emperor_goose/Alaska/UGAI15-8463/2015	EPI1565908	H3N7	2015-12-17	Avian	Usa	North America	Emperor Goose	goose	Anseriformes	5
+A/gadwall/Ohio/12OS2222/2012	CY187020	H3N8	2012-11-16	Avian	Usa	North America	Gadwall	duck	Anseriformes	7
+A/gadwall/Wisconsin/08OS2293/2008	CY079355	H3N2	2008-10-20	Avian	Usa	North America	Gadwall	duck	Anseriformes	6
+A/gadwall_duck/Wisconsin/16OS4758/2016	MG280011	H3N2	2016-10-29	Avian	Usa	North America	Gadwall	duck	Anseriformes	6
+A/Glaucous-Winged_Gull/Southcentral_Alaska/17MB02917/2017	MN210162	H3N2	2017-07-10	Avian	Usa	North America	Glaucous-winged Gull	gull	Neoave	6
+A/glaucous_gull/Alaska/44201-161/2006	EPI275137	H3N8	2006-09-24	Avian	Usa	North America	Glaucous-winged Gull	gull	Neoave	7
+A/greater_white-fronted_goose/Alaska/44064-108/2006	EPI442091	H3N2	2006-05-20	Avian	Usa	North America	Greater White-fronted Goose	goose	Anseriformes	6
+A/greater_white-fronted_goose/Alaska/44299-055/2007	JX080810	H3N8	2007-05-14	Avian	Usa	North America	Greater White-fronted Goose	goose	Anseriformes	7
+A/green-winged_teal/Alaska/239/2013	EPI966712	H3N8	2013-09-09	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alaska/292/2011	EPI966351	H3N8	2011-09-18	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alaska/AK18-WB1-033A/2018	EPI1772763	H3N8	2018-09-09	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alaska/AK18-WB1-066A/2018	EPI1772779	H3N6	2018-09-21	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	5
+A/green-winged_teal/Alaska/AK19-540/2019	EPI2142841	H3N6	2019-10-05	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	4
+A/green-winged_teal/Alaska/AK20-372/2020	EPI2142849	H3N8	2020-09-24	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alaska/AK20-528/2020	EPI2142873	H3N8	2020-10-22	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alaska/UGAI15-6400/2015	EPI973468	H3N8	2015-09-11	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alaska/UGAI15-7286/2015	EPI973516	H3N8	2015-09-23	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alaska/UGAI16-4602/2016	EPI1903813	H3N8	2016-09-15	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	5
+A/green-winged_teal/ALB/438/1979	EPI86978	H3N8	1979-08-10	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/Green-Winged_Teal/Alberta/395/2023	PP691600	H3N8	2023-08-18	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Alberta/415/2017	EPI1299771	H3N8	2017-08-12	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alberta/426/2017	EPI1299442	H3N8	2017-08-12	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alberta/427/2017	EPI1299890	H3N8	2017-08-12	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alberta/428/2017	EPI1299699	H3N8	2017-08-12	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alberta/430/2017	EPI1299347	H3N8	2017-08-12	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Alberta/431/2017	EPI1299822	H3N8	2017-08-12	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Idaho/UGAI16-1900/2016	CY235161	H3N8	2016-08-16	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Interior_Alaska/6MP0736/2006	CY078442	H3N8	2006-08-07	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Interior_Alaska/6MP1140/2006	EPI299789	H3N8	2006-09-22	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Louisiana/Sg-00092/2007	CY078272	H3N8	2007-09-15	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Minnesota/Sg-00131/2007	CY041884	H3N2	2007-09-29	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Minnesota/Sg-00991/2008	EPI449577	H3N8	2008-09-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/green-winged_teal/Minnesota/Sg-01000/2008	EPI449584	H3N6	2008-09-11	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/New_Brunswick/02595/2007	CY125412	H3N8	2007-09-20	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/New_Brunswick/02596/2007	CY125420	H3N8	2007-09-20	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/New_Brunswick/03483/2009	EPI391718	H3N8	2009-08-14	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Ohio/1289/2005	EPI60194	H3N8	2005-01-01	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Ohio/14OS1964/2014	CY204031	H3N2	2014-09-06	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Ohio/15OS5438/2015	EPI967530	H3N2	2015-09-16	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Ohio/16OS1008/2016	EPI1153622	H3N6	2016-09-03	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Ohio/466/1987	CY017844	H3N8	1987-01-01	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Ohio/960/2002	CY053844	H3N8	2002-09-07	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Prince_Edward_Island/00839/2010	EPI435132	H3N8	2010-09-02	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Prince_Edward_Island/00840/2010	EPI435139	H3N8	2010-09-02	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Prince_Edward_Island/00841/2010	EPI435147	H3N8	2010-09-02	Avian	Canada	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Texas/AI11-3781/2011	CY206082	H3N6	2011-09-17	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Wisconsin/282/1978	CY181216	H3N8	1978-XX-XX	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Wisconsin/496/1983	CY177917	H3N8	1983-XX-XX	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	7
+A/green-winged_teal/Wisconsin/539/1976	CY180226	H3N1	1976-XX-XX	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/green-winged_teal/Wisconsin/7/1974	CY181044	H3N2	1974-XX-XX	Avian	Usa	North America	Green-winged Teal	duck	Anseriformes	6
+A/guinea_fowl/NJ/8848-18/1998	EPI158883	H3N2	1998-01-01	Avian	Usa	North America	Guinea Fowl	guinea_fowl	Galliformes	6
+A/herring_gull/New_Jersey/159/1990	EPI344859	H3N6	1990-05-26	Avian	Usa	North America	European Herring Gull	gull	Neonave	2
+A/hooded_merganser/New_Brunswick/03749/2009	EPI391692	H3N8	2009-09-14	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/laughing_gull/Delaware_Bay/409/2017	MH135737	H3N8	2017-05-23	Avian	Usa	North America	Laughing Gull	gull	Neoave	7
+A/laughing_gull/New_Jersey/180/1990	EPI344851	H3N6	1990-05-26	Avian	Usa	North America	Laughing Gull	gull	Neoave	3
+A/laughing_gull/New_Jersey/UGAI17-2848/2017	EPI1228259	H3N8	2017-05-23	Avian	Usa	North America	Laughing Gull	gull	Neoave	7
+A/laughing_gull/New_Jersey/UGAI17-2964/2017	MH068382	H3N8	2017-05-26	Avian	Usa	North America	Laughing Gull	gull	Neoave	7
+A/lesser_scaup/Alberta/206/1995	EPI344275	H3N8	1995-08-12	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/long-tailed_duck/Wisconsin/10OS3915/2010	EPI419384	H3N6	2010-11-16	Avian	Usa	North America	Long-tailed Duck	duck	Anseriformes	6
+A/long-tailed_duck/Wisconsin/11OS4248/2011	EPI512314	H3N8	2011-10-24	Avian	Usa	North America	Long-tailed Duck	duck	Anseriformes	7
+A/long-tailed_duck/Wisconsin/16OS4632/2016	MG280172	H3N8	2016-11-27	Avian	Usa	North America	Long-tailed Duck	duck	Anseriformes	6
+A/long-tailed_duck/Wisconsin/18OS2993/2018	EPI1791236	H3N1	2018-11-30	Avian	Usa	North America	Long-tailed Duck	duck	Anseriformes	6
+A/long-tailed_duck/Wisconsin/18OS3407/2018	EPI1791279	H3N6	2018-11-30	Avian	Usa	North America	Long-tailed Duck	duck	Anseriformes	6
+A/long-tailed_duck/Wisconsin/18OS3416/2018	EPI1791309	H3N1	2018-11-30	Avian	Usa	North America	Long-tailed Duck	duck	Anseriformes	6
+A/longtail_duck/Maryland/291/2005	CY017780	H3N8	2005-12-05	Avian	Usa	North America	Longtail-duck	duck	Anseriformes	7
+A/mallard-black_duck_hybrid/New_Brunswick/02642/2007	EPI405305	H3N8	2007-09-23	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/mallard.Maryland/708/2005	EPI227322	H3N2	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/256/2005	EPI44117	H3N8	2005-08-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alaska/327/2013	EPI966745	H3N8	2013-09-13	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/44185-043/2006	HM193830	H3N2	2006-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/44185-067/2006	HM193815	H3N2	2006-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/44185-078/2006	HM193831	H3N2	2006-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/44187-129/2006	EPI289727	H3N2	2006-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/44187-131/2006	HM193816	H3N2	2006-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/44244-050/2006	EPI288933	H3N8	2006-09-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alaska/44421-148/2008	HM193821	H3N6	2008-10-13	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Alaska/44430-026/2008	EPI289728	H3N8	2008-09-27	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/AH0185243/2021	OL467049	H3N8	2021-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/AH0185252/2021	OL467065	H3N8	2021-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/AH0185290/2021	OL467073	H3N8	2021-08-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alaska/AK18-WB1-048A/2018	EPI1772803	H3N8	2018-09-11	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/AK18-WB1-048B/2018	EPI1772811	H3N8	2018-09-11	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alaska/AK19-199E_T1/2019	EPI2143126	H3N2	2019-09-29	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Alaska/ND0006301/2013	EPI542101	H3N8	2013-09-08	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/ALB/118/1995	EPI87188	H3N5	1995-08-01	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/ALB/394/1988	EPI87158	H3N3	1988-09-04	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Alberta/100/2023	PP691647	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/101/2023	PP691702	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/107/2007	CY103226	H3N8	2007-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/108/2023	PP691747	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/109/1991	CY101754	H3N8	1991-08-10	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/109/2023	PP691864	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/113/2023	PP691827	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/114/1997	CY102243	H3N8	1997-08-05	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/115/1991	CY101762	H3N8	1991-08-10	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/11527/2005	CY047519	H3N8	2005-08-03	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/116/2007	CY103264	H3N8	2007-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/117/1997	CY102251	H3N8	1997-08-05	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/117/97	EPI22005	H3N8	1997-01-01	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/118/1995	CY004699	H3N5	1995-08-01	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/122/2007	CY103272	H3N8	2007-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/127/00	AY633155	H3N8	2000-01-01	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/129/1991	CY101778	H3N6	1991-08-26	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/130/2007	EPI343191	H3N8	2007-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/131/2015	EPI1072984	H3N8	2015-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/134/2007	EPI343182	H3N8	2007-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/137/2007	EPI343174	H3N8	2007-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/140/1987	CY101461	H3N8	1987-08-13	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/142/1994	EPI344307	H3N6	1994-08-13	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/156/2001	EPI87212	H3N8	2001-08-06	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/16/1987	CY101437	H3N8	1987-08-04	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/160/2001	CY102695	H3N8	2001-08-06	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/166/2022	OP806493	H3N8	2022-08-21	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/167/1998	CY102323	H3N8	1998-08-05	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/169/1998	CY102331	H3N8	1998-08-05	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/182/2017	EPI1299878	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/192/1993	CY101855	H3N8	1993-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/192/2004	CY102791	H3N1	2004-08-13	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/193/1994	EPI344299	H3N8	1994-08-14	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/199/1999	CY102615	H3N6	1999-08-07	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/199/99	EPI22085	H3N6	1999-01-01	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/20/1989	EPI344875	H3N8	1989-08-02	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/203/2015	EPI1073048	H3N4	2015-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	5
+A/mallard/Alberta/212/2006	CY103043	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/214/2006	CY103051	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/219/2006	CY103059	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/220/1990	CY101658	H3N8	1990-08-28	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/225/2006	CY103093	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/228/2006	CY103101	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/230/2017	EPI1565491	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/237/2021	OP723818	H3N8	2021-08-26	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/238/2006	CY103109	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/241/2004	EPI343672	H3N8	2004-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/242/1998	CY102347	H3N8	1998-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/242/98	EPI22229	H3N8	1998-01-01	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/246/2017	EPI1565379	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/253/2023	PP691836	H3N8	2023-08-17	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/254/2003	EPI342910	H3N3	2003-08-08	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/274/2006	EPI343318	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/279/2006	CY103169	H3N8	2006-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/279/98	AY633259	H3N8	1998-01-01	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/28/2007	CY103201	H3N8	2007-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/292/2017	EPI1565363	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/297/2023	PP691712	H3N6	2023-08-17	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/30/2017	EPI1565523	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/306/2023	PP691533	H3N8	2023-08-17	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/31/1994	CY102139	H3N8	1994-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/312/2007	CY103367	H3N8	2007-08-28	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/32/1991	CY101690	H3N8	1991-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/328/2017	MH637105	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Alberta/337/2023	PP691638	H3N8	2023-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/35/1992	CY101786	H3N6	1992-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Alberta/355/2022	OP806448	H3N8	2022-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/361/2022	OP806419	H3N8	2022-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/362/2017	EPI1299717	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/362/2022	OP806411	H3N8	2022-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/363/2018	MK345665	H3N8	2018-08-13	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/365/2015	MF613686	H3N8	2015-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Alberta/371/2023	PP691584	H3N8	2023-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/377/2023	PP692030	H3N8	2023-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/378/1988	CY101570	H3N8	1988-09-14	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/379/2023	PP691885	H3N8	2023-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/398/2017	EPI1299879	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/40/2017	EPI1304135	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/408/2017	EPI1299784	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/411/2017	EPI1299837	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Alberta/418/2023	PP691902	H3N8	2023-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/47/2017	EPI1304310	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Alberta/478/2023	PP691583	H3N8	2023-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/481/2023	PP691914	H3N8	2023-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/482/2017	EPI1565692	H3N8	2017-08-13	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/482/2023	PP691954	H3N8	2023-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/483/2023	PP691787	H3N8	2023-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/497/2023	PP691855	H3N8	2023-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/507/2008	EPI342989	H3N8	2008-08-08	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/509/2023	PP691970	H3N8	2023-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/515/2015	MF046558	H3N8	2015-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/527/2008	CY103498	H3N8	2008-08-08	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/53/2017	EPI1565547	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/54/1991	CY101698	H3N8	1991-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/54/1993	CY101831	H3N9	1993-08-17	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/551/2009	CY103542	H3N8	2009-08-23	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/56/2022	EPI2401285	H3N8	2022-08-20	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/595/2017	EPI1565665	H3N8	2017-08-13	Avian	Canada	North America	Mallard-pintail Hybrid	duck	Anseriformes	7
+A/Mallard/Alberta/598/2023	PP691815	H3N8	2023-08-20	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/60/1991	CY101706	H3N8	1991-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/61/1991	CY101714	H3N8	1991-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/612/2015	MF613778	H3N8	2015-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/62/1991	CY101722	H3N8	1991-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/635/1983	CY004656	H3N5	1983-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/64/1991	CY101730	H3N8	1991-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/66/2016	MF613856	H3N8	2016-08-10	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/67/2015	MF613904	H3N8	2015-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/72/1993	EPI344646	H3N8	1993-08-17	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/72/1994	CY101201	H3N6	1994-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Alberta/772/1986	CY101594	H3N8	1986-08-26	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/782/1986	CY101602	H3N8	1986-08-26	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/81/2017	EPI1304228	H3N8	2017-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/83/2023	PP691593	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Alberta/85/1994	CY102147	H3N8	1994-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/95/2023	PP691625	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/96/2023	PP691613	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/98/2023	PP691732	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Alberta/99/2023	PP691665	H3N8	2023-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/British_Columbia/07569/2005	CY047511	H3N8	2005-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/British_Columbia/07706/2005	EPI227264	H3N8	2005-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2521P/2011	EPI419766	H3N8	2011-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2547V/2011	EPI419877	H3N8	2011-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2550P/2011	EPI419891	H3N8	2011-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2568P/2011	EPI419989	H3N8	2011-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2569V/2011	EPI420022	H3N8	2011-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2578P/2011	EPI420066	H3N8	2011-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2744/2012	EPI486144	H3N8	2012-07-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2752/2012	EPI486163	H3N8	2012-07-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2783/2012	EPI486205	H3N8	2012-07-13	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2823/2012	EPI486258	H3N8	2012-07-16	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2904/2012	EPI486351	H3N8	2012-07-20	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/2924/2012	EPI485037	H3N8	2012-07-23	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/3036/2012	EPI486672	H3N8	2012-07-27	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/3072/2012	EPI486693	H3N8	2012-08-06	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/3304/2012	EPI486833	H3N8	2012-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/6471/2008	CY093606	H3N8	2008-11-02	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/M11t72maH3/2018	MW132219	H3N8	2018-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/M15t72maH3/2018	MW132233	H3N8	2018-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/SL01B72maH3/2018	MW132340	H3N8	2018-06-25	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/SL06B72maH3/2018	MW132293	H3N8	2018-10-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/UCD101475mdck/2016	MW132225	H3N8	2016-10-19	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/UCD1322/2017	EPI1514357	H3N8	2017-07-31	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/UCD1357/2017	EPI1514331	H3N8	2017-08-02	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/UCD840/2015	KX351677	H3N8	2015-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/California/UCD880/2015	EPI986646	H3N8	2015-07-30	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Idaho/23-028149-057/2023	EPI3358452	H3N6	2023-09-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Idaho/AH0011459/2015	KY551336	H3N8	2015-08-23	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Idaho/ND0002644/2013	EPI542034	H3N8	2013-08-21	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Idaho/UGAI16-1929/2016	EPI1036998	H3N8	2016-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Idaho/UGAI16-1930/2016	EPI1037012	H3N8	2016-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Idaho/UGAI16-1942/2016	EPI1037061	H3N8	2016-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Idaho/UGAI16-1943/2016	EPI1037076	H3N8	2016-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Idaho/UGAI16-1948/2016	EPI1037082	H3N8	2016-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Illinois/10OS2677/2010	CY132704	H3N2	2010-10-02	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Illinois/11OS5570/2011	CY166297	H3N8	2011-11-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM05900R0/2010	EPI436682	H3N8	2010-07-26	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM09158R0/2010	EPI453781	H3N8	2010-08-06	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM09159R0/2010	EPI453788	H3N8	2010-08-06	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM09561R0/2010	CY143731	H3N8	2010-08-07	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM09893R0/2010	EPI437120	H3N6	2010-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/10BM09896R0/2010	EPI437127	H3N6	2010-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/10BM11414R0/2010	EPI453961	H3N8	2010-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM11415R0/2010	EPI453968	H3N8	2010-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM11416R0/2010	EPI453975	H3N8	2010-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM11420R0/2010	EPI453996	H3N8	2010-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM11497R0/2010	CY143958	H3N6	2010-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/10BM12049R0/2010	EPI454145	H3N8	2010-08-13	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM12350R0/2010	EPI454089	H3N8	2010-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM12352R0/2010	EPI454103	H3N8	2010-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM12362R0/2010	CY141514	H3N8	2010-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/10BM12370R0/2010	EPI454117	H3N8	2010-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/11BM01255/2011	CY196072	H3N8	2011-08-03	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/11BM02923/2011	CY196120	H3N8	2011-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/11BM03819/2011	CY196249	H3N8	2011-09-03	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/12ML00034/2012	CY195726	H3N8	2012-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP0050R1/2006	CY078570	H3N8	2006-08-11	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP0124/2006	EPI298929	H3N8	2006-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	4
+A/mallard/Interior_Alaska/6MP0160AR1/2006	EPI298745	H3N8	2006-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	4
+A/mallard/Interior_Alaska/6MP0163AR2/2006	EPI298769	H3N8	2006-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP0878/2006	CY078594	H3N8	2006-08-16	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/6MP0915/2006	EPI298553	H3N8	2006-08-17	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP0951/2006	CY078610	H3N8	2006-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/6MP0952/2006	EPI298681	H3N6	2006-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Interior_Alaska/6MP0975/2006	EPI298561	H3N8	2006-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP0983R1/2006	EPI299797	H3N8	2006-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP0991/2006	CY078506	H3N2	2006-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP0992/2006	CY078514	H3N2	2006-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/6MP1142/2006	EPI298697	H3N6	2006-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Interior_Alaska/7MP0510/2007	EPI296857	H3N6	2007-09-07	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/7MP1094/2007	EPI297002	H3N8	2007-09-13	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/7MP1700/2007	EPI296978	H3N8	2007-09-05	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Interior_Alaska/7MP1835/2007	EPI299057	H3N8	2007-09-05	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/8BM2312/2008	EPI300125	H3N8	2008-08-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/8BM3586/2008	CY079130	H3N8	2008-09-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/8BM3614/2008	EPI299177	H3N8	2008-09-16	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM10047R0/2009	EPI452650	H3N8	2009-08-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM10051R0/2009	EPI452657	H3N8	2009-08-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM10111R0/2009	EPI452678	H3N8	2009-08-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM10851R0/2009	EPI452966	H3N8	2009-08-17	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM11381R0/2009	EPI452720	H3N8	2009-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM11382R0/2009	EPI452370	H3N8	2009-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/9BM11867R0/2009	EPI452769	H3N8	2009-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM12326R0/2009	EPI453050	H3N8	2009-09-02	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Interior_Alaska/9BM12388R0/2009	EPI453071	H3N8	2009-09-02	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM8465R0/2009	EPI436951	H3N1	2009-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM8474R0/2009	EPI437090	H3N1	2009-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM8524R0/2009	CY136324	H3N1	2009-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Interior_Alaska/9BM9755R0/2009	EPI453127	H3N1	2009-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Iowa/10OS2426/2010	EPI419418	H3N8	2010-09-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Iowa/10OS2492/2010	EPI419425	H3N6	2010-09-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/AH0190539/2021	OL539357	H3N8	2021-08-30	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maine/AH0190543/2021	OL539365	H3N8	2021-09-02	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maine/ME-Y17-102/2017	EPI1775024	H3N6	2017-08-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/ME-Y17-144/2017	EPI1775067	H3N6	2017-08-28	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/ME-Y17-166/2017	EPI1775091	H3N8	2017-08-29	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maine/ME-Y17-243/2017	EPI1775131	H3N2	2017-09-25	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI15-7648/2015	EPI1775155	H3N8	2015-08-28	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maine/UGAI15-7667/2015	EPI1775163	H3N8	2015-08-25	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maine/UGAI15-7670/2015	EPI1775171	H3N8	2015-08-25	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maine/UGAI15-7687/2015	EPI1775179	H3N2	2015-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI15-7688/2015	EPI1775187	H3N2	2015-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI15-7689/2015	EPI1775195	H3N2	2015-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI15-7690/2015	EPI1775203	H3N2	2015-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI15-7692/2015	EPI1775211	H3N2	2015-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI15-7790/2015	EPI1775227	H3N2	2015-09-28	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI16-5404/2016	EPI1775235	H3N2	2016-08-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maine/UGAI16-5406/2016	EPI1775243	H3N8	2016-08-29	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maryland/05OS1403/2005	CY202987	H3N8	2005-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maryland/05OS1508/2005	CY203620	H3N8	2005-09-16	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maryland/05OS622/2005	CY203556	H3N8	2005-06-30	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maryland/05OS630/2005	CY203564	H3N2	2005-06-30	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/05OS677/2005	CY203572	H3N2	2005-06-30	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/05OS693/2005	CY203580	H3N2	2005-06-30	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/05OS694/2005	CY203588	H3N2	2005-06-30	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/05OS702/2005	CY203596	H3N2	2005-06-30	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/05OS713/2005	CY203604	H3N2	2005-06-30	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/06OS1207/2006	CY203708	H3N6	2006-08-07	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/06OS479/2006	CY203660	H3N6	2006-06-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/07OS882/2007	CY203748	H3N6	2007-06-27	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/09OS1350/2009	CY203171	H3N2	2009-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/09OS1351/2009	CY203179	H3N2	2009-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/09OS1400/2009	CY204946	H3N8	2009-08-27	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maryland/09OS1403/2009	CY205386	H3N8	2009-08-27	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maryland/10OS1087/2010	CY203268	H3N2	2010-08-20	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/10OS1094/2010	CY203292	H3N2	2010-08-20	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/10OS1907/2010	CY203316	H3N6	2010-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/10OS1934/2010	CY203332	H3N2	2010-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/10OS1953/2010	CY203348	H3N2	2010-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/1127/2005	CY081315	H3N8	2005-06-27	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Maryland/1235/2006	EPI77481	H3N6	2006-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/12OS1511/2012	CY205114	H3N6	2012-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/12OS1518/2012	CY205122	H3N6	2012-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/12OS1520/2012	CY205130	H3N6	2012-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/12OS1526/2012	CY205138	H3N6	2012-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/12OS1536/2012	CY205146	H3N6	2012-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/12OS1538/2012	CY205154	H3N6	2012-08-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/14OS1430/2014	CY204601	H3N9	2014-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/14OS1431/2014	CY204609	H3N9	2014-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/14OS1438/2014	CY204617	H3N9	2014-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/14OS1446/2014	CY204625	H3N9	2014-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/14OS1447/2014	CY204633	H3N9	2014-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/615/2005	EPI60517	H3N2	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/631/2005	EPI60099	H3N2	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/681/2005	EPI60061	H3N2	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/691/2005	EPI60080	H3N2	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/708/2005	CY024817	H3N2	2005-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/710/2005	EPI60536	H3N2	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/712/2005	EPI63484	H3N2	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/UGAI15-8423/2015	EPI1775419	H3N1	2015-12-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/UGAI16-5536/2016	EPI1775443	H3N6	2016-11-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/UGAI16-5539/2016	EPI1775451	H3N6	2016-11-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/UGAI16-5540/2016	EPI1775459	H3N6	2016-11-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/UGAI16-5544/2016	EPI1775467	H3N6	2016-11-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Maryland/UGAI16-5545/2016	EPI1775475	H3N6	2016-11-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Michigan/10OS1497/2010	CY132132	H3N2	2010-08-20	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/182749/1998	EPI448364	H3N9	1998-09-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/190/1999	FJ517288	H3N8	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/199036/1999	EPI448563	H3N2	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/199106/1999	EPI448807	H3N8	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/280/1999	EU743535	H3N5	1999-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/283/1999	FJ517295	H3N8	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/290/1999	EU743507	H3N2	1999-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/346242/2000	EPI448477	H3N6	2000-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/354/1999	FJ517301	H3N8	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/380/1999	EU743515	H3N2	1999-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/68/1999	EU743500	H3N2	1999-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/AI09-1870/2009	CY140694	H3N3	2009-07-28	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/AI09-2434/2009	EPI449762	H3N8	2009-08-05	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/AI09-2519/2009	CY140734	H3N6	2009-09-06	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/AI09-3228/2009	EPI449850	H3N1	2009-09-08	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/AI09-4022/2009	EPI449943	H3N2	2009-09-06	Avian	Usa	North America	Blue-winged Teal	duck	Anseriformes	6
+A/mallard/Minnesota/MN18-WB1-065A/2018	EPI1772915	H3N8	2018-09-10	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/MN18-WB1-075A/2018	EPI1772923	H3N6	2018-09-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/MN18-WB1-075B/2018	EPI1772931	H3N6	2018-09-10	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/MN18-WB1-087A/2018	EPI1772947	H3N8	2018-09-10	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/MN18-WB1-095A/2018	EPI1772963	H3N8	2018-09-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/MN18-WB1-103A/2018	EPI1772979	H3N8	2018-09-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/MN18-WB1-105A/2018	EPI1772987	H3N8	2018-09-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/MN18-WB2-162A/2018	EPI1773034	H3N8	2018-09-11	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/MN18-WB2-204A/2018	EPI1773097	H3N8	2018-09-15	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00051/2007	EPI263257	H3N8	2007-08-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00061/2007	EPI263329	H3N8	2007-08-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00589/2008	EPI449259	H3N8	2008-07-31	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00590/2008	EPI449266	H3N8	2008-07-31	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00605/2008	EPI448585	H3N8	2008-07-31	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00672/2008	EPI449412	H3N8	2008-08-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00674/2008	CY140317	H3N8	2008-08-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00804/2008	EPI449333	H3N8	2008-09-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00831/2008	EPI449490	H3N8	2008-09-04	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00868/2008	EPI449540	H3N8	2008-09-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-00949/2008	EPI449570	H3N2	2008-09-03	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/Sg-01035/2008	CY140574	H3N8	2008-09-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Minnesota/Sg-01040/2008	CY140590	H3N2	2008-09-14	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Minnesota/UGAI15-7137/2015	EPI973987	H3N8	2015-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Mississippi/354/2010	CY097709	H3N8	2010-01-16	Avian	Usa	North America	Mallard	duck	Anseriformes	4
+A/mallard/Mississippi/390/2010	CY097733	H3N8	2010-01-17	Avian	Usa	North America	Mallard	duck	Anseriformes	4
+A/mallard/MN/158/2000	EPI159179	H3N9	2000-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/259/1999	EPI158631	H3N6	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/280/99	EPI158462	H3N5	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/290/99	EPI158475	H3N2	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/330/1999	EPI158639	H3N1	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/351/99	EPI158468	H3N1	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/380/1999	EPI158647	H3N2	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/515/2000	EPI158615	H3N6	2000-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/68/99	EPI158481	H3N2	1999-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/MN/99/2000	EPI158623	H3N6	2000-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Nevada/D1511740/2015	EPI1549607	H3N8	2015-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/00341/2010	EPI434447	H3N8	2010-08-08	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/00495/2010	EPI434805	H3N8	2010-08-12	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/00593/2010	EPI434921	H3N7	2010-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/New_Brunswick/02747/2007	EPI405221	H3N8	2007-09-04	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/03396/2009	EPI404683	H3N8	2009-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/03397/2009	EPI404641	H3N8	2009-08-09	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/03482/2009	CY128563	H3N8	2009-08-14	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/04482/2007	EPI405149	H3N8	2007-09-04	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Brunswick/04485/2007	EPI405199	H3N8	2007-09-04	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Jersey/AH0005870/2014	EPI953316	H3N8	2014-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Jersey/AH0005885/2014	EPI953323	H3N8	2014-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Jersey/Sg-00888/2008	EPI455899	H3N2	2008-09-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/New_Jersey/Sg-00892/2008	EPI455905	H3N8	2008-09-20	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_Jersey/Sg-00893/2008	CY145774	H3N2	2008-09-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/New_York/AH0179439/2021	OL539642	H3N8	2021-09-07	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/New_York/AH0179440/2021	OL539650	H3N1	2021-09-07	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/North_Dakota/AH0050030/2015	EPI952806	H3N8	2015-10-09	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Nova_Scotia/03271/2009	EPI391975	H3N8	2009-08-06	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Nova_Scotia/14728/2005	CY095353	H3N8	2005-09-08	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/10OS1467/2010	CY132100	H3N2	2010-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/10OS1469/2010	CY132108	H3N2	2010-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/10OS1470/2010	CY132116	H3N2	2010-08-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/11OS1992/2011	EPI413630	H3N8	2011-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/11OS2049/2011	EPI413607	H3N6	2011-08-17	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/11OS2141/2011	EPI413588	H3N2	2011-08-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/11OS2142/2011	EPI413567	H3N1	2011-08-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/11OS2150/2011	EPI413574	H3N1	2011-08-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/12OS2351/2012	CY186821	H3N6	2012-09-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0468/2014	EPI735177	H3N2	2014-08-27	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0470/2014	CY204128	H3N2	2014-08-27	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0550/2014	CY204136	H3N2	2014-08-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0554/2014	CY204152	H3N2	2014-08-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0569/2014	CY204184	H3N2	2014-08-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0589/2014	CY204222	H3N2	2014-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0770/2014	CY204079	H3N6	2014-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0961/2014	CY204239	H3N2	2014-09-03	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0985/2014	CY204296	H3N8	2014-09-04	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/14OS0986/2014	CY204304	H3N2	2014-09-04	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/14OS0999/2014	CY204321	H3N2	2014-09-04	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/1506/2006	CY053868	H3N6	2006-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/156/1990	CY017716	H3N6	1990-10-18	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/15OS3603/2015	KY284364	H3N8	2015-08-21	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/15OS3986/2015	EPI962192	H3N2	2015-08-07	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/15OS3988/2015	EPI962270	H3N1	2015-08-07	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/15OS4201/2015	EPI962267	H3N8	2015-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/15OS4229/2015	EPI962127	H3N8	2015-08-14	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/15OS4278/2015	EPI962219	H3N2	2015-08-21	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/15OS4288/2015	KY678702	H3N6	2015-08-21	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/1717/2005	EPI63427	H3N6	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Ohio/17OS1696/2017	EPI1769073	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1716/2017	EPI1768903	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/17OS1739/2017	MK237835	H3N8	2017-08-02	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1781/2017	EPI1768752	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/17OS1795/2017	MK237093	H3N2	2017-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Ohio/17OS1796/2017	MK236837	H3N2	2017-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/Mallard/Ohio/17OS1798/2017	EPI1768782	H3N2	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Ohio/17OS1801/2017	EPI1537698	H3N2	2017-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Ohio/17OS1802/2017	MK237164	H3N2	2017-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Ohio/17OS1804/2017	MK237293	H3N2	2017-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/Mallard/Ohio/17OS1805/2017	EPI1768832	H3N2	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Ohio/17OS1806/2017	MK236931	H3N2	2017-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Ohio/17OS1807/2017	MK237596	H3N2	2017-08-08	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Ohio/17OS1816/2017	MK237986	H3N8	2017-08-09	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1918/2017	EPI1768844	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1919/2017	EPI1768763	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1921/2017	EPI1768743	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1925/2017	EPI1768671	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1929/2017	EPI1768994	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1936/2017	EPI1768914	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/17OS1939/2017	MT566254	H3N8	2017-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/17OS1964/2017	EPI1537166	H3N2	2017-08-11	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/17OS1973/2017	MK237549	H3N8	2017-08-12	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/17OS5967/2017	MK237206	H3N1	2017-11-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/1801/2005	EPI60251	H3N8	2005-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/181/1986	CY021436	H3N1	1986-11-06	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/184/1986	EPI60781	H3N8	1986-11-06	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Ohio/18OS1219/2018	MN431083	H3N8	2018-05-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/Mallard/Ohio/18OS1844/2018	MN430959	H3N2	2018-10-13	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/Mallard/Ohio/18OS4675/2018	EPI1769109	H3N8	2018-07-01	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/264/1986	EPI46210	H3N8	1986-11-08	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/424/1988	EPI48623	H3N2	1988-01-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/48/1986	EPI58807	H3N2	1986-10-20	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Ohio/649/2002	EPI58902	H3N8	2002-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/651/2002	CY053836	H3N8	2002-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ohio/654/2002	EPI58864	H3N8	2002-08-19	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Ontario/15873/2005	CY095298	H3N2	2005-08-29	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Oregon/44221-105/2006	CY076180	H3N6	2006-10-14	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Oregon/AH0038704/2015	KY551488	H3N8	2015-08-11	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Pennsylvania/23-028155-001/2023	EPI3364152	H3N6	2023-09-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Pennsylvania/23-028155-004/2023	EPI3364160	H3N6	2023-09-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Pennsylvania/23-028155-005/2023	EPI3350970	H3N6	2023-09-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Pennsylvania/23-028155-006/2023	EPI3350978	H3N6	2023-09-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Pennsylvania/UGAI15-4737/2015	EPI1304817	H3N1	2015-09-08	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/11040/2006	CY047599	H3N2	2006-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/11045/2006	CY047607	H3N2	2006-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/11082/2006	EPI225217	H3N8	2006-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Quebec/11093/2006	CY095401	H3N2	2006-08-20	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/11121/2006	CY047639	H3N2	2006-08-20	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/11194/2006	CY047679	H3N2	2006-08-24	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/11221/2006	CY095417	H3N2	2006-08-24	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/11247/2006	CY047663	H3N2	2006-08-24	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Quebec/16485/2005	EPI227354	H3N3	2005-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard/Saskatchewan/1/1982	CY181060	H3N8	1982-XX-XX	Avian	Canada	North America	Mallard	duck	Anseriformes	5
+A/mallard/Saskatchewan/14/1982	CY181092	H3N8	1982-XX-XX	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard/Southcentral_Alaska/12ML00974/2014	CY206708	H3N8	2014-09-19	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Southcentral_Alaska/12ML00982/2014	CY206716	H3N8	2014-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Southcentral_Alaska/12ML00986_AAF1/2014	CY194180	H3N8	2014-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Southcentral_Alaska/12ML00993/2014	CY206732	H3N8	2014-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Southcentral_Alaska/12ML00997_AAF1/2014	CY194204	H3N8	2014-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Southcentral_Alaska/12ML01001_AAF1/2014	CY194212	H3N8	2014-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Southcentral_Alaska/12ML01011/2014	CY206756	H3N8	2014-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Southcentral_Alaska/12ML01012/2014	CY206764	H3N8	2014-09-22	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Vermont/AH0188049/2021	OL514129	H3N6	2021-08-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Vermont/AH0188131/2021	OL514210	H3N8	2021-09-02	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Washington/44242-124/2006	CY076188	H3N2	2006-07-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Washington/44338-052/2007	CY076620	H3N1	2007-09-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/10OS2538/2010	EPI418726	H3N2	2010-09-26	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/10OS2900/2010	EPI418998	H3N2	2010-10-03	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/10OS2909/2010	EPI419039	H3N8	2010-10-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/10OS3866/2010	EPI419173	H3N6	2010-11-13	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3079/2011	EPI512990	H3N2	2011-09-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3092/2011	EPI512997	H3N2	2011-09-25	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3106/2011	EPI512924	H3N2	2011-09-25	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3157/2011	EPI512563	H3N2	2011-09-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3158/2011	EPI512483	H3N2	2011-09-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3159/2011	EPI512490	H3N2	2011-09-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3161/2011	EPI512497	H3N2	2011-09-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3171/2011	CY166887	H3N2	2011-09-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3192/2011	EPI512446	H3N2	2011-09-24	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3305/2011	EPI512805	H3N2	2011-10-01	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3408/2011	CY166604	H3N2	2011-10-15	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3482/2011	CY166442	H3N2	2011-10-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS3493/2011	EPI512843	H3N2	2011-10-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS4238/2011	EPI512894	H3N2	2011-10-23	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/11OS4383/2011	CY166735	H3N8	2011-11-05	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/12OS4331/2012	CY187126	H3N8	2012-10-27	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/13OS2767/2013	EPI526254	H3N8	2013-09-28	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/144/1979	CY180274	H3N8	1979-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/155/1980	CY180907	H3N2	1980-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/162/1977	CY179554	H3N2	1977-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1636/1983	CY179290	H3N8	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/168/1979	CY180282	H3N8	1979-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/17/1975	CY179874	H3N5	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1727/1983	CY179314	H3N6	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1729/1983	CY177925	H3N6	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1746/1983	CY177933	H3N2	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1781/1983	CY178413	H3N2	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1784/1983	CY178421	H3N2	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1793/1983	CY178429	H3N2	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/17OS3655/2017	EPI1537855	H3N2	2017-09-30	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/18/1977	CY179722	H3N6	1977-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/1804/1983	CY178437	H3N2	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/19/1975	CY179882	H3N5	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/20/1975	CY179730	H3N5	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2083/1984	CY177941	H3N8	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/2084/1984	CY177949	H3N8	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/2087/1984	CY177957	H3N8	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/2090/1984	CY177965	H3N8	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/2117/1984	CY177981	H3N8	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/213/1979	CY180290	H3N8	1979-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/2163/1984	CY177997	H3N2	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/22/1974	CY181052	H3N5	1974-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2211/1984	CY178013	H3N8	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/2215/1984	CY178021	H3N2	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2221/1984	CY178029	H3N8	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/2263/1984	CY178037	H3N2	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2272/1984	CY178045	H3N2	1984-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/25/1975	CY179890	H3N5	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2543/2009	CY096993	H3N2	2009-10-05	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2549/2009	CY097333	H3N2	2009-10-05	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2575/2009	CY097349	H3N2	2009-10-06	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/260/1980	CY178397	H3N2	1980-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/2712/2009	CY097041	H3N6	2009-10-11	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/283/1976	CY180162	H3N8	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/29/1979	CY180242	H3N8	1979-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/31/1975	CY179778	H3N2	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	4
+A/mallard/Wisconsin/31/1979	CY180250	H3N8	1979-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/316/1975	CY179754	H3N2	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/316/1976	CY180186	H3N8	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Wisconsin/317/1976	CY180194	H3N8	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Wisconsin/34/1976	CY180122	H3N8	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/383/1976	CY180202	H3N8	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Wisconsin/408/1983	CY177909	H3N6	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/409/1981	CY178774	H3N8	1981-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/411/1977	CY179386	H3N2	1977-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/414/1977	CY179562	H3N2	1977-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/414/1981	CY178782	H3N2	1981-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/415/1981	CY177773	H3N8	1981-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/418/1976	CY180427	H3N6	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/420/1981	CY177781	H3N8	1981-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/421/1981	CY177789	H3N8	1981-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/426/1976	CY180210	H3N2	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	4
+A/mallard/Wisconsin/471/1976	CY180218	H3N8	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/483/1983	CY178590	H3N8	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/487/1981	CY179282	H3N8	1981-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/52/1975	CY179898	H3N5	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/53/1975	CY179906	H3N5	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/55/1975	CY179738	H3N5	1975-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/603/1983	CY180315	H3N8	1983-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/72/1979	CY180258	H3N8	1979-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/73/1976	CY180130	H3N8	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	5
+A/mallard/Wisconsin/82/1976	CY178985	H3N2	1976-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/827/1982	CY177797	H3N8	1982-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/834/1982	CY177813	H3N8	1982-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/847/1982	CY177821	H3N8	1982-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/85/1977	CY179546	H3N8	1977-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/856/1982	CY178790	H3N5	1982-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/mallard/Wisconsin/865/1982	CY177845	H3N8	1982-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/890/1982	CY177869	H3N8	1982-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard/Wisconsin/908/1982	CY177885	H3N8	1982-XX-XX	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard_duck/ALB/26/1976	EPI87229	H3N1	1976-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard_duck/ALB/525/1985	EPI87116	H3N8	1985-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard_duck/ALB/564/1979	EPI85769	H3N8	1979-08-11	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/mallard_duck/ALB/635/1983	EPI87084	H3N5	1983-08-19	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard_duck/ALB/676/1979	EPI85805	H3N6	1979-08-13	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard_duck/ALB/712/1978	EPI86961	H3N3	1978-08-15	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard_duck/Alberta/147/2019	MT912524	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard_duck/Alberta/319/2019	MT624397	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard_duck/Alberta/328/2019	MT624350	H3N6	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard_duck/Alberta/331/1985	EPI41977	H3N6	1985-08-18	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard_duck/Alberta/331/2019	MT624478	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard_duck/Alberta/339/2019	MT624453	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard_duck/Alberta/343/2019	MT624514	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard_duck/Alberta/347/2019	MT624447	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard_duck/Alberta/358/2019	MT624536	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/Mallard_duck/Alberta/471/2019	MT624467	H3N8	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	7
+A/Mallard_duck/Alberta/504/2019	EPI1832557	H3N6	2019-08-22	Avian	Canada	North America	Mallard	duck	Anseriformes	6
+A/mallard_duck/California/UCD558/2016	KY990759	H3N8	2016-07-18	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard_duck/Ohio/16OS0843/2016	EPI1154528	H3N8	2016-08-02	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard_duck/Ohio/16OS0859/2016	EPI1154494	H3N8	2016-08-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard_duck/Ohio/16OS0862/2016	EPI1154141	H3N8	2016-08-03	Avian	Usa	North America	Mallard	duck	Anseriformes	7
+A/mallard_duck/Ohio/16OS4983/2016	EPI1153675	H3N2	2016-11-12	Avian	Usa	North America	Mallard	duck	Anseriformes	6
+A/Northern_Pintail/Alaska/19TL00162/2019	MW872151	H3N8	2019-08-12	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/337/2012	EPI966538	H3N8	2012-09-23	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/362/2013	EPI966760	H3N8	2013-09-15	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/40/2011	EPI966263	H3N8	2011-09-17	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/404/2013	EPI966813	H3N8	2013-09-15	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44155-158/2006	EU557376	H3N8	2006-08-15	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44183-067/2006	EU557391	H3N8	2006-08-09	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44183-072/2006	EU557411	H3N8	2006-08-12	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	4
+A/northern_pintail/Alaska/44184-003/2006	EU557398	H3N8	2006-08-25	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/44194-041/2006	EU557384	H3N6	2006-08-15	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44194-071/2006	EU557389	H3N6	2006-08-18	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44202-126/2006	EU557392	H3N8	2006-10-14	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/44228-173/2006	EU557397	H3N8	2006-09-29	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44340-347/2007	GU168146	H3N8	2007-08-11	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/44344-503/2007	GU168172	H3N6	2007-08-02	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44344-506/2007	GU168142	H3N8	2007-08-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/44344-730/2007	GU168125	H3N6	2007-08-25	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44344-798/2007	GU168150	H3N6	2007-08-26	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44344-881/2007	GU168163	H3N6	2007-08-23	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44419-062/2008	GU168144	H3N6	2008-08-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44419-104/2008	GU168156	H3N6	2008-08-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44421-385/2008	GU168162	H3N8	2008-10-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44421-431/2008	GU168169	H3N6	2008-10-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44421-445/2008	GU168138	H3N8	2008-09-22	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/44421-446/2008	GU168164	H3N6	2008-10-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/44500-075/2009	JX080817	H3N6	2009-08-10	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/52/2011	EPI966271	H3N6	2011-09-15	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/523/2014	EPI729598	H3N8	2014-09-29	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/531/2011	EPI966410	H3N8	2011-09-22	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/562/2014	EPI729614	H3N8	2014-09-30	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/580/2014	EPI729637	H3N8	2014-09-28	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/619/2013	EPI966919	H3N8	2013-09-16	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/649/2011	EPI966442	H3N8	2011-09-28	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/687/2012	EPI966610	H3N8	2012-10-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/750/2011	EPI966458	H3N8	2011-09-30	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/778/2012	EPI966634	H3N8	2012-10-10	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/78/2011	EPI966279	H3N8	2011-09-17	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/78/2012	EPI966514	H3N8	2012-09-25	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/782/2012	EPI966658	H3N8	2012-10-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/7MP0508/2007	EPI222342	H3N8	2007-09-09	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/861/2014	EPI729715	H3N8	2014-09-28	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/887/2012	EPI966688	H3N8	2012-10-17	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/911/2013	EPI967056	H3N8	2013-09-23	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/AH0185234/2021	OL467089	H3N8	2021-08-19	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/AH0185297/2021	OL467105	H3N8	2021-08-11	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/AK18-WB1-098A/2018	EPI1773137	H3N6	2018-10-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/AK19-130E_T1/2019	EPI2143152	H3N8	2019-09-21	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/AK19-534/2019	EPI2142995	H3N8	2019-10-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/AK20-434/2020	EPI2143019	H3N8	2020-10-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	3
+A/northern_pintail/Alaska/UGAI15-7291/2015	EPI973540	H3N8	2015-09-23	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/UGAI15-7320/2015	KX949513	H3N8	2015-09-30	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alaska/UGAI15-7399/2015	EPI966768	H3N6	2015-10-03	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Alaska/UGAI16-4606/2016	EPI1903829	H3N8	2016-09-20	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/UGAI16-4607/2016	EPI1903837	H3N8	2016-09-20	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alaska/UGAI16-5343/2016	EPI1903883	H3N8	2016-10-13	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Alberta/11701/2005	CY047535	H3N8	2005-08-05	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Alberta/8/2009	CY103518	H3N8	2009-08-19	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/California/44221-794/2006	FJ520007	H3N8	2006-10-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/California/44241-743/2006	FJ520009	H3N8	2006-11-18	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/California/44242-711/2006	FJ519990	H3N6	2006-08-29	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/California/44242-836/2006	FJ520002	H3N6	2006-09-18	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/1/2007	EPI222757	H3N8	2007-08-07	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	3
+A/northern_pintail/Interior_Alaska/10BM00303R0/2010	EPI414431	H3N8	2010-05-14	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/10BM00849R2/2010	EPI414515	H3N1	2010-05-23	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/10BM05034R0/2010	EPI436524	H3N6	2010-07-21	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/10BM08488R0/2010	EPI453690	H3N8	2010-08-04	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/10BM09105R0/2010	EPI453883	H3N8	2010-08-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/10BM11989R0/2010	EPI454138	H3N8	2010-08-13	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/10BM12163R0/2010	EPI454040	H3N8	2010-08-13	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/10BM12552R0/2010	EPI454159	H3N8	2010-08-14	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/11ML00065/2011	CY196666	H3N6	2011-09-24	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/6MP0964/2006	EPI298705	H3N8	2006-08-17	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/6MP1080R1/2006	CY078690	H3N8	2006-08-20	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/7MP0345BR2/2007	CY078906	H3N8	2007-08-16	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/7MP0408/2007	CY078946	H3N8	2007-08-18	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Interior_Alaska/7MP0509/2007	CY078914	H3N8	2007-09-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/7MP1822/2007	CY079010	H3N8	2007-09-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/8BM2528R1/2008	CY079066	H3N8	2008-08-13	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/8BM3582/2008	CY079122	H3N8	2008-09-14	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/8BM3696/2008	EPI300077	H3N8	2008-09-26	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/8BM3700/2008	EPI299201	H3N8	2008-09-26	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/9BM10146R0/2009	EPI437060	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM10525R2/2009	EPI437026	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM11325R0/2009	EPI436894	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM11431R0/2009	EPI436910	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM11487R0/2009	CY142817	H3N8	2009-08-18	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/9BM11787R0/2009	EPI451477	H3N7	2009-08-19	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	5
+A/northern_pintail/Interior_Alaska/9BM11789R0/2009	EPI452762	H3N8	2009-08-19	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/9BM12176R0/2009	EPI452973	H3N8	2009-08-20	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM12180R0/2009	EPI452980	H3N8	2009-08-20	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM12210R0/2009	EPI453015	H3N8	2009-08-21	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM12211R0/2009	EPI453305	H3N8	2009-08-21	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM12647R0/2009	CY143329	H3N8	2009-09-05	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/9BM12700R0/2009	CY143347	H3N8	2009-09-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/9BM6145R0/2009	EPI453213	H3N8	2009-08-02	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Interior_Alaska/9BM7055R0/2009	EPI453220	H3N8	2009-08-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM7258R0/2009	EPI452636	H3N8	2009-08-06	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM8448R0/2009	EPI437053	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM8459R0/2009	EPI436937	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM8464R0/2009	EPI436992	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM8502R0/2009	EPI436999	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM8553R0/2009	EPI452889	H3N8	2009-08-10	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM8907R0/2009	EPI452917	H3N8	2009-08-11	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM9153R0/2009	EPI437006	H3N8	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Interior_Alaska/9BM9973R0/2009	EPI437048	H3N1	2009-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/New_Brunswick/03547/2009	EPI391727	H3N8	2009-09-11	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Oregon/44249-559/2006	CY076244	H3N8	2006-08-22	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/northern_pintail/Saskatchewan/22910/2007	CY045326	H3N2	2007-08-10	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_pintail/Wisconsin/2737/2009	CY097501	H3N2	2009-10-17	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/northern_shoveler/Alaska/UGAI15-7320/2015	EPI973548	H3N8	2015-09-30	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/California/HKWF1021/2007	EPI159440	H3N7	2007-12-02	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF1046/2007	EPI159448	H3N5	2007-12-02	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF1046C/2007	CY094364	H3N5	2007-12-02	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF1131/2007	EPI159464	H3N5	2007-12-02	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF1199/2007	EPI159480	H3N5	2007-12-05	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF1201/2007	EPI154558	H3N5	2007-12-05	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF1367/2007	EPI159488	H3N7	2007-12-12	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF569/2007	EPI178811	H3N1	2007-11-10	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF848/2007	EPI160346	H3N7	2007-11-28	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/California/HKWF979/2007	EPI154614	H3N3	2007-12-02	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/Northern_shoveler/Guatemala/CIP049HT114-14/2013	KX960470	H3N8	2013-01-19	Avian	Guatemala	North America	Northern Shoveler	duck	Anseriformes	4
+A/northern_shoveler/Interior_Alaska/10BM05491R0/2010	EPI436620	H3N8	2010-07-26	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Interior_Alaska/10BM05649R0/2010	EPI436725	H3N8	2010-07-26	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Interior_Alaska/11BM03889/2011	CY196285	H3N8	2011-09-03	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/Interior_Alaska/2/2007	EPI178605	H3N8	2007-09-06	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Interior_Alaska/4/2007	EPI178668	H3N8	2007-09-05	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Interior_Alaska/6MP1283/2006	EPI299773	H3N6	2006-09-02	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	5
+A/northern_shoveler/Interior_Alaska/6MP1287/2006	EPI298585	H3N8	2006-09-02	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/Interior_Alaska/6MP1339/2006	EPI298625	H3N8	2006-09-09	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	6
+A/northern_shoveler/Interior_Alaska/7MP1765/2007	CY077277	H3N8	2007-09-04	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Interior_Alaska/7MP1766/2007	EPI300149	H3N8	2007-09-04	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Interior_Alaska/9BM12298R0/2009	CY143161	H3N8	2009-09-01	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Minnesota/Sg-00645/2008	EPI448599	H3N8	2008-07-31	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Ohio/35/1986	CY020940	H3N8	1986-01-01	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/northern_shoveler/Ohio/454/1987	CY017868	H3N8	1987-01-01	Avian	Usa	North America	Northern Shoveler	duck	Anseriformes	7
+A/pintail/Alaska/211/2005	CY016187	H3N8	2005-08-10	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alaska/279/2005	CY015507	H3N8	2005-08-11	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alaska/315/2005	CY089556	H3N8	2005-08-11	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alaska/49/2005	EPI59187	H3N8	2005-08-08	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alaska/53/2005	EPI38926	H3N6	2005-08-08	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/pintail/Alaska/779/2005	CY017764	H3N8	2005-08-20	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/105/1991	CY101746	H3N8	1991-08-10	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/114/1995	CY102179	H3N8	1995-08-07	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/118/1991	CY101770	H3N8	1991-08-10	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/128/1987	CY101445	H3N8	1987-08-12	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/156/97	AY633347	H3N8	1997-01-01	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/166/2003	EPI343712	H3N6	2003-08-03	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	6
+A/pintail/Alberta/232/1992	CY101813	H3N8	1992-08-24	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/37/1999	EPI343855	H3N8	1999-07-30	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/37/99	EPI22485	H3N8	1999-01-01	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Alberta/81/1991	CY101738	H3N8	1991-08-09	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Barrow/155/2005	EPI155073	H3N8	2005-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Minnesota/479/1999	EU743567	H3N6	1999-XX-XX	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/pintail/MN/479/99	EPI158607	H3N6	1999-01-01	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/pintail/Ohio/339/1987	EPI55235	H3N8	1987-10-19	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Ohio/454/1987	CY016147	H3N8	1987-10-23	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail/Wisconsin/122/1978	CY181192	H3N2	1978-XX-XX	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/pintail/Wisconsin/424/1976	CY180571	H3N2	1976-XX-XX	Avian	Usa	North America	Northern Pintail	duck	Anseriformes	6
+A/pintail_duck/ALB/169/1980	EPI88039	H3N8	1980-08-05	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/pintail_duck/ALB/462/1979	EPI86995	H3N6	1979-08-10	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	6
+A/pintail_duck/ALB/86/1976	EPI86904	H3N2	1976-08-13	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	4
+A/pintail_duck/Alberta/169/1980	CY005050	H3N8	1980-08-05	Avian	Canada	North America	Northern Pintail	duck	Anseriformes	7
+A/quail/QC/FAV-10/2008	HQ825171	H3N2	2008-05-09	Avian	Canada	North America	Quail	quail	Galliformes	1
+A/red_knot/Delaware_Bay/218/1994	EPI344371	H3N8	1994-05-23	Avian	Usa	North America	Avian	avian	Avian	7
+A/red_knot/Delaware_Bay/236/1994	EPI344363	H3N8	1994-05-23	Avian	Usa	North America	Avian	avian	Avian	7
+A/red_knot/Delaware_Bay/252/1994	EPI344355	H3N2	1994-05-23	Avian	Usa	North America	Avian	avian	Avian	6
+A/redhead/Alberta/192/2002	CY102719	H3N6	2002-08-16	Avian	Canada	North America	Redhead	duck	Avian	6
+A/redhead/Ohio/13OS0373/2013	KR077977	H3N6	2013-02-01	Avian	Usa	North America	Redhead	duck	Avian	6
+A/redhead/Ohio/13OS0399/2013	KR077969	H3N6	2013-02-01	Avian	Usa	North America	Redhead	duck	Avian	6
+A/redhead/Ohio/13OS363/2013	KR077985	H3N8	2013-02-01	Avian	Usa	North America	Redhead	duck	Avian	7
+A/ring-necked_duck/Interior_Alaska/10BM05792R0/2010	EPI436647	H3N8	2010-07-26	Avian	Usa	North America	Ring-necked Duck	duck	Anseriformes	7
+A/ring-necked_duck/Minnesota/Sg-00066/2007	EPI263369	H3N8	2007-08-03	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/ring-necked_duck/New_Brunswick/03400/2009	EPI391754	H3N8	2009-08-09	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/ring-necked_duck/Nova_Scotia/03378/2009	EPI391699	H3N8	2009-08-08	Avian	Canada	North America	Duck	duck	Anseriformes	7
+A/ring-necked_duck/Ontario/15530/2005	CY095338	H3N2	2005-08-26	Avian	Canada	North America	Ring-necked Duck	duck	Anseriformes	6
+A/ruddy_duck/Nevada/AH0006859/2015	EPI952588	H3N8	2015-01-23	Avian	Usa	North America	Ruddy Duck	duck	Anseriformes	4
+A/ruddy_turnstone/Canada/02937/2011	EPI476235	H3N5	2011-08-30	Avian	Canada	North America	Red Knot	wader	Neoave	6
+A/Ruddy_Turnstone/Delaware/141/2021	OM966208	H3N8	2021-06-01	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/Ruddy_Turnstone/Delaware/193/2021	OM965788	H3N2	2021-06-01	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/Ruddy_Turnstone/Delaware/260/2021	OM966200	H3N8	2021-06-01	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware/AI10-1021/2010	MH501192	H3N2	2010-05-15	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware/Sg-00469/2008	EPI1621590	H3N2	2008-05-21	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/118/1994	CY101933	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/125/1994	EPI344534	H3N8	1994-05-22	Avian	Usa	North America	Avian	avian	Avian	7
+A/ruddy_turnstone/Delaware_Bay/136/1999	EPI345195	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/ruddy_turnstone/Delaware_Bay/142/1999	CY102411	H3N2	1999-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/144/2016	EPI1038246	H3N8	2016-05-23	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/150/1999	EPI344032	H3N8	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	7
+A/ruddy_turnstone/Delaware_Bay/158/1994	CY101980	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/160/2005	MH579038	H3N6	2005-05-19	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/167/1994	CY101988	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/170/1994	CY102010	H3N2	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/176/1994	CY102018	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/178/2005	MH578660	H3N6	2005-05-19	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/180/1994	CY102026	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/188/2005	MH579059	H3N6	2005-05-19	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/189/1994	CY102047	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/203/1994	CY102055	H3N3	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/215/2005	MH579041	H3N8	2005-05-19	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/229/2005	MH579043	H3N8	2005-05-19	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/238/2018	MK345932	H3N1	2018-05-21	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/240/2018	EPI1530475	H3N1	2018-05-21	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/244/1999	CY102531	H3N8	1999-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/250/1998	EPI344155	H3N8	1998-05-19	Avian	Usa	North America	Avian	avian	Avian	7
+A/ruddy_turnstone/Delaware_Bay/267/1998	EPI344147	H3N8	1998-05-19	Avian	Usa	North America	Avian	avian	Avian	7
+A/ruddy_turnstone/Delaware_Bay/276/2005	MH578704	H3N8	2005-05-19	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/286/2018	MK345786	H3N1	2018-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/296/2017	EPI1213921	H3N8	2017-05-21	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/297/2017	EPI1213928	H3N8	2017-05-21	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/298/2018	MK345632	H3N1	2018-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/321/2018	MK345758	H3N1	2018-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/324/2005	MH578856	H3N8	2005-05-21	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/331/2016	MF613673	H3N8	2016-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/347/2018	MK376970	H3N8	2018-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/354/2018	MK345797	H3N8	2018-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/368/2016	EPI1072125	H3N4	2016-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	5
+A/ruddy_turnstone/Delaware_Bay/425/2016	EPI1038474	H3N8	2016-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/429/2018	MK376998	H3N1	2018-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/44/2005	MH579199	H3N8	2005-05-18	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/45/2005	MH579206	H3N8	2005-05-18	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/450/2016	MF046444	H3N8	2016-05-25	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/451/2005	MH579065	H3N8	2005-05-21	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/596/2017	EPI1309279	H3N8	2017-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/633/2018	MK345577	H3N1	2018-05-20	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/81/1994	CY101897	H3N2	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/Delaware_Bay/86/1994	CY101905	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/87/1994	CY101913	H3N8	1994-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Delaware_Bay/88/1994	EPI344560	H3N8	1994-05-22	Avian	Usa	North America	Avian	avian	Avian	7
+A/ruddy_turnstone/Georgia/UGAI18-465/2018	MN937853	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-615/2018	MN937869	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-626/2018	MN937877	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-643/2018	EPI1789981	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-646/2018	EPI1789997	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-713/2018	MN937925	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-715/2018	MN937933	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-722/2018	MN937941	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/Georgia/UGAI18-765/2018	MN937989	H3N8	2018-05-03	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/1321394/2005	EPI454921	H3N6	2005-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/1321398/2005	MH597738	H3N6	2005-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/1321399/2005	MH597746	H3N8	2005-05-26	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/1321402/2005	MH597763	H3N6	2005-05-26	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/1321403/2005	MH597771	H3N6	2005-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/1321413/2005	MH597807	H3N6	2005-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/1321414/2005	MH597815	H3N8	2005-05-26	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/1321415/2005	EPI454928	H3N8	2005-05-26	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/1321419/2005	MH597823	H3N9	2005-05-17	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/1321420/2005	MH597831	H3N8	2005-05-17	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/1321421/2005	MH597839	H3N6	2005-05-18	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/1321430/2005	EPI454932	H3N8	2005-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/AI05-1094/2005	EPI454914	H3N6	2005-05-17	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00513/2008	EPI175529	H3N2	2008-05-28	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00518/2008	EPI175534	H3N2	2008-05-28	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00519/2008	EPI455403	H3N2	2008-05-28	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00520/2008	EPI455410	H3N2	2008-05-23	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00522/2008	EPI175539	H3N7	2008-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00523/2008	CY042500	H3N2	2008-05-28	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00525/2008	EPI175544	H3N8	2008-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/Sg-00529/2008	EPI188314	H3N2	2008-05-28	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00543/2008	CY042551	H3N7	2008-06-01	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/Sg-00555/2008	EPI455829	H3N2	2008-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI14-1748/2014	MH502745	H3N6	2014-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI14-1758/2014	MH502753	H3N6	2014-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI14-1837/2014	MH502761	H3N6	2014-05-27	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI14-1840/2014	MH502769	H3N6	2014-05-27	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI14-1868/2014	MH502785	H3N4	2014-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI16-1244/2016	CY241168	H3N8	2016-05-18	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/UGAI16-1289/2016	CY241272	H3N8	2016-05-18	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/UGAI16-1296/2016	EPI1066689	H3N5	2016-05-18	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2729/2017	EPI1228399	H3N8	2017-05-19	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/ruddy_turnstone/New_Jersey/UGAI17-2766/2017	EPI1228414	H3N2	2017-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2769/2017	EPI1228437	H3N2	2017-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2773/2017	EPI1228466	H3N2	2017-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2777/2017	EPI1228480	H3N2	2017-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2778/2017	EPI1228487	H3N2	2017-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2786/2017	EPI1228527	H3N2	2017-05-22	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2892/2017	EPI1228540	H3N2	2017-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2901/2017	EPI1228546	H3N2	2017-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2912/2017	EPI1228561	H3N2	2017-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2936/2017	EPI1228583	H3N7	2017-05-24	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/New_Jersey/UGAI17-2983/2017	EPI1228597	H3N7	2017-05-27	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/NJ/335/2005	EPI159203	H3N6	2005-01-01	Avian	Usa	North America	Avian	avian	Avian	6
+A/ruddy_turnstone/NJ/357/2005	EU871859	H3N6	2005-01-01	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/South_Carolina/UGAI18-1224/2018	EPI1790149	H3N1	2018-05-23	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	6
+A/ruddy_turnstone/South_Carolina/UGAI18-895/2018	EPI1790197	H3N8	2018-05-23	Avian	Usa	North America	Ruddy Turnstone	wader	Neoave	7
+A/sanderling/Delaware_Bay/248/2005	MH579031	H3N8	2005-05-19	Avian	Usa	North America	Sanderling	wader	Neoave	7
+A/sanderling/Delaware_Bay/28/2005	MH579129	H3N6	2005-05-18	Avian	Usa	North America	Sanderling	wader	Neoave	6
+A/sanderling/Delaware_Bay/426/2016	EPI1073028	H3N8	2016-05-24	Avian	Usa	North America	Sanderling	wader	Neoave	7
+A/sanderling/Delaware_Bay/70/1999	CY101257	H3N8	1999-05-23	Avian	Usa	North America	Sanderling	wader	Neoave	7
+A/sanderling/NJ/1042/2005	EPI159187	H3N6	2005-01-01	Avian	Usa	North America	Avian	avian	Avian	6
+A/semi-palmated_sandpiper/New_Jersey/253/1990	EPI344843	H3N6	1990-05-27	Avian	Usa	North America	Avian	avian	Avian	3
+A/semipalmated_sandpiper/Delaware_Bay/497/2018	MK345919	H3N1	2018-05-23	Avian	Usa	North America	Semi-palmated Sandpiper	wader	Neoave	6
+A/semipalmated_sandpiper/Delaware_Bay/556/2018	MK345780	H3N1	2018-05-23	Avian	Usa	North America	Semi-palmated Sandpiper	wader	Neoave	6
+A/semipalmated_sandpiper/Delaware_Bay/568/2018	MK345652	H3N1	2018-05-23	Avian	Usa	North America	Semi-palmated Sandpiper	wader	Neoave	6
+A/semipalmated_sandpiper/Delaware_Bay/572/2018	MK345691	H3N1	2018-05-23	Avian	Usa	North America	Semi-palmated Sandpiper	wader	Neoave	6
+A/semipalmated_sandpiper/Delaware_Bay/581/2005	MH579239	H3N6	2005-05-21	Avian	Usa	North America	Semi-palmated Sandpiper	wader	Neoave	6
+A/shorebird/Delaware_Bay/106/1999	EPI344091	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/11/1998	CY102259	H3N8	1998-05-18	Avian	Usa	North America	Shorebird	wader	Neoave	7
+A/shorebird/Delaware_Bay/110/1999	EPI344083	H3N8	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/120/1999	EPI344075	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/122/1999	EPI344067	H3N8	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/123/1999	CY102403	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shorebird/Delaware_Bay/140/2005	EPI343647	H3N6	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/148/2005	EPI343639	H3N6	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/153/2005	EPI343631	H3N6	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/159/1999	EPI344024	H3N8	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/161/2005	EPI343623	H3N6	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/167/2005	EPI343615	H3N8	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/170/2005	EPI343607	H3N6	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/179/2005	EPI343599	H3N6	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/189/1999	CY102446	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shorebird/Delaware_Bay/195/1999	CY102454	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shorebird/Delaware_Bay/200/1999	CY102462	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shorebird/Delaware_Bay/206/1994	EPI344422	H3N8	1994-05-23	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/206/1999	EPI343979	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/207/1994	EPI344414	H3N8	1994-05-23	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/207/1998	CY102275	H3N8	1998-05-19	Avian	Usa	North America	Shorebird	wader	Neoave	7
+A/shorebird/Delaware_Bay/208/1999	CY102491	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shorebird/Delaware_Bay/210/1998	CY102283	H3N8	1998-05-19	Avian	Usa	North America	Shorebird	wader	Neoave	7
+A/shorebird/Delaware_Bay/210/1999	CY102499	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shorebird/Delaware_Bay/212/1999	EPI343955	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/214/1999	EPI343947	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/215/1999	CY102523	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shorebird/Delaware_Bay/237/1998	CY102291	H3N8	1998-05-19	Avian	Usa	North America	Shorebird	wader	Neoave	7
+A/shorebird/Delaware_Bay/239/1998	CY102299	H3N8	1998-05-19	Avian	Usa	North America	Shorebird	wader	Neoave	7
+A/shorebird/Delaware_Bay/268/1999	EPI343906	H3N8	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/270/1999	EPI343897	H3N8	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/272/1999	CY102573	H3N8	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	7
+A/shorebird/Delaware_Bay/277/1994	EPI344339	H3N8	1994-05-23	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/28/1994	CY101871	H3N8	1994-05-22	Avian	Usa	North America	Shorebird	wader	Neoave	7
+A/shorebird/Delaware_Bay/280/1999	EPI343881	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/282/1999	EPI343873	H3N8	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/286/1994	EPI344331	H3N8	1994-05-23	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/289/2005	EPI343572	H3N6	2005-05-19	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/3/1994	CY101863	H3N2	1994-05-22	Avian	Usa	North America	Shorebird	wader	Neoave	5
+A/shorebird/Delaware_Bay/435/2005	EPI343564	H3N8	2005-05-21	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/450/2005	EPI343545	H3N8	2005-05-21	Avian	Usa	North America	Avian	avian	Avian	7
+A/shorebird/Delaware_Bay/485/2008	EPI343013	H3N2	2008-05-17	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/518/2005	EPI343537	H3N6	2005-05-21	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/519/2005	EPI343529	H3N6	2005-05-21	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/64/1994	CY101879	H3N2	1994-05-22	Avian	Usa	North America	Shorebird	wader	Neoave	5
+A/shorebird/Delaware_Bay/74/1999	EPI344107	H3N2	1999-05-24	Avian	Usa	North America	Avian	avian	Avian	6
+A/shorebird/Delaware_Bay/88/1999	CY102363	H3N2	1999-05-24	Avian	Usa	North America	Shorebird	wader	Neoave	6
+A/shoveler/Saskatchewan/3/1982	CY181068	H3N8	1982-XX-XX	Avian	Canada	North America	Northern Shoveler	duck	Anseriformes	7
+A/spectacled_eider/Alaska/44173-055/2006	JX080801	H3N8	2006-08-03	Avian	Usa	North America	Spectacled Eider	duck	Anseriformes	5
+A/Stellers_eider/Alaska/44354-353/2007	EPI328852	H3N6	2007-09-14	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/Stellers_eider/Alaska/44354-355/2007	EPI328853	H3N6	2007-09-14	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/Stellers_eider/Alaska/44354-356/2007	EPI328854	H3N6	2007-09-14	Avian	Usa	North America	Duck	duck	Anseriformes	6
+A/teal/Oregon/44336-122/2007	CY076036	H3N8	2007-08-16	Avian	Usa	North America	Teal Duck	duck	Anseriformes	7
+A/turkey/_Minnesota/764-2/03	EPI25425	H3N2	2003-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/BC/1529-3/2005	HQ825163	H3N2	2005-05-26	Avian	Canada	North America	Turkey	turkey	Galliformes	1
+A/turkey/Illinois/2004	EPI228919	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Minnesota/366767/2005	EU743217	H3N2	2005-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Minnesota/764-2/03	AY779268	H3N2	2003-XX-XX	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/MN/366767/2005	EPI158873	H3N2	2005-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/NC/353568/2005	EPI227581	H3N2	2005-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/North_Carolina/12344/03	EPI25423	H3N2	2003-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/North_Carolina/353568/2005	EU735833	H3N2	2005-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/OH/313053/2004	EPI229379	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/OH/313053_CIP046_RGJS44/2004	EPI845603	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/OH/313053_CIP046_RGJS49/2004	EPI845574	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/OH/313053_CIP046_RGJS54/2004	EPI845669	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/OH/313053_CIP046_RGJS70/2004	EPI845605	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/OH/313053_CIP046_RGJS72/2004	EPI845632	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/24-000851-002/2024	PP265087	H3N2	2024-01-03	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/24-000851-004/2024	PP265095	H3N2	2024-01-03	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/24-001680-001/2024	PP265103	H3N2	2024-01-08	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/313053/04	EPI101403	H3N2	2004-01-01	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/313053/2004	EU735825	H3N2	2004-XX-XX	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/NVSL-000851-002/2024	EPI3006089	H3N2	2024-01-03	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/NVSL-000851-004/2024	EPI3006100	H3N2	2024-01-03	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/NVSL-001680-001/2024	EPI3006131	H3N2	2024-01-08	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ohio/OH-7964/2021	EPI2510401	H3N2	2021-04-08	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/Turkey/Ohio/OH21-7964/2021	OQ737194	H3N2	2021-04-08	Avian	Usa	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ontario/31232/2005	EPI103201	H3N2	2005-01-01	Avian	Canada	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ontario/FAV-10/2011	EPI353636	H3N2	2011-07-21	Avian	Canada	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ontario/FAV-3/2011	JN683634	H3N2	2011-07-06	Avian	Canada	North America	Turkey	turkey	Galliformes	1
+A/turkey/Ontario/FAV-9/2011	EPI354662	H3N2	2011-02-24	Avian	Canada	North America	Turkey	turkey	Galliformes	1
+A/widgeon/Saskatchewan/10/1982	CY181076	H3N8	1982-XX-XX	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/widgeon/Saskatchewan/33/1982	CY181100	H3N8	1982-XX-XX	Avian	Canada	North America	American Wigeon	duck	Anseriformes	7
+A/widgeon/Wisconsin/541/1976	CY180234	H3N8	1976-XX-XX	Avian	Usa	North America	American Wigeon	duck	Anseriformes	7
+A/widgeon/Wisconsin/638/1983	CY180339	H3N8	1983-XX-XX	Avian	Usa	North America	American Wigeon	duck	Anseriformes	7
+A/wildbird/California/187718-36/2008	MT982383	H3N8	2008-XX-XX	Avian	Usa	North America	Bird	avian	Avian	7
+A/wood_duck/Nova_Scotia/00738/2010	EPI435074	H3N8	2010-08-12	Avian	Canada	North America	Wood Duck	duck	Anseriformes	7
+A/wood_duck/Ohio/13OS3300/2013	KJ568398	H3N8	2013-10-12	Avian	Usa	North America	Wood Duck	duck	Anseriformes	7
+A/wood_duck/Wisconsin/10OS2778/2010	EPI418750	H3N8	2010-09-26	Avian	Usa	North America	Wood Duck	duck	Anseriformes	7
+A/wood_duck/Wisconsin/11OS2912/2011	CY167117	H3N6	2011-09-24	Avian	Usa	North America	Wood Duck	duck	Anseriformes	6
+A/wood_duck/Wisconsin/158/1980	CY180923	H3N2	1980-XX-XX	Avian	Usa	North America	Wood Duck	duck	Anseriformes	6

@@ -1,0 +1,198 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: ML-MONCLALAB1.local
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+all             1
+root            8
+tree            8
+treesort        1
+total          18
+
+Select jobs to execute...
+Execute 8 jobs...
+[Wed Jun 25 17:24:26 2025]
+Job 3: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_ha.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_ha.fasta             --output results/trees_unrooted/h3nx_ha.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:26 2025]
+Job 17: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_mp.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_mp.fasta             --output results/trees_unrooted/h3nx_mp.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:26 2025]
+Job 9: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_na.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_na.fasta             --output results/trees_unrooted/h3nx_na.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:26 2025]
+Job 13: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_pa.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_pa.fasta             --output results/trees_unrooted/h3nx_pa.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:26 2025]
+Job 15: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_ns.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_ns.fasta             --output results/trees_unrooted/h3nx_ns.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:26 2025]
+Job 7: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_pb1.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_pb1.fasta             --output results/trees_unrooted/h3nx_pb1.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:26 2025]
+Job 5: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_pb2.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_pb2.fasta             --output results/trees_unrooted/h3nx_pb2.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:26 2025]
+Job 11: Building tree
+Reason: Missing output files: results/trees_unrooted/h3nx_np.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_np.fasta             --output results/trees_unrooted/h3nx_np.nwk             --method iqtree             --nthreads 1
+        
+[Wed Jun 25 17:24:31 2025]
+Finished jobid: 15 (Rule: tree)
+1 of 18 steps (6%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:24:31 2025]
+Job 14: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_ns_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_ns.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_ns.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_ns.fasta 			--outdir "results/trees_rooted/h3nx_ns_rooted"
+        
+[Wed Jun 25 17:24:31 2025]
+Finished jobid: 17 (Rule: tree)
+2 of 18 steps (11%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:24:31 2025]
+Job 16: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_mp_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_mp.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_mp.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_mp.fasta 			--outdir "results/trees_rooted/h3nx_mp_rooted"
+        
+[Wed Jun 25 17:24:32 2025]
+Finished jobid: 9 (Rule: tree)
+3 of 18 steps (17%) done
+[Wed Jun 25 17:24:32 2025]
+Finished jobid: 11 (Rule: tree)
+4 of 18 steps (22%) done
+Select jobs to execute...
+Execute 2 jobs...
+[Wed Jun 25 17:24:32 2025]
+Job 8: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_na_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_na.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_na.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_na.fasta 			--outdir "results/trees_rooted/h3nx_na_rooted"
+        
+[Wed Jun 25 17:24:32 2025]
+Job 10: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_np_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_np.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_np.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_np.fasta 			--outdir "results/trees_rooted/h3nx_np_rooted"
+        
+[Wed Jun 25 17:24:32 2025]
+Finished jobid: 13 (Rule: tree)
+5 of 18 steps (28%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:24:32 2025]
+Job 12: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_pa_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_pa.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_pa.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pa.fasta 			--outdir "results/trees_rooted/h3nx_pa_rooted"
+        
+[Wed Jun 25 17:24:32 2025]
+Finished jobid: 5 (Rule: tree)
+6 of 18 steps (33%) done
+[Wed Jun 25 17:24:32 2025]
+Finished jobid: 3 (Rule: tree)
+7 of 18 steps (39%) done
+Select jobs to execute...
+Execute 2 jobs...
+[Wed Jun 25 17:24:32 2025]
+Job 2: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_ha_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_ha.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_ha.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_ha.fasta 			--outdir "results/trees_rooted/h3nx_ha_rooted"
+        
+[Wed Jun 25 17:24:32 2025]
+Job 4: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_pb2_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_pb2.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_pb2.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pb2.fasta 			--outdir "results/trees_rooted/h3nx_pb2_rooted"
+        
+[Wed Jun 25 17:24:32 2025]
+Finished jobid: 7 (Rule: tree)
+8 of 18 steps (44%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:24:32 2025]
+Job 6: Inferring root
+Reason: Missing output files: results/trees_rooted/h3nx_pb1_rooted/rerooted.newick; Input files updated by another job: results/trees_unrooted/h3nx_pb1.nwk
+Shell command: 
+		treetime clock 			--tree results/trees_unrooted/h3nx_pb1.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pb1.fasta 			--outdir "results/trees_rooted/h3nx_pb1_rooted"
+        
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 8 (Rule: root)
+9 of 18 steps (50%) done
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 4 (Rule: root)
+10 of 18 steps (56%) done
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 10 (Rule: root)
+11 of 18 steps (61%) done
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 2 (Rule: root)
+12 of 18 steps (67%) done
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 12 (Rule: root)
+13 of 18 steps (72%) done
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 16 (Rule: root)
+14 of 18 steps (78%) done
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 14 (Rule: root)
+15 of 18 steps (83%) done
+[Wed Jun 25 17:24:35 2025]
+Finished jobid: 6 (Rule: root)
+16 of 18 steps (89%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:24:35 2025]
+Job 1: running treesort to infer reassortment events
+Reason: Missing output files: results/ha_treesort.tre; Input files updated by another job: results/trees_rooted/h3nx_pa_rooted/rerooted.newick, results/trees_rooted/h3nx_na_rooted/rerooted.newick, results/trees_rooted/h3nx_pb1_rooted/rerooted.newick, results/trees_rooted/h3nx_mp_rooted/rerooted.newick, results/trees_rooted/h3nx_pb2_rooted/rerooted.newick, results/trees_rooted/h3nx_ns_rooted/rerooted.newick, results/trees_rooted/h3nx_ha_rooted/rerooted.newick, results/trees_rooted/h3nx_np_rooted/rerooted.newick; Set of input files has changed since last execution; Code has changed since last execution
+Shell command: 
+		treesort 		-i descriptor.csv 		-o results/ha_treesort.tre # 		--no-collapse 		> output.log
+		
+[Wed Jun 25 17:26:14 2025]
+Finished jobid: 1 (Rule: treesort)
+17 of 18 steps (94%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:26:14 2025]
+localrule all:
+    input: results/ha_treesort.tre
+    jobid: 0
+    reason: Input files updated by another job: results/ha_treesort.tre
+    resources: tmpdir=/var/folders/b4/087mzk6d6sj828w5t9xtml640000gr/T
+Shell command: None
+[Wed Jun 25 17:26:14 2025]
+Finished jobid: 0 (Rule: all)
+18 of 18 steps (100%) done
+Complete log(s): /Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/.snakemake/log/2025-06-25T172424.105520.snakemake.log

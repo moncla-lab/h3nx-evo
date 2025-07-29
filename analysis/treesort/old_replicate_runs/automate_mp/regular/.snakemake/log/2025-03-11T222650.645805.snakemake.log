@@ -1,0 +1,165 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 6
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+all              1
+ancestral        3
+export           3
+traits           3
+translate        3
+total           13
+
+Select jobs to execute...
+
+[Tue Mar 11 22:26:50 2025]
+Job 7: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: prepped/div_tree/nt_muts/nt-muts_h3nx_mp_2.json
+
+
+        augur ancestral             --tree trees_2/named_h3nx_mp.nwk             --alignment prepped/alignments/h3nx_mp.fasta             --output-node-data prepped/div_tree/nt_muts/nt-muts_h3nx_mp_2.json             --inference joint            --keep-ambiguous
+        
+
+[Tue Mar 11 22:26:50 2025]
+Job 11: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: prepped/div_tree/nt_muts/nt-muts_h3nx_mp_3.json
+
+
+        augur ancestral             --tree trees_3/named_h3nx_mp.nwk             --alignment prepped/alignments/h3nx_mp.fasta             --output-node-data prepped/div_tree/nt_muts/nt-muts_h3nx_mp_3.json             --inference joint            --keep-ambiguous
+        
+
+[Tue Mar 11 22:26:50 2025]
+Job 3: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: prepped/div_tree/nt_muts/nt-muts_h3nx_mp_1.json
+
+
+        augur ancestral             --tree trees_1/named_h3nx_mp.nwk             --alignment prepped/alignments/h3nx_mp.fasta             --output-node-data prepped/div_tree/nt_muts/nt-muts_h3nx_mp_1.json             --inference joint            --keep-ambiguous
+        
+
+[Tue Mar 11 22:26:50 2025]
+Job 6: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: traits_2/traits_h3nx_mp.json
+
+
+        augur traits             --tree trees_2/named_h3nx_mp.nwk             --metadata prepped/metadata/h3nx_mp.csv             --output traits_2/traits_h3nx_mp.json             --columns host country region subtype order             --confidence
+        
+
+[Tue Mar 11 22:26:50 2025]
+Job 10: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: traits_3/traits_h3nx_mp.json
+
+
+        augur traits             --tree trees_3/named_h3nx_mp.nwk             --metadata prepped/metadata/h3nx_mp.csv             --output traits_3/traits_h3nx_mp.json             --columns host country region subtype order             --confidence
+        
+
+[Tue Mar 11 22:26:50 2025]
+Job 2: Inferring ancestral traits for host country region subtype order
+Reason: Missing output files: traits_1/traits_h3nx_mp.json
+
+
+        augur traits             --tree trees_1/named_h3nx_mp.nwk             --metadata prepped/metadata/h3nx_mp.csv             --output traits_1/traits_h3nx_mp.json             --columns host country region subtype order             --confidence
+        
+[Tue Mar 11 22:27:03 2025]
+Finished job 11.
+1 of 13 steps (8%) done
+Select jobs to execute...
+
+[Tue Mar 11 22:27:03 2025]
+Job 12: Translating amino acid sequences
+Reason: Missing output files: prepped/div_tree/aa_muts/aa-muts_h3nx_mp_3.json; Input files updated by another job: prepped/div_tree/nt_muts/nt-muts_h3nx_mp_3.json
+
+
+        augur translate             --tree trees_3/named_h3nx_mp.nwk             --ancestral-sequences prepped/div_tree/nt_muts/nt-muts_h3nx_mp_3.json             --reference-sequence config/references/h3nx_mp.gb             --output prepped/div_tree/aa_muts/aa-muts_h3nx_mp_3.json
+        
+[Tue Mar 11 22:27:03 2025]
+Finished job 7.
+2 of 13 steps (15%) done
+[Tue Mar 11 22:27:03 2025]
+Finished job 3.
+3 of 13 steps (23%) done
+Select jobs to execute...
+
+[Tue Mar 11 22:27:03 2025]
+Job 4: Translating amino acid sequences
+Reason: Missing output files: prepped/div_tree/aa_muts/aa-muts_h3nx_mp_1.json; Input files updated by another job: prepped/div_tree/nt_muts/nt-muts_h3nx_mp_1.json
+
+
+        augur translate             --tree trees_1/named_h3nx_mp.nwk             --ancestral-sequences prepped/div_tree/nt_muts/nt-muts_h3nx_mp_1.json             --reference-sequence config/references/h3nx_mp.gb             --output prepped/div_tree/aa_muts/aa-muts_h3nx_mp_1.json
+        
+
+[Tue Mar 11 22:27:03 2025]
+Job 8: Translating amino acid sequences
+Reason: Missing output files: prepped/div_tree/aa_muts/aa-muts_h3nx_mp_2.json; Input files updated by another job: prepped/div_tree/nt_muts/nt-muts_h3nx_mp_2.json
+
+
+        augur translate             --tree trees_2/named_h3nx_mp.nwk             --ancestral-sequences prepped/div_tree/nt_muts/nt-muts_h3nx_mp_2.json             --reference-sequence config/references/h3nx_mp.gb             --output prepped/div_tree/aa_muts/aa-muts_h3nx_mp_2.json
+        
+[Tue Mar 11 22:27:05 2025]
+Finished job 12.
+4 of 13 steps (31%) done
+[Tue Mar 11 22:27:05 2025]
+Finished job 4.
+5 of 13 steps (38%) done
+[Tue Mar 11 22:27:05 2025]
+Finished job 8.
+6 of 13 steps (46%) done
+[Tue Mar 11 22:29:24 2025]
+Finished job 2.
+7 of 13 steps (54%) done
+Select jobs to execute...
+
+[Tue Mar 11 22:29:24 2025]
+Job 1: Exporting data files for for auspice
+Reason: Missing output files: treesort_auspice_1/treesort_h3nx_mp.json; Input files updated by another job: traits_1/traits_h3nx_mp.json, prepped/div_tree/nt_muts/nt-muts_h3nx_mp_1.json, prepped/div_tree/aa_muts/aa-muts_h3nx_mp_1.json
+
+
+        augur export v2             --tree trees_1/named_h3nx_mp.nwk             --metadata prepped/metadata/h3nx_mp.csv             --node-data trees_1/h3nx_mp_rea.json traits_1/traits_h3nx_mp.json prepped/div_tree/nt_muts/nt-muts_h3nx_mp_1.json prepped/div_tree/aa_muts/aa-muts_h3nx_mp_1.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output treesort_auspice_1/treesort_h3nx_mp.json
+        
+[Tue Mar 11 22:29:25 2025]
+Finished job 6.
+8 of 13 steps (62%) done
+Select jobs to execute...
+
+[Tue Mar 11 22:29:25 2025]
+Job 5: Exporting data files for for auspice
+Reason: Missing output files: treesort_auspice_2/treesort_h3nx_mp.json; Input files updated by another job: traits_2/traits_h3nx_mp.json, prepped/div_tree/aa_muts/aa-muts_h3nx_mp_2.json, prepped/div_tree/nt_muts/nt-muts_h3nx_mp_2.json
+
+
+        augur export v2             --tree trees_2/named_h3nx_mp.nwk             --metadata prepped/metadata/h3nx_mp.csv             --node-data trees_2/h3nx_mp_rea.json traits_2/traits_h3nx_mp.json prepped/div_tree/nt_muts/nt-muts_h3nx_mp_2.json prepped/div_tree/aa_muts/aa-muts_h3nx_mp_2.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output treesort_auspice_2/treesort_h3nx_mp.json
+        
+[Tue Mar 11 22:29:34 2025]
+Finished job 10.
+9 of 13 steps (69%) done
+Select jobs to execute...
+
+[Tue Mar 11 22:29:34 2025]
+Job 9: Exporting data files for for auspice
+Reason: Missing output files: treesort_auspice_3/treesort_h3nx_mp.json; Input files updated by another job: prepped/div_tree/nt_muts/nt-muts_h3nx_mp_3.json, prepped/div_tree/aa_muts/aa-muts_h3nx_mp_3.json, traits_3/traits_h3nx_mp.json
+
+
+        augur export v2             --tree trees_3/named_h3nx_mp.nwk             --metadata prepped/metadata/h3nx_mp.csv             --node-data trees_3/h3nx_mp_rea.json traits_3/traits_h3nx_mp.json prepped/div_tree/nt_muts/nt-muts_h3nx_mp_3.json prepped/div_tree/aa_muts/aa-muts_h3nx_mp_3.json            --auspice-config config/auspice_config_h3nx.json             --include-root-sequence 			--colors config/colors_h3nx.tsv 			--lat-longs config/lat_longs_h3nx.tsv             --output treesort_auspice_3/treesort_h3nx_mp.json
+        
+[Tue Mar 11 22:29:39 2025]
+Finished job 1.
+10 of 13 steps (77%) done
+[Tue Mar 11 22:29:40 2025]
+Finished job 5.
+11 of 13 steps (85%) done
+[Tue Mar 11 22:29:48 2025]
+Finished job 9.
+12 of 13 steps (92%) done
+Select jobs to execute...
+
+[Tue Mar 11 22:29:48 2025]
+localrule all:
+    input: treesort_auspice_1/treesort_h3nx_mp.json, treesort_auspice_2/treesort_h3nx_mp.json, treesort_auspice_3/treesort_h3nx_mp.json
+    jobid: 0
+    reason: Input files updated by another job: treesort_auspice_2/treesort_h3nx_mp.json, treesort_auspice_3/treesort_h3nx_mp.json, treesort_auspice_1/treesort_h3nx_mp.json
+    resources: tmpdir=/tmp
+
+[Tue Mar 11 22:29:48 2025]
+Finished job 0.
+13 of 13 steps (100%) done
+Complete log: .snakemake/log/2025-03-11T222650.645805.snakemake.log

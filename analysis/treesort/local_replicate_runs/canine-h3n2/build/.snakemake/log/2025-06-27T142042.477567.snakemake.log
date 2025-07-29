@@ -1,0 +1,275 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: lev-01048.apn.wlan.private.upenn.edu
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job           count
+----------  -------
+all               1
+descriptor        2
+root             14
+tree              3
+treesort          2
+total            22
+
+Select jobs to execute...
+Execute 12 jobs...
+[Fri Jun 27 14:20:42 2025]
+Job 19: Inferring root
+Reason: Missing output files: results/1/trees_rooted/h3nx_pa_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/1/trees_unrooted/h3nx_pa.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pa.fasta 			--outdir "results/1/trees_rooted/h3nx_pa_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 16: Building tree
+Reason: Missing output files: results/1/trees_unrooted/h3nx_np.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_np.fasta             --output results/1/trees_unrooted/h3nx_np.nwk             --method iqtree             --nthreads 1
+        
+[Fri Jun 27 14:20:42 2025]
+Job 11: Inferring root
+Reason: Missing output files: results/1/trees_rooted/h3nx_na_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/1/trees_unrooted/h3nx_na.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_na.fasta 			--outdir "results/1/trees_rooted/h3nx_na_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 4: Building tree
+Reason: Missing output files: results/1/trees_unrooted/h3nx_pb2.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_pb2.fasta             --output results/1/trees_unrooted/h3nx_pb2.nwk             --method iqtree             --nthreads 1
+        
+[Fri Jun 27 14:20:42 2025]
+Job 5: Inferring root
+Reason: Missing output files: results/2/trees_rooted/h3nx_pb2_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/2/trees_unrooted/h3nx_pb2.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pb2.fasta 			--outdir "results/2/trees_rooted/h3nx_pb2_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 23: Inferring root
+Reason: Missing output files: results/1/trees_rooted/h3nx_ns_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/1/trees_unrooted/h3nx_ns.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_ns.fasta 			--outdir "results/1/trees_rooted/h3nx_ns_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 7: Inferring root
+Reason: Missing output files: results/1/trees_rooted/h3nx_pb1_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/1/trees_unrooted/h3nx_pb1.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pb1.fasta 			--outdir "results/1/trees_rooted/h3nx_pb1_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 30: Building tree
+Reason: Missing output files: results/2/trees_unrooted/h3nx_mp.nwk
+Shell command: 
+        augur tree             --alignment data/alignments/h3nx_mp.fasta             --output results/2/trees_unrooted/h3nx_mp.nwk             --method iqtree             --nthreads 1
+        
+[Fri Jun 27 14:20:42 2025]
+Job 13: Inferring root
+Reason: Missing output files: results/2/trees_rooted/h3nx_na_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/2/trees_unrooted/h3nx_na.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_na.fasta 			--outdir "results/2/trees_rooted/h3nx_na_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 21: Inferring root
+Reason: Missing output files: results/2/trees_rooted/h3nx_pa_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/2/trees_unrooted/h3nx_pa.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pa.fasta 			--outdir "results/2/trees_rooted/h3nx_pa_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 17: Inferring root
+Reason: Missing output files: results/2/trees_rooted/h3nx_np_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/2/trees_unrooted/h3nx_np.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_np.fasta 			--outdir "results/2/trees_rooted/h3nx_np_rooted"
+        
+[Fri Jun 27 14:20:42 2025]
+Job 25: Inferring root
+Reason: Missing output files: results/2/trees_rooted/h3nx_ns_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/2/trees_unrooted/h3nx_ns.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_ns.fasta 			--outdir "results/2/trees_rooted/h3nx_ns_rooted"
+        
+Select jobs to execute...
+[Fri Jun 27 14:20:46 2025]
+Finished jobid: 30 (Rule: tree)
+1 of 22 steps (5%) done
+Execute 1 jobs...
+[Fri Jun 27 14:20:46 2025]
+Job 29: Inferring root
+Reason: Missing output files: results/2/trees_rooted/h3nx_mp_rooted/rerooted.newick; Input files updated by another job: results/2/trees_unrooted/h3nx_mp.nwk
+Shell command: 
+		treetime clock 			--tree results/2/trees_unrooted/h3nx_mp.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_mp.fasta 			--outdir "results/2/trees_rooted/h3nx_mp_rooted"
+        
+[Fri Jun 27 14:20:46 2025]
+Finished jobid: 16 (Rule: tree)
+2 of 22 steps (9%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:20:46 2025]
+Job 9: Inferring root
+Reason: Missing output files: results/2/trees_rooted/h3nx_pb1_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/2/trees_unrooted/h3nx_pb1.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pb1.fasta 			--outdir "results/2/trees_rooted/h3nx_pb1_rooted"
+        
+[Fri Jun 27 14:20:46 2025]
+Finished jobid: 4 (Rule: tree)
+3 of 22 steps (14%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:20:46 2025]
+Job 3: Inferring root
+Reason: Missing output files: results/1/trees_rooted/h3nx_pb2_rooted/rerooted.newick; Input files updated by another job: results/1/trees_unrooted/h3nx_pb2.nwk
+Shell command: 
+		treetime clock 			--tree results/1/trees_unrooted/h3nx_pb2.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_pb2.fasta 			--outdir "results/1/trees_rooted/h3nx_pb2_rooted"
+        
+Select jobs to execute...
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 5 (Rule: root)
+4 of 22 steps (18%) done
+Execute 1 jobs...
+[Fri Jun 27 14:20:47 2025]
+Job 27: Inferring root
+Reason: Missing output files: results/1/trees_rooted/h3nx_mp_rooted/rerooted.newick
+Shell command: 
+		treetime clock 			--tree results/1/trees_unrooted/h3nx_mp.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_mp.fasta 			--outdir "results/1/trees_rooted/h3nx_mp_rooted"
+        
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 17 (Rule: root)
+5 of 22 steps (23%) done
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 19 (Rule: root)
+6 of 22 steps (27%) done
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 11 (Rule: root)
+7 of 22 steps (32%) done
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 7 (Rule: root)
+8 of 22 steps (36%) done
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 23 (Rule: root)
+9 of 22 steps (41%) done
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 13 (Rule: root)
+10 of 22 steps (45%) done
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 21 (Rule: root)
+11 of 22 steps (50%) done
+[Fri Jun 27 14:20:47 2025]
+Finished jobid: 25 (Rule: root)
+12 of 22 steps (55%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:20:47 2025]
+Job 15: Inferring root
+Reason: Missing output files: results/1/trees_rooted/h3nx_np_rooted/rerooted.newick; Input files updated by another job: results/1/trees_unrooted/h3nx_np.nwk
+Shell command: 
+		treetime clock 			--tree results/1/trees_unrooted/h3nx_np.nwk 			--dates data/strain_dates.csv 			--aln data/alignments/h3nx_np.fasta 			--outdir "results/1/trees_rooted/h3nx_np_rooted"
+        
+[Fri Jun 27 14:20:48 2025]
+Finished jobid: 29 (Rule: root)
+13 of 22 steps (59%) done
+[Fri Jun 27 14:20:49 2025]
+Finished jobid: 9 (Rule: root)
+14 of 22 steps (64%) done
+[Fri Jun 27 14:20:49 2025]
+Finished jobid: 3 (Rule: root)
+15 of 22 steps (68%) done
+[Fri Jun 27 14:20:49 2025]
+Finished jobid: 27 (Rule: root)
+16 of 22 steps (73%) done
+[Fri Jun 27 14:20:49 2025]
+Finished jobid: 15 (Rule: root)
+17 of 22 steps (77%) done
+Select jobs to execute...
+Execute 2 jobs...
+[Fri Jun 27 14:20:49 2025]
+Job 2: creating a descriptor file that points to the correct replicate trees
+Reason: Missing output files: descriptor_1.csv; Input files updated by another job: results/2/trees_rooted/h3nx_mp_rooted/rerooted.newick, results/2/trees_rooted/h3nx_pa_rooted/rerooted.newick, results/1/trees_rooted/h3nx_mp_rooted/rerooted.newick, results/1/trees_rooted/h3nx_pb2_rooted/rerooted.newick, results/1/trees_rooted/h3nx_pb1_rooted/rerooted.newick, results/2/trees_rooted/h3nx_pb2_rooted/rerooted.newick, results/2/trees_rooted/h3nx_np_rooted/rerooted.newick, results/2/trees_rooted/h3nx_na_rooted/rerooted.newick, results/1/trees_rooted/h3nx_np_rooted/rerooted.newick, results/2/trees_rooted/h3nx_ns_rooted/rerooted.newick, results/1/trees_rooted/h3nx_ns_rooted/rerooted.newick, results/1/trees_rooted/h3nx_na_rooted/rerooted.newick, results/2/trees_rooted/h3nx_pb1_rooted/rerooted.newick, results/1/trees_rooted/h3nx_pa_rooted/rerooted.newick
+Shell command: 
+		python scripts/descriptor.py 		--rep 1 		--descriptor descriptor_1.csv 
+		
+[Fri Jun 27 14:20:49 2025]
+Job 32: creating a descriptor file that points to the correct replicate trees
+Reason: Missing output files: descriptor_2.csv; Input files updated by another job: results/2/trees_rooted/h3nx_mp_rooted/rerooted.newick, results/2/trees_rooted/h3nx_pa_rooted/rerooted.newick, results/1/trees_rooted/h3nx_mp_rooted/rerooted.newick, results/1/trees_rooted/h3nx_pb2_rooted/rerooted.newick, results/1/trees_rooted/h3nx_pb1_rooted/rerooted.newick, results/2/trees_rooted/h3nx_pb2_rooted/rerooted.newick, results/2/trees_rooted/h3nx_np_rooted/rerooted.newick, results/2/trees_rooted/h3nx_na_rooted/rerooted.newick, results/1/trees_rooted/h3nx_np_rooted/rerooted.newick, results/2/trees_rooted/h3nx_ns_rooted/rerooted.newick, results/1/trees_rooted/h3nx_ns_rooted/rerooted.newick, results/1/trees_rooted/h3nx_na_rooted/rerooted.newick, results/2/trees_rooted/h3nx_pb1_rooted/rerooted.newick, results/1/trees_rooted/h3nx_pa_rooted/rerooted.newick
+Shell command: 
+		python scripts/descriptor.py 		--rep 2 		--descriptor descriptor_2.csv 
+		
+[Fri Jun 27 14:20:49 2025]
+Finished jobid: 2 (Rule: descriptor)
+18 of 22 steps (82%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:20:49 2025]
+Job 1: running treesort to infer reassortment events
+Reason: Missing output files: results/1/ha_treesort.tre; Input files updated by another job: descriptor_1.csv
+Shell command: 
+		treesort 		-i descriptor_1.csv 		-o results/1/ha_treesort.tre 		--no-collapse 		> output.log
+		
+[Fri Jun 27 14:20:49 2025]
+Finished jobid: 32 (Rule: descriptor)
+19 of 22 steps (86%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:20:49 2025]
+Job 31: running treesort to infer reassortment events
+Reason: Missing output files: results/2/ha_treesort.tre; Input files updated by another job: descriptor_2.csv
+Shell command: 
+		treesort 		-i descriptor_2.csv 		-o results/2/ha_treesort.tre 		--no-collapse 		> output.log
+		
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 75:
+Command 'set -euo pipefail;  
+		treesort 		-i descriptor_1.csv 		-o results/1/ha_treesort.tre 		--no-collapse 		> output.log' returned non-zero exit status 1.
+[Fri Jun 27 14:20:52 2025]
+Error in rule treesort:
+    message: None
+    jobid: 1
+    input: descriptor_1.csv
+    output: results/1/ha_treesort.tre
+    shell:
+        
+		treesort 		-i descriptor_1.csv 		-o results/1/ha_treesort.tre 		--no-collapse 		> output.log
+		
+        (command exited with non-zero exit code)
+RuleException:
+CalledProcessError in file "/Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/Snakefile", line 75:
+Command 'set -euo pipefail;  
+		treesort 		-i descriptor_2.csv 		-o results/2/ha_treesort.tre 		--no-collapse 		> output.log' returned non-zero exit status 1.
+[Fri Jun 27 14:20:52 2025]
+Error in rule treesort:
+    message: None
+    jobid: 31
+    input: descriptor_2.csv
+    output: results/2/ha_treesort.tre
+    shell:
+        
+		treesort 		-i descriptor_2.csv 		-o results/2/ha_treesort.tre 		--no-collapse 		> output.log
+		
+        (command exited with non-zero exit code)
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look below for error messages
+[Fri Jun 27 14:20:52 2025]
+Error in rule treesort:
+    message: None
+    jobid: 1
+    input: descriptor_1.csv
+    output: results/1/ha_treesort.tre
+    shell:
+        
+		treesort 		-i descriptor_1.csv 		-o results/1/ha_treesort.tre 		--no-collapse 		> output.log
+		
+        (command exited with non-zero exit code)
+[Fri Jun 27 14:20:52 2025]
+Error in rule treesort:
+    message: None
+    jobid: 31
+    input: descriptor_2.csv
+    output: results/2/ha_treesort.tre
+    shell:
+        
+		treesort 		-i descriptor_2.csv 		-o results/2/ha_treesort.tre 		--no-collapse 		> output.log
+		
+        (command exited with non-zero exit code)
+Complete log(s): /Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/.snakemake/log/2025-06-27T142042.477567.snakemake.log
+WorkflowError:
+At least one job did not complete successfully.

@@ -1,0 +1,38 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 6
+Rules claiming more threads will be scaled down.
+Conda environments: ignored
+Job stats:
+job         count
+--------  -------
+all             1
+treesort        1
+total           2
+
+Select jobs to execute...
+
+[Tue Jun 24 01:31:16 2025]
+Job 1: running treesort to infer reassortment events
+Reason: Missing output files: results/ha_treesort.tre
+
+
+        treesort             -i descriptor.csv             -o results/ha_treesort.tre             --no-collapse
+        
+        
+[Tue Jun 24 01:31:16 2025]
+Error in rule treesort:
+    jobid: 1
+    input: descriptor.csv, results/trees_rooted/h3nx_ha_rooted/rerooted.newick, results/trees_rooted/h3nx_pb2_rooted/rerooted.newick, results/trees_rooted/h3nx_pb1_rooted/rerooted.newick, results/trees_rooted/h3nx_na_rooted/rerooted.newick, results/trees_rooted/h3nx_np_rooted/rerooted.newick, results/trees_rooted/h3nx_pa_rooted/rerooted.newick, results/trees_rooted/h3nx_ns_rooted/rerooted.newick, results/trees_rooted/h3nx_mp_rooted/rerooted.newick
+    output: results/ha_treesort.tre
+    conda-env: /nextstrain/build/.snakemake/conda/89e5cb00d84fb5107692c19a7e18f17c_
+    shell:
+        
+        treesort             -i descriptor.csv             -o results/ha_treesort.tre             --no-collapse
+        
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2025-06-24T013115.711999.snakemake.log

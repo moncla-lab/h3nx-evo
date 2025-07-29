@@ -1,0 +1,6117 @@
+{
+  "alignment": "results/alignments/aligned_h3nx_ha.fasta",
+  "clock": {
+    "cov": [
+      [
+        7.888840598573823e-08,
+        -0.00015869079358518353
+      ],
+      [
+        -0.00015869079358518353,
+        0.31922328879359313
+      ]
+    ],
+    "intercept": -4.327321404541652,
+    "rate": 0.002156517729522169,
+    "rate_std": 0.00028087079945366024,
+    "rtt_Tmrca": 2006.624543495165
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "27.0.0"
+  },
+  "input_tree": "results/iqtree/raw_tree/tree-raw_h3nx_ha.nwk",
+  "nodes": {
+    "A/Canine/California/LACPHL-INF00004/2021": {
+      "branch_length": 0.0007530290738924916,
+      "clock_length": 0.0007530290738924916,
+      "date": "2021-08-06",
+      "mutation_length": 0.0005838377185306682,
+      "num_date_confidence": [
+        2021.5958904109589,
+        2021.5958904109589
+      ],
+      "numdate": 2021.5958904109589,
+      "raw_date": "2021-08-06"
+    },
+    "A/Canine/California/LACPHL-INF00006/2021": {
+      "branch_length": 0.0005750273946168311,
+      "clock_length": 0.0005750273946168311,
+      "date": "2021-08-06",
+      "mutation_length": 0.0005857052823758945,
+      "num_date_confidence": [
+        2021.5958904109589,
+        2021.5958904109589
+      ],
+      "numdate": 2021.5958904109589,
+      "raw_date": "2021-08-06"
+    },
+    "A/Canis_lupus_familiaris/USA/000915/2018": {
+      "branch_length": 0.0009527307772408053,
+      "clock_length": 0.0009527307772408053,
+      "date": "2018-01-03",
+      "mutation_length": 0.0017501369042310989,
+      "num_date_confidence": [
+        2018.0068493150684,
+        2018.0068493150684
+      ],
+      "numdate": 2018.0068493150684,
+      "raw_date": "2018-01-03"
+    },
+    "A/Canis_lupus_familiaris/USA/006974/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-01-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.045205479452,
+        2018.045205479452
+      ],
+      "numdate": 2018.045205479452,
+      "raw_date": "2018-01-17"
+    },
+    "A/Canis_lupus_familiaris/USA/007780/2018": {
+      "branch_length": 0.0010354465257706898,
+      "clock_length": 0.0010354465257706898,
+      "date": "2018-01-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.045205479452,
+        2018.045205479452
+      ],
+      "numdate": 2018.045205479452,
+      "raw_date": "2018-01-17"
+    },
+    "A/Canis_lupus_familiaris/USA/007781/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-01-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.045205479452,
+        2018.045205479452
+      ],
+      "numdate": 2018.045205479452,
+      "raw_date": "2018-01-17"
+    },
+    "A/Canis_lupus_familiaris/USA/150620/2018": {
+      "branch_length": 0.0010263589139866067,
+      "clock_length": 0.0010263589139866067,
+      "date": "2018-08-21",
+      "mutation_length": 0.0005827870559745673,
+      "num_date_confidence": [
+        2018.63698630137,
+        2018.63698630137
+      ],
+      "numdate": 2018.63698630137,
+      "raw_date": "2018-08-21"
+    },
+    "A/Canis_lupus_familiaris/USA/152386/2018": {
+      "branch_length": 0.0007900922436859855,
+      "clock_length": 0.0007900922436859855,
+      "date": "2018-08-23",
+      "mutation_length": 0.0005827870559745673,
+      "num_date_confidence": [
+        2018.6424657534246,
+        2018.6424657534246
+      ],
+      "numdate": 2018.6424657534246,
+      "raw_date": "2018-08-23"
+    },
+    "A/Canis_lupus_familiaris/USA/188203/2017": {
+      "branch_length": 1.7724803256086857e-05,
+      "clock_length": 1.7724803256086857e-05,
+      "date": "2017-10-31",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.831506849315,
+        2017.831506849315
+      ],
+      "numdate": 2017.831506849315,
+      "raw_date": "2017-10-31"
+    },
+    "A/Canis_lupus_familiaris/USA/188226/2017": {
+      "branch_length": 1.7724803256086857e-05,
+      "clock_length": 1.7724803256086857e-05,
+      "date": "2017-10-31",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.831506849315,
+        2017.831506849315
+      ],
+      "numdate": 2017.831506849315,
+      "raw_date": "2017-10-31"
+    },
+    "A/Canis_lupus_familiaris/USA/188297/2017": {
+      "branch_length": 1.7724803256086857e-05,
+      "clock_length": 1.7724803256086857e-05,
+      "date": "2017-10-31",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.831506849315,
+        2017.831506849315
+      ],
+      "numdate": 2017.831506849315,
+      "raw_date": "2017-10-31"
+    },
+    "A/canine/Beijing/1016/2018": {
+      "branch_length": 0.0002328027867642482,
+      "clock_length": 0.0002328027867642482,
+      "date": "2018-10-01",
+      "mutation_length": 0.0005829177759355196,
+      "num_date_confidence": [
+        2018.7493150684932,
+        2018.7493150684932
+      ],
+      "numdate": 2018.7493150684932,
+      "raw_date": "2018-10-01"
+    },
+    "A/canine/Beijing/1102/2018": {
+      "branch_length": 0.0007449092705145814,
+      "clock_length": 0.0007449092705145814,
+      "date": "2018-11-30",
+      "mutation_length": 0.00292310685257824,
+      "num_date_confidence": [
+        2018.8450311160925,
+        2018.9136986301369
+      ],
+      "numdate": 2018.9136986301369,
+      "raw_date": "2018-11-XX"
+    },
+    "A/canine/Beijing/1115/2019": {
+      "branch_length": 0.005231419433300185,
+      "clock_length": 0.005231419433300185,
+      "date": "2019-12-31",
+      "mutation_length": 0.005854656884585251,
+      "num_date_confidence": [
+        2019.9246774611204,
+        2019.9986301369863
+      ],
+      "numdate": 2019.9986301369863,
+      "raw_date": "2019-12-XX"
+    },
+    "A/canine/Beijing/1167/2019": {
+      "branch_length": 0.0005506719433752433,
+      "clock_length": 0.0005506719433752433,
+      "date": "2019-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.2479452054795,
+        2019.3187367269632
+      ],
+      "numdate": 2019.2479452054795,
+      "raw_date": "2019-04-XX"
+    },
+    "A/canine/Beijing/1183/2019": {
+      "branch_length": 0.0009514579802253672,
+      "clock_length": 0.0009514579802253672,
+      "date": "2019-05-11",
+      "mutation_length": 0.001167999622775004,
+      "num_date_confidence": [
+        2019.3301369863013,
+        2019.4123287671232
+      ],
+      "numdate": 2019.356445270087,
+      "raw_date": "2019-05-XX"
+    },
+    "A/canine/Beijing/1364/2019": {
+      "branch_length": 0.0010399045952808536,
+      "clock_length": 0.0010399045952808536,
+      "date": "2019-08-26",
+      "mutation_length": 0.0011680944445708417,
+      "num_date_confidence": [
+        2019.5821917808219,
+        2019.664383561644
+      ],
+      "numdate": 2019.6494791758555,
+      "raw_date": "2019-08-XX"
+    },
+    "A/canine/Beijing/1372/2019": {
+      "branch_length": 0.00017210078043101637,
+      "clock_length": 0.00017210078043101637,
+      "date": "2019-08-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.5821917808219,
+        2019.6548957970522
+      ],
+      "numdate": 2019.5821917808219,
+      "raw_date": "2019-08-XX"
+    },
+    "A/canine/Beijing/1389/2019": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2019-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.6671232876713,
+        2019.7375972916316
+      ],
+      "numdate": 2019.6671232876713,
+      "raw_date": "2019-09-XX"
+    },
+    "A/canine/Beijing/18/2019": {
+      "branch_length": 0.0005867603287233979,
+      "clock_length": 0.0005867603287233979,
+      "date": "2019-03-02",
+      "mutation_length": 0.0005836485917725497,
+      "num_date_confidence": [
+        2019.16301369863,
+        2019.2452054794521
+      ],
+      "numdate": 2019.1651291000974,
+      "raw_date": "2019-03-XX"
+    },
+    "A/canine/Beijing/20121215-34/2012": {
+      "branch_length": 0.00195168647504829,
+      "clock_length": 0.00195168647504829,
+      "date": "2012-12-15",
+      "mutation_length": 0.0029156847433027683,
+      "num_date_confidence": [
+        2012.954918032787,
+        2012.954918032787
+      ],
+      "numdate": 2012.954918032787,
+      "raw_date": "2012-12-15"
+    },
+    "A/canine/Beijing/20131112-279/2013": {
+      "branch_length": 0.00045417832157758353,
+      "clock_length": 0.00045417832157758353,
+      "date": "2013-11-12",
+      "mutation_length": 0.0005822254439745992,
+      "num_date_confidence": [
+        2013.8643835616438,
+        2013.8643835616438
+      ],
+      "numdate": 2013.8643835616438,
+      "raw_date": "2013-11-12"
+    },
+    "A/canine/Beijing/20131203-341/2013": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2013-12-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.9219178082192,
+        2013.9219178082192
+      ],
+      "numdate": 2013.9219178082192,
+      "raw_date": "2013-12-03"
+    },
+    "A/canine/Beijing/20131203-342/2013": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2013-12-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.9219178082192,
+        2013.9219178082192
+      ],
+      "numdate": 2013.9219178082192,
+      "raw_date": "2013-12-03"
+    },
+    "A/canine/Beijing/20131204-349/2013": {
+      "branch_length": 0.001587604308416795,
+      "clock_length": 0.001587604308416795,
+      "date": "2013-12-04",
+      "mutation_length": 0.0029163799006508323,
+      "num_date_confidence": [
+        2013.9246575342465,
+        2013.9246575342465
+      ],
+      "numdate": 2013.9246575342465,
+      "raw_date": "2013-12-04"
+    },
+    "A/canine/Beijing/20131207-365/2013": {
+      "branch_length": 0.00018594825116938912,
+      "clock_length": 0.00018594825116938912,
+      "date": "2013-12-07",
+      "mutation_length": 0.0005822254439745992,
+      "num_date_confidence": [
+        2013.9328767123288,
+        2013.9328767123288
+      ],
+      "numdate": 2013.9328767123288,
+      "raw_date": "2013-12-07"
+    },
+    "A/canine/Beijing/20140103-90/2014": {
+      "branch_length": 0.000766718118659273,
+      "clock_length": 0.000766718118659273,
+      "date": "2014-01-03",
+      "mutation_length": 0.0005822254341978355,
+      "num_date_confidence": [
+        2014.0068493150684,
+        2014.0068493150684
+      ],
+      "numdate": 2014.0068493150684,
+      "raw_date": "2014-01-03"
+    },
+    "A/canine/Beijing/20140110-2/2014": {
+      "branch_length": 0.00038682935474133526,
+      "clock_length": 0.00038682935474133526,
+      "date": "2014-01-10",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2014.0260273972603,
+        2014.0260273972603
+      ],
+      "numdate": 2014.0260273972603,
+      "raw_date": "2014-01-10"
+    },
+    "A/canine/Beijing/20150120-265/2015": {
+      "branch_length": 0.004032331236236759,
+      "clock_length": 0.004032331236236759,
+      "date": "2015-01-20",
+      "mutation_length": 0.003500667378176243,
+      "num_date_confidence": [
+        2015.0534246575342,
+        2015.0534246575342
+      ],
+      "numdate": 2015.0534246575342,
+      "raw_date": "2015-01-20"
+    },
+    "A/canine/Beijing/20161216-8/2016": {
+      "branch_length": 0.00013668955295679727,
+      "clock_length": 0.00013668955295679727,
+      "date": "2016-12-16",
+      "mutation_length": 0.0005832087592823419,
+      "num_date_confidence": [
+        2016.957650273224,
+        2016.957650273224
+      ],
+      "numdate": 2016.957650273224,
+      "raw_date": "2016-12-16"
+    },
+    "A/canine/Beijing/20161228-9/2016": {
+      "branch_length": 0.0002073950522855396,
+      "clock_length": 0.0002073950522855396,
+      "date": "2016-12-28",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.99043715847,
+        2016.99043715847
+      ],
+      "numdate": 2016.99043715847,
+      "raw_date": "2016-12-28"
+    },
+    "A/canine/Beijing/20170314-73/2017": {
+      "branch_length": 1.8643262923129927e-05,
+      "clock_length": 1.8643262923129927e-05,
+      "date": "2017-03-14",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1986301369864,
+        2017.1986301369864
+      ],
+      "numdate": 2017.1986301369864,
+      "raw_date": "2017-03-14"
+    },
+    "A/canine/Beijing/20170417-81/2017": {
+      "branch_length": 0.00017137172872775178,
+      "clock_length": 0.00017137172872775178,
+      "date": "2017-04-17",
+      "mutation_length": 0.0005832087592823419,
+      "num_date_confidence": [
+        2017.2917808219179,
+        2017.2917808219179
+      ],
+      "numdate": 2017.2917808219179,
+      "raw_date": "2017-04-17"
+    },
+    "A/canine/Beijing/20170510-118/2017": {
+      "branch_length": 0.00021771194871324923,
+      "clock_length": 0.00021771194871324923,
+      "date": "2017-05-10",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.354794520548,
+        2017.354794520548
+      ],
+      "numdate": 2017.354794520548,
+      "raw_date": "2017-05-10"
+    },
+    "A/canine/Beijing/20170512-122/2017": {
+      "branch_length": 0.0002293333333333314,
+      "clock_length": 0.0002293333333333314,
+      "date": "2017-05-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3602739726027,
+        2017.3602739726027
+      ],
+      "numdate": 2017.3602739726027,
+      "raw_date": "2017-05-12"
+    },
+    "A/canine/Beijing/20170512-137/2017": {
+      "branch_length": 0.001982506745314319,
+      "clock_length": 0.001982506745314319,
+      "date": "2017-05-12",
+      "mutation_length": 0.0029194923667067363,
+      "num_date_confidence": [
+        2017.3602739726027,
+        2017.3602739726027
+      ],
+      "numdate": 2017.3602739726027,
+      "raw_date": "2017-05-12"
+    },
+    "A/canine/Beijing/20170612-183/2017": {
+      "branch_length": 0.001394058668644213,
+      "clock_length": 0.001394058668644213,
+      "date": "2017-06-12",
+      "mutation_length": 0.0011663841822724822,
+      "num_date_confidence": [
+        2017.445205479452,
+        2017.445205479452
+      ],
+      "numdate": 2017.445205479452,
+      "raw_date": "2017-06-12"
+    },
+    "A/canine/Beijing/20170614-185/2017": {
+      "branch_length": 0.0005140512583503704,
+      "clock_length": 0.0005140512583503704,
+      "date": "2017-06-14",
+      "mutation_length": 0.0011669084955235822,
+      "num_date_confidence": [
+        2017.4506849315069,
+        2017.4506849315069
+      ],
+      "numdate": 2017.4506849315069,
+      "raw_date": "2017-06-14"
+    },
+    "A/canine/Beijing/20170615-195/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-06-15",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.4534246575342,
+        2017.4534246575342
+      ],
+      "numdate": 2017.4534246575342,
+      "raw_date": "2017-06-15"
+    },
+    "A/canine/Beijing/20170616-200/2017": {
+      "branch_length": 5.908267752031265e-06,
+      "clock_length": 5.908267752031265e-06,
+      "date": "2017-06-16",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.4561643835616,
+        2017.4561643835616
+      ],
+      "numdate": 2017.4561643835616,
+      "raw_date": "2017-06-16"
+    },
+    "A/canine/Beijing/20170616-202/2017": {
+      "branch_length": 0.00015735613801366038,
+      "clock_length": 0.00015735613801366038,
+      "date": "2017-06-16",
+      "mutation_length": 0.0005825036214908447,
+      "num_date_confidence": [
+        2017.4561643835616,
+        2017.4561643835616
+      ],
+      "numdate": 2017.4561643835616,
+      "raw_date": "2017-06-16"
+    },
+    "A/canine/Beijing/20170618-206/2017": {
+      "branch_length": 0.0005376843293589777,
+      "clock_length": 0.0005376843293589777,
+      "date": "2017-06-18",
+      "mutation_length": 0.0005832087592823419,
+      "num_date_confidence": [
+        2017.4616438356165,
+        2017.4616438356165
+      ],
+      "numdate": 2017.4616438356165,
+      "raw_date": "2017-06-18"
+    },
+    "A/canine/Beijing/20170709-15/2017": {
+      "branch_length": 0.0009366779066270203,
+      "clock_length": 0.0009366779066270203,
+      "date": "2017-07-09",
+      "mutation_length": 0.0005826923213853945,
+      "num_date_confidence": [
+        2017.5191780821917,
+        2017.5191780821917
+      ],
+      "numdate": 2017.5191780821917,
+      "raw_date": "2017-07-09"
+    },
+    "A/canine/Beijing/20170711-16/2017": {
+      "branch_length": 0.0014766466080534738,
+      "clock_length": 0.0014766466080534738,
+      "date": "2017-07-11",
+      "mutation_length": 0.00116609476580482,
+      "num_date_confidence": [
+        2017.5246575342467,
+        2017.5246575342467
+      ],
+      "numdate": 2017.5246575342467,
+      "raw_date": "2017-07-11"
+    },
+    "A/canine/Beijing/20170720-30/2017": {
+      "branch_length": 0.0003582372415856065,
+      "clock_length": 0.0003582372415856065,
+      "date": "2017-07-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.5493150684931,
+        2017.5493150684931
+      ],
+      "numdate": 2017.5493150684931,
+      "raw_date": "2017-07-20"
+    },
+    "A/canine/Beijing/308/2017": {
+      "branch_length": 0.0004002503607841504,
+      "clock_length": 0.0004002503607841504,
+      "date": "2017-09-30",
+      "mutation_length": 0.000583067019172277,
+      "num_date_confidence": [
+        2017.6755338303033,
+        2017.7465753424658
+      ],
+      "numdate": 2017.7465753424658,
+      "raw_date": "2017-09-XX"
+    },
+    "A/canine/Beijing/359/2009": {
+      "branch_length": 0.0004095318693051325,
+      "clock_length": 0.0004095318693051325,
+      "date": "2009-12-17",
+      "mutation_length": 0.0005816755237773163,
+      "num_date_confidence": [
+        2009.9602739726026,
+        2009.9602739726026
+      ],
+      "numdate": 2009.9602739726026,
+      "raw_date": "2009-12-17"
+    },
+    "A/canine/Beijing/418/2010": {
+      "branch_length": 0.0002520922955827967,
+      "clock_length": 0.0002520922955827967,
+      "date": "2010-01-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2010.0205479452054,
+        2010.0205479452054
+      ],
+      "numdate": 2010.0205479452054,
+      "raw_date": "2010-01-08"
+    },
+    "A/canine/Beijing/420/2010": {
+      "branch_length": 0.0002520922955827967,
+      "clock_length": 0.0002520922955827967,
+      "date": "2010-01-08",
+      "mutation_length": 0.0017460938222185246,
+      "num_date_confidence": [
+        2010.0205479452054,
+        2010.0205479452054
+      ],
+      "numdate": 2010.0205479452054,
+      "raw_date": "2010-01-08"
+    },
+    "A/canine/Beijing/509/2017": {
+      "branch_length": 0.0005750812601413788,
+      "clock_length": 0.0005750812601413788,
+      "date": "2017-12-01",
+      "mutation_length": 0.000582953746626511,
+      "num_date_confidence": [
+        2017.9164383561645,
+        2017.9986301369863
+      ],
+      "numdate": 2017.9164383561645,
+      "raw_date": "2017-12-XX"
+    },
+    "A/canine/Beijing/547/2018": {
+      "branch_length": 7.422638614867395e-05,
+      "clock_length": 7.422638614867395e-05,
+      "date": "2018-01-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0013698630137,
+        2018.0835616438355
+      ],
+      "numdate": 2018.0541630772452,
+      "raw_date": "2018-01-XX"
+    },
+    "A/canine/Beijing/618/2018": {
+      "branch_length": 0.0003030564132826402,
+      "clock_length": 0.0003030564132826402,
+      "date": "2018-02-28",
+      "mutation_length": 0.0005836041820280602,
+      "num_date_confidence": [
+        2018.0946994172143,
+        2018.1602739726027
+      ],
+      "numdate": 2018.1602739726027,
+      "raw_date": "2018-02-XX"
+    },
+    "A/canine/California/20170411-20/2017": {
+      "branch_length": 0.008764853705681572,
+      "clock_length": 0.008764853705681572,
+      "date": "2017-04-01",
+      "mutation_length": 0.01115118177529486,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/California/84315/2017": {
+      "branch_length": 0.0013662744239857777,
+      "clock_length": 0.0013662744239857777,
+      "date": "2017-05-18",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.376712328767,
+        2017.376712328767
+      ],
+      "numdate": 2017.376712328767,
+      "raw_date": "2017-05-18"
+    },
+    "A/canine/California/BRW002/2018": {
+      "branch_length": 0.00038452184482591634,
+      "clock_length": 0.00038452184482591634,
+      "date": "2018-01-06",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0150684931507,
+        2018.0150684931507
+      ],
+      "numdate": 2018.0150684931507,
+      "raw_date": "2018-01-06"
+    },
+    "A/canine/California/BRW003/2018": {
+      "branch_length": 0.0005343044184981244,
+      "clock_length": 0.0005343044184981244,
+      "date": "2018-01-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0013698630137,
+        2018.0013698630137
+      ],
+      "numdate": 2018.0013698630137,
+      "raw_date": "2018-01-01"
+    },
+    "A/canine/California/M19-17384-1-1/2019": {
+      "branch_length": 0.0005837714860417662,
+      "clock_length": 0.0005837714860417662,
+      "date": "2019-06-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4150684931508,
+        2019.4854077232608
+      ],
+      "numdate": 2019.4150684931508,
+      "raw_date": "2019-06-XX"
+    },
+    "A/canine/California/M19-17384-10-1/2019": {
+      "branch_length": 0.0007551112508530754,
+      "clock_length": 0.0007551112508530754,
+      "date": "2019-06-30",
+      "mutation_length": 0.000583771486041766,
+      "num_date_confidence": [
+        2019.4150684931508,
+        2019.4945205479453
+      ],
+      "numdate": 2019.4945205479453,
+      "raw_date": "2019-06-XX"
+    },
+    "A/canine/California/M21-32151-10-1/2021": {
+      "branch_length": 0.0006732657169322351,
+      "clock_length": 0.0006732657169322351,
+      "date": "2021-10-14",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.7849315068493,
+        2021.7849315068493
+      ],
+      "numdate": 2021.7849315068493,
+      "raw_date": "2021-10-14"
+    },
+    "A/canine/California/M21-32151-4-1/2021": {
+      "branch_length": 0.0006732657169322351,
+      "clock_length": 0.0006732657169322351,
+      "date": "2021-10-14",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.7849315068493,
+        2021.7849315068493
+      ],
+      "numdate": 2021.7849315068493,
+      "raw_date": "2021-10-14"
+    },
+    "A/canine/California/M21-32357-5-1/2021": {
+      "branch_length": 0.0006916757237591066,
+      "clock_length": 0.0006916757237591066,
+      "date": "2021-10-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.7931506849316,
+        2021.7931506849316
+      ],
+      "numdate": 2021.7931506849316,
+      "raw_date": "2021-10-17"
+    },
+    "A/canine/California/M21-32759-2-1/2021": {
+      "branch_length": 0.0007094005270151952,
+      "clock_length": 0.0007094005270151952,
+      "date": "2021-10-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.8013698630136,
+        2021.8013698630136
+      ],
+      "numdate": 2021.8013698630136,
+      "raw_date": "2021-10-20"
+    },
+    "A/canine/California/M21-32918-14-1/2021": {
+      "branch_length": 0.00048114158723103987,
+      "clock_length": 0.00048114158723103987,
+      "date": "2021-10-21",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.804109589041,
+        2021.804109589041
+      ],
+      "numdate": 2021.804109589041,
+      "raw_date": "2021-10-21"
+    },
+    "A/canine/California/M21-32990-2-1/2021": {
+      "branch_length": 4.775020914937842e-05,
+      "clock_length": 4.775020914937842e-05,
+      "date": "2021-10-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.809589041096,
+        2021.809589041096
+      ],
+      "numdate": 2021.809589041096,
+      "raw_date": "2021-10-23"
+    },
+    "A/canine/California/M21-33954-29-1/2021": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2021-10-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.8260273972603,
+        2021.8260273972603
+      ],
+      "numdate": 2021.8260273972603,
+      "raw_date": "2021-10-29"
+    },
+    "A/canine/California/M21-34663-8-1/2021": {
+      "branch_length": 1.7724803256088592e-05,
+      "clock_length": 1.7724803256088592e-05,
+      "date": "2021-11-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.8342465753424,
+        2021.8342465753424
+      ],
+      "numdate": 2021.8342465753424,
+      "raw_date": "2021-11-01"
+    },
+    "A/canine/ChangChun/01/2023": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2023-12-28",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.990410958904,
+        2023.990410958904
+      ],
+      "numdate": 2023.990410958904,
+      "raw_date": "2023-12-28"
+    },
+    "A/canine/China/11071/2019": {
+      "branch_length": 0.0016897645771049696,
+      "clock_length": 0.0016897645771049696,
+      "date": "2019-02-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.113698630137,
+        2019.113698630137
+      ],
+      "numdate": 2019.113698630137,
+      "raw_date": "2019-02-11"
+    },
+    "A/canine/China/15001/2019": {
+      "branch_length": 0.0003855012962481093,
+      "clock_length": 0.0003855012962481093,
+      "date": "2019-02-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.0890410958905,
+        2019.0890410958905
+      ],
+      "numdate": 2019.0890410958905,
+      "raw_date": "2019-02-02"
+    },
+    "A/canine/China/15027/2019": {
+      "branch_length": 0.0011652797105962936,
+      "clock_length": 0.0011652797105962936,
+      "date": "2019-03-02",
+      "mutation_length": 0.0011672965408957125,
+      "num_date_confidence": [
+        2019.1657534246576,
+        2019.1657534246576
+      ],
+      "numdate": 2019.1657534246576,
+      "raw_date": "2019-03-02"
+    },
+    "A/canine/China/15066/2019": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2019-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.1657534246576,
+        2019.1657534246576
+      ],
+      "numdate": 2019.1657534246576,
+      "raw_date": "2019-03-02"
+    },
+    "A/canine/China/15068/2019": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2019-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.1657534246576,
+        2019.1657534246576
+      ],
+      "numdate": 2019.1657534246576,
+      "raw_date": "2019-03-02"
+    },
+    "A/canine/China/6068/2018": {
+      "branch_length": 0.0005980860063931198,
+      "clock_length": 0.0005980860063931198,
+      "date": "2018-11-26",
+      "mutation_length": 0.0023367594650359354,
+      "num_date_confidence": [
+        2018.9027397260274,
+        2018.9027397260274
+      ],
+      "numdate": 2018.9027397260274,
+      "raw_date": "2018-11-26"
+    },
+    "A/canine/China/A4/2021": {
+      "branch_length": 0.0006486314108803456,
+      "clock_length": 0.0006486314108803456,
+      "date": "2021-05-02",
+      "mutation_length": 0.0005837038377742796,
+      "num_date_confidence": [
+        2021.3328767123287,
+        2021.3328767123287
+      ],
+      "numdate": 2021.3328767123287,
+      "raw_date": "2021-05-02"
+    },
+    "A/canine/China/HN6/2018": {
+      "branch_length": 0.0022452224915826668,
+      "clock_length": 0.0022452224915826668,
+      "date": "2018-06-03",
+      "mutation_length": 0.0005832477500035467,
+      "num_date_confidence": [
+        2018.4205479452055,
+        2018.4205479452055
+      ],
+      "numdate": 2018.4205479452055,
+      "raw_date": "2018-06-03"
+    },
+    "A/canine/China/JLM1/2015": {
+      "branch_length": 0.0019642517018442565,
+      "clock_length": 0.0019642517018442565,
+      "date": "2015-11-25",
+      "mutation_length": 0.0017537961623609424,
+      "num_date_confidence": [
+        2015.9,
+        2015.9
+      ],
+      "numdate": 2015.9,
+      "raw_date": "2015-11-25"
+    },
+    "A/canine/China/JLM2/2015": {
+      "branch_length": 0.0019642517018442565,
+      "clock_length": 0.0019642517018442565,
+      "date": "2015-11-25",
+      "mutation_length": 0.0023380221142601104,
+      "num_date_confidence": [
+        2015.9,
+        2015.9
+      ],
+      "numdate": 2015.9,
+      "raw_date": "2015-11-25"
+    },
+    "A/canine/China/LG1/2015": {
+      "branch_length": 0.004035923056344436,
+      "clock_length": 0.004035923056344436,
+      "date": "2015-12-16",
+      "mutation_length": 0.005280580071759231,
+      "num_date_confidence": [
+        2015.9575342465753,
+        2015.9575342465753
+      ],
+      "numdate": 2015.9575342465753,
+      "raw_date": "2015-12-16"
+    },
+    "A/canine/China/LG2/2015": {
+      "branch_length": 0.004035923056344436,
+      "clock_length": 0.004035923056344436,
+      "date": "2015-12-16",
+      "mutation_length": 0.004099985327080061,
+      "num_date_confidence": [
+        2015.9575342465753,
+        2015.9575342465753
+      ],
+      "numdate": 2015.9575342465753,
+      "raw_date": "2015-12-16"
+    },
+    "A/canine/China/QiaoKe01/2017": {
+      "branch_length": 0.0002330536244438651,
+      "clock_length": 0.0002330536244438651,
+      "date": "2017-05-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3301369863013,
+        2017.3301369863013
+      ],
+      "numdate": 2017.3301369863013,
+      "raw_date": "2017-05-01"
+    },
+    "A/canine/China/Shanghai-0315-2019/2019": {
+      "branch_length": 0.0005884147597840766,
+      "clock_length": 0.0005884147597840766,
+      "date": "2019-03-08",
+      "mutation_length": 0.0023369347714778926,
+      "num_date_confidence": [
+        2019.182191780822,
+        2019.182191780822
+      ],
+      "numdate": 2019.182191780822,
+      "raw_date": "2019-03-08"
+    },
+    "A/canine/Florida/090919/2017": {
+      "branch_length": 3.200000000000078e-05,
+      "clock_length": 3.200000000000078e-05,
+      "date": "2017-05-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3986301369864,
+        2017.3986301369864
+      ],
+      "numdate": 2017.3986301369864,
+      "raw_date": "2017-05-26"
+    },
+    "A/canine/Florida/20170606-11/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Florida/20170606-17/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Florida/20170606-2/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Florida/20170606-7/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Florida/269770/2015": {
+      "branch_length": 0.001348185834456523,
+      "clock_length": 0.001348185834456523,
+      "date": "2015-11-01",
+      "mutation_length": 0.0005820361518738429,
+      "num_date_confidence": [
+        2015.8342465753424,
+        2015.8342465753424
+      ],
+      "numdate": 2015.8342465753424,
+      "raw_date": "2015-11-01"
+    },
+    "A/canine/Florida/CAIS-B1/2021": {
+      "branch_length": 0.00011253249068336572,
+      "clock_length": 0.00011253249068336572,
+      "date": "2021-06-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.4150684931508,
+        2021.4945205479453
+      ],
+      "numdate": 2021.4418999789327,
+      "raw_date": "2021-06-XX"
+    },
+    "A/canine/Florida/CAIS-F1/2021": {
+      "branch_length": 0.0005138441127104845,
+      "clock_length": 0.0005138441127104845,
+      "date": "2021-06-27",
+      "mutation_length": 0.000583873688366874,
+      "num_date_confidence": [
+        2021.4150684931508,
+        2021.4945205479453
+      ],
+      "numdate": 2021.4849778235464,
+      "raw_date": "2021-06-XX"
+    },
+    "A/canine/Florida/CAIS-H1/2021": {
+      "branch_length": 0.0005137493164301399,
+      "clock_length": 0.0005137493164301399,
+      "date": "2021-06-27",
+      "mutation_length": 0.0005837622535902719,
+      "num_date_confidence": [
+        2021.4150684931508,
+        2021.4945205479453
+      ],
+      "numdate": 2021.4849338655122,
+      "raw_date": "2021-06-XX"
+    },
+    "A/canine/Fujian/11/2018": {
+      "branch_length": 0.0004159590870796148,
+      "clock_length": 0.0004159590870796148,
+      "date": "2018-11-01",
+      "mutation_length": 0.0005829177759355196,
+      "num_date_confidence": [
+        2018.8342465753424,
+        2018.9052891602907
+      ],
+      "numdate": 2018.8342465753424,
+      "raw_date": "2018-11-XX"
+    },
+    "A/canine/Fujian/1108/2018": {
+      "branch_length": 0.00022601001451384023,
+      "clock_length": 0.00022601001451384023,
+      "date": "2018-12-31",
+      "mutation_length": 0.0005835728805412319,
+      "num_date_confidence": [
+        2018.9272169324242,
+        2018.9986301369863
+      ],
+      "numdate": 2018.9986301369863,
+      "raw_date": "2018-12-XX"
+    },
+    "A/canine/Fujian/1109/2018": {
+      "branch_length": 8.87080423206156e-05,
+      "clock_length": 8.87080423206156e-05,
+      "date": "2018-12-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.9164383561645,
+        2018.9986301369863
+      ],
+      "numdate": 2018.9349617653734,
+      "raw_date": "2018-12-XX"
+    },
+    "A/canine/Fujian/601/2018": {
+      "branch_length": 0.00011619554674599172,
+      "clock_length": 0.00011619554674599172,
+      "date": "2018-01-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0013698630137,
+        2018.0835616438355
+      ],
+      "numdate": 2018.0774668561937,
+      "raw_date": "2018-01-XX"
+    },
+    "A/canine/Georgia/101875/2015": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2015-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.6671232876713,
+        2015.6671232876713
+      ],
+      "numdate": 2015.6671232876713,
+      "raw_date": "2015-09-01"
+    },
+    "A/canine/Georgia/104940/2015": {
+      "branch_length": 0.0002067893713244666,
+      "clock_length": 0.0002067893713244666,
+      "date": "2015-07-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.541095890411,
+        2015.541095890411
+      ],
+      "numdate": 2015.541095890411,
+      "raw_date": "2015-07-17"
+    },
+    "A/canine/Georgia/20170606-19/2017": {
+      "branch_length": 8.169678867681399e-05,
+      "clock_length": 8.169678867681399e-05,
+      "date": "2017-05-25",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3958904109588,
+        2017.3958904109588
+      ],
+      "numdate": 2017.3958904109588,
+      "raw_date": "2017-05-25"
+    },
+    "A/canine/Georgia/42632/2015": {
+      "branch_length": 0.0001852106286755334,
+      "clock_length": 0.0001852106286755334,
+      "date": "2015-06-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.445205479452,
+        2015.445205479452
+      ],
+      "numdate": 2015.445205479452,
+      "raw_date": "2015-06-12"
+    },
+    "A/canine/Georgia/89750.1/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-05-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3986301369864,
+        2017.3986301369864
+      ],
+      "numdate": 2017.3986301369864,
+      "raw_date": "2017-05-26"
+    },
+    "A/canine/Georgia/95391/2015": {
+      "branch_length": 0.0006746272684341886,
+      "clock_length": 0.0006746272684341886,
+      "date": "2015-07-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.5301369863014,
+        2015.5301369863014
+      ],
+      "numdate": 2015.5301369863014,
+      "raw_date": "2015-07-13"
+    },
+    "A/canine/Guangdong/01/2013": {
+      "branch_length": 0.0008469628695433225,
+      "clock_length": 0.0008469628695433225,
+      "date": "2013-04-30",
+      "mutation_length": 0.0017481897771628961,
+      "num_date_confidence": [
+        2013.2565962762374,
+        2013.327397260274
+      ],
+      "numdate": 2013.327397260274,
+      "raw_date": "2013-04-XX"
+    },
+    "A/canine/Guangdong/01/2014": {
+      "branch_length": 0.0024835530368795336,
+      "clock_length": 0.0024835530368795336,
+      "date": "2014-02-01",
+      "mutation_length": 0.001165162222319124,
+      "num_date_confidence": [
+        2014.0863013698631,
+        2014.0863013698631
+      ],
+      "numdate": 2014.0863013698631,
+      "raw_date": "2014-02-01"
+    },
+    "A/canine/Guangdong/02/2013": {
+      "branch_length": 0.0003015218070355728,
+      "clock_length": 0.0003015218070355728,
+      "date": "2013-04-30",
+      "mutation_length": 0.0005826308848211972,
+      "num_date_confidence": [
+        2013.256866706115,
+        2013.327397260274
+      ],
+      "numdate": 2013.327397260274,
+      "raw_date": "2013-04-XX"
+    },
+    "A/canine/Guangdong/03/2013": {
+      "branch_length": 0.002758207827543383,
+      "clock_length": 0.002758207827543383,
+      "date": "2013-11-01",
+      "mutation_length": 0.0011653373446182762,
+      "num_date_confidence": [
+        2013.8342465753424,
+        2013.8342465753424
+      ],
+      "numdate": 2013.8342465753424,
+      "raw_date": "2013-11-01"
+    },
+    "A/canine/Guangdong/04/2013": {
+      "branch_length": 0.00139455134117673,
+      "clock_length": 0.00139455134117673,
+      "date": "2013-11-01",
+      "mutation_length": 0.001164828107606987,
+      "num_date_confidence": [
+        2013.8342465753424,
+        2013.8342465753424
+      ],
+      "numdate": 2013.8342465753424,
+      "raw_date": "2013-11-01"
+    },
+    "A/canine/Guangdong/05/2011": {
+      "branch_length": 0.0005466940818838924,
+      "clock_length": 0.0005466940818838924,
+      "date": "2011-02-01",
+      "mutation_length": 0.002332561416037943,
+      "num_date_confidence": [
+        2011.0863013698631,
+        2011.0863013698631
+      ],
+      "numdate": 2011.0863013698631,
+      "raw_date": "2011-02-01"
+    },
+    "A/canine/Guangdong/1/2018": {
+      "branch_length": 0.0007658703922805883,
+      "clock_length": 0.0007658703922805883,
+      "date": "2018-05-14",
+      "mutation_length": 0.0017505608966413466,
+      "num_date_confidence": [
+        2018.3657534246574,
+        2018.3657534246574
+      ],
+      "numdate": 2018.3657534246574,
+      "raw_date": "2018-05-14"
+    },
+    "A/canine/Guangdong/12/2012": {
+      "branch_length": 0.00019173628766398776,
+      "clock_length": 0.00019173628766398776,
+      "date": "2012-09-15",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2012.7062841530055,
+        2012.7062841530055
+      ],
+      "numdate": 2012.7062841530055,
+      "raw_date": "2012-09-15"
+    },
+    "A/canine/Guangdong/2/2011": {
+      "branch_length": 0.0005580803250146739,
+      "clock_length": 0.0005580803250146739,
+      "date": "2011-02-01",
+      "mutation_length": 0.001747413933509744,
+      "num_date_confidence": [
+        2011.0863013698631,
+        2011.0863013698631
+      ],
+      "numdate": 2011.0863013698631,
+      "raw_date": "2011-02-01"
+    },
+    "A/canine/Guangdong/2/2018": {
+      "branch_length": 0.0007776869277851383,
+      "clock_length": 0.0007776869277851383,
+      "date": "2018-05-16",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.3712328767124,
+        2018.3712328767124
+      ],
+      "numdate": 2018.3712328767124,
+      "raw_date": "2018-05-16"
+    },
+    "A/canine/Guangdong/23/2012": {
+      "branch_length": 0.00020941266249592874,
+      "clock_length": 0.00020941266249592874,
+      "date": "2012-09-18",
+      "mutation_length": 0.000581701840266471,
+      "num_date_confidence": [
+        2012.714480874317,
+        2012.714480874317
+      ],
+      "numdate": 2012.714480874317,
+      "raw_date": "2012-09-18"
+    },
+    "A/canine/Guangdong/3/2011": {
+      "branch_length": 0.001972270897106436,
+      "clock_length": 0.001972270897106436,
+      "date": "2011-03-01",
+      "mutation_length": 0.0040882751205641435,
+      "num_date_confidence": [
+        2011.16301369863,
+        2011.16301369863
+      ],
+      "numdate": 2011.16301369863,
+      "raw_date": "2011-03-01"
+    },
+    "A/canine/Guangdong/3/2018": {
+      "branch_length": 0.0005063228275965191,
+      "clock_length": 0.0005063228275965191,
+      "date": "2018-05-17",
+      "mutation_length": 0.0011666956981751526,
+      "num_date_confidence": [
+        2018.3739726027397,
+        2018.3739726027397
+      ],
+      "numdate": 2018.3739726027397,
+      "raw_date": "2018-05-17"
+    },
+    "A/canine/Guangdong/DY1/2019": {
+      "branch_length": 0.0009235747793965368,
+      "clock_length": 0.0009235747793965368,
+      "date": "2019-06-23",
+      "mutation_length": 0.002336945941815117,
+      "num_date_confidence": [
+        2019.4753424657533,
+        2019.4753424657533
+      ],
+      "numdate": 2019.4753424657533,
+      "raw_date": "2019-06-23"
+    },
+    "A/canine/Guangdong/GY01/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-05-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.3301369863013,
+        2018.3301369863013
+      ],
+      "numdate": 2018.3301369863013,
+      "raw_date": "2018-05-01"
+    },
+    "A/canine/Guangzhou/11/2019": {
+      "branch_length": 0.0009339738385824685,
+      "clock_length": 0.0009339738385824685,
+      "date": "2019-01-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.0013698630137,
+        2019.0741565101873
+      ],
+      "numdate": 2019.0013698630137,
+      "raw_date": "2019-01-XX"
+    },
+    "A/canine/Guangzhou/1180/2019": {
+      "branch_length": 0.00017324785531530607,
+      "clock_length": 0.00017324785531530607,
+      "date": "2019-05-30",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.3301369863013,
+        2019.4123287671232
+      ],
+      "numdate": 2019.410473842773,
+      "raw_date": "2019-05-XX"
+    },
+    "A/canine/Guangzhou/15/2019": {
+      "branch_length": 5.660860604341303e-05,
+      "clock_length": 5.660860604341303e-05,
+      "date": "2019-07-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5794520547945
+      ],
+      "numdate": 2019.5273639072807,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Guangzhou/16/2019": {
+      "branch_length": 5.660860604341303e-05,
+      "clock_length": 5.660860604341303e-05,
+      "date": "2019-07-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5794520547945
+      ],
+      "numdate": 2019.5273639072807,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Guangzhou/17/2019": {
+      "branch_length": 0.00012659898757927737,
+      "clock_length": 0.00012659898757927737,
+      "date": "2019-02-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.0863013698631,
+        2019.1602739726027
+      ],
+      "numdate": 2019.1450066547054,
+      "raw_date": "2019-02-XX"
+    },
+    "A/canine/Guangzhou/25/2019": {
+      "branch_length": 5.660860604341303e-05,
+      "clock_length": 5.660860604341303e-05,
+      "date": "2019-07-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5794520547945
+      ],
+      "numdate": 2019.5273639072807,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Guangzhou/35/2019": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2019-07-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5794520547945
+      ],
+      "numdate": 2019.5011139000267,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Guangzhou/37/2019": {
+      "branch_length": 5.660860604341303e-05,
+      "clock_length": 5.660860604341303e-05,
+      "date": "2019-07-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5794520547945
+      ],
+      "numdate": 2019.5273639072807,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Guangzhou/38/2019": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2019-07-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5794520547945
+      ],
+      "numdate": 2019.5011139000267,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Guangzhou/603/2018": {
+      "branch_length": 0.00038220913003722025,
+      "clock_length": 0.00038220913003722025,
+      "date": "2018-02-04",
+      "mutation_length": 0.000582953746626511,
+      "num_date_confidence": [
+        2018.0863013698631,
+        2018.1602739726027
+      ],
+      "numdate": 2018.095562637795,
+      "raw_date": "2018-02-XX"
+    },
+    "A/canine/Guangzhou/8/2018": {
+      "branch_length": 0.0004159590870796148,
+      "clock_length": 0.0004159590870796148,
+      "date": "2018-11-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.8342465753424,
+        2018.9049682219807
+      ],
+      "numdate": 2018.8342465753424,
+      "raw_date": "2018-11-XX"
+    },
+    "A/canine/Hainan/615/2018": {
+      "branch_length": 0.0003030564132826402,
+      "clock_length": 0.0003030564132826402,
+      "date": "2018-02-28",
+      "mutation_length": 0.0005831036281837801,
+      "num_date_confidence": [
+        2018.0946952060096,
+        2018.1602739726027
+      ],
+      "numdate": 2018.1602739726027,
+      "raw_date": "2018-02-XX"
+    },
+    "A/canine/Hainan/79/2019": {
+      "branch_length": 0.00036040433287919636,
+      "clock_length": 0.00036040433287919636,
+      "date": "2019-07-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5709820804907
+      ],
+      "numdate": 2019.4972602739726,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Hainan/F4/2018": {
+      "branch_length": 0.001313952002623242,
+      "clock_length": 0.001313952002623242,
+      "date": "2018-12-01",
+      "mutation_length": 0.0005831036500386409,
+      "num_date_confidence": [
+        2018.9164383561645,
+        2018.9891605126845
+      ],
+      "numdate": 2018.9164383561645,
+      "raw_date": "2018-12-XX"
+    },
+    "A/canine/Hainan/W3/2019": {
+      "branch_length": 4.6864116746642495e-05,
+      "clock_length": 4.6864116746642495e-05,
+      "date": "2019-06-10",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4150684931508,
+        2019.4945205479453
+      ],
+      "numdate": 2019.4399685972196,
+      "raw_date": "2019-06-XX"
+    },
+    "A/canine/Hainan/W5/2019": {
+      "branch_length": 0.002350832171243494,
+      "clock_length": 0.002350832171243494,
+      "date": "2019-06-01",
+      "mutation_length": 0.0005832054691128089,
+      "num_date_confidence": [
+        2019.4150684931508,
+        2019.485582243776
+      ],
+      "numdate": 2019.4150684931508,
+      "raw_date": "2019-06-XX"
+    },
+    "A/canine/Hainan/W8/2019": {
+      "branch_length": 4.6864116746642495e-05,
+      "clock_length": 4.6864116746642495e-05,
+      "date": "2019-06-10",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.4150684931508,
+        2019.4945205479453
+      ],
+      "numdate": 2019.4399685972196,
+      "raw_date": "2019-06-XX"
+    },
+    "A/canine/Heilongjiang/L1/2013": {
+      "branch_length": 0.0017953746837115828,
+      "clock_length": 0.0017953746837115828,
+      "date": "2013-03-10",
+      "mutation_length": 0.001164410009703499,
+      "num_date_confidence": [
+        2013.1876712328767,
+        2013.1876712328767
+      ],
+      "numdate": 2013.1876712328767,
+      "raw_date": "2013-03-10"
+    },
+    "A/canine/Henan/L02/2018": {
+      "branch_length": 0.0016898453228835538,
+      "clock_length": 0.0016898453228835538,
+      "date": "2018-03-01",
+      "mutation_length": 0.002926139087244249,
+      "num_date_confidence": [
+        2018.16301369863,
+        2018.16301369863
+      ],
+      "numdate": 2018.16301369863,
+      "raw_date": "2018-03-01"
+    },
+    "A/canine/Henan/L03/2018": {
+      "branch_length": 0.0003553372854997426,
+      "clock_length": 0.0003553372854997426,
+      "date": "2018-05-01",
+      "mutation_length": 0.0005830849964649498,
+      "num_date_confidence": [
+        2018.3301369863013,
+        2018.3301369863013
+      ],
+      "numdate": 2018.3301369863013,
+      "raw_date": "2018-05-01"
+    },
+    "A/canine/Henan/L06/2018": {
+      "branch_length": 0.0003553372854997426,
+      "clock_length": 0.0003553372854997426,
+      "date": "2018-05-01",
+      "mutation_length": 0.0005831175967175275,
+      "num_date_confidence": [
+        2018.3301369863013,
+        2018.3301369863013
+      ],
+      "numdate": 2018.3301369863013,
+      "raw_date": "2018-05-01"
+    },
+    "A/canine/Illinois/077752/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Illinois/077753/2016": {
+      "branch_length": 0.00035941962158670196,
+      "clock_length": 0.00035941962158670196,
+      "date": "2016-11-01",
+      "mutation_length": 0.0005824918931707053,
+      "num_date_confidence": [
+        2016.8346994535518,
+        2016.8346994535518
+      ],
+      "numdate": 2016.8346994535518,
+      "raw_date": "2016-11-01"
+    },
+    "A/canine/Illinois/0843093/2015": {
+      "branch_length": 8.000000000001062e-06,
+      "clock_length": 8.000000000001062e-06,
+      "date": "2015-03-30",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.2424657534248,
+        2015.2424657534248
+      ],
+      "numdate": 2015.2424657534248,
+      "raw_date": "2015-03-30"
+    },
+    "A/canine/Illinois/091375-16-1-1/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Illinois/12191/2015": {
+      "branch_length": 0.0005368636593414411,
+      "clock_length": 0.0005368636593414411,
+      "date": "2015-04-15",
+      "mutation_length": 0.0011652586078659646,
+      "num_date_confidence": [
+        2015.286301369863,
+        2015.286301369863
+      ],
+      "numdate": 2015.286301369863,
+      "raw_date": "2015-04-15"
+    },
+    "A/canine/Illinois/145135-16-3-1/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Illinois/1619144/2015": {
+      "branch_length": 0.00014288317074368298,
+      "clock_length": 0.00014288317074368298,
+      "date": "2015-04-14",
+      "mutation_length": 0.001164968490105308,
+      "num_date_confidence": [
+        2015.2835616438356,
+        2015.2835616438356
+      ],
+      "numdate": 2015.2835616438356,
+      "raw_date": "2015-04-14"
+    },
+    "A/canine/Illinois/187427-16-7/2016": {
+      "branch_length": 0.0005864568252352161,
+      "clock_length": 0.0005864568252352161,
+      "date": "2016-04-01",
+      "mutation_length": 0.0005820911416726714,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/20170110-1A4/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Illinois/20170110-1G12/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/20170110-1G4/2016": {
+      "branch_length": 0.0009383840708834038,
+      "clock_length": 0.0009383840708834038,
+      "date": "2016-04-01",
+      "mutation_length": 0.000582247950597901,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/20170110-2F1/2016": {
+      "branch_length": 0.0003320395549487737,
+      "clock_length": 0.0003320395549487737,
+      "date": "2016-04-01",
+      "mutation_length": 0.0017475766049935373,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/20170110-2G1/2016": {
+      "branch_length": 0.0003320395549487737,
+      "clock_length": 0.0003320395549487737,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/21-015197-001/2021": {
+      "branch_length": 7.754092885700094e-05,
+      "clock_length": 7.754092885700094e-05,
+      "date": "2021-05-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3739726027397,
+        2021.3739726027397
+      ],
+      "numdate": 2021.3739726027397,
+      "raw_date": "2021-05-17"
+    },
+    "A/canine/Illinois/21-015197-005/2021": {
+      "branch_length": 7.754092885700094e-05,
+      "clock_length": 7.754092885700094e-05,
+      "date": "2021-05-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3739726027397,
+        2021.3739726027397
+      ],
+      "numdate": 2021.3739726027397,
+      "raw_date": "2021-05-17"
+    },
+    "A/canine/Illinois/278597/2016": {
+      "branch_length": 0.0017980747478234492,
+      "clock_length": 0.0017980747478234492,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Illinois/283066/2015": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2015-11-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.8342465753424,
+        2015.8342465753424
+      ],
+      "numdate": 2015.8342465753424,
+      "raw_date": "2015-11-01"
+    },
+    "A/canine/Illinois/2883703/2015": {
+      "branch_length": 0.00012730236092399483,
+      "clock_length": 0.00012730236092399483,
+      "date": "2015-05-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.3465753424657,
+        2015.3465753424657
+      ],
+      "numdate": 2015.3465753424657,
+      "raw_date": "2015-05-07"
+    },
+    "A/canine/Illinois/328292/2015": {
+      "branch_length": 0.0006430213899982842,
+      "clock_length": 0.0006430213899982842,
+      "date": "2015-11-01",
+      "mutation_length": 0.001749673288068632,
+      "num_date_confidence": [
+        2015.8342465753424,
+        2015.8342465753424
+      ],
+      "numdate": 2015.8342465753424,
+      "raw_date": "2015-11-01"
+    },
+    "A/canine/Illinois/41915/2015": {
+      "branch_length": 0.0013581128768858086,
+      "clock_length": 0.0013581128768858086,
+      "date": "2015-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.6671232876713,
+        2015.6671232876713
+      ],
+      "numdate": 2015.6671232876713,
+      "raw_date": "2015-09-01"
+    },
+    "A/canine/Illinois/I0182389/2015": {
+      "branch_length": 0.0014081253042974619,
+      "clock_length": 0.0014081253042974619,
+      "date": "2015-09-01",
+      "mutation_length": 0.0005821855585446888,
+      "num_date_confidence": [
+        2015.6671232876713,
+        2015.6671232876713
+      ],
+      "numdate": 2015.6671232876713,
+      "raw_date": "2015-09-01"
+    },
+    "A/canine/Illinois/M16-16391-2-1/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/M16-25374-14-1/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/M16-25374-19-1/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/M16-30480-3-1/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Illinois/M17-05782-1-1/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Illinois/M17-05782-11-1/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Illinois/M17-05782-4-1/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Illinois/M17-05782-8-1/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Indiana/003018/2016": {
+      "branch_length": 0.002147669751298986,
+      "clock_length": 0.002147669751298986,
+      "date": "2016-11-01",
+      "mutation_length": 0.0005820745336111827,
+      "num_date_confidence": [
+        2016.8346994535518,
+        2016.8346994535518
+      ],
+      "numdate": 2016.8346994535518,
+      "raw_date": "2016-11-01"
+    },
+    "A/canine/Indiana/093165-16-1-1/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Indiana/1177-17-1/2017": {
+      "branch_length": 0.0009039649660737593,
+      "clock_length": 0.0009039649660737593,
+      "date": "2017-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.6671232876713,
+        2017.6671232876713
+      ],
+      "numdate": 2017.6671232876713,
+      "raw_date": "2017-09-01"
+    },
+    "A/canine/Indiana/130636/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-07-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.5739726027398,
+        2017.5739726027398
+      ],
+      "numdate": 2017.5739726027398,
+      "raw_date": "2017-07-29"
+    },
+    "A/canine/Indiana/132276-16-1-2/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Indiana/17031-16-2/2016": {
+      "branch_length": 0.00025298522566282247,
+      "clock_length": 0.00025298522566282247,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6680327868853,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853,
+      "raw_date": "2016-09-01"
+    },
+    "A/canine/Indiana/2093681/2015": {
+      "branch_length": 0.0012215475980257087,
+      "clock_length": 0.0012215475980257087,
+      "date": "2015-09-01",
+      "mutation_length": 0.0005821496423466874,
+      "num_date_confidence": [
+        2015.6671232876713,
+        2015.6671232876713
+      ],
+      "numdate": 2015.6671232876713,
+      "raw_date": "2015-09-01"
+    },
+    "A/canine/Indiana/M16-09378-32-1/2016": {
+      "branch_length": 9.637532406202645e-05,
+      "clock_length": 9.637532406202645e-05,
+      "date": "2016-04-05",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.2609289617487,
+        2016.2609289617487
+      ],
+      "numdate": 2016.2609289617487,
+      "raw_date": "2016-04-05"
+    },
+    "A/canine/Jiangsu/01/2009": {
+      "branch_length": 0.0004772130369990052,
+      "clock_length": 0.0004772130369990052,
+      "date": "2009-12-31",
+      "mutation_length": 0.0023296556117578513,
+      "num_date_confidence": [
+        2009.9347061707122,
+        2009.9986301369863
+      ],
+      "numdate": 2009.9986301369863,
+      "raw_date": "2009-12-XX"
+    },
+    "A/canine/Jiangsu/02/2010": {
+      "branch_length": 0.0010089571346895143,
+      "clock_length": 0.0010089571346895143,
+      "date": "2010-03-31",
+      "mutation_length": 0.0017463956297667197,
+      "num_date_confidence": [
+        2010.171866452052,
+        2010.2452054794521
+      ],
+      "numdate": 2010.2452054794521,
+      "raw_date": "2010-03-XX"
+    },
+    "A/canine/Jiangsu/03/2010": {
+      "branch_length": 0.001014865402441542,
+      "clock_length": 0.001014865402441542,
+      "date": "2010-04-01",
+      "mutation_length": 0.0005816076973174847,
+      "num_date_confidence": [
+        2010.2479452054795,
+        2010.319043484009
+      ],
+      "numdate": 2010.2479452054795,
+      "raw_date": "2010-04-XX"
+    },
+    "A/canine/Jilin/01/2023": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2023-12-28",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.990410958904,
+        2023.990410958904
+      ],
+      "numdate": 2023.990410958904,
+      "raw_date": "2023-12-28"
+    },
+    "A/canine/Kentucky/128656/2017": {
+      "branch_length": 0.00037425435237479,
+      "clock_length": 0.00037425435237479,
+      "date": "2017-07-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.5657534246575,
+        2017.5657534246575
+      ],
+      "numdate": 2017.5657534246575,
+      "raw_date": "2017-07-26"
+    },
+    "A/canine/Kentucky/174490/2017": {
+      "branch_length": 0.00042539527815201386,
+      "clock_length": 0.00042539527815201386,
+      "date": "2017-10-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.7712328767122,
+        2017.7712328767122
+      ],
+      "numdate": 2017.7712328767122,
+      "raw_date": "2017-10-09"
+    },
+    "A/canine/Kentucky/20170606-23/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Kentucky/20170606-6/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Korea/01/2007": {
+      "branch_length": 0.0003244034505572105,
+      "clock_length": 0.0003244034505572105,
+      "date": "2007-05-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2007.3301369863013,
+        2007.3301369863013
+      ],
+      "numdate": 2007.3301369863013,
+      "raw_date": "2007-05-01"
+    },
+    "A/canine/Korea/0589318/2015": {
+      "branch_length": 0.0004170218057804459,
+      "clock_length": 0.0004170218057804459,
+      "date": "2015-03-05",
+      "mutation_length": 0.0005821496423466874,
+      "num_date_confidence": [
+        2015.1739726027397,
+        2015.1739726027397
+      ],
+      "numdate": 2015.1739726027397,
+      "raw_date": "2015-03-05"
+    },
+    "A/canine/Korea/AS-01/2009": {
+      "branch_length": 0.0008970092879862085,
+      "clock_length": 0.0008970092879862085,
+      "date": "2009-09-18",
+      "mutation_length": 0.0023290566175947188,
+      "num_date_confidence": [
+        2009.713698630137,
+        2009.713698630137
+      ],
+      "numdate": 2009.713698630137,
+      "raw_date": "2009-09-18"
+    },
+    "A/canine/Korea/AS-03/2012": {
+      "branch_length": 0.0003723695058662664,
+      "clock_length": 0.0003723695058662664,
+      "date": "2012-05-10",
+      "mutation_length": 0.0011659319166067016,
+      "num_date_confidence": [
+        2012.3565573770493,
+        2012.3565573770493
+      ],
+      "numdate": 2012.3565573770493,
+      "raw_date": "2012-05-10"
+    },
+    "A/canine/Korea/AS-04/2012": {
+      "branch_length": 5.158757159730992e-05,
+      "clock_length": 5.158757159730992e-05,
+      "date": "2012-06-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2012.4439890710382,
+        2012.4439890710382
+      ],
+      "numdate": 2012.4439890710382,
+      "raw_date": "2012-06-11"
+    },
+    "A/canine/Korea/AS-05/2012": {
+      "branch_length": 0.00045071424510730734,
+      "clock_length": 0.00045071424510730734,
+      "date": "2012-07-14",
+      "mutation_length": 0.0005820361518738429,
+      "num_date_confidence": [
+        2012.5341530054645,
+        2012.5341530054645
+      ],
+      "numdate": 2012.5341530054645,
+      "raw_date": "2012-07-14"
+    },
+    "A/canine/Korea/AS-06/2012": {
+      "branch_length": 0.0019076433994414527,
+      "clock_length": 0.0019076433994414527,
+      "date": "2012-08-24",
+      "mutation_length": 0.0017471261815147812,
+      "num_date_confidence": [
+        2012.646174863388,
+        2012.646174863388
+      ],
+      "numdate": 2012.646174863388,
+      "raw_date": "2012-08-24"
+    },
+    "A/canine/Korea/AS-08/2012": {
+      "branch_length": 0.0003290481597935796,
+      "clock_length": 0.0003290481597935796,
+      "date": "2012-09-17",
+      "mutation_length": 0.0005822241172039048,
+      "num_date_confidence": [
+        2012.7117486338798,
+        2012.7117486338798
+      ],
+      "numdate": 2012.7117486338798,
+      "raw_date": "2012-09-17"
+    },
+    "A/canine/Korea/AS-09/2012": {
+      "branch_length": 0.0004940276582269809,
+      "clock_length": 0.0004940276582269809,
+      "date": "2012-10-15",
+      "mutation_length": 0.0005822989243251311,
+      "num_date_confidence": [
+        2012.7882513661202,
+        2012.7882513661202
+      ],
+      "numdate": 2012.7882513661202,
+      "raw_date": "2012-10-15"
+    },
+    "A/canine/Korea/AS-11/2013": {
+      "branch_length": 0.0017888382698680594,
+      "clock_length": 0.0017888382698680594,
+      "date": "2013-06-08",
+      "mutation_length": 0.0040887731882698515,
+      "num_date_confidence": [
+        2013.4342465753425,
+        2013.4342465753425
+      ],
+      "numdate": 2013.4342465753425,
+      "raw_date": "2013-06-08"
+    },
+    "A/canine/Korea/AS-14/2013": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2013-08-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.6041095890412,
+        2013.6041095890412
+      ],
+      "numdate": 2013.6041095890412,
+      "raw_date": "2013-08-09"
+    },
+    "A/canine/Korea/AS-15/2013": {
+      "branch_length": 0.00019497283581942568,
+      "clock_length": 0.00019497283581942568,
+      "date": "2013-09-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.694520547945,
+        2013.694520547945
+      ],
+      "numdate": 2013.694520547945,
+      "raw_date": "2013-09-11"
+    },
+    "A/canine/Korea/BD-1/2013": {
+      "branch_length": 0.0015336821309033834,
+      "clock_length": 0.0015336821309033834,
+      "date": "2013-05-30",
+      "mutation_length": 0.001164637593471958,
+      "num_date_confidence": [
+        2013.4095890410958,
+        2013.4095890410958
+      ],
+      "numdate": 2013.4095890410958,
+      "raw_date": "2013-05-30"
+    },
+    "A/canine/Korea/CY009/2010": {
+      "branch_length": 0.0004845646905937036,
+      "clock_length": 0.0004845646905937036,
+      "date": "2010-10-01",
+      "mutation_length": 0.0017461790652025294,
+      "num_date_confidence": [
+        2010.7493150684932,
+        2010.7493150684932
+      ],
+      "numdate": 2010.7493150684932,
+      "raw_date": "2010-10-01"
+    },
+    "A/canine/Korea/CY053/2014": {
+      "branch_length": 0.007852174577481944,
+      "clock_length": 0.007852174577481944,
+      "date": "2014-03-02",
+      "mutation_length": 0.0005818241914845419,
+      "num_date_confidence": [
+        2014.1657534246576,
+        2014.1657534246576
+      ],
+      "numdate": 2014.1657534246576,
+      "raw_date": "2014-03-02"
+    },
+    "A/canine/Korea/DG1/2014": {
+      "branch_length": 0.0040009741281063285,
+      "clock_length": 0.0040009741281063285,
+      "date": "2014-02-13",
+      "mutation_length": 0.005842027496087069,
+      "num_date_confidence": [
+        2014.1191780821919,
+        2014.1191780821919
+      ],
+      "numdate": 2014.1191780821919,
+      "raw_date": "2014-02-13"
+    },
+    "A/canine/Korea/GCVP01/2007": {
+      "branch_length": 0.0005016514831205493,
+      "clock_length": 0.0005016514831205493,
+      "date": "2007-05-31",
+      "mutation_length": 0.001163181066366053,
+      "num_date_confidence": [
+        2007.341517522546,
+        2007.4123287671232
+      ],
+      "numdate": 2007.4123287671232,
+      "raw_date": "2007-05-XX"
+    },
+    "A/canine/Korea/KRIBB01/2011": {
+      "branch_length": 0.003560020409931461,
+      "clock_length": 0.003560020409931461,
+      "date": "2011-11-01",
+      "mutation_length": 0.0034973861224599757,
+      "num_date_confidence": [
+        2011.8342465753424,
+        2011.8342465753424
+      ],
+      "numdate": 2011.8342465753424,
+      "raw_date": "2011-11-01"
+    },
+    "A/canine/Korea/S1/2012": {
+      "branch_length": 0.004821432158498239,
+      "clock_length": 0.004821432158498239,
+      "date": "2012-11-05",
+      "mutation_length": 0.006428576211330984,
+      "num_date_confidence": [
+        2012.8456284153006,
+        2012.8456284153006
+      ],
+      "numdate": 2012.8456284153006,
+      "raw_date": "2012-11-05"
+    },
+    "A/canine/Liaoning/10/2018": {
+      "branch_length": 0.001122178546498839,
+      "clock_length": 0.001122178546498839,
+      "date": "2018-11-05",
+      "mutation_length": 0.0011663236728612417,
+      "num_date_confidence": [
+        2018.8342465753424,
+        2018.9136986301369
+      ],
+      "numdate": 2018.8453288578467,
+      "raw_date": "2018-11-XX"
+    },
+    "A/canine/Liaoning/1388/2019": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2019-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.6671232876713,
+        2019.7375972916316
+      ],
+      "numdate": 2019.6671232876713,
+      "raw_date": "2019-09-XX"
+    },
+    "A/canine/Liaoning/1578/2010": {
+      "branch_length": 0.0008068632618750543,
+      "clock_length": 0.0008068632618750543,
+      "date": "2010-04-06",
+      "mutation_length": 0.0011630317776346968,
+      "num_date_confidence": [
+        2010.2616438356165,
+        2010.2616438356165
+      ],
+      "numdate": 2010.2616438356165,
+      "raw_date": "2010-04-06"
+    },
+    "A/canine/Liaoning/1585/2010": {
+      "branch_length": 0.0008068632618750543,
+      "clock_length": 0.0008068632618750543,
+      "date": "2010-04-06",
+      "mutation_length": 0.0017453826795229316,
+      "num_date_confidence": [
+        2010.2616438356165,
+        2010.2616438356165
+      ],
+      "numdate": 2010.2616438356165,
+      "raw_date": "2010-04-06"
+    },
+    "A/canine/Liaoning/27/2012": {
+      "branch_length": 6.409925212581824e-05,
+      "clock_length": 6.409925212581824e-05,
+      "date": "2012-04-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2012.2773224043715,
+        2012.2773224043715
+      ],
+      "numdate": 2012.2773224043715,
+      "raw_date": "2012-04-11"
+    },
+    "A/canine/Liaoning/282/2017": {
+      "branch_length": 0.0006063844871747708,
+      "clock_length": 0.0006063844871747708,
+      "date": "2017-08-31",
+      "mutation_length": 0.0011655725044129473,
+      "num_date_confidence": [
+        2017.5909666113694,
+        2017.664383561644
+      ],
+      "numdate": 2017.664383561644,
+      "raw_date": "2017-08-XX"
+    },
+    "A/canine/Liaoning/530/2018": {
+      "branch_length": 0.0016965607472326574,
+      "clock_length": 0.0016965607472326574,
+      "date": "2018-01-01",
+      "mutation_length": 0.0029231766252413366,
+      "num_date_confidence": [
+        2018.0013698630137,
+        2018.0835616438355
+      ],
+      "numdate": 2018.0013698630137,
+      "raw_date": "2018-01-XX"
+    },
+    "A/canine/Liaoning/H6/2012": {
+      "branch_length": 5.609204286451813e-05,
+      "clock_length": 5.609204286451813e-05,
+      "date": "2012-05-19",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2012.3811475409836,
+        2012.3811475409836
+      ],
+      "numdate": 2012.3811475409836,
+      "raw_date": "2012-05-19"
+    },
+    "A/canine/Minnesota/139684/2017": {
+      "branch_length": 0.001070227259135425,
+      "clock_length": 0.001070227259135425,
+      "date": "2017-08-10",
+      "mutation_length": 0.0005827283185471991,
+      "num_date_confidence": [
+        2017.6068493150685,
+        2017.6068493150685
+      ],
+      "numdate": 2017.6068493150685,
+      "raw_date": "2017-08-10"
+    },
+    "A/canine/Minnesota/23-012684-001/2023": {
+      "branch_length": 0.0001503337535268155,
+      "clock_length": 0.0001503337535268155,
+      "date": "2023-04-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.2917808219179,
+        2023.2917808219179
+      ],
+      "numdate": 2023.2917808219179,
+      "raw_date": "2023-04-17"
+    },
+    "A/canine/Nanjing/20170328-7/2017": {
+      "branch_length": 0.00033275236550274825,
+      "clock_length": 0.00033275236550274825,
+      "date": "2017-03-28",
+      "mutation_length": 0.0011661568740931006,
+      "num_date_confidence": [
+        2017.2369863013698,
+        2017.2369863013698
+      ],
+      "numdate": 2017.2369863013698,
+      "raw_date": "2017-03-28"
+    },
+    "A/canine/Nanjing/20170419-12/2017": {
+      "branch_length": 0.00046273425604935817,
+      "clock_length": 0.00046273425604935817,
+      "date": "2017-04-19",
+      "mutation_length": 0.0005829436568547445,
+      "num_date_confidence": [
+        2017.2972602739726,
+        2017.2972602739726
+      ],
+      "numdate": 2017.2972602739726,
+      "raw_date": "2017-04-19"
+    },
+    "A/canine/Nanjing/20170620-47/2017": {
+      "branch_length": 0.0008290468566805841,
+      "clock_length": 0.0008290468566805841,
+      "date": "2017-06-20",
+      "mutation_length": 0.0011664542280894338,
+      "num_date_confidence": [
+        2017.4671232876713,
+        2017.4671232876713
+      ],
+      "numdate": 2017.4671232876713,
+      "raw_date": "2017-06-20"
+    },
+    "A/canine/Nanjing/20170704-53/2017": {
+      "branch_length": 0.0009117626052099793,
+      "clock_length": 0.0009117626052099793,
+      "date": "2017-07-04",
+      "mutation_length": 0.0011671708475526658,
+      "num_date_confidence": [
+        2017.5054794520547,
+        2017.5054794520547
+      ],
+      "numdate": 2017.5054794520547,
+      "raw_date": "2017-07-04"
+    },
+    "A/canine/Nanjing/543/2018": {
+      "branch_length": 7.422638614867395e-05,
+      "clock_length": 7.422638614867395e-05,
+      "date": "2018-01-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0013698630137,
+        2018.0835616438355
+      ],
+      "numdate": 2018.0541630772452,
+      "raw_date": "2018-01-XX"
+    },
+    "A/canine/Nevada/BRW015/2018": {
+      "branch_length": 3.5449606512666376e-05,
+      "clock_length": 3.5449606512666376e-05,
+      "date": "2018-02-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1027397260275,
+        2018.1027397260275
+      ],
+      "numdate": 2018.1027397260275,
+      "raw_date": "2018-02-07"
+    },
+    "A/canine/Nevada/BRW018/2018": {
+      "branch_length": 0.0008828922158727725,
+      "clock_length": 0.0008828922158727725,
+      "date": "2018-03-01",
+      "mutation_length": 0.0005826921730460846,
+      "num_date_confidence": [
+        2018.16301369863,
+        2018.16301369863
+      ],
+      "numdate": 2018.16301369863,
+      "raw_date": "2018-03-01"
+    },
+    "A/canine/New_Jersey/CRP036/2018": {
+      "branch_length": 3.594364603072206e-05,
+      "clock_length": 3.594364603072206e-05,
+      "date": "2018-05-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.36301369863,
+        2018.36301369863
+      ],
+      "numdate": 2018.36301369863,
+      "raw_date": "2018-05-13"
+    },
+    "A/canine/New_York/CRP034/2018": {
+      "branch_length": 4.940395180539486e-07,
+      "clock_length": 4.940395180539486e-07,
+      "date": "2018-05-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.3465753424657,
+        2018.3465753424657
+      ],
+      "numdate": 2018.3465753424657,
+      "raw_date": "2018-05-07"
+    },
+    "A/canine/North_Carolina/090487/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-05-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3986301369864,
+        2017.3986301369864
+      ],
+      "numdate": 2017.3986301369864,
+      "raw_date": "2017-05-26"
+    },
+    "A/canine/Ohio/174509/2017": {
+      "branch_length": 0.0013654355629612452,
+      "clock_length": 0.0013654355629612452,
+      "date": "2017-10-08",
+      "mutation_length": 0.0005825787075831517,
+      "num_date_confidence": [
+        2017.768493150685,
+        2017.768493150685
+      ],
+      "numdate": 2017.768493150685,
+      "raw_date": "2017-10-08"
+    },
+    "A/canine/Ohio/188191/2017": {
+      "branch_length": 1.7724803256086857e-05,
+      "clock_length": 1.7724803256086857e-05,
+      "date": "2017-10-31",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.831506849315,
+        2017.831506849315
+      ],
+      "numdate": 2017.831506849315,
+      "raw_date": "2017-10-31"
+    },
+    "A/canine/Ohio/A82/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-10-28",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.823287671233,
+        2017.823287671233
+      ],
+      "numdate": 2017.823287671233,
+      "raw_date": "2017-10-28"
+    },
+    "A/canine/Ohio/A91/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-10-28",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.823287671233,
+        2017.823287671233
+      ],
+      "numdate": 2017.823287671233,
+      "raw_date": "2017-10-28"
+    },
+    "A/canine/Ohio/A97/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-10-28",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.823287671233,
+        2017.823287671233
+      ],
+      "numdate": 2017.823287671233,
+      "raw_date": "2017-10-28"
+    },
+    "A/canine/Oklahoma/23-011242-001/2023": {
+      "branch_length": 7.943454050148013e-05,
+      "clock_length": 7.943454050148013e-05,
+      "date": "2023-04-05",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.2589041095891,
+        2023.2589041095891
+      ],
+      "numdate": 2023.2589041095891,
+      "raw_date": "2023-04-05"
+    },
+    "A/canine/Ontario/NCFAD-2018-001-4/2018": {
+      "branch_length": 0.0005579374895067334,
+      "clock_length": 0.0005579374895067334,
+      "date": "2018-01-05",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0123287671233,
+        2018.0123287671233
+      ],
+      "numdate": 2018.0123287671233,
+      "raw_date": "2018-01-05"
+    },
+    "A/canine/Ontario/NCFAD-2018-064-1/2018": {
+      "branch_length": 0.0010226288160264402,
+      "clock_length": 0.0010226288160264402,
+      "date": "2018-10-15",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.7876712328766,
+        2018.7876712328766
+      ],
+      "numdate": 2018.7876712328766,
+      "raw_date": "2018-10-15"
+    },
+    "A/canine/Ontario/NCFAD-2018-069-1/2018": {
+      "branch_length": 0.0003555574426803258,
+      "clock_length": 0.0003555574426803258,
+      "date": "2018-10-22",
+      "mutation_length": 0.0005834788802959193,
+      "num_date_confidence": [
+        2018.8068493150686,
+        2018.8068493150686
+      ],
+      "numdate": 2018.8068493150686,
+      "raw_date": "2018-10-22"
+    },
+    "A/canine/Ontario/NCFAD-2018-069-10/2018": {
+      "branch_length": 0.00010436673992682277,
+      "clock_length": 0.00010436673992682277,
+      "date": "2018-10-18",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.795890410959,
+        2018.795890410959
+      ],
+      "numdate": 2018.795890410959,
+      "raw_date": "2018-10-18"
+    },
+    "A/canine/Ontario/NCFAD-2018-069-6/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-10-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.8068493150686,
+        2018.8068493150686
+      ],
+      "numdate": 2018.8068493150686,
+      "raw_date": "2018-10-22"
+    },
+    "A/canine/Ontario/NCFAD-2018-069-9/2018": {
+      "branch_length": 1.1816535504059061e-05,
+      "clock_length": 1.1816535504059061e-05,
+      "date": "2018-10-24",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.8123287671233,
+        2018.8123287671233
+      ],
+      "numdate": 2018.8123287671233,
+      "raw_date": "2018-10-24"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-1/2018": {
+      "branch_length": 0.00027685416451607263,
+      "clock_length": 0.00027685416451607263,
+      "date": "2018-01-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0232876712328,
+        2018.0232876712328
+      ],
+      "numdate": 2018.0232876712328,
+      "raw_date": "2018-01-09"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-10/2018": {
+      "branch_length": 4.135787426469764e-05,
+      "clock_length": 4.135787426469764e-05,
+      "date": "2018-03-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1849315068494,
+        2018.1849315068494
+      ],
+      "numdate": 2018.1849315068494,
+      "raw_date": "2018-03-09"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-11/2018": {
+      "branch_length": 4.135787426469764e-05,
+      "clock_length": 4.135787426469764e-05,
+      "date": "2018-03-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1849315068494,
+        2018.1849315068494
+      ],
+      "numdate": 2018.1849315068494,
+      "raw_date": "2018-03-09"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-12/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-03-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.195890410959,
+        2018.195890410959
+      ],
+      "numdate": 2018.195890410959,
+      "raw_date": "2018-03-13"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-13/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-03-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.195890410959,
+        2018.195890410959
+      ],
+      "numdate": 2018.195890410959,
+      "raw_date": "2018-03-13"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-14/2018": {
+      "branch_length": 5.908267752029531e-06,
+      "clock_length": 5.908267752029531e-06,
+      "date": "2018-03-14",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1986301369864,
+        2018.1986301369864
+      ],
+      "numdate": 2018.1986301369864,
+      "raw_date": "2018-03-14"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-15/2018": {
+      "branch_length": 5.908267752029531e-06,
+      "clock_length": 5.908267752029531e-06,
+      "date": "2018-03-14",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1986301369864,
+        2018.1986301369864
+      ],
+      "numdate": 2018.1986301369864,
+      "raw_date": "2018-03-14"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-16/2018": {
+      "branch_length": 7.680748077736402e-05,
+      "clock_length": 7.680748077736402e-05,
+      "date": "2018-03-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.231506849315,
+        2018.231506849315
+      ],
+      "numdate": 2018.231506849315,
+      "raw_date": "2018-03-26"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-2/2018": {
+      "branch_length": 0.0002291669289913919,
+      "clock_length": 0.0002291669289913919,
+      "date": "2018-01-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0232876712328,
+        2018.0232876712328
+      ],
+      "numdate": 2018.0232876712328,
+      "raw_date": "2018-01-09"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-3/2018": {
+      "branch_length": 5.197601196136638e-05,
+      "clock_length": 5.197601196136638e-05,
+      "date": "2018-01-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0342465753424,
+        2018.0342465753424
+      ],
+      "numdate": 2018.0342465753424,
+      "raw_date": "2018-01-13"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-4/2018": {
+      "branch_length": 9.235757115679845e-05,
+      "clock_length": 9.235757115679845e-05,
+      "date": "2018-01-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0698630136985,
+        2018.0698630136985
+      ],
+      "numdate": 2018.0698630136985,
+      "raw_date": "2018-01-26"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-5/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-02-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0863013698631,
+        2018.0863013698631
+      ],
+      "numdate": 2018.0863013698631,
+      "raw_date": "2018-02-01"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-7/2018": {
+      "branch_length": 5.501744979732881e-05,
+      "clock_length": 5.501744979732881e-05,
+      "date": "2018-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1657534246576,
+        2018.1657534246576
+      ],
+      "numdate": 2018.1657534246576,
+      "raw_date": "2018-03-02"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-8/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1657534246576,
+        2018.1657534246576
+      ],
+      "numdate": 2018.1657534246576,
+      "raw_date": "2018-03-02"
+    },
+    "A/canine/Ontario/NCFAD-2018-070-9/2018": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2018-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1657534246576,
+        2018.1657534246576
+      ],
+      "numdate": 2018.1657534246576,
+      "raw_date": "2018-03-02"
+    },
+    "A/canine/Pennsylvania/0261885/2015": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2015-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.6671232876713,
+        2015.6671232876713
+      ],
+      "numdate": 2015.6671232876713,
+      "raw_date": "2015-09-01"
+    },
+    "A/canine/Pennsylvania/037756-1/2023": {
+      "branch_length": 9.637532406202732e-05,
+      "clock_length": 9.637532406202732e-05,
+      "date": "2023-02-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.1438356164383,
+        2023.1438356164383
+      ],
+      "numdate": 2023.1438356164383,
+      "raw_date": "2023-02-22"
+    },
+    "A/canine/Pennsylvania/20170411-5/2017": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2479452054795,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795,
+      "raw_date": "2017-04-01"
+    },
+    "A/canine/Pennsylvania/985419/2023": {
+      "branch_length": 0.0006312587515310162,
+      "clock_length": 0.0006312587515310162,
+      "date": "2023-02-07",
+      "mutation_length": 0.0017534965320306014,
+      "num_date_confidence": [
+        2023.1027397260275,
+        2023.1027397260275
+      ],
+      "numdate": 2023.1027397260275,
+      "raw_date": "2023-02-07"
+    },
+    "A/canine/Shanghai/159/2017": {
+      "branch_length": 0.0003787552834080207,
+      "clock_length": 0.0003787552834080207,
+      "date": "2017-10-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.7493150684932,
+        2017.8217551851246
+      ],
+      "numdate": 2017.7493150684932,
+      "raw_date": "2017-10-XX"
+    },
+    "A/canine/Shanghai/20170622-7/2017": {
+      "branch_length": 0.00023098098921119428,
+      "clock_length": 0.00023098098921119428,
+      "date": "2017-06-22",
+      "mutation_length": 0.0005828906336975121,
+      "num_date_confidence": [
+        2017.472602739726,
+        2017.472602739726
+      ],
+      "numdate": 2017.472602739726,
+      "raw_date": "2017-06-22"
+    },
+    "A/canine/Shanghai/20170713-18/2017": {
+      "branch_length": 0.0003550546120057764,
+      "clock_length": 0.0003550546120057764,
+      "date": "2017-07-13",
+      "mutation_length": 0.0005826537222658868,
+      "num_date_confidence": [
+        2017.5301369863014,
+        2017.5301369863014
+      ],
+      "numdate": 2017.5301369863014,
+      "raw_date": "2017-07-13"
+    },
+    "A/canine/Shanghai/20170721-36/2017": {
+      "branch_length": 0.00040232075402250184,
+      "clock_length": 0.00040232075402250184,
+      "date": "2017-07-21",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.5520547945205,
+        2017.5520547945205
+      ],
+      "numdate": 2017.5520547945205,
+      "raw_date": "2017-07-21"
+    },
+    "A/canine/Shanghai/755/2018": {
+      "branch_length": 0.001428798635572135,
+      "clock_length": 0.001428798635572135,
+      "date": "2018-05-01",
+      "mutation_length": 0.0011665462315293747,
+      "num_date_confidence": [
+        2018.3301369863013,
+        2018.403616901761
+      ],
+      "numdate": 2018.3301369863013,
+      "raw_date": "2018-05-XX"
+    },
+    "A/canine/Shanxi/1286/2019": {
+      "branch_length": 0.0010703803640322654,
+      "clock_length": 0.0010703803640322654,
+      "date": "2019-07-01",
+      "mutation_length": 0.0005834426924387438,
+      "num_date_confidence": [
+        2019.4972602739726,
+        2019.5706617259705
+      ],
+      "numdate": 2019.4972602739726,
+      "raw_date": "2019-07-XX"
+    },
+    "A/canine/Shanxi/361/2017": {
+      "branch_length": 0.0004724950277962027,
+      "clock_length": 0.0004724950277962027,
+      "date": "2017-10-17",
+      "mutation_length": 0.000582878745993181,
+      "num_date_confidence": [
+        2017.7493150684932,
+        2017.831506849315
+      ],
+      "numdate": 2017.7927831759448,
+      "raw_date": "2017-10-XX"
+    },
+    "A/canine/Singapore/SG_NParks_CIV_M4705/2018": {
+      "branch_length": 0.0008442394623594165,
+      "clock_length": 0.0008442394623594165,
+      "date": "2018-06-01",
+      "mutation_length": 0.0005831036500386409,
+      "num_date_confidence": [
+        2018.4150684931508,
+        2018.4150684931508
+      ],
+      "numdate": 2018.4150684931508,
+      "raw_date": "2018-06-01"
+    },
+    "A/canine/South_Korea/0173915/2015": {
+      "branch_length": 0.0006350588211388696,
+      "clock_length": 0.0006350588211388696,
+      "date": "2015-11-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.8342465753424,
+        2015.8342465753424
+      ],
+      "numdate": 2015.8342465753424,
+      "raw_date": "2015-11-01"
+    },
+    "A/canine/South_Korea/20170110-1F1/2016": {
+      "branch_length": 0.003807677695027146,
+      "clock_length": 0.003807677695027146,
+      "date": "2016-04-01",
+      "mutation_length": 0.0029148706763384045,
+      "num_date_confidence": [
+        2016.25,
+        2016.25
+      ],
+      "numdate": 2016.25,
+      "raw_date": "2016-04-01"
+    },
+    "A/canine/Tennessee/231361-1/2022": {
+      "branch_length": 0.00019918140942017971,
+      "clock_length": 0.00019918140942017971,
+      "date": "2022-10-10",
+      "mutation_length": 0.0005840438199920116,
+      "num_date_confidence": [
+        2022.7739726027398,
+        2022.7739726027398
+      ],
+      "numdate": 2022.7739726027398,
+      "raw_date": "2022-10-10"
+    },
+    "A/canine/Texas/042018-2/2023": {
+      "branch_length": 0.000740485448955731,
+      "clock_length": 0.000740485448955731,
+      "date": "2023-02-28",
+      "mutation_length": 0.0011690305626017236,
+      "num_date_confidence": [
+        2023.1602739726027,
+        2023.1602739726027
+      ],
+      "numdate": 2023.1602739726027,
+      "raw_date": "2023-02-28"
+    },
+    "A/canine/Texas/042018-3/2023": {
+      "branch_length": 0.00042873954204222364,
+      "clock_length": 0.00042873954204222364,
+      "date": "2023-02-28",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.1602739726027,
+        2023.1602739726027
+      ],
+      "numdate": 2023.1602739726027,
+      "raw_date": "2023-02-28"
+    },
+    "A/canine/Texas/21-011409-001/2021": {
+      "branch_length": 0.00046547511056497896,
+      "clock_length": 0.00046547511056497896,
+      "date": "2021-04-01",
+      "mutation_length": 0.0005836678502382184,
+      "num_date_confidence": [
+        2021.2479452054795,
+        2021.2479452054795
+      ],
+      "numdate": 2021.2479452054795,
+      "raw_date": "2021-04-01"
+    },
+    "A/canine/Texas/2100186/2015": {
+      "branch_length": 0.00010469556769884467,
+      "clock_length": 0.00010469556769884467,
+      "date": "2015-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.6671232876713,
+        2015.6671232876713
+      ],
+      "numdate": 2015.6671232876713,
+      "raw_date": "2015-09-01"
+    },
+    "A/canine/Texas/343907/2015": {
+      "branch_length": 0.0006518396371623728,
+      "clock_length": 0.0006518396371623728,
+      "date": "2015-12-22",
+      "mutation_length": 0.0005819996760378318,
+      "num_date_confidence": [
+        2015.9739726027397,
+        2015.9739726027397
+      ],
+      "numdate": 2015.9739726027397,
+      "raw_date": "2015-12-22"
+    },
+    "A/canine/Texas/M22-35785-4-1/2022": {
+      "branch_length": 0.00037642944198351853,
+      "clock_length": 0.00037642944198351853,
+      "date": "2022-11-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.8561643835617,
+        2022.8561643835617
+      ],
+      "numdate": 2022.8561643835617,
+      "raw_date": "2022-11-09"
+    },
+    "A/canine/Texas/M23-02041-5-1/2023": {
+      "branch_length": 6.837777947825852e-05,
+      "clock_length": 6.837777947825852e-05,
+      "date": "2023-01-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.0534246575342,
+        2023.0534246575342
+      ],
+      "numdate": 2023.0534246575342,
+      "raw_date": "2023-01-20"
+    },
+    "A/canine/Texas/M23-02041-7-1/2023": {
+      "branch_length": 6.837777947825852e-05,
+      "clock_length": 6.837777947825852e-05,
+      "date": "2023-01-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.0534246575342,
+        2023.0534246575342
+      ],
+      "numdate": 2023.0534246575342,
+      "raw_date": "2023-01-20"
+    },
+    "A/canine/Texas/M23-04914-24-1/2023": {
+      "branch_length": 0.0006932193069390039,
+      "clock_length": 0.0006932193069390039,
+      "date": "2023-02-20",
+      "mutation_length": 0.0005844590552584549,
+      "num_date_confidence": [
+        2023.1383561643836,
+        2023.1383561643836
+      ],
+      "numdate": 2023.1383561643836,
+      "raw_date": "2023-02-20"
+    },
+    "A/canine/Texas/M23-04914-31-1/2023": {
+      "branch_length": 0.0004420872627232328,
+      "clock_length": 0.0004420872627232328,
+      "date": "2023-02-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.1383561643836,
+        2023.1383561643836
+      ],
+      "numdate": 2023.1383561643836,
+      "raw_date": "2023-02-20"
+    },
+    "A/canine/Texas/M23-06880-32-1/2023": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2023-03-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.182191780822,
+        2023.182191780822
+      ],
+      "numdate": 2023.182191780822,
+      "raw_date": "2023-03-08"
+    },
+    "A/canine/Texas/M23-06880-4-1/2023": {
+      "branch_length": 0.0003657417270567691,
+      "clock_length": 0.0003657417270567691,
+      "date": "2023-03-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.1794520547944,
+        2023.1794520547944
+      ],
+      "numdate": 2023.1794520547944,
+      "raw_date": "2023-03-07"
+    },
+    "A/canine/Texas/M23-06880-7-1/2023": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2023-03-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.182191780822,
+        2023.182191780822
+      ],
+      "numdate": 2023.182191780822,
+      "raw_date": "2023-03-08"
+    },
+    "A/canine/Texas/M23-09336-12-1/2023": {
+      "branch_length": 0.00012909901449384854,
+      "clock_length": 0.00012909901449384854,
+      "date": "2023-03-24",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.2260273972602,
+        2023.2260273972602
+      ],
+      "numdate": 2023.2260273972602,
+      "raw_date": "2023-03-24"
+    },
+    "A/canine/Texas/M23-09336-22-1/2023": {
+      "branch_length": 0.00013272616437016386,
+      "clock_length": 0.00013272616437016386,
+      "date": "2023-03-25",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.2287671232878,
+        2023.2287671232878
+      ],
+      "numdate": 2023.2287671232878,
+      "raw_date": "2023-03-25"
+    },
+    "A/canine/Texas/M23-09336-3-1/2023": {
+      "branch_length": 4.8892372030738714e-05,
+      "clock_length": 4.8892372030738714e-05,
+      "date": "2023-03-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.2232876712328,
+        2023.2232876712328
+      ],
+      "numdate": 2023.2232876712328,
+      "raw_date": "2023-03-23"
+    },
+    "A/canine/Texas/M23-09336-4-1/2023": {
+      "branch_length": 4.8892372030738714e-05,
+      "clock_length": 4.8892372030738714e-05,
+      "date": "2023-03-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.2232876712328,
+        2023.2232876712328
+      ],
+      "numdate": 2023.2232876712328,
+      "raw_date": "2023-03-23"
+    },
+    "A/canine/Texas/M23-09336-44-1/2023": {
+      "branch_length": 2.626013073223337e-05,
+      "clock_length": 2.626013073223337e-05,
+      "date": "2023-03-27",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.2342465753425,
+        2023.2342465753425
+      ],
+      "numdate": 2023.2342465753425,
+      "raw_date": "2023-03-27"
+    },
+    "A/canine/Texas/M23-09336-52-1/2023": {
+      "branch_length": 0.00028543989212991526,
+      "clock_length": 0.00028543989212991526,
+      "date": "2023-03-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.231506849315,
+        2023.231506849315
+      ],
+      "numdate": 2023.231506849315,
+      "raw_date": "2023-03-26"
+    },
+    "A/canine/Thailand/CU-DC5299/2012": {
+      "branch_length": 0.0020579626119004227,
+      "clock_length": 0.0020579626119004227,
+      "date": "2012-01-15",
+      "mutation_length": 0.0005854478145194916,
+      "num_date_confidence": [
+        2012.0396174863388,
+        2012.0396174863388
+      ],
+      "numdate": 2012.0396174863388,
+      "raw_date": "2012-01-15"
+    },
+    "A/canine/Tianjin/368/2017": {
+      "branch_length": 0.0007228728414336166,
+      "clock_length": 0.0007228728414336166,
+      "date": "2017-11-24",
+      "mutation_length": 0.0011679101993593748,
+      "num_date_confidence": [
+        2017.8342465753424,
+        2017.9136986301369
+      ],
+      "numdate": 2017.8961787870528,
+      "raw_date": "2017-11-XX"
+    },
+    "A/canine/Tianjin/570/2018": {
+      "branch_length": 7.422638614867395e-05,
+      "clock_length": 7.422638614867395e-05,
+      "date": "2018-01-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0013698630137,
+        2018.0835616438355
+      ],
+      "numdate": 2018.0541630772452,
+      "raw_date": "2018-01-XX"
+    },
+    "A/canine/Tianjin/643/2018": {
+      "branch_length": 0.00030896468103466974,
+      "clock_length": 0.00030896468103466974,
+      "date": "2018-03-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.16301369863,
+        2018.235845474093
+      ],
+      "numdate": 2018.16301369863,
+      "raw_date": "2018-03-XX"
+    },
+    "A/canine/Tianjin/83/2018": {
+      "branch_length": 0.0007356717986841243,
+      "clock_length": 0.0007356717986841243,
+      "date": "2018-09-01",
+      "mutation_length": 0.0005833216034048906,
+      "num_date_confidence": [
+        2018.6671232876713,
+        2018.738372079085
+      ],
+      "numdate": 2018.6671232876713,
+      "raw_date": "2018-09-XX"
+    },
+    "A/canine/Tianjin/84/2018": {
+      "branch_length": 0.0007785112005683284,
+      "clock_length": 0.0007785112005683284,
+      "date": "2018-09-08",
+      "mutation_length": 0.0005830848455645509,
+      "num_date_confidence": [
+        2018.6671232876713,
+        2018.7465753424658
+      ],
+      "numdate": 2018.6869883698348,
+      "raw_date": "2018-09-XX"
+    },
+    "A/canine/Tianjin/85/2018": {
+      "branch_length": 0.0007785112005683284,
+      "clock_length": 0.0007785112005683284,
+      "date": "2018-09-08",
+      "mutation_length": 0.0005830848455645509,
+      "num_date_confidence": [
+        2018.6671232876713,
+        2018.7465753424658
+      ],
+      "numdate": 2018.6869883698348,
+      "raw_date": "2018-09-XX"
+    },
+    "A/canine/Tianjin/89/2019": {
+      "branch_length": 0.0013587782113760691,
+      "clock_length": 0.0013587782113760691,
+      "date": "2019-10-01",
+      "mutation_length": 0.0005834426924387438,
+      "num_date_confidence": [
+        2019.7493150684932,
+        2019.822886308371
+      ],
+      "numdate": 2019.7493150684932,
+      "raw_date": "2019-10-XX"
+    },
+    "A/canine/Virginia/002912-1/2023": {
+      "branch_length": 0.00043037764795906923,
+      "clock_length": 0.00043037764795906923,
+      "date": "2023-01-04",
+      "mutation_length": 0.0011684333873207742,
+      "num_date_confidence": [
+        2023.009589041096,
+        2023.009589041096
+      ],
+      "numdate": 2023.009589041096,
+      "raw_date": "2023-01-04"
+    },
+    "A/canine/West_Virginia/120508-1/2023": {
+      "branch_length": 0.0012279937944943368,
+      "clock_length": 0.0012279937944943368,
+      "date": "2023-05-19",
+      "mutation_length": 0.0017530443464731779,
+      "num_date_confidence": [
+        2023.3794520547945,
+        2023.3794520547945
+      ],
+      "numdate": 2023.3794520547945,
+      "raw_date": "2023-05-19"
+    },
+    "A/canine/Wisconsin/19137/2016": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2016-02-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.1051912568305,
+        2016.1051912568305
+      ],
+      "numdate": 2016.1051912568305,
+      "raw_date": "2016-02-08"
+    },
+    "A/canine/Zhejiang/1/2010": {
+      "branch_length": 0.001852626653999486,
+      "clock_length": 0.001852626653999486,
+      "date": "2010-09-30",
+      "mutation_length": 0.0011630317776346968,
+      "num_date_confidence": [
+        2010.7465753424658,
+        2010.7465753424658
+      ],
+      "numdate": 2010.7465753424658,
+      "raw_date": "2010-09-30"
+    },
+    "A/dog/Indiana/M16-09378-32-1/2016": {
+      "branch_length": 9.637532406202645e-05,
+      "clock_length": 9.637532406202645e-05,
+      "date": "2016-04-05",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.2609289617487,
+        2016.2609289617487
+      ],
+      "numdate": 2016.2609289617487,
+      "raw_date": "2016-04-05"
+    },
+    "NODE_0000000": {
+      "branch_length": 0.0006594053836630233,
+      "clock_length": 0.0006594053836630233,
+      "date": "2012-01-19",
+      "mutation_length": 0.0005817021947091589,
+      "num_date_confidence": [
+        2011.4732646538262,
+        2012.5482766640782
+      ],
+      "numdate": 2012.0499004443247
+    },
+    "NODE_0000001": {
+      "branch_length": 0.0019525136974161902,
+      "clock_length": 0.0019525136974161902,
+      "date": "2012-12-15",
+      "mutation_length": 0.0023306370446378477,
+      "num_date_confidence": [
+        2012.5267268999012,
+        2013.4142852847656
+      ],
+      "numdate": 2012.9553016245175
+    },
+    "NODE_0000002": {
+      "branch_length": 0.0022915201063430785,
+      "clock_length": 0.0022915201063430785,
+      "date": "2014-01-07",
+      "mutation_length": 0.002918706510140921,
+      "num_date_confidence": [
+        2013.3953261595207,
+        2015.0471364269608
+      ],
+      "numdate": 2014.0179036495197
+    },
+    "NODE_0000003": {
+      "branch_length": 0.0020945224466359,
+      "clock_length": 0.0020945224466359,
+      "date": "2014-12-28",
+      "mutation_length": 0.0005828054177157433,
+      "num_date_confidence": [
+        2014.2300785019945,
+        2015.6506500714431
+      ],
+      "numdate": 2014.98915578344
+    },
+    "NODE_0000004": {
+      "branch_length": 0.00014692471492981293,
+      "clock_length": 0.00014692471492981293,
+      "date": "2014-02-01",
+      "mutation_length": 0.0005828054177157433,
+      "num_date_confidence": [
+        2013.548773718505,
+        2015.2255858651527
+      ],
+      "numdate": 2014.0860341883592
+    },
+    "NODE_0000005": {
+      "branch_length": 0.0005028288971308595,
+      "clock_length": 0.0005028288971308595,
+      "date": "2013-03-10",
+      "mutation_length": 0.0005821870177391116,
+      "num_date_confidence": [
+        2012.9491389744405,
+        2013.613711295733
+      ],
+      "numdate": 2013.1884686837293
+    },
+    "NODE_0000006": {
+      "branch_length": 0.001,
+      "clock_length": 0.001,
+      "date": "2007-02-04",
+      "mutation_length": 0.001,
+      "num_date_confidence": [
+        2006.5785294186003,
+        2007.3265391738844
+      ],
+      "numdate": 2007.093734929702
+    },
+    "NODE_0000009": {
+      "branch_length": 0.0009981342223208609,
+      "clock_length": 0.0009981342223208609,
+      "date": "2013-08-26",
+      "mutation_length": 0.0005822254439745992,
+      "num_date_confidence": [
+        2013.300500274737,
+        2013.8171223555198
+      ],
+      "numdate": 2013.6513140425486
+    },
+    "NODE_0000010": {
+      "branch_length": 0.0004212466381831245,
+      "clock_length": 0.0004212466381831245,
+      "date": "2013-11-06",
+      "mutation_length": 0.0005822254341978355,
+      "num_date_confidence": [
+        2013.6458797476164,
+        2013.9234132059557
+      ],
+      "numdate": 2013.8466505484425
+    },
+    "NODE_0000011": {
+      "branch_length": 0.0019653071864483944,
+      "clock_length": 0.0019653071864483944,
+      "date": "2011-09-29",
+      "mutation_length": 0.0011641111319054427,
+      "num_date_confidence": [
+        2011.047092605814,
+        2012.2970269433486
+      ],
+      "numdate": 2011.7441272180554
+    },
+    "NODE_0000012": {
+      "branch_length": 0.0031042273642615872,
+      "clock_length": 0.0031042273642615872,
+      "date": "2013-03-09",
+      "mutation_length": 0.002330336462768827,
+      "num_date_confidence": [
+        2012.4940575683265,
+        2013.9361478847466
+      ],
+      "numdate": 2013.1835901641584
+    },
+    "NODE_0000014": {
+      "branch_length": 0.0005164350023152131,
+      "clock_length": 0.0005164350023152131,
+      "date": "2010-10-31",
+      "mutation_length": 0.0005819258246409234,
+      "num_date_confidence": [
+        2010.5181538072288,
+        2011.0063360327576
+      ],
+      "numdate": 2010.83279356216
+    },
+    "NODE_0000015": {
+      "branch_length": 0.003051052806909201,
+      "clock_length": 0.003051052806909201,
+      "date": "2012-03-31",
+      "mutation_length": 0.001164410009703499,
+      "num_date_confidence": [
+        2011.893077609911,
+        2012.2773224043715
+      ],
+      "numdate": 2012.2475989055806
+    },
+    "NODE_0000017": {
+      "branch_length": 0.0017809267959240233,
+      "clock_length": 0.0017809267959240233,
+      "date": "2010-08-05",
+      "mutation_length": 0.0017475413992855409,
+      "num_date_confidence": [
+        2010.1898540033142,
+        2010.907296270257
+      ],
+      "numdate": 2010.5933172085715
+    },
+    "NODE_0000018": {
+      "branch_length": 0.0010610095793176684,
+      "clock_length": 0.0010610095793176684,
+      "date": "2011-02-01",
+      "mutation_length": 0.0005819617109621247,
+      "num_date_confidence": [
+        2010.7020109581713,
+        2011.8736551068491
+      ],
+      "numdate": 2011.085318533111
+    },
+    "NODE_0000019": {
+      "branch_length": 0.0033039048105847103,
+      "clock_length": 0.0033039048105847103,
+      "date": "2012-08-13",
+      "mutation_length": 0.004083203878835386,
+      "num_date_confidence": [
+        2012.407408911648,
+        2012.7062841530055
+      ],
+      "numdate": 2012.6173740155932
+    },
+    "NODE_0000020": {
+      "branch_length": 0.0006019331271841372,
+      "clock_length": 0.0006019331271841372,
+      "date": "2009-10-08",
+      "mutation_length": 0.0005816078299233098,
+      "num_date_confidence": [
+        2009.3970462019724,
+        2010.001790786175
+      ],
+      "numdate": 2009.7674826830566
+    },
+    "NODE_0000021": {
+      "branch_length": 0.00103721648007548,
+      "clock_length": 0.00103721648007548,
+      "date": "2010-04-01",
+      "mutation_length": 0.0023304118729209912,
+      "num_date_confidence": [
+        2009.913493172362,
+        2010.508771651112
+      ],
+      "numdate": 2010.248450896708
+    },
+    "NODE_0000022": {
+      "branch_length": 0.001248759075032975,
+      "clock_length": 0.001248759075032975,
+      "date": "2010-10-30",
+      "mutation_length": 0.0017476373257238427,
+      "num_date_confidence": [
+        2010.49825623345,
+        2011.0093536396462
+      ],
+      "numdate": 2010.827513641214
+    },
+    "NODE_0000023": {
+      "branch_length": 0.0037258650528427424,
+      "clock_length": 0.0037258650528427424,
+      "date": "2012-07-22",
+      "mutation_length": 0.0005821315569947625,
+      "num_date_confidence": [
+        2011.906827164739,
+        2012.7958190304716
+      ],
+      "numdate": 2012.5552365353208
+    },
+    "NODE_0000024": {
+      "branch_length": 0.00023190795713548193,
+      "clock_length": 0.00023190795713548193,
+      "date": "2012-05-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2012.134006219105,
+        2012.3811475409836
+      ],
+      "numdate": 2012.35513706952
+    },
+    "NODE_0000025": {
+      "branch_length": 0.0008182154238589034,
+      "clock_length": 0.0008182154238589034,
+      "date": "2012-12-08",
+      "mutation_length": 0.0011645997499891505,
+      "num_date_confidence": [
+        2012.5674691666181,
+        2013.181845284988
+      ],
+      "numdate": 2012.9346516510223
+    },
+    "NODE_0000026": {
+      "branch_length": 0.001363656486366653,
+      "clock_length": 0.001363656486366653,
+      "date": "2013-03-10",
+      "mutation_length": 0.0017480884183987612,
+      "num_date_confidence": [
+        2012.8258866263843,
+        2013.29865828537
+      ],
+      "numdate": 2013.1875784204342
+    },
+    "NODE_0000027": {
+      "branch_length": 0.0003622702398749303,
+      "clock_length": 0.0003622702398749303,
+      "date": "2009-06-28",
+      "mutation_length": 0.0005814587211269962,
+      "num_date_confidence": [
+        2009.275077833465,
+        2009.6845966993826
+      ],
+      "numdate": 2009.4883599478508
+    },
+    "NODE_0000028": {
+      "branch_length": 0.0006231936727182016,
+      "clock_length": 0.0006231936727182016,
+      "date": "2009-10-11",
+      "mutation_length": 0.0017462879627241892,
+      "num_date_confidence": [
+        2009.5127871144082,
+        2009.9204296260395
+      ],
+      "numdate": 2009.7773414220983
+    },
+    "NODE_0000031": {
+      "branch_length": 4.8792184613968836e-05,
+      "clock_length": 4.8792184613968836e-05,
+      "date": "2009-04-27",
+      "mutation_length": 0.0005814586038631773,
+      "num_date_confidence": [
+        2008.7987109369546,
+        2009.5586493182589
+      ],
+      "numdate": 2009.3203714194397
+    },
+    "NODE_0000032": {
+      "branch_length": 0.004752988882706692,
+      "clock_length": 0.004752988882706692,
+      "date": "2009-04-19",
+      "mutation_length": 0.004668666700479064,
+      "num_date_confidence": [
+        2008.348109106652,
+        2009.4218748641047
+      ],
+      "numdate": 2009.2977459691845
+    },
+    "NODE_0000033": {
+      "branch_length": 0.00018540177579495776,
+      "clock_length": 0.00018540177579495776,
+      "date": "2007-03-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2006.7287759011008,
+        2007.3301369863013
+      ],
+      "numdate": 2007.1797076871974
+    },
+    "NODE_0000034": {
+      "branch_length": 0.0012230073919202583,
+      "clock_length": 0.0012230073919202583,
+      "date": "2009-11-20",
+      "mutation_length": 0.0005813096821004202,
+      "num_date_confidence": [
+        2009.4519635023519,
+        2010.0426026324394
+      ],
+      "numdate": 2009.8874928370742
+    },
+    "NODE_0000035": {
+      "branch_length": 0.001003444096292598,
+      "clock_length": 0.001003444096292598,
+      "date": "2013-08-27",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.2650998407337,
+        2013.8181436383559
+      ],
+      "numdate": 2013.6537762870732
+    },
+    "NODE_0000036": {
+      "branch_length": 0.0005782519443721656,
+      "clock_length": 0.0005782519443721656,
+      "date": "2013-12-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.6460896144065,
+        2013.9219178082192
+      ],
+      "numdate": 2013.9219178082192
+    },
+    "NODE_0000037": {
+      "branch_length": 0.0009704293317571236,
+      "clock_length": 0.0009704293317571236,
+      "date": "2009-10-09",
+      "mutation_length": 0.002329471701862853,
+      "num_date_confidence": [
+        2009.45794077678,
+        2009.8867340970885
+      ],
+      "numdate": 2009.7703697285065
+    },
+    "NODE_0000038": {
+      "branch_length": 0.0002874214642689457,
+      "clock_length": 0.0002874214642689457,
+      "date": "2009-11-26",
+      "mutation_length": 0.0011637976696633647,
+      "num_date_confidence": [
+        2009.7423578510418,
+        2009.984444675998
+      ],
+      "numdate": 2009.9036500907932
+    },
+    "NODE_0000039": {
+      "branch_length": 0.0010370724742784498,
+      "clock_length": 0.0010370724742784498,
+      "date": "2009-10-20",
+      "mutation_length": 0.002912341007511862,
+      "num_date_confidence": [
+        2009.3935705035947,
+        2010.2351686989646
+      ],
+      "numdate": 2009.8012728560852
+    },
+    "NODE_0000040": {
+      "branch_length": 0.0008241234592994001,
+      "clock_length": 0.0008241234592994001,
+      "date": "2010-03-08",
+      "mutation_length": 0.0005816463087880497,
+      "num_date_confidence": [
+        2009.5799856984204,
+        2010.3215058742735
+      ],
+      "numdate": 2010.1834275900887
+    },
+    "NODE_0000041": {
+      "branch_length": 0.0007357816895002187,
+      "clock_length": 0.0007357816895002187,
+      "date": "2010-07-11",
+      "mutation_length": 0.0017463956297667197,
+      "num_date_confidence": [
+        2010.2305466172284,
+        2010.6912981400365
+      ],
+      "numdate": 2010.5246173143498
+    },
+    "NODE_0000042": {
+      "branch_length": 0.0008293565202470085,
+      "clock_length": 0.0008293565202470085,
+      "date": "2010-03-09",
+      "mutation_length": 0.0005818241914845419,
+      "num_date_confidence": [
+        2009.5294602237443,
+        2010.4802928359436
+      ],
+      "numdate": 2010.1858542156044
+    },
+    "NODE_0000043": {
+      "branch_length": 0.003398081697813516,
+      "clock_length": 0.003398081697813516,
+      "date": "2011-10-05",
+      "mutation_length": 0.007023334756208312,
+      "num_date_confidence": [
+        2011.3079629795118,
+        2012.0790156175965
+      ],
+      "numdate": 2011.7615805132807
+    },
+    "NODE_0000044": {
+      "branch_length": 0.0009107086495059556,
+      "clock_length": 0.0009107086495059556,
+      "date": "2012-03-08",
+      "mutation_length": 0.0023306308911482596,
+      "num_date_confidence": [
+        2011.961818492459,
+        2012.350071190154
+      ],
+      "numdate": 2012.1838857125558
+    },
+    "NODE_0000045": {
+      "branch_length": 0.0005093299324782745,
+      "clock_length": 0.0005093299324782745,
+      "date": "2012-06-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2012.1518192678093,
+        2012.4439890710382
+      ],
+      "numdate": 2012.4200673703765
+    },
+    "NODE_0000046": {
+      "branch_length": 0.0003982571665538115,
+      "clock_length": 0.0003982571665538115,
+      "date": "2012-08-09",
+      "mutation_length": 0.0005820385957961044,
+      "num_date_confidence": [
+        2012.3896830406513,
+        2012.9789883685453
+      ],
+      "numdate": 2012.6047434159761
+    },
+    "NODE_0000047": {
+      "branch_length": 0.0021551508704992853,
+      "clock_length": 0.0021551508704992853,
+      "date": "2013-08-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.1606522388097,
+        2013.6041095890412
+      ],
+      "numdate": 2013.6041095890412
+    },
+    "NODE_0000048": {
+      "branch_length": 0.0009144180596721702,
+      "clock_length": 0.0009144180596721702,
+      "date": "2010-08-11",
+      "mutation_length": 0.0005816268789562349,
+      "num_date_confidence": [
+        2010.1285882929542,
+        2011.1791660047306
+      ],
+      "numdate": 2010.6098795074693
+    },
+    "NODE_0000049": {
+      "branch_length": 0.002004301894649181,
+      "clock_length": 0.002004301894649181,
+      "date": "2011-07-16",
+      "mutation_length": 0.001163888562452119,
+      "num_date_confidence": [
+        2010.9388912330671,
+        2012.0406184579906
+      ],
+      "numdate": 2011.5392954205456
+    },
+    "NODE_0000050": {
+      "branch_length": 0.0016947137751201907,
+      "clock_length": 0.0016947137751201907,
+      "date": "2012-04-29",
+      "mutation_length": 0.0023307653285095328,
+      "num_date_confidence": [
+        2012.0170962507111,
+        2012.5341530054645
+      ],
+      "numdate": 2012.3251520596632
+    },
+    "NODE_0000051": {
+      "branch_length": 0.000504654206676839,
+      "clock_length": 0.000504654206676839,
+      "date": "2012-07-23",
+      "mutation_length": 0.0005821855585446888,
+      "num_date_confidence": [
+        2012.3567999623967,
+        2012.6915913264024
+      ],
+      "numdate": 2012.5591655341495
+    },
+    "NODE_0000052": {
+      "branch_length": 0.0015625885718208998,
+      "clock_length": 0.0015625885718208998,
+      "date": "2012-04-06",
+      "mutation_length": 0.000581850745968833,
+      "num_date_confidence": [
+        2011.640941444833,
+        2012.9759113279463
+      ],
+      "numdate": 2012.2638842103474
+    },
+    "NODE_0000053": {
+      "branch_length": 0.0009370506494047366,
+      "clock_length": 0.0009370506494047366,
+      "date": "2012-09-12",
+      "mutation_length": 0.0005819258246409234,
+      "num_date_confidence": [
+        2012.4018780845852,
+        2013.4095890410958
+      ],
+      "numdate": 2012.6984044726096
+    },
+    "NODE_0000054": {
+      "branch_length": 0.002465542595502534,
+      "clock_length": 0.002465542595502534,
+      "date": "2013-11-04",
+      "mutation_length": 0.0017473523374770656,
+      "num_date_confidence": [
+        2013.0779054701052,
+        2014.9789532167551
+      ],
+      "numdate": 2013.841702559961
+    },
+    "NODE_0000055": {
+      "branch_length": 0.0010701837296032586,
+      "clock_length": 0.0010701837296032586,
+      "date": "2014-12-24",
+      "mutation_length": 0.0005820361155935682,
+      "num_date_confidence": [
+        2014.6632139402725,
+        2015.0744874963943
+      ],
+      "numdate": 2014.980595196159
+    },
+    "NODE_0000056": {
+      "branch_length": 0.0006286349779339347,
+      "clock_length": 0.0006286349779339347,
+      "date": "2015-04-10",
+      "mutation_length": 0.001165023032112615,
+      "num_date_confidence": [
+        2015.0111442871455,
+        2015.6014936254041
+      ],
+      "numdate": 2015.272099860984
+    },
+    "NODE_0000057": {
+      "branch_length": 0.0012183488234809685,
+      "clock_length": 0.0012183488234809685,
+      "date": "2015-11-02",
+      "mutation_length": 0.0023318635909497557,
+      "num_date_confidence": [
+        2015.650269333671,
+        2016.2281334080178
+      ],
+      "numdate": 2015.8370610513339
+    },
+    "NODE_0000058": {
+      "branch_length": 0.0013858584323795838,
+      "clock_length": 0.0013858584323795838,
+      "date": "2014-06-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2013.0995498774644,
+        2014.9503016630395
+      ],
+      "numdate": 2014.4843397214402
+    },
+    "NODE_0000059": {
+      "branch_length": 0.0005584706090602104,
+      "clock_length": 0.0005584706090602104,
+      "date": "2016-02-05",
+      "mutation_length": 0.0005821110718892059,
+      "num_date_confidence": [
+        2015.7928061085324,
+        2016.25
+      ],
+      "numdate": 2016.0960297588083
+    },
+    "NODE_0000060": {
+      "branch_length": 0.0011704749166065488,
+      "clock_length": 0.0011704749166065488,
+      "date": "2015-10-25",
+      "mutation_length": 0.001164447543159245,
+      "num_date_confidence": [
+        2015.5653327767882,
+        2016.1555286697735
+      ],
+      "numdate": 2015.8148614161446
+    },
+    "NODE_0000061": {
+      "branch_length": 0.0008655772465977866,
+      "clock_length": 0.0008655772465977866,
+      "date": "2016-03-20",
+      "mutation_length": 0.0005819802772688575,
+      "num_date_confidence": [
+        2016.0047334580008,
+        2016.2609289617487
+      ],
+      "numdate": 2016.2162387082244
+    },
+    "NODE_0000062": {
+      "branch_length": 0.0002925034081938324,
+      "clock_length": 0.0002925034081938324,
+      "date": "2015-09-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.391818492629,
+        2015.9468531811342
+      ],
+      "numdate": 2015.6717076928626
+    },
+    "NODE_0000063": {
+      "branch_length": 0.0003519272456481877,
+      "clock_length": 0.0003519272456481877,
+      "date": "2015-12-23",
+      "mutation_length": 0.0005820910591621771,
+      "num_date_confidence": [
+        2015.8024030146412,
+        2016.2314193811887
+      ],
+      "numdate": 2015.9780537891218
+    },
+    "NODE_0000064": {
+      "branch_length": 0.0003603425999156168,
+      "clock_length": 0.0003603425999156168,
+      "date": "2015-11-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.4681233805838,
+        2015.9998139938095
+      ],
+      "numdate": 2015.838802354308
+    },
+    "NODE_0000068": {
+      "branch_length": 0.0003762411696168373,
+      "clock_length": 0.0003762411696168373,
+      "date": "2016-02-25",
+      "mutation_length": 0.0005822405664135487,
+      "num_date_confidence": [
+        2016.0012759287897,
+        2016.2462903156832
+      ],
+      "numdate": 2016.1525207849022
+    },
+    "NODE_0000069": {
+      "branch_length": 7.238469686399532e-05,
+      "clock_length": 7.238469686399532e-05,
+      "date": "2015-01-06",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2014.75502294473,
+        2015.2313355686615
+      ],
+      "numdate": 2015.014160743
+    },
+    "NODE_0000070": {
+      "branch_length": 0.00018657770627175316,
+      "clock_length": 0.00018657770627175316,
+      "date": "2015-02-06",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2014.9354124999945,
+        2015.2350459006966
+      ],
+      "numdate": 2015.1006787918516
+    },
+    "NODE_0000071": {
+      "branch_length": 0.00023376609644789118,
+      "clock_length": 0.00023376609644789118,
+      "date": "2015-03-18",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.0702935262236,
+        2015.238756069108
+      ],
+      "numdate": 2015.209078594574
+    },
+    "NODE_0000072": {
+      "branch_length": 0.0008916937891266692,
+      "clock_length": 0.0008916937891266692,
+      "date": "2017-01-30",
+      "mutation_length": 0.0005827395920486498,
+      "num_date_confidence": [
+        2016.7716823161327,
+        2017.2442359403408
+      ],
+      "numdate": 2017.0815205949934
+    },
+    "NODE_0000073": {
+      "branch_length": 6.399999999999809e-05,
+      "clock_length": 6.399999999999809e-05,
+      "date": "2015-03-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.1479045976382,
+        2015.2424657534248
+      ],
+      "numdate": 2015.238756069108
+    },
+    "NODE_0000074": {
+      "branch_length": 0.00035889762314175386,
+      "clock_length": 0.00035889762314175386,
+      "date": "2017-04-01",
+      "mutation_length": 0.0005825232330364054,
+      "num_date_confidence": [
+        2017.2006019689643,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795
+    },
+    "NODE_0000075": {
+      "branch_length": 0.00010521181365607049,
+      "clock_length": 0.00010521181365607049,
+      "date": "2015-04-15",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.2059847023522,
+        2015.3465753424657
+      ],
+      "numdate": 2015.2875438959902
+    },
+    "NODE_0000076": {
+      "branch_length": 0.00015478937132446663,
+      "clock_length": 0.00015478937132446663,
+      "date": "2015-05-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.2779137717416,
+        2015.445205479452
+      ],
+      "numdate": 2015.3593213588904
+    },
+    "NODE_0000077": {
+      "branch_length": 0.0001852106286755334,
+      "clock_length": 0.0001852106286755334,
+      "date": "2015-06-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.3240686214513,
+        2015.541095890411
+      ],
+      "numdate": 2015.445205479452
+    },
+    "NODE_0000078": {
+      "branch_length": 0.00020391519966158483,
+      "clock_length": 0.00020391519966158483,
+      "date": "2015-07-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.4021053796139,
+        2015.6597039227474
+      ],
+      "numdate": 2015.5397631067183
+    },
+    "NODE_0000079": {
+      "branch_length": 0.0006765975440966507,
+      "clock_length": 0.0006765975440966507,
+      "date": "2015-04-18",
+      "mutation_length": 0.0005820746837709119,
+      "num_date_confidence": [
+        2014.97619580411,
+        2015.4636728474486
+      ],
+      "numdate": 2015.2943406084198
+    },
+    "NODE_0000080": {
+      "branch_length": 0.001164316789943512,
+      "clock_length": 0.001164316789943512,
+      "date": "2015-11-01",
+      "mutation_length": 0.0005821107184289685,
+      "num_date_confidence": [
+        2015.5655914074316,
+        2015.8342465753424
+      ],
+      "numdate": 2015.8342465753424
+    },
+    "NODE_0000081": {
+      "branch_length": 0.0005212953999452277,
+      "clock_length": 0.0005212953999452277,
+      "date": "2015-07-15",
+      "mutation_length": 0.0011645582170406185,
+      "num_date_confidence": [
+        2015.318458151347,
+        2015.704669704051
+      ],
+      "numdate": 2015.536070779616
+    },
+    "NODE_0000082": {
+      "branch_length": 0.00016995892056131945,
+      "clock_length": 0.00016995892056131945,
+      "date": "2015-08-14",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.5115779027874,
+        2015.6634136033545
+      ],
+      "numdate": 2015.6185748494806
+    },
+    "NODE_0000083": {
+      "branch_length": 0.00010469556769884467,
+      "clock_length": 0.00010469556769884467,
+      "date": "2015-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2015.5833899420857,
+        2015.6671232876713
+      ],
+      "numdate": 2015.6671232876713
+    },
+    "NODE_0000084": {
+      "branch_length": 0.000574472391237698,
+      "clock_length": 0.000574472391237698,
+      "date": "2016-02-08",
+      "mutation_length": 0.0005821107184289685,
+      "num_date_confidence": [
+        2015.8723228178292,
+        2016.1051912568305
+      ],
+      "numdate": 2016.1051912568305
+    },
+    "NODE_0000085": {
+      "branch_length": 0.00031228262203486165,
+      "clock_length": 0.00031228262203486165,
+      "date": "2016-04-01",
+      "mutation_length": 0.0005822602028080799,
+      "num_date_confidence": [
+        2016.0929679029373,
+        2016.25
+      ],
+      "numdate": 2016.25
+    },
+    "NODE_0000086": {
+      "branch_length": 0.0009014951164397246,
+      "clock_length": 0.0009014951164397246,
+      "date": "2016-09-01",
+      "mutation_length": 0.0005822982590492841,
+      "num_date_confidence": [
+        2016.4351945922776,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853
+    },
+    "NODE_0000087": {
+      "branch_length": 0.0017920052804487087,
+      "clock_length": 0.0017920052804487087,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.400156213028,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853
+    },
+    "NODE_0000089": {
+      "branch_length": 0.00012239712427564858,
+      "clock_length": 0.00012239712427564858,
+      "date": "2015-01-14",
+      "mutation_length": 0.0005821855585446888,
+      "num_date_confidence": [
+        2014.93521759987,
+        2015.204491684668
+      ],
+      "numdate": 2015.0373520327014
+    },
+    "NODE_0000091": {
+      "branch_length": 0.0003880722208457303,
+      "clock_length": 0.0003880722208457303,
+      "date": "2015-03-21",
+      "mutation_length": 0.0005824921634217068,
+      "num_date_confidence": [
+        2015.0563340964688,
+        2015.2726004107521
+      ],
+      "numdate": 2015.2173052116311
+    },
+    "NODE_0000092": {
+      "branch_length": 0.0005864568252352161,
+      "clock_length": 0.0005864568252352161,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.0172206511138,
+        2016.25
+      ],
+      "numdate": 2016.25
+    },
+    "NODE_0000093": {
+      "branch_length": 0.0006485098907769021,
+      "clock_length": 0.0006485098907769021,
+      "date": "2016-07-20",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.3570717022062,
+        2016.6643231025685
+      ],
+      "numdate": 2016.5507208713839
+    },
+    "NODE_0000094": {
+      "branch_length": 0.00025298522566282247,
+      "clock_length": 0.00025298522566282247,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.519273126136,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853
+    },
+    "NODE_0000095": {
+      "branch_length": 0.00021021565561837874,
+      "clock_length": 0.00021021565561837874,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.130886076432,
+        2016.25
+      ],
+      "numdate": 2016.25
+    },
+    "NODE_0000096": {
+      "branch_length": 0.0009014951164397246,
+      "clock_length": 0.0009014951164397246,
+      "date": "2016-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.387492108374,
+        2016.6680327868853
+      ],
+      "numdate": 2016.6680327868853
+    },
+    "NODE_0000097": {
+      "branch_length": 0.00021021565561837874,
+      "clock_length": 0.00021021565561837874,
+      "date": "2016-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.125790100983,
+        2016.25
+      ],
+      "numdate": 2016.25
+    },
+    "NODE_0000098": {
+      "branch_length": 0.00035889762314175386,
+      "clock_length": 0.00035889762314175386,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1012754256094,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795
+    },
+    "NODE_0000102": {
+      "branch_length": 0.005200666165580115,
+      "clock_length": 0.005200666165580115,
+      "date": "2016-04-02",
+      "mutation_length": 0.006435243421999735,
+      "num_date_confidence": [
+        2015.7902519492961,
+        2016.73891194319
+      ],
+      "numdate": 2016.2533062738487
+    },
+    "NODE_0000103": {
+      "branch_length": 0.0032354257038683006,
+      "clock_length": 0.0032354257038683006,
+      "date": "2017-10-03",
+      "mutation_length": 0.004093770026905011,
+      "num_date_confidence": [
+        2017.465487500993,
+        2018.0013698630137
+      ],
+      "numdate": 2017.7536072728046
+    },
+    "NODE_0000104": {
+      "branch_length": 0.00017932391243284662,
+      "clock_length": 0.00017932391243284662,
+      "date": "2017-11-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.6011043259084,
+        2018.0150684931507
+      ],
+      "numdate": 2017.836761661001
+    },
+    "NODE_0000105": {
+      "branch_length": 0.0008786636230024777,
+      "clock_length": 0.0008786636230024777,
+      "date": "2018-02-28",
+      "mutation_length": 0.0005829804896593267,
+      "num_date_confidence": [
+        2017.9202542958178,
+        2018.3391552088926
+      ],
+      "numdate": 2018.1610528555484
+    },
+    "NODE_0000106": {
+      "branch_length": 0.0001253924835659323,
+      "clock_length": 0.0001253924835659323,
+      "date": "2017-11-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.7071884694585,
+        2018.019577986916
+      ],
+      "numdate": 2017.8949074772163
+    },
+    "NODE_0000107": {
+      "branch_length": 4.768723552468074e-05,
+      "clock_length": 4.768723552468074e-05,
+      "date": "2017-12-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.7831134896837,
+        2018.0232876712328
+      ],
+      "numdate": 2017.917020550933
+    },
+    "NODE_0000108": {
+      "branch_length": 0.00020082398803863456,
+      "clock_length": 0.00020082398803863456,
+      "date": "2018-01-04",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.8399167213972,
+        2018.0342465753424
+      ],
+      "numdate": 2018.01014475079
+    },
+    "NODE_0000109": {
+      "branch_length": 1.6571170875846405e-05,
+      "clock_length": 1.6571170875846405e-05,
+      "date": "2018-01-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.8891451783988,
+        2018.0414957951352
+      ],
+      "numdate": 2018.0178289773785
+    },
+    "NODE_0000110": {
+      "branch_length": 5.903791209412729e-05,
+      "clock_length": 5.903791209412729e-05,
+      "date": "2018-01-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.9781372514585,
+        2018.045205479452
+      ],
+      "numdate": 2018.045205479452
+    },
+    "NODE_0000111": {
+      "branch_length": 1.985475070608554e-05,
+      "clock_length": 1.985475070608554e-05,
+      "date": "2018-01-10",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.9259904001226,
+        2018.0698630136985
+      ],
+      "numdate": 2018.027035834542
+    },
+    "NODE_0000112": {
+      "branch_length": 0.00012780717766995749,
+      "clock_length": 0.00012780717766995749,
+      "date": "2018-02-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.022731745487,
+        2018.0863013698631
+      ],
+      "numdate": 2018.0863013698631
+    },
+    "NODE_0000113": {
+      "branch_length": 0.0002480832058046802,
+      "clock_length": 0.0002480832058046802,
+      "date": "2018-04-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1287712151377,
+        2018.3428656745873
+      ],
+      "numdate": 2018.2760916527761
+    },
+    "NODE_0000114": {
+      "branch_length": 0.0001515052869394233,
+      "clock_length": 0.0001515052869394233,
+      "date": "2018-05-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.2267141705147,
+        2018.3465753424657
+      ],
+      "numdate": 2018.3463462511343
+    },
+    "NODE_0000118": {
+      "branch_length": 0.0004046887230570867,
+      "clock_length": 0.0004046887230570867,
+      "date": "2016-06-10",
+      "mutation_length": 0.0005827283594403112,
+      "num_date_confidence": [
+        2016.2454111448571,
+        2016.9502291981344
+      ],
+      "numdate": 2016.440964699985
+    },
+    "NODE_0000119": {
+      "branch_length": 0.004038085428139897,
+      "clock_length": 0.004038085428139897,
+      "date": "2018-04-25",
+      "mutation_length": 0.004677680724491987,
+      "num_date_confidence": [
+        2017.9481587193832,
+        2018.7871602752032
+      ],
+      "numdate": 2018.313467472793
+    },
+    "NODE_0000120": {
+      "branch_length": 0.000708429247611303,
+      "clock_length": 0.000708429247611303,
+      "date": "2018-08-23",
+      "mutation_length": 0.0005833676066858257,
+      "num_date_confidence": [
+        2018.3813238366274,
+        2018.792180726642
+      ],
+      "numdate": 2018.6419735814668
+    },
+    "NODE_0000123": {
+      "branch_length": 0.000227557631744894,
+      "clock_length": 0.000227557631744894,
+      "date": "2018-09-30",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.569583781021,
+        2018.795890410959
+      ],
+      "numdate": 2018.7474944536718
+    },
+    "NODE_0000124": {
+      "branch_length": 0.00012799981093543182,
+      "clock_length": 0.00012799981093543182,
+      "date": "2018-10-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.6883018724511,
+        2018.8068493150686
+      ],
+      "numdate": 2018.8068493150686
+    },
+    "NODE_0000125": {
+      "branch_length": 0.0011522228640828969,
+      "clock_length": 0.0011522228640828969,
+      "date": "2017-01-31",
+      "mutation_length": 0.0011670933443897363,
+      "num_date_confidence": [
+        2016.8190594403325,
+        2017.2369863013698
+      ],
+      "numdate": 2017.0826855224116
+    },
+    "NODE_0000126": {
+      "branch_length": 0.0005199595261023982,
+      "clock_length": 0.0005199595261023982,
+      "date": "2017-06-15",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2816650746688,
+        2017.4534246575342
+      ],
+      "numdate": 2017.4534246575342
+    },
+    "NODE_0000128": {
+      "branch_length": 5.501744979732881e-05,
+      "clock_length": 5.501744979732881e-05,
+      "date": "2018-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.1010527532962,
+        2018.1849315068494
+      ],
+      "numdate": 2018.1657534246576
+    },
+    "NODE_0000130": {
+      "branch_length": 4.921036031780082e-05,
+      "clock_length": 4.921036031780082e-05,
+      "date": "2016-12-16",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.728317854694,
+        2017.1677796176723
+      ],
+      "numdate": 2016.9584696443721
+    },
+    "NODE_0000132": {
+      "branch_length": 0.001045072651163579,
+      "clock_length": 0.001045072651163579,
+      "date": "2017-07-26",
+      "mutation_length": 0.0005826923213853945,
+      "num_date_confidence": [
+        2017.2581353610808,
+        2017.8090317203876
+      ],
+      "numdate": 2017.5650580122665
+    },
+    "NODE_0000133": {
+      "branch_length": 0.0002630459187227298,
+      "clock_length": 0.0002630459187227298,
+      "date": "2017-01-30",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.8847446520572,
+        2017.1731163003822
+      ],
+      "numdate": 2017.080446809281
+    },
+    "NODE_0000134": {
+      "branch_length": 0.00022242399314390156,
+      "clock_length": 0.00022242399314390156,
+      "date": "2018-02-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.8222594241543,
+        2018.1620437403408
+      ],
+      "numdate": 2018.117204986467
+    },
+    "NODE_0000135": {
+      "branch_length": 0.0014329429028093997,
+      "clock_length": 0.0014329429028093997,
+      "date": "2017-10-28",
+      "mutation_length": 0.0005827283185471991,
+      "num_date_confidence": [
+        2017.6089368524356,
+        2017.823287671233
+      ],
+      "numdate": 2017.823287671233
+    },
+    "NODE_0000136": {
+      "branch_length": 9.453861900904359e-06,
+      "clock_length": 9.453861900904359e-06,
+      "date": "2017-01-31",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.9281490343237,
+        2017.17682672315
+      ],
+      "numdate": 2017.0848306646842
+    },
+    "NODE_0000137": {
+      "branch_length": 0.0011706631552965245,
+      "clock_length": 0.0011706631552965245,
+      "date": "2017-03-19",
+      "mutation_length": 0.00116609476580482,
+      "num_date_confidence": [
+        2017.1676150917565,
+        2017.2917808219179
+      ],
+      "numdate": 2017.2123139451185
+    },
+    "NODE_0000138": {
+      "branch_length": 5.5515215559482495e-05,
+      "clock_length": 5.5515215559482495e-05,
+      "date": "2017-02-10",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.9896321346585,
+        2017.1805370620234
+      ],
+      "numdate": 2017.110573655247
+    },
+    "NODE_0000139": {
+      "branch_length": 5.337949354882604e-05,
+      "clock_length": 5.337949354882604e-05,
+      "date": "2017-02-19",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.0493700870472,
+        2017.1842472426858
+      ],
+      "numdate": 2017.1353262890038
+    },
+    "NODE_0000140": {
+      "branch_length": 5.065801519439986e-05,
+      "clock_length": 5.065801519439986e-05,
+      "date": "2017-02-27",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.087820667332,
+        2017.1895840739967
+      ],
+      "numdate": 2017.1588169445643
+    },
+    "NODE_0000141": {
+      "branch_length": 0.0001046955676988464,
+      "clock_length": 0.0001046955676988464,
+      "date": "2018-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.047901274509,
+        2018.1657534246576
+      ],
+      "numdate": 2018.1657534246576
+    },
+    "NODE_0000142": {
+      "branch_length": 5.985785532704527e-05,
+      "clock_length": 5.985785532704527e-05,
+      "date": "2017-03-10",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1176329059474,
+        2017.1949204526695
+      ],
+      "numdate": 2017.186573662957
+    },
+    "NODE_0000143": {
+      "branch_length": 4.967811790151759e-05,
+      "clock_length": 4.967811790151759e-05,
+      "date": "2018-02-21",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.015155480308,
+        2018.1657534246576
+      ],
+      "numdate": 2018.140241253325
+    },
+    "NODE_0000144": {
+      "branch_length": 7.356737076871789e-06,
+      "clock_length": 7.356737076871789e-06,
+      "date": "2017-03-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.140819801204,
+        2017.1986301369864
+      ],
+      "numdate": 2017.1899850594764
+    },
+    "NODE_0000145": {
+      "branch_length": 9.078636523551786e-06,
+      "clock_length": 9.078636523551786e-06,
+      "date": "2017-03-12",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1561267468956,
+        2017.2335628305516
+      ],
+      "numdate": 2017.1941949189177
+    },
+    "NODE_0000146": {
+      "branch_length": 2.2116400805016756e-05,
+      "clock_length": 2.2116400805016756e-05,
+      "date": "2017-03-16",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1803191408815,
+        2017.238899173189
+      ],
+      "numdate": 2017.2044505270687
+    },
+    "NODE_0000147": {
+      "branch_length": 9.379704513256398e-05,
+      "clock_length": 9.379704513256398e-05,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2069282160828,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795
+    },
+    "NODE_0000148": {
+      "branch_length": 3.22303841252293e-05,
+      "clock_length": 3.22303841252293e-05,
+      "date": "2017-03-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1847989738321,
+        2017.2442355211626
+      ],
+      "numdate": 2017.2193960958828
+    },
+    "NODE_0000149": {
+      "branch_length": 6.156666100733468e-05,
+      "clock_length": 6.156666100733468e-05,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2153526135858,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795
+    },
+    "NODE_0000150": {
+      "branch_length": 6.156666100733468e-05,
+      "clock_length": 6.156666100733468e-05,
+      "date": "2017-04-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2153526135858,
+        2017.2479452054795
+      ],
+      "numdate": 2017.2479452054795
+    },
+    "NODE_0000151": {
+      "branch_length": 6.010785405705446e-05,
+      "clock_length": 6.010785405705446e-05,
+      "date": "2017-03-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1160554647254,
+        2017.3301369863013
+      ],
+      "numdate": 2017.2220675643562
+    },
+    "NODE_0000152": {
+      "branch_length": 6.871123638383866e-05,
+      "clock_length": 6.871123638383866e-05,
+      "date": "2017-04-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.1428585290964,
+        2017.3602739726027
+      ],
+      "numdate": 2017.2539296888558
+    },
+    "NODE_0000153": {
+      "branch_length": 0.00022444402543388142,
+      "clock_length": 0.00022444402543388142,
+      "date": "2017-05-11",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.260356204475,
+        2017.385874411213
+      ],
+      "numdate": 2017.3580067489984
+    },
+    "NODE_0000154": {
+      "branch_length": 8.613377152518614e-06,
+      "clock_length": 8.613377152518614e-06,
+      "date": "2017-05-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.296069179809,
+        2017.3912107720625
+      ],
+      "numdate": 2017.3620008627656
+    },
+    "NODE_0000155": {
+      "branch_length": 6.514165978073125e-05,
+      "clock_length": 6.514165978073125e-05,
+      "date": "2017-05-24",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.2512409229491,
+        2017.5657534246575
+      ],
+      "numdate": 2017.3922077369725
+    },
+    "NODE_0000156": {
+      "branch_length": 0.00039197915563136954,
+      "clock_length": 0.00039197915563136954,
+      "date": "2017-07-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.4415420373714,
+        2017.5739726027398
+      ],
+      "numdate": 2017.5739726027398
+    },
+    "NODE_0000157": {
+      "branch_length": 4.699167927681505e-05,
+      "clock_length": 4.699167927681505e-05,
+      "date": "2017-05-21",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3338491199595,
+        2017.3949204526696
+      ],
+      "numdate": 2017.3837913997195
+    },
+    "NODE_0000158": {
+      "branch_length": 0.0008777561462534854,
+      "clock_length": 0.0008777561462534854,
+      "date": "2017-05-14",
+      "mutation_length": 0.0005826923213853945,
+      "num_date_confidence": [
+        2017.2248475604645,
+        2017.4501535153327
+      ],
+      "numdate": 2017.365494420583
+    },
+    "NODE_0000159": {
+      "branch_length": 3.200000000000078e-05,
+      "clock_length": 3.200000000000078e-05,
+      "date": "2017-05-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.3656797812698,
+        2017.3986301369864
+      ],
+      "numdate": 2017.3986301369864
+    },
+    "NODE_0000160": {
+      "branch_length": 0.0015282217185564329,
+      "clock_length": 0.0015282217185564329,
+      "date": "2017-05-19",
+      "mutation_length": 0.0011664487431622815,
+      "num_date_confidence": [
+        2017.2615096246852,
+        2017.8177671886274
+      ],
+      "numdate": 2017.3794146121259
+    },
+    "NODE_0000161": {
+      "branch_length": 0.00023165946688342293,
+      "clock_length": 0.00023165946688342293,
+      "date": "2016-07-19",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.4115906490356,
+        2017.133769750285
+      ],
+      "numdate": 2016.5483876363755
+    },
+    "NODE_0000162": {
+      "branch_length": 0.0016949123702630076,
+      "clock_length": 0.0016949123702630076,
+      "date": "2018-03-02",
+      "mutation_length": 0.0011664877096246383,
+      "num_date_confidence": [
+        2017.8417603796106,
+        2018.2971494609387
+      ],
+      "numdate": 2018.1653633419046
+    },
+    "NODE_0000163": {
+      "branch_length": 0.0004609107799679879,
+      "clock_length": 0.0004609107799679879,
+      "date": "2017-07-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.299546664511,
+        2017.750386771485
+      ],
+      "numdate": 2017.57368225165
+    },
+    "NODE_0000164": {
+      "branch_length": 0.0002611057006039197,
+      "clock_length": 0.0002611057006039197,
+      "date": "2016-09-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.4563286930536,
+        2017.118788989537
+      ],
+      "numdate": 2016.6694651016935
+    },
+    "NODE_0000166": {
+      "branch_length": 0.0006516819278412078,
+      "clock_length": 0.0006516819278412078,
+      "date": "2016-09-28",
+      "mutation_length": 0.0005827283185471991,
+      "num_date_confidence": [
+        2016.5438091212952,
+        2016.9539395405473
+      ],
+      "numdate": 2016.7431564783876
+    },
+    "NODE_0000167": {
+      "branch_length": 0.00032587011848047784,
+      "clock_length": 0.00032587011848047784,
+      "date": "2016-11-23",
+      "mutation_length": 0.0005828781016830099,
+      "num_date_confidence": [
+        2016.7503654155491,
+        2016.957650273224
+      ],
+      "numdate": 2016.8942658868657
+    },
+    "NODE_0000168": {
+      "branch_length": 0.00017509721775501447,
+      "clock_length": 0.00017509721775501447,
+      "date": "2017-12-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.7525844875995,
+        2018.0781110146847
+      ],
+      "numdate": 2017.9183282358676
+    },
+    "NODE_0000169": {
+      "branch_length": 0.00022698970943888994,
+      "clock_length": 0.00022698970943888994,
+      "date": "2018-01-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.8740602216737,
+        2018.0817067194853
+      ],
+      "numdate": 2018.0235857565137
+    },
+    "NODE_0000170": {
+      "branch_length": 2.796987756657071e-06,
+      "clock_length": 2.796987756657071e-06,
+      "date": "2016-09-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.288618461935,
+        2017.1444473860338
+      ],
+      "numdate": 2016.6707620943953
+    },
+    "NODE_0000171": {
+      "branch_length": 0.0013730850474823544,
+      "clock_length": 0.0013730850474823544,
+      "date": "2017-10-28",
+      "mutation_length": 0.0005826923213853945,
+      "num_date_confidence": [
+        2017.6443618222634,
+        2017.823287671233
+      ],
+      "numdate": 2017.823287671233
+    },
+    "NODE_0000173": {
+      "branch_length": 0.00027604222174147305,
+      "clock_length": 0.00027604222174147305,
+      "date": "2016-10-19",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.4962764791107,
+        2017.1481589367627
+      ],
+      "numdate": 2016.7987657819897
+    },
+    "NODE_0000174": {
+      "branch_length": 7.505893662101623e-05,
+      "clock_length": 7.505893662101623e-05,
+      "date": "2016-11-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.567801333991,
+        2017.1533937589288
+      ],
+      "numdate": 2016.8335714019915
+    },
+    "NODE_0000175": {
+      "branch_length": 1.369288878152325e-05,
+      "clock_length": 1.369288878152325e-05,
+      "date": "2016-11-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.510939943615,
+        2017.1571052386148
+      ],
+      "numdate": 2016.8399209388372
+    },
+    "NODE_0000176": {
+      "branch_length": 0.0002064420249804702,
+      "clock_length": 0.0002064420249804702,
+      "date": "2016-12-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2016.6688483644568,
+        2017.162442530908
+      ],
+      "numdate": 2016.9356502816356
+    },
+    "NODE_0000177": {
+      "branch_length": 0.0006861800337285284,
+      "clock_length": 0.0006861800337285284,
+      "date": "2017-04-03",
+      "mutation_length": 0.0005826172816405134,
+      "num_date_confidence": [
+        2017.1108043501642,
+        2017.354794520548
+      ],
+      "numdate": 2017.2538391953342
+    },
+    "NODE_0000178": {
+      "branch_length": 0.0002789617175276253,
+      "clock_length": 0.0002789617175276253,
+      "date": "2017-05-20",
+      "mutation_length": 0.0005825036247128955,
+      "num_date_confidence": [
+        2017.2922339996483,
+        2017.4467814169366
+      ],
+      "numdate": 2017.383196683895
+    },
+    "NODE_0000179": {
+      "branch_length": 6.475734044873033e-05,
+      "clock_length": 6.475734044873033e-05,
+      "date": "2018-03-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.9907803920855,
+        2018.4692843476596
+      ],
+      "numdate": 2018.1692140324285
+    },
+    "NODE_0000180": {
+      "branch_length": 0.003392417903593757,
+      "clock_length": 0.003392417903593757,
+      "date": "2018-01-06",
+      "mutation_length": 0.0035052693054403537,
+      "num_date_confidence": [
+        2017.5898488975863,
+        2018.1398819010244
+      ],
+      "numdate": 2018.0140646365876
+    },
+    "NODE_0000181": {
+      "branch_length": 0.00033587506170837736,
+      "clock_length": 0.00033587506170837736,
+      "date": "2018-04-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.0061412392147,
+        2018.7282363224588
+      ],
+      "numdate": 2018.3249628385292
+    },
+    "NODE_0000185": {
+      "branch_length": 0.00039211050611605465,
+      "clock_length": 0.00039211050611605465,
+      "date": "2018-03-13",
+      "mutation_length": 0.0005830085847612207,
+      "num_date_confidence": [
+        2018.1149057002353,
+        2018.195890410959
+      ],
+      "numdate": 2018.195890410959
+    },
+    "NODE_0000187": {
+      "branch_length": 0.0006143469172889045,
+      "clock_length": 0.0006143469172889045,
+      "date": "2018-11-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.731707422706,
+        2019.0890410958905
+      ],
+      "numdate": 2018.9102800817932
+    },
+    "NODE_0000188": {
+      "branch_length": 0.000550932793307389,
+      "clock_length": 0.000550932793307389,
+      "date": "2019-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.9586355380707,
+        2019.1657534246576
+      ],
+      "numdate": 2019.1657534246576
+    },
+    "NODE_0000189": {
+      "branch_length": 0.0008218173384701918,
+      "clock_length": 0.0008218173384701918,
+      "date": "2017-03-20",
+      "mutation_length": 0.0005826923213853945,
+      "num_date_confidence": [
+        2016.8188237840243,
+        2017.496569174635
+      ],
+      "numdate": 2017.214656763461
+    },
+    "NODE_0000191": {
+      "branch_length": 0.0007468414855019145,
+      "clock_length": 0.0007468414855019145,
+      "date": "2017-07-24",
+      "mutation_length": 0.0017502183422409628,
+      "num_date_confidence": [
+        2017.3493243475718,
+        2017.7342037144208
+      ],
+      "numdate": 2017.560975031694
+    },
+    "NODE_0000192": {
+      "branch_length": 0.0003133340506620841,
+      "clock_length": 0.0003133340506620841,
+      "date": "2017-05-12",
+      "mutation_length": 0.0005827672918338684,
+      "num_date_confidence": [
+        2017.067744919757,
+        2017.6680487175524
+      ],
+      "numdate": 2017.3599530651666
+    },
+    "NODE_0000193": {
+      "branch_length": 7.102258463567712e-05,
+      "clock_length": 7.102258463567712e-05,
+      "date": "2019-02-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.991763915255,
+        2019.4068783050957
+      ],
+      "numdate": 2019.119235290908
+    },
+    "NODE_0000194": {
+      "branch_length": 0.00045893445456269763,
+      "clock_length": 0.00045893445456269763,
+      "date": "2017-07-29",
+      "mutation_length": 0.0023346037134661193,
+      "num_date_confidence": [
+        2017.3871650428994,
+        2017.9931773117894
+      ],
+      "numdate": 2017.57276580873
+    },
+    "NODE_0000195": {
+      "branch_length": 0.00045481324530230807,
+      "clock_length": 0.00045481324530230807,
+      "date": "2019-05-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.1367062339807,
+        2019.410473842773
+      ],
+      "numdate": 2019.3301369863013
+    },
+    "NODE_0000200": {
+      "branch_length": 0.000722697354486615,
+      "clock_length": 0.000722697354486615,
+      "date": "2019-07-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.0898021193968,
+        2019.6170883548298
+      ],
+      "numdate": 2019.5023868350638
+    },
+    "NODE_0000201": {
+      "branch_length": 0.0005831036500386425,
+      "clock_length": 0.0005831036500386425,
+      "date": "2018-01-08",
+      "mutation_length": 0.0005831036500386409,
+      "num_date_confidence": [
+        2017.9307727434805,
+        2018.0641848271312
+      ],
+      "numdate": 2018.0197435196721
+    },
+    "NODE_0000202": {
+      "branch_length": 0.0003552570807468739,
+      "clock_length": 0.0003552570807468739,
+      "date": "2019-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.31552387928,
+        2019.7447204208554
+      ],
+      "numdate": 2019.6671232876713
+    },
+    "NODE_0000203": {
+      "branch_length": 0.00021468278489485473,
+      "clock_length": 0.00021468278489485473,
+      "date": "2018-12-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.8912171194233,
+        2019.3255423386636
+      ],
+      "numdate": 2018.992592821478
+    },
+    "NODE_0000204": {
+      "branch_length": 0.00019613333153589534,
+      "clock_length": 0.00019613333153589534,
+      "date": "2019-01-31",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.8332047496222,
+        2019.5635426888418
+      ],
+      "numdate": 2019.0835419144767
+    },
+    "NODE_0000205": {
+      "branch_length": 0.00014571997627824823,
+      "clock_length": 0.00014571997627824823,
+      "date": "2019-02-25",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.9768206443584,
+        2019.568772054628
+      ],
+      "numdate": 2019.1511138033063
+    },
+    "NODE_0000206": {
+      "branch_length": 0.0007547814139121766,
+      "clock_length": 0.0007547814139121766,
+      "date": "2019-07-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.1204663477693,
+        2019.548394403361
+      ],
+      "numdate": 2019.5011139000267
+    },
+    "NODE_0000207": {
+      "branch_length": 0.000566086060434132,
+      "clock_length": 0.000566086060434132,
+      "date": "2019-05-31",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.0867984682175,
+        2019.5445092736106
+      ],
+      "numdate": 2019.4136138758465
+    },
+    "NODE_0000208": {
+      "branch_length": 0.0016243295070880182,
+      "clock_length": 0.0016243295070880182,
+      "date": "2018-04-29",
+      "mutation_length": 0.0023360811845079994,
+      "num_date_confidence": [
+        2018.203449528988,
+        2018.744719339325
+      ],
+      "numdate": 2018.3259845209398
+    },
+    "NODE_0000209": {
+      "branch_length": 0.00018869535347804459,
+      "clock_length": 0.00018869535347804459,
+      "date": "2019-07-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.196722458517,
+        2019.552491347704
+      ],
+      "numdate": 2019.5011139000267
+    },
+    "NODE_0000210": {
+      "branch_length": 0.0009442214607584959,
+      "clock_length": 0.0009442214607584959,
+      "date": "2018-01-04",
+      "mutation_length": 0.00233506074199952,
+      "num_date_confidence": [
+        2017.65904971285,
+        2018.2159705346355
+      ],
+      "numdate": 2018.0106112517942
+    },
+    "NODE_0000211": {
+      "branch_length": 0.00018869535347804459,
+      "clock_length": 0.00018869535347804459,
+      "date": "2019-07-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2019.196722458517,
+        2019.552491347704
+      ],
+      "numdate": 2019.5011139000267
+    },
+    "NODE_0000212": {
+      "branch_length": 0.0006890629115032243,
+      "clock_length": 0.0006890629115032243,
+      "date": "2018-05-01",
+      "mutation_length": 0.0029215121657985093,
+      "num_date_confidence": [
+        2018.2420654086125,
+        2018.3301369863013
+      ],
+      "numdate": 2018.3301369863013
+    },
+    "NODE_0000213": {
+      "branch_length": 0.0006513795456748878,
+      "clock_length": 0.0006513795456748878,
+      "date": "2018-02-20",
+      "mutation_length": 0.0005829923861623155,
+      "num_date_confidence": [
+        2017.7311924772655,
+        2018.2120186844795
+      ],
+      "numdate": 2018.1391853711464
+    },
+    "NODE_0000214": {
+      "branch_length": 0.00016605468155113032,
+      "clock_length": 0.00016605468155113032,
+      "date": "2017-08-26",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.432472148293,
+        2017.996774131349
+      ],
+      "numdate": 2017.649767114714
+    },
+    "NODE_0000215": {
+      "branch_length": 3.8431055138454795e-05,
+      "clock_length": 3.8431055138454795e-05,
+      "date": "2017-09-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.5436245520746,
+        2018.0320440275016
+      ],
+      "numdate": 2017.6675880000296
+    },
+    "NODE_0000216": {
+      "branch_length": 0.00036220783989229094,
+      "clock_length": 0.00036220783989229094,
+      "date": "2018-04-23",
+      "mutation_length": 0.0005829923867743931,
+      "num_date_confidence": [
+        2017.9604193953926,
+        2018.5015646821682
+      ],
+      "numdate": 2018.3071449640279
+    },
+    "NODE_0000217": {
+      "branch_length": 0.0005631344643561402,
+      "clock_length": 0.0005631344643561402,
+      "date": "2018-07-27",
+      "mutation_length": 0.0011667742004666996,
+      "num_date_confidence": [
+        2018.256133293416,
+        2018.6907783509591
+      ],
+      "numdate": 2018.5682763503582
+    },
+    "NODE_0000218": {
+      "branch_length": 5.653528236559957e-05,
+      "clock_length": 5.653528236559957e-05,
+      "date": "2021-06-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3178438339628,
+        2021.4983023981124
+      ],
+      "numdate": 2021.415933483248
+    },
+    "NODE_0000219": {
+      "branch_length": 0.00012248506312283539,
+      "clock_length": 0.00012248506312283539,
+      "date": "2021-06-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3357747163673,
+        2021.7849315068493
+      ],
+      "numdate": 2021.4727310979606
+    },
+    "NODE_0000220": {
+      "branch_length": 0.0016273978605650299,
+      "clock_length": 0.0016273978605650299,
+      "date": "2018-11-23",
+      "mutation_length": 0.002922261560573856,
+      "num_date_confidence": [
+        2018.6568619007908,
+        2018.9608156457302
+      ],
+      "numdate": 2018.8938269112025
+    },
+    "NODE_0000221": {
+      "branch_length": 0.00012179985955254255,
+      "clock_length": 0.00012179985955254255,
+      "date": "2021-06-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.321347793618,
+        2021.7361249598177
+      ],
+      "numdate": 2021.4724133618433
+    },
+    "NODE_0000222": {
+      "branch_length": 0.0010181953824233581,
+      "clock_length": 0.0010181953824233581,
+      "date": "2018-08-23",
+      "mutation_length": 0.0011663236728612417,
+      "num_date_confidence": [
+        2018.440133618784,
+        2018.7493150684932
+      ],
+      "numdate": 2018.6413619626237
+    },
+    "NODE_0000223": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2021-06-22",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3293589904856,
+        2021.8003999047241
+      ],
+      "numdate": 2021.4724133618433
+    },
+    "NODE_0000224": {
+      "branch_length": 0.00023416720753618482,
+      "clock_length": 0.00023416720753618482,
+      "date": "2021-08-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3164072329564,
+        2021.804109589041
+      ],
+      "numdate": 2021.580999164005
+    },
+    "NODE_0000225": {
+      "branch_length": 0.0003199359520841272,
+      "clock_length": 0.0003199359520841272,
+      "date": "2018-04-15",
+      "mutation_length": 0.0005830284471829505,
+      "num_date_confidence": [
+        2017.940739589113,
+        2018.4081762198914
+      ],
+      "numdate": 2018.2875430441227
+    },
+    "NODE_0000226": {
+      "branch_length": 0.0013409111026025308,
+      "clock_length": 0.0013409111026025308,
+      "date": "2018-11-28",
+      "mutation_length": 0.002922261547470823,
+      "num_date_confidence": [
+        2018.4764263707134,
+        2019.016606068608
+      ],
+      "numdate": 2018.9093376550577
+    },
+    "NODE_0000227": {
+      "branch_length": 0.0005068460326721775,
+      "clock_length": 0.0005068460326721775,
+      "date": "2019-02-22",
+      "mutation_length": 0.0005835341594681451,
+      "num_date_confidence": [
+        2018.965303466496,
+        2019.4926656263349
+      ],
+      "numdate": 2019.144367502359
+    },
+    "NODE_0000228": {
+      "branch_length": 0.0007285965452776474,
+      "clock_length": 0.0007285965452776474,
+      "date": "2018-08-17",
+      "mutation_length": 0.001166995973216963,
+      "num_date_confidence": [
+        2018.2699588643325,
+        2018.8371214491372
+      ],
+      "numdate": 2018.6254009412794
+    },
+    "NODE_0000229": {
+      "branch_length": 0.00044520791358621144,
+      "clock_length": 0.00044520791358621144,
+      "date": "2021-10-15",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3616042892602,
+        2021.809589041096
+      ],
+      "numdate": 2021.7874467658455
+    },
+    "NODE_0000230": {
+      "branch_length": 8.319981566204566e-05,
+      "clock_length": 8.319981566204566e-05,
+      "date": "2021-10-29",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.4418990102251,
+        2021.8260273972603
+      ],
+      "numdate": 2021.8260273972603
+    },
+    "NODE_0000231": {
+      "branch_length": 0.00017632597161962651,
+      "clock_length": 0.00017632597161962651,
+      "date": "2017-10-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.5691668977006,
+        2018.0325445806725
+      ],
+      "numdate": 2017.7493522114737
+    },
+    "NODE_0000232": {
+      "branch_length": 0.0013091389245097791,
+      "clock_length": 0.0013091389245097791,
+      "date": "2018-09-30",
+      "mutation_length": 0.004093115705512444,
+      "num_date_confidence": [
+        2018.525635495393,
+        2019.000348477178
+      ],
+      "numdate": 2018.7462468882338
+    },
+    "NODE_0000233": {
+      "branch_length": 0.00036444564876700336,
+      "clock_length": 0.00036444564876700336,
+      "date": "2018-12-01",
+      "mutation_length": 0.0005834788826751525,
+      "num_date_confidence": [
+        2018.7555398959316,
+        2019.1520715163165
+      ],
+      "numdate": 2018.9152441766762
+    },
+    "NODE_0000234": {
+      "branch_length": 0.00018930257471504522,
+      "clock_length": 0.00018930257471504522,
+      "date": "2017-11-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2017.6432142222238,
+        2018.0745142851683
+      ],
+      "numdate": 2017.8371338105412
+    },
+    "NODE_0000236": {
+      "branch_length": 0.0001640882045766314,
+      "clock_length": 0.0001640882045766314,
+      "date": "2022-12-07",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.810926005785,
+        2023.1383561643836
+      ],
+      "numdate": 2022.9333556412387
+    },
+    "NODE_0000237": {
+      "branch_length": 6.0613862697736325e-05,
+      "clock_length": 6.0613862697736325e-05,
+      "date": "2022-12-17",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.8726483125977,
+        2023.1602739726027
+      ],
+      "numdate": 2022.961462928217
+    },
+    "NODE_0000238": {
+      "branch_length": 0.0003165665877415281,
+      "clock_length": 0.0003165665877415281,
+      "date": "2018-11-22",
+      "mutation_length": 0.0005838067522249376,
+      "num_date_confidence": [
+        2018.802414066438,
+        2019.0923812046897
+      ],
+      "numdate": 2018.8930421514528
+    },
+    "NODE_0000239": {
+      "branch_length": 0.0001043556892501513,
+      "clock_length": 0.0001043556892501513,
+      "date": "2023-01-04",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.8863516489807,
+        2023.17314575678
+      ],
+      "numdate": 2023.009853761189
+    },
+    "NODE_0000240": {
+      "branch_length": 5.372876014692746e-05,
+      "clock_length": 5.372876014692746e-05,
+      "date": "2023-01-13",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.94831434246,
+        2023.1784820965051
+      ],
+      "numdate": 2023.0347683535485
+    },
+    "NODE_0000241": {
+      "branch_length": 0.0003179212346623621,
+      "clock_length": 0.0003179212346623621,
+      "date": "2023-03-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.04143756366,
+        2023.182191780822
+      ],
+      "numdate": 2023.182191780822
+    },
+    "NODE_0000242": {
+      "branch_length": 0.0002824721181700412,
+      "clock_length": 0.0002824721181700412,
+      "date": "2023-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.9876154114006,
+        2023.191311369721
+      ],
+      "numdate": 2023.1657536518853
+    },
+    "NODE_0000243": {
+      "branch_length": 7.518076074300613e-05,
+      "clock_length": 7.518076074300613e-05,
+      "date": "2023-03-15",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.078425318573,
+        2023.2232876712328
+      ],
+      "numdate": 2023.2006157630165
+    },
+    "NODE_0000244": {
+      "branch_length": 8.823860319258359e-07,
+      "clock_length": 8.823860319258359e-07,
+      "date": "2023-03-02",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.0314313991375,
+        2023.2121418069037
+      ],
+      "numdate": 2023.1661628235881
+    },
+    "NODE_0000245": {
+      "branch_length": 2.281117876204268e-06,
+      "clock_length": 2.281117876204268e-06,
+      "date": "2023-03-03",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.0866697115337,
+        2023.2275385243265
+      ],
+      "numdate": 2023.1672206019894
+    },
+    "NODE_0000246": {
+      "branch_length": 0.00011828256914198955,
+      "clock_length": 0.00011828256914198955,
+      "date": "2023-03-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.0846654042084,
+        2023.2342465753425
+      ],
+      "numdate": 2023.2220694759508
+    },
+    "NODE_0000247": {
+      "branch_length": 0.0005913652591103703,
+      "clock_length": 0.0005913652591103703,
+      "date": "2019-03-03",
+      "mutation_length": 0.0005836485917725497,
+      "num_date_confidence": [
+        2018.9174027465183,
+        2019.6506560000141
+      ],
+      "numdate": 2019.1672644548519
+    },
+    "NODE_0000248": {
+      "branch_length": 0.0,
+      "clock_length": 0.0,
+      "date": "2023-03-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2023.085868177079,
+        2023.2589041095891
+      ],
+      "numdate": 2023.2220694759508
+    },
+    "NODE_0000251": {
+      "branch_length": 0.0003321661722988801,
+      "clock_length": 0.0003321661722988801,
+      "date": "2019-01-18",
+      "mutation_length": 0.0005834985508565783,
+      "num_date_confidence": [
+        2018.8758360711204,
+        2019.1977961201053
+      ],
+      "numdate": 2019.0470711064443
+    },
+    "NODE_0000252": {
+      "branch_length": 0.0008004262879953584,
+      "clock_length": 0.0008004262879953584,
+      "date": "2019-06-02",
+      "mutation_length": 0.000583498243668649,
+      "num_date_confidence": [
+        2019.1614886359407,
+        2019.4630299471467
+      ],
+      "numdate": 2019.4182372123555
+    },
+    "NODE_0000253": {
+      "branch_length": 0.001077599088124527,
+      "clock_length": 0.001077599088124527,
+      "date": "2019-08-01",
+      "mutation_length": 0.0017525338556024293,
+      "num_date_confidence": [
+        2018.7584998250368,
+        2021.2392152353332
+      ],
+      "numdate": 2019.5832359690964
+    },
+    "NODE_0000254": {
+      "branch_length": 0.009504151002626552,
+      "clock_length": 0.009504151002626552,
+      "date": "2023-12-28",
+      "mutation_length": 0.007040837051050656,
+      "num_date_confidence": [
+        2023.244334385727,
+        2023.990410958904
+      ],
+      "numdate": 2023.990410958904
+    },
+    "NODE_0000255": {
+      "branch_length": 0.0001847476686548926,
+      "clock_length": 0.0001847476686548926,
+      "date": "2019-01-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.8241086766873,
+        2019.1548233614074
+      ],
+      "numdate": 2019.0009136177969
+    },
+    "NODE_0000256": {
+      "branch_length": 0.0008334597652796902,
+      "clock_length": 0.0008334597652796902,
+      "date": "2021-01-12",
+      "mutation_length": 0.000584055006737814,
+      "num_date_confidence": [
+        2020.5659157624907,
+        2021.2479452054795
+      ],
+      "numdate": 2021.032099490792
+    },
+    "NODE_0000257": {
+      "branch_length": 0.001296255806470718,
+      "clock_length": 0.001296255806470718,
+      "date": "2021-04-01",
+      "mutation_length": 0.0011680878243010093,
+      "num_date_confidence": [
+        2021.2125078670676,
+        2021.3578556801303
+      ],
+      "numdate": 2021.2467028927745
+    },
+    "NODE_0000258": {
+      "branch_length": 0.00018414020121508383,
+      "clock_length": 0.00018414020121508383,
+      "date": "2019-02-01",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.9206327599402,
+        2019.153009735134
+      ],
+      "numdate": 2019.0863013698631
+    },
+    "NODE_0000261": {
+      "branch_length": 0.00017800167927566057,
+      "clock_length": 0.00017800167927566057,
+      "date": "2021-05-01",
+      "mutation_length": 0.0005837234647846131,
+      "num_date_confidence": [
+        2021.264617866505,
+        2021.4639057731483
+      ],
+      "numdate": 2021.32924414752
+    },
+    "NODE_0000270": {
+      "branch_length": 0.00019691845711423267,
+      "clock_length": 0.00019691845711423267,
+      "date": "2021-05-04",
+      "mutation_length": 0.000583873688366874,
+      "num_date_confidence": [
+        2021.2837181234358,
+        2021.3739726027397
+      ],
+      "numdate": 2021.3380160567788
+    },
+    "NODE_0000272": {
+      "branch_length": 0.002897484340768053,
+      "clock_length": 0.002897484340768053,
+      "date": "2022-09-06",
+      "mutation_length": 0.0029260517690279657,
+      "num_date_confidence": [
+        2022.6279763582675,
+        2022.7739726027398
+      ],
+      "numdate": 2022.6816100839005
+    },
+    "NODE_0000275": {
+      "branch_length": 0.0002769147881430071,
+      "clock_length": 0.0002769147881430071,
+      "date": "2022-10-23",
+      "mutation_length": 0.0005840438199920116,
+      "num_date_confidence": [
+        2022.759857706083,
+        2022.924597970121
+      ],
+      "numdate": 2022.8100183897318
+    },
+    "NODE_0000276": {
+      "branch_length": 0.0022910401069144905,
+      "clock_length": 0.0022910401069144905,
+      "date": "2020-08-24",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2018.5235484773038,
+        2021.1914180537033
+      ],
+      "numdate": 2020.6456154133045
+    },
+    "NODE_0000277": {
+      "branch_length": 0.00029176171351238435,
+      "clock_length": 0.00029176171351238435,
+      "date": "2022-10-26",
+      "mutation_length": 0.001169030457589845,
+      "num_date_confidence": [
+        2022.7802972616482,
+        2023.010217635323
+      ],
+      "numdate": 2022.8169030655063
+    },
+    "NODE_0000280": {
+      "branch_length": 0.0006086605183810356,
+      "clock_length": 0.0006086605183810356,
+      "date": "2023-02-06",
+      "mutation_length": 0.0011702660789835722,
+      "num_date_confidence": [
+        2022.9822430944223,
+        2023.1438356164383
+      ],
+      "numdate": 2023.099145362914
+    },
+    "NODE_0000281": {
+      "branch_length": 0.00013041180709208455,
+      "clock_length": 0.00013041180709208455,
+      "date": "2021-05-23",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2021.3016880230275,
+        2021.4619065239926
+      ],
+      "numdate": 2021.389717476956
+    },
+    "NODE_0000294": {
+      "branch_length": 8.704383963913966e-05,
+      "clock_length": 8.704383963913966e-05,
+      "date": "2022-11-09",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.785734782583,
+        2023.0477721219263
+      ],
+      "numdate": 2022.8572662113536
+    },
+    "NODE_0000295": {
+      "branch_length": 0.00035464138750574727,
+      "clock_length": 0.00035464138750574727,
+      "date": "2023-01-08",
+      "mutation_length": 1.3524642089662832e-21,
+      "num_date_confidence": [
+        2022.8672746532459,
+        2023.0534246575342
+      ],
+      "numdate": 2023.0217171605161
+    }
+  }
+}

@@ -1,0 +1,7 @@
+Building DAG of jobs...
+MissingInputException in rule traits in file /nextstrain/build/Snakefile, line 70:
+Missing input files for rule traits:
+    output: traits/traits_h3nx_ha.json
+    wildcards: subtype=h3nx, segment=ha
+    affected files:
+        prepped/metadata_h3nx_ha.csv

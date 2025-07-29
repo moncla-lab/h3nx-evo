@@ -1,0 +1,14 @@
+A/Henan/4-10/2022
+A/Guangdong/ZS-23SF005/2023
+A/Changsha/1000/2022
+A/Pygoscelis_papua/Fildes_Peninsula,_King_George_Island/31/2023
+A/Sterna_paradisaea/Fildes_Peninsula,_King_George_Island
+a/neovison_vison/bc/r6126/2021
+a/neovison_vison/bc/r7297/2021
+a/neovison_vison/bc/r7349/2021
+a/neovison_vison/bc/r7376/2021
+a/neovison_vison/bc/r7407/2021
+a/neovison_vison/bc/r9941/2021
+a/neovison_vison/bc/r9962/2021
+a/mink/wisconsin/31512-7/2012
+a/mink/nova_scotia/1055488/2007

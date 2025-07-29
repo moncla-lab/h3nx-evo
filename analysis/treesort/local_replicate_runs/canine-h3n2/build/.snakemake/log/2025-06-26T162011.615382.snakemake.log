@@ -1,0 +1,38 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: lev-01048.apn.wlan.private.upenn.edu
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job        count
+-------  -------
+all            1
+summary        1
+total          2
+
+Select jobs to execute...
+Execute 1 jobs...
+[Thu Jun 26 16:20:11 2025]
+Job 1: converting to nwk, making a summary tree
+Reason: Missing output files: results/rea.json
+Shell command: 
+		python scripts/summary.py 		--tree results/ha_treesort.tre 		--outdir results/rea.json
+		
+[Thu Jun 26 16:20:12 2025]
+Finished jobid: 1 (Rule: summary)
+1 of 2 steps (50%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Thu Jun 26 16:20:12 2025]
+localrule all:
+    input: results/rea.json
+    jobid: 0
+    reason: Input files updated by another job: results/rea.json
+    resources: tmpdir=/var/folders/b4/087mzk6d6sj828w5t9xtml640000gr/T
+Shell command: None
+[Thu Jun 26 16:20:12 2025]
+Finished jobid: 0 (Rule: all)
+2 of 2 steps (100%) done
+Complete log(s): /Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/.snakemake/log/2025-06-26T162011.615382.snakemake.log

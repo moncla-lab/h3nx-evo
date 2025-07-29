@@ -1,0 +1,38 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: ML-MONCLALAB1.local
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job         count
+--------  -------
+all             1
+treesort        1
+total           2
+
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:36:31 2025]
+Job 1: running treesort to infer reassortment events
+Reason: Missing output files: results/ha_treesort.tre; Set of input files has changed since last execution; Code has changed since last execution
+Shell command: 
+		treesort 		-i descriptor.csv 		-o results/ha_treesort.tre 		--no-collapse 		> output.log
+		
+[Wed Jun 25 17:38:05 2025]
+Finished jobid: 1 (Rule: treesort)
+1 of 2 steps (50%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Wed Jun 25 17:38:05 2025]
+localrule all:
+    input: results/ha_treesort.tre
+    jobid: 0
+    reason: Input files updated by another job: results/ha_treesort.tre
+    resources: tmpdir=/var/folders/b4/087mzk6d6sj828w5t9xtml640000gr/T
+Shell command: None
+[Wed Jun 25 17:38:05 2025]
+Finished jobid: 0 (Rule: all)
+2 of 2 steps (100%) done
+Complete log(s): /Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/.snakemake/log/2025-06-25T173631.504870.snakemake.log

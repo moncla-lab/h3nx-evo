@@ -1,0 +1,17 @@
+A/canine/Beijing/20150124-300/2015|2015-01-24
+A/canine/Beijing/295/2009|2009-12-14
+A/canine/Beijing/305/2009|2009-12-13
+A/canine/Beijing/359/2009|2009-12-17
+A/canine/Beijing/420/2010|2010-01-08
+A/canine/Guangdong/05/2011|2011-02-01
+A/canine/Guangdong/1/2011|2011-02-01
+A/canine/Guangdong/2/2006|2006-08-01
+A/canine/Guangdong/2/2007|2007-10-18
+A/canine/Guangdong/2/2011|2011-02-01
+A/canine/Guangdong/3/2011|2011-03-01
+A/canine/Indiana/96198/2015|2015-07-02
+A/canine/Korea/KRIBB01/2011|2011-11-01
+A/canine/Korea/S3001/2015|2015-04-27
+A/canine/Korea/VC378/2012|2012-03-13
+A/canine/Shanghai/1396/2019|2019-11-01
+A/canine/Singapore/SG_NParks_CIV_M10305/2018|2018-06-01

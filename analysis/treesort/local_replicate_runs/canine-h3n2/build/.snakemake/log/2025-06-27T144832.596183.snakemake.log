@@ -1,0 +1,70 @@
+Assuming unrestricted shared filesystem usage.
+None
+host: lev-01048.apn.wlan.private.upenn.edu
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 12
+Rules claiming more threads will be scaled down.
+Job stats:
+job           count
+----------  -------
+all               1
+descriptor        2
+treesort          2
+total             5
+
+Select jobs to execute...
+Execute 2 jobs...
+[Fri Jun 27 14:48:32 2025]
+Job 32: creating a descriptor file that points to the correct replicate trees
+Reason: Missing output files: descriptor_2.csv
+Shell command: 
+		python scripts/descriptor.py 		--rep 2 		--descriptor descriptor_2.csv 
+		
+[Fri Jun 27 14:48:32 2025]
+Job 2: creating a descriptor file that points to the correct replicate trees
+Reason: Missing output files: descriptor_1.csv
+Shell command: 
+		python scripts/descriptor.py 		--rep 1 		--descriptor descriptor_1.csv 
+		
+[Fri Jun 27 14:48:32 2025]
+Finished jobid: 32 (Rule: descriptor)
+1 of 5 steps (20%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:48:32 2025]
+Job 31: running treesort to infer reassortment events
+Reason: Missing output files: results/2/ha_treesort.tre; Input files updated by another job: descriptor_2.csv; Code has changed since last execution
+Shell command: 
+		treesort 		-i descriptor_2.csv 		-o results/2/ha_treesort.tre 		--no-collapse 		> results/2/output.log
+		
+[Fri Jun 27 14:48:32 2025]
+Finished jobid: 2 (Rule: descriptor)
+2 of 5 steps (40%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:48:32 2025]
+Job 1: running treesort to infer reassortment events
+Reason: Missing output files: results/1/ha_treesort.tre; Input files updated by another job: descriptor_1.csv; Code has changed since last execution
+Shell command: 
+		treesort 		-i descriptor_1.csv 		-o results/1/ha_treesort.tre 		--no-collapse 		> results/1/output.log
+		
+[Fri Jun 27 14:50:15 2025]
+Finished jobid: 31 (Rule: treesort)
+3 of 5 steps (60%) done
+[Fri Jun 27 14:50:15 2025]
+Finished jobid: 1 (Rule: treesort)
+4 of 5 steps (80%) done
+Select jobs to execute...
+Execute 1 jobs...
+[Fri Jun 27 14:50:15 2025]
+localrule all:
+    input: results/1/ha_treesort.tre, results/2/ha_treesort.tre
+    jobid: 0
+    reason: Input files updated by another job: results/2/ha_treesort.tre, results/1/ha_treesort.tre
+    resources: tmpdir=/var/folders/b4/087mzk6d6sj828w5t9xtml640000gr/T
+Shell command: None
+[Fri Jun 27 14:50:15 2025]
+Finished jobid: 0 (Rule: all)
+5 of 5 steps (100%) done
+Complete log(s): /Users/monclalab1/Documents/h3nx/h3nx_build/condition_on_ha/analysis/treesort/no-collapse/ha_automate/pipeline/canine_test/build/.snakemake/log/2025-06-27T144832.596183.snakemake.log

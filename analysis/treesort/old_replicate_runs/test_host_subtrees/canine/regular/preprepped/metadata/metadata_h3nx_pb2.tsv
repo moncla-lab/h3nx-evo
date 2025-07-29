@@ -1,0 +1,349 @@
+strain	accession	subtype	date	host	country	region	species	broad	order
+A/canine/Alabama/194456-1/2022	OR738641	H3N2	2022-08-24	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Beijing/1016/2018	ON877538	H3N2	2018-10-01	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1102/2018	ON877562	H3N2	2018-11-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1103/2018	ON877570	H3N2	2018-11-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1115/2019	ON877578	H3N2	2019-12-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1167/2019	ON877586	H3N2	2019-04-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/118/2018	OR473194	H3N2	2018-01-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1183/2019	ON877594	H3N2	2019-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1364/2019	ON877602	H3N2	2019-08-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1372/2019	ON877610	H3N2	2019-08-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/1389/2019	ON877618	H3N2	2019-09-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/18/2019	ON877626	H3N2	2019-03-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20121215-34/2012	MK212510	H3N2	2012-12-15	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20131112-279/2013	MK212550	H3N2	2013-11-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20131203-341/2013	MK212542	H3N2	2013-12-03	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20131203-342/2013	MK212534	H3N2	2013-12-03	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20131204-349/2013	MK212526	H3N2	2013-12-04	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20131207-365/2013	MK212518	H3N2	2013-12-07	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20140103-90/2014	MK212822	H3N2	2014-01-03	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20140110-2/2014	MK212814	H3N2	2014-01-10	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20150120-265/2015	MK212798	H3N2	2015-01-20	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20161216-8/2016	MK212502	H3N2	2016-12-16	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20161228-9/2016	MK212494	H3N2	2016-12-28	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170314-73/2017	MK212774	H3N2	2017-03-14	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170417-81/2017	MK212766	H3N2	2017-04-17	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170417-83/2017	MK212758	H3N2	2017-04-17	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170424-102/2017	MK212750	H3N2	2017-04-24	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170501-108/2017	MK212742	H3N2	2017-05-01	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170510-118/2017	MK212734	H3N2	2017-05-10	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170512-120/2017	MK212726	H3N2	2017-05-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170512-121/2017	MK212718	H3N2	2017-05-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170512-122/2017	MK212710	H3N2	2017-05-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170512-133/2017	MK212702	H3N2	2017-05-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170512-137/2017	MK212694	H3N2	2017-05-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170527-146/2017	MK212686	H3N2	2017-05-27	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170528-147/2017	MK212678	H3N2	2017-05-28	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170528-148/2017	MK212670	H3N2	2017-05-28	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170604-164/2017	MK212662	H3N2	2017-06-04	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170610-172/2017	MK212654	H3N2	2017-06-10	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170610-173/2017	MK212646	H3N2	2017-06-10	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170610-174/2017	MK212638	H3N2	2017-06-10	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170612-183/2017	MK212630	H3N2	2017-06-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170614-185/2017	MK212622	H3N2	2017-06-14	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170615-195/2017	MK212614	H3N2	2017-06-15	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170616-200/2017	MK212606	H3N2	2017-06-16	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170616-202/2017	MK212598	H3N2	2017-06-16	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170618-206/2017	MK212590	H3N2	2017-06-18	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170709-15/2017	MK212582	H3N2	2017-07-09	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170711-16/2017	MK212574	H3N2	2017-07-11	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170712-18/2017	MK212566	H3N2	2017-07-12	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/20170720-30/2017	MK212558	H3N2	2017-07-20	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/308/2017	ON877634	H3N2	2017-09-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/309/2017	ON877642	H3N2	2017-09-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/359/2009	EPI407535	H3N2	2009-12-17	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/418/2010	JX101366	H3N2	2010-01-08	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/420/2010	EPI407560	H3N2	2010-01-08	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/501/2001	OR473202	H3N2	2001-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/509/2017	ON877650	H3N2	2017-12-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/510/2010	OR473210	H3N2	2010-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/511/2011	OR473218	H3N2	2011-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/547/2018	ON877658	H3N2	2018-01-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/618/2018	ON877682	H3N2	2018-02-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/JC2538/2010	OR473226	H3N2	2010-08-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Beijing/JC2550/2010	OR473234	H3N2	2010-08-XX	Canine	China	China	Canine	canine	Canine
+A/canine/California/043670/2017	MH363677	H3N2	2017-03-24	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/20170411-20/2017	MG982733	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/84315/2017	MH363662	H3N2	2017-05-18	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/BRW002/2018	MK690574	H3N2	2018-01-06	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/BRW003/2018	MK690582	H3N2	2018-01-01	Canine	Usa	North America	Canine	canine	Canine
+A/Canine/California/LACPHL-INF00004/2021	EPI1914389	H3N2	2021-08-06	Canine	Usa	North America	Canine	canine	Canine
+A/Canine/California/LACPHL-INF00005/2021	EPI1914399	H3N2	2021-08-06	Canine	Usa	North America	Canine	canine	Canine
+A/Canine/California/LACPHL-INF00006/2021	EPI1914434	H3N2	2021-08-06	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M19-17384-1-1/2019	OR731148	H3N2	2019-06-XX	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M19-17384-10-1/2019	OR731156	H3N2	2019-06-XX	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-32151-10-1/2021	OR732114	H3N2	2021-10-14	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-32151-4-1/2021	OR732122	H3N2	2021-10-14	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-32357-5-1/2021	OR732130	H3N2	2021-10-17	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-32759-2-1/2021	OR732138	H3N2	2021-10-20	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-32918-14-1/2021	OR732146	H3N2	2021-10-21	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-32990-2-1/2021	OR732154	H3N2	2021-10-23	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-33954-29-1/2021	OR732162	H3N2	2021-10-29	Canine	Usa	North America	Canine	canine	Canine
+A/canine/California/M21-34663-8-1/2021	OR732170	H3N2	2021-11-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/ChangChun/01/2023	PQ374162	H3N2	2023-12-28	Canine	China	China	Canine	canine	Canine
+A/canine/China/11071/2019	EPI2254393	H3N2	2019-02-11	Canine	China	China	Canine	canine	Canine
+A/canine/China/15001/2019	EPI2475621	H3N2	2019-02-02	Canine	China	China	Canine	canine	Canine
+A/canine/China/15027/2019	EPI2475629	H3N2	2019-03-02	Canine	China	China	Canine	canine	Canine
+A/canine/China/15066/2019	EPI2475637	H3N2	2019-03-02	Canine	China	China	Canine	canine	Canine
+A/canine/China/15068/2019	EPI2475645	H3N2	2019-03-02	Canine	China	China	Canine	canine	Canine
+A/canine/China/18004/2019	MZ323828	H3N2	2019-04-30	Canine	China	China	Canine	canine	Canine
+A/canine/China/6068/2018	EPI2475606	H3N2	2018-11-26	Canine	China	China	Canine	canine	Canine
+A/canine/China/A4/2021	OK639111	H3N2	2021-05-02	Canine	China	China	Canine	canine	Canine
+A/canine/China/HN3/2018	MT904997	H3N2	2018-05-22	Canine	China	China	Canine	canine	Canine
+A/canine/China/HN6/2018	MT905005	H3N2	2018-06-03	Canine	China	China	Canine	canine	Canine
+A/canine/China/JLM1/2015	MG386683	H3N2	2015-11-25	Canine	China	China	Canine	canine	Canine
+A/canine/China/JLM2/2015	MG386691	H3N2	2015-11-25	Canine	China	China	Canine	canine	Canine
+A/canine/China/LG1/2015	EPI1172896	H3N2	2015-12-16	Canine	China	China	Canine	canine	Canine
+A/canine/China/LG2/2015	MG309817	H3N2	2015-12-16	Canine	China	China	Canine	canine	Canine
+A/canine/China/QiaoKe01/2017	EPI1898048	H3N2	2017-05-01	Canine	China	China	Canine	canine	Canine
+A/canine/China/Shanghai-0315-2019/2019	EPI1502599	H3N2	2019-03-08	Canine	China	China	Canine	canine	Canine
+A/canine/Florida/090919/2017	EPI1308102	H3N2	2017-05-26	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/20170606-11/2017	MG982808	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/20170606-17/2017	MG982737	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/20170606-18/2017	MG982674	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/20170606-2/2017	MG982749	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/20170606-7/2017	MG982684	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/20170606-8/2017	MG982837	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/20170606-9/2017	MG982828	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/269770/2015	MF173191	H3N2	2015-11-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/88807.2/2017	MH363679	H3N2	2017-05-25	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/CAIS-B1/2021	OR732178	H3N2	2021-06-XX	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/CAIS-F1/2021	OR732186	H3N2	2021-06-XX	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Florida/CAIS-H1/2021	OR732194	H3N2	2021-06-XX	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Fujian/11/2018	ON877690	H3N2	2018-11-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Fujian/1108/2018	ON877698	H3N2	2018-12-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Fujian/1109/2018	ON877706	H3N2	2018-12-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Fujian/601/2018	ON877714	H3N2	2018-01-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Georgia/101875/2015	EPI1308187	H3N2	2015-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Georgia/104940/2015	KX571013	H3N2	2015-07-17	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Georgia/20170606-19/2017	MH363671	H3N2	2017-05-25	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Georgia/42632/2015	EPI1777097	H3N2	2015-06-12	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Georgia/89750.1/2017	MH363678	H3N2	2017-05-26	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Georgia/95391/2015	KX570974	H3N2	2015-07-13	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Guangdong/01/2013	KJ917344	H3N2	2013-04-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/01/2014	KJ917372	H3N2	2014-02-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/02/2013	KJ917354	H3N2	2013-04-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/03/2013	KJ917364	H3N2	2013-11-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/04/2011	EPI457534	H3N2	2011-02-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/04/2013	KJ917387	H3N2	2013-11-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/05/2011	EPI439992	H3N2	2011-02-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/1/2018	MK119999	H3N2	2018-05-14	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/12/2012	KF826944	H3N2	2012-09-15	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/2/2011	EPI394667	H3N2	2011-02-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/2/2018	MK120000	H3N2	2018-05-16	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/23/2012	EPI489745	H3N2	2012-09-18	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/3/2011	EPI457527	H3N2	2011-03-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/3/2018	MK120001	H3N2	2018-05-17	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/DY1/2019	MW126982	H3N2	2019-06-23	Canine	China	China	Canine	canine	Canine
+A/canine/Guangdong/GY01/2018	EPI1931797	H3N2	2018-05-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangxi/L1/2013	EPI530755	H3N2	2013-05-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangxi/L2/2013	EPI530763	H3N2	2013-05-01	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/11/2019	ON877722	H3N2	2019-01-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/1180/2019	ON877730	H3N2	2019-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/15/2019	ON877738	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/16/2019	ON877746	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/17/2019	ON877754	H3N2	2019-02-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/20/2019	ON877762	H3N2	2019-06-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/25/2019	ON877770	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/35/2019	ON877778	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/37/2019	ON877786	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/38/2019	ON877794	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/603/2018	ON877802	H3N2	2018-02-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Guangzhou/8/2018	ON877810	H3N2	2018-11-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Hainan/615/2018	ON877818	H3N2	2018-02-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Hainan/79/2019	ON877826	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Hainan/F4/2018	ON877834	H3N2	2018-12-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Hainan/W17/2015	OR473242	H3N2	2015-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Hainan/W3/2019	ON877842	H3N2	2019-06-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Hainan/W5/2019	ON877850	H3N2	2019-06-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Hainan/W8/2019	ON877858	H3N2	2019-06-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Heilongjiang/L1/2013	EPI531361	H3N2	2013-03-10	Canine	China	China	Canine	canine	Canine
+A/canine/Henan/L02/2018	OK354170	H3N2	2018-03-01	Canine	China	China	Canine	canine	Canine
+A/canine/Henan/L03/2018	OK354194	H3N2	2018-05-01	Canine	China	China	Canine	canine	Canine
+A/canine/Henan/L06/2018	EPI1931789	H3N2	2018-05-01	Canine	China	China	Canine	canine	Canine
+A/canine/Illinois/077752/2016	EPI1308171	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/077753/2016	MF173392	H3N2	2016-11-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/0843093/2015	KX571014	H3N2	2015-03-30	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/091375-16-1-1/2016	EPI1308178	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/12191/2015	KT002533	H3N2	2015-04-15	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/145135-16-3-1/2016	EPI1308205	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/1619144/2015	KX570978	H3N2	2015-04-14	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/187427-16-7/2016	MG982784	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/20170110-1A4/2016	EPI1308169	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/20170110-1G12/2016	MG982687	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/20170110-1G4/2016	MG982835	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/20170110-2F1/2016	MG982850	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/20170110-2G1/2016	MG982725	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/21-015197-001/2021	EPI1896536	H3N2	2021-05-17	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/21-015197-005/2021	EPI1896544	H3N2	2021-05-17	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/278597/2016	EPI1308192	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/283066/2015	MF173153	H3N2	2015-11-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/2883703/2015	KX571015	H3N2	2015-05-07	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/328292/2015	EPI1098577	H3N2	2015-11-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/41915/2015	EPI1308146	H3N2	2015-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/A37/2017	EPI1308110	H3N2	2017-11-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/I0182389/2015	EPI1308142	H3N2	2015-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M16-16391-2-1/2016	MG982740	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M16-25374-14-1/2016	MG982845	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M16-25374-19-1/2016	MG982787	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M16-30480-3-1/2016	MG982680	H3N2	2016-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M17-05782-1-1/2017	MG982764	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M17-05782-11-1/2017	MG982688	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M17-05782-4-1/2017	MG982699	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M17-05782-7-1/2017	MG982844	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Illinois/M17-05782-8-1/2017	MG982819	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/003018/2016	MF173221	H3N2	2016-11-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/093165-16-1-1/2016	EPI1308114	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/1177-17-1/2017	EPI1308135	H3N2	2017-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/130636/2017	EPI1308018	H3N2	2017-07-29	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/132276-16-1-2/2016	EPI1308157	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/17031-16-2/2016	EPI1308127	H3N2	2016-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/2093681/2015	EPI1308083	H3N2	2015-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Indiana/M16-09378-32-1/2016	OQ954714	H3N2	2016-04-05	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Jiangsu/01/2009	JN247576	H3N2	2009-12-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Jiangsu/02/2010	JN247584	H3N2	2010-03-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Jiangsu/03/2010	JN247592	H3N2	2010-04-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Jilin/01/2023	EPI3571362	H3N2	2023-12-28	Canine	China	China	Canine	canine	Canine
+A/canine/Kentucky/128656/2017	EPI1308026	H3N2	2017-07-26	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Kentucky/174490/2017	EPI1308034	H3N2	2017-10-09	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Kentucky/20170606-23/2017	MG982855	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Kentucky/20170606-6/2017	MG982738	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Korea/01/2007	EPI389756	H3N2	2007-05-01	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/0589318/2015	KX571005	H3N2	2015-03-05	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Korea/AS-01/2009	EPI1226410	H3N2	2009-09-18	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-03/2012	EPI1226411	H3N2	2012-05-10	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-04/2012	EPI1226412	H3N2	2012-06-11	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-05/2012	EPI1226413	H3N2	2012-07-14	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-06/2012	EPI1226414	H3N2	2012-08-24	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-08/2012	EPI1226415	H3N2	2012-09-17	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-09/2012	EPI1226416	H3N2	2012-10-15	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-11/2013	EPI1226417	H3N2	2013-06-08	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-14/2013	EPI1226418	H3N2	2013-08-09	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/AS-15/2013	EPI1226419	H3N2	2013-09-11	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/BD-1/2013	KR154318	H3N2	2013-05-30	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/CY009/2010	KC755899	H3N2	2010-10-01	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/CY053/2014	EPI1068005	H3N2	2014-03-02	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/DG1/2014	KR154326	H3N2	2014-02-13	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/GCVP01/2007	FJ560890	H3N2	2007-05-XX	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/KRIBB01/2011	EPI398987	H3N2	2011-11-01	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/LBM412/2008	GU122138	H3N2	2008-10-XX	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Korea/S1/2012	EPI559602	H3N2	2012-11-05	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Liaoning/10/2018	ON877866	H3N2	2018-11-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/1388/2019	ON877882	H3N2	2019-09-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/1578/2010	EPI407575	H3N2	2010-04-06	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/1585/2010	EPI407487	H3N2	2010-04-06	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/27/2012	EPI531345	H3N2	2012-04-11	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/282/2017	ON877890	H3N2	2017-08-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/284/2017	ON877898	H3N2	2017-08-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/530/2018	ON877906	H3N2	2018-01-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Liaoning/H6/2012	EPI531353	H3N2	2012-05-19	Canine	China	China	Canine	canine	Canine
+A/canine/Minnesota/139684/2017	EPI1308042	H3N2	2017-08-10	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Minnesota/23-012684-001/2023	OQ990372	H3N2	2023-04-17	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Nanjing/20170328-7/2017	MK212478	H3N2	2017-03-28	Canine	China	China	Canine	canine	Canine
+A/canine/Nanjing/20170419-12/2017	MK212470	H3N2	2017-04-19	Canine	China	China	Canine	canine	Canine
+A/canine/Nanjing/20170515-25/2017	MK212462	H3N2	2017-05-15	Canine	China	China	Canine	canine	Canine
+A/canine/Nanjing/20170607-40/2017	MK212454	H3N2	2017-06-07	Canine	China	China	Canine	canine	Canine
+A/canine/Nanjing/20170620-47/2017	MK212446	H3N2	2017-06-20	Canine	China	China	Canine	canine	Canine
+A/canine/Nanjing/20170704-53/2017	MK212438	H3N2	2017-07-04	Canine	China	China	Canine	canine	Canine
+A/canine/Nanjing/404/2017	ON877914	H3N2	2017-11-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Nanjing/543/2018	ON877922	H3N2	2018-01-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Nevada/BRW015/2018	MK690590	H3N2	2018-02-07	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Nevada/BRW018/2018	MK690598	H3N2	2018-03-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/New_Jersey/CRP036/2018	MK690606	H3N2	2018-05-13	Canine	Usa	North America	Canine	canine	Canine
+A/canine/New_York/CRP034/2018	MK690614	H3N2	2018-05-07	Canine	Usa	North America	Canine	canine	Canine
+A/canine/North_Carolina/090487/2017	EPI1308050	H3N2	2017-05-26	Canine	Usa	North America	Canine	canine	Canine
+A/canine/NorthCarolina/20170606-28/2017	MG982697	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Ohio/174509/2017	EPI1308058	H3N2	2017-10-08	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Ohio/188191/2017	MK690134	H3N2	2017-10-31	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Ohio/A82/2017	MH266375	H3N2	2017-10-28	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Ohio/A91/2017	EPI1307990	H3N2	2017-10-28	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Ohio/A97/2017	EPI1307998	H3N2	2017-10-28	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Oklahoma/23-011242-001/2023	OQ990380	H3N2	2023-04-05	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-001-4/2018	EPI1772335	H3N2	2018-01-05	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-064-1/2018	EPI1772343	H3N2	2018-10-15	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-069-1/2018	EPI1772351	H3N2	2018-10-22	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-069-10/2018	EPI1772359	H3N2	2018-10-18	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-069-6/2018	EPI1772367	H3N2	2018-10-22	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-069-9/2018	EPI1772375	H3N2	2018-10-24	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-1/2018	EPI1772383	H3N2	2018-01-09	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-10/2018	EPI1772391	H3N2	2018-03-09	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-11/2018	EPI1772399	H3N2	2018-03-09	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-12/2018	EPI1772407	H3N2	2018-03-13	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-13/2018	EPI1772415	H3N2	2018-03-13	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-14/2018	EPI1772423	H3N2	2018-03-14	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-15/2018	EPI1772431	H3N2	2018-03-14	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-16/2018	EPI1772439	H3N2	2018-03-26	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-2/2018	EPI1772447	H3N2	2018-01-09	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-3/2018	EPI1772455	H3N2	2018-01-13	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-4/2018	EPI1772463	H3N2	2018-01-26	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-5/2018	EPI1772471	H3N2	2018-02-01	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-7/2018	EPI1772479	H3N2	2018-03-02	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-8/2018	EPI1772487	H3N2	2018-03-02	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Ontario/NCFAD-2018-070-9/2018	EPI1772495	H3N2	2018-03-02	Canine	Canada	North America	Canine	canine	Canine
+A/canine/Pennsylvania/0261885/2015	EPI1308093	H3N2	2015-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Pennsylvania/037756-1/2023	OR738649	H3N2	2023-02-22	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Pennsylvania/20170411-5/2017	MG982811	H3N2	2017-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Pennsylvania/985419/2023	OR732202	H3N2	2023-02-07	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Shanghai/1204/2019	ON877930	H3N2	2019-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Shanghai/159/2017	ON877946	H3N2	2017-10-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Shanghai/20170622-7/2017	MK212430	H3N2	2017-06-22	Canine	China	China	Canine	canine	Canine
+A/canine/Shanghai/20170713-18/2017	MK212422	H3N2	2017-07-13	Canine	China	China	Canine	canine	Canine
+A/canine/Shanghai/20170721-36/2017	MK212414	H3N2	2017-07-21	Canine	China	China	Canine	canine	Canine
+A/canine/Shanghai/354/2017	ON877954	H3N2	2017-10-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Shanghai/755/2018	ON877962	H3N2	2018-05-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Shanxi/1286/2019	ON877970	H3N2	2019-07-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Shanxi/361/2017	ON877986	H3N2	2017-10-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Shanxi/676/2018	ON877994	H3N2	2018-04-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Singapore/SG_NParks_CIV_M3405/2018	EPI2162101	H3N2	2018-06-01	Canine	Singapore	Southeast Asia	Canine	canine	Canine
+A/canine/Singapore/SG_NParks_CIV_M4705/2018	ON965266	H3N2	2018-06-01	Canine	Singapore	Southeast Asia	Canine	canine	Canine
+A/canine/South_Carolina/132956/2017	EPI1308006	H3N2	2017-08-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/South_Korea/0173915/2015	MF173248	H3N2	2015-11-01	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/South_Korea/20170110-1F1/2016	MG982782	H3N2	2016-04-01	Canine	South Korea	Japan Korea	Canine	canine	Canine
+A/canine/Tennessee/231361-1/2022	OR738657	H3N2	2022-10-10	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/042018-2/2023	OR738665	H3N2	2023-02-28	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/042018-3/2023	OR738673	H3N2	2023-02-28	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/21-011409-001/2021	EPI1896552	H3N2	2021-04-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/2100186/2015	EPI1308086	H3N2	2015-09-01	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/343907/2015	KX571029	H3N2	2015-12-22	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M22-35785-4-1/2022	OR732210	H3N2	2022-11-09	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-02041-5-1/2023	OR737658	H3N2	2023-01-20	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-02041-7-1/2023	OR737666	H3N2	2023-01-20	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-04914-24-1/2023	OR737674	H3N2	2023-02-20	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-04914-31-1/2023	OR737682	H3N2	2023-02-20	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-06880-32-1/2023	OR737690	H3N2	2023-03-08	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-06880-4-1/2023	OR737698	H3N2	2023-03-07	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-06880-7-1/2023	OR737706	H3N2	2023-03-08	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-09336-12-1/2023	OR737714	H3N2	2023-03-24	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-09336-22-1/2023	OR737722	H3N2	2023-03-25	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-09336-3-1/2023	OR737730	H3N2	2023-03-23	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-09336-4-1/2023	OR737738	H3N2	2023-03-23	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-09336-44-1/2023	OR737746	H3N2	2023-03-27	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Texas/M23-09336-52-1/2023	OR737754	H3N2	2023-03-26	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Thailand/CU-DC5299/2012	KC599547	H3N2	2012-01-15	Canine	Thailand	Southeast Asia	Canine	canine	Canine
+A/canine/Tianjin/368/2017	ON878010	H3N2	2017-11-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Tianjin/570/2018	ON878018	H3N2	2018-01-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Tianjin/643/2018	ON878026	H3N2	2018-03-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Tianjin/83/2018	ON878034	H3N2	2018-09-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Tianjin/84/2018	ON878042	H3N2	2018-09-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Tianjin/85/2018	ON878050	H3N2	2018-09-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Tianjin/89/2019	ON878058	H3N2	2019-10-XX	Canine	China	China	Canine	canine	Canine
+A/canine/Virginia/002912-1/2023	OR738681	H3N2	2023-01-04	Canine	Usa	North America	Canine	canine	Canine
+A/canine/West_Virginia/120508-1/2023	OR738689	H3N2	2023-05-19	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Wisconsin/19137/2016	KX571047	H3N2	2016-02-08	Canine	Usa	North America	Canine	canine	Canine
+A/canine/Xi'an/20170601-157/2017	MK212406	H3N2	2017-06-01	Canine	China	China	Canine	canine	Canine
+A/canine/Xi'an/20170601-159/2017	MK212398	H3N2	2017-06-01	Canine	China	China	Canine	canine	Canine
+A/canine/Zhejiang/1/2010	JF714149	H3N2	2010-09-30	Canine	China	China	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/000915/2018	EPI1526337	H3N2	2018-01-03	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/006974/2018	EPI1526345	H3N2	2018-01-17	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/007780/2018	EPI1526353	H3N2	2018-01-17	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/007781/2018	EPI1526361	H3N2	2018-01-17	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/118191/2017	EPI1526401	H3N2	2017-10-31	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/150620/2018	EPI1526377	H3N2	2018-08-21	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/152386/2018	EPI1526385	H3N2	2018-08-23	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/188203/2017	EPI1526409	H3N2	2017-10-31	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/188226/2017	EPI1526417	H3N2	2017-10-31	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/188297/2017	EPI1526425	H3N2	2017-10-31	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/188305/2017	EPI1526433	H3N2	2017-10-31	Canine	Usa	North America	Canine	canine	Canine
+A/Canis_lupus_familiaris/USA/218592/2017	EPI1526441	H3N2	2017-12-30	Canine	Usa	North America	Canine	canine	Canine
+A/dog/Indiana/M16-09378-32-1/2016	EPI2597124	H3N2	2016-04-05	Canine	Usa	North America	Canine	canine	Canine

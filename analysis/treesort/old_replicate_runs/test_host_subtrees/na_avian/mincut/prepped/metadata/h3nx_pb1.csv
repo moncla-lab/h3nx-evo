@@ -1,0 +1,1329 @@
+strain,accession,subtype,date,host,country,region,species,broad,order
+A/American_black_duck/Alberta/284/2016|2016-08-28,MG599666,H3N8,2016-08-28,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Alberta/96/2016|2016-08-11,EPI1070017,H3N6,2016-08-11,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_Black_Duck/Maine/A00090256/2007|2007-09-25,MN210129,H3N2,2007-09-25,Avian,Usa,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Maine/UGAI15-7694/2015|2015-08-26,EPI1774764,H3N2,2015-08-26,Avian,Usa,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Maine/UGAI15-7795/2015|2015-09-28,EPI1774772,H3N2,2015-09-28,Avian,Usa,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Maine/UGAI16-5433/2016|2016-09-13,EPI1774796,H3N8,2016-09-13,Avian,Usa,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00425/2010|2010-08-10,EPI434648,H3N8,2010-08-10,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00454/2010|2010-08-11,EPI434655,H3N8,2010-08-11,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00484/2010|2010-08-12,CY138963,H3N8,2010-08-12,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00500/2010|2010-08-12,EPI434819,H3N8,2010-08-12,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00525/2010|2010-08-13,EPI433674,H3N8,2010-08-13,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00618/2010|2010-08-16,CY139171,H3N6,2010-08-16,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00619/2010|2010-08-16,EPI435000,H3N6,2010-08-16,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00620/2010|2010-08-16,EPI435007,H3N6,2010-08-16,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00622/2010|2010-08-16,EPI435028,H3N6,2010-08-16,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00624/2010|2010-08-16,EPI435042,H3N6,2010-08-16,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00687/2010|2010-08-09,CY139245,H3N8,2010-08-09,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/00953/2010|2010-09-15,EPI435309,H3N8,2010-09-15,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02491/2007|2007-09-17,EPI404842,H3N8,2007-09-17,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02496/2007|2007-09-18,EPI405227,H3N8,2007-09-18,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02502/2007|2007-09-18,EPI405205,H3N8,2007-09-18,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02525/2007|2007-09-24,EPI405277,H3N8,2007-09-24,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02549/2007|2007-09-26,CY128674,H3N8,2007-09-26,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02629/2007|2007-09-22,EPI404688,H3N8,2007-09-22,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02649/2007|2007-09-24,CY129100,H3N6,2007-09-24,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02650/2007|2007-09-24,EPI404708,H3N2,2007-09-24,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02651/2007|2007-09-24,EPI405109,H3N2,2007-09-24,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02656/2007|2007-09-24,EPI404880,H3N8,2007-09-24,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/02749/2007|2007-09-04,CY129348,H3N8,2007-09-04,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/03395/2009|2009-08-09,EPI404660,H3N8,2009-08-09,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/03398/2009|2009-08-09,EPI404626,H3N8,2009-08-09,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/03408/2009|2009-08-10,EPI404653,H3N8,2009-08-10,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/03451/2009|2009-08-12,EPI404592,H3N9,2009-08-12,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/03495/2009|2009-09-09,EPI404672,H3N8,2009-09-09,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/03509/2009|2009-09-10,EPI404665,H3N8,2009-09-10,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/04484/2007|2007-09-04,CY129284,H3N8,2007-09-04,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/19350/2006|2006-09-14,CY095424,H3N8,2006-09-14,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/New_Brunswick/25182/2007|2007-09-21,CY047702,H3N6,2007-09-21,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Newfoundland/734/2008|2008-09-19,KC492252,H3N8,2008-09-19,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/North_Carolina/1321373/2004|2004-12-22,EPI454864,H3N2,2004-12-22,Avian,Usa,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Nova_Scotia/03273/2009|2009-08-06,EPI391981,H3N8,2009-08-06,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Ohio/12OS5510/2012|2012-11-16,CY187027,H3N8,2012-11-16,Avian,Usa,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Prince_Edward_Island/00672/2010|2010-08-04,CY139229,H3N8,2010-08-04,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Prince_Edward_Island/00788/2010|2010-08-25,EPI435110,H3N8,2010-08-25,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Prince_Edward_Island/14228/2006|2006-08-15,CY095456,H3N8,2006-08-15,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Prince_Edward_Island/14230/2006|2006-08-15,CY095464,H3N8,2006-08-15,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_black_duck/Quebec/11235/2006|2006-08-24,CY047654,H3N2,2006-08-24,Avian,Canada,North America,American Black Duck,duck,Anseriformes
+A/American_coot/Oregon/20589-007/2007|2007-12-17,EPI290907,H3N8,2007-12-17,Avian,Usa,North America,Avian,avian,Avian
+A/American_Green-winged_Teal/17OS4133/2017|2017-10-14,MT824874,H3N6,2017-10-14,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/103781/2008|2008-09-13,KX714384,H3N6,2008-09-13,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/103885/2008|2008-09-13,KX714392,H3N6,2008-09-13,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/137886/2009|2009-09-27,KX714432,H3N8,2009-09-27,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/137916/2009|2009-09-18,KX714448,H3N8,2009-09-18,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/14164/2006|2006-08-16,KX714320,H3N6,2006-08-16,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_Green-Winged_Teal/Alaska/19TL00145/2019|2019-08-11,MW872167,H3N8,2019-08-11,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/306/2014|2014-09-11,KT338347,H3N3,2014-09-11,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/44155-169/2006|2006-08-12,EPI442205,H3N8,2006-08-12,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/44419-209/2008|2008-08-14,EPI442185,H3N6,2008-08-14,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/44419-233/2008|2008-08-10,EPI442194,H3N6,2008-08-10,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/478/2014|2014-10-02,KT338418,H3N1,2014-10-02,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/524/2014|2014-10-10,EPI729607,H3N8,2014-10-10,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Alaska/98313/2008|2008-09-13,KX714360,H3N8,2008-09-13,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/10BM04207R0/2010|2010-07-13,CY130475,H3N6,2010-07-13,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/10BM05376R0/2010|2010-07-25,CY135735,H3N8,2010-07-25,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/11BM03661/2011|2011-09-01,CY196232,H3N8,2011-09-01,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/11BM03897/2011|2011-09-04,EPI699728,H3N8,2011-09-04,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/11CH00044/2011|2011-09-10,CY196385,H3N8,2011-09-10,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/3/2007|2007-10-17,EPI221410,H3N8,2007-10-17,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/7MP1049/2007|2007-09-10,EPI296985,H3N8,2007-09-10,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Interior_Alaska/9BM6410R0/2009|2009-08-03,CY142632,H3N8,2009-08-03,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Mississippi/15OS7984/2015|2015-12-22,KY561234,H3N8,2015-12-22,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Missouri/15OS4838/2015|2015-09-12,KY583778,H3N8,2015-09-12,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Missouri/17OS3186/2017|2017-09-09,MK236783,H3N8,2017-09-09,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/13OS1778/2013|2013-09-14,KJ568255,H3N2,2013-09-14,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/13OS1844/2013|2013-09-07,KJ568247,H3N8,2013-09-07,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/13OS1861/2013|2013-09-08,KJ568159,H3N8,2013-09-08,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/13OS1867/2013|2013-09-08,KJ568279,H3N2,2013-09-08,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/13OS2056/2013|2013-09-21,KJ568063,H3N2,2013-09-21,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/13OS2106/2013|2013-09-22,KJ568095,H3N8,2013-09-22,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/13OS2108/2013|2013-09-22,KJ568359,H3N8,2013-09-22,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Ohio/15OS3625/2015|2015-09-05,KY583913,H3N1,2015-09-05,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Oregon/44336-124/2007|2007-08-16,EPI290779,H3N8,2007-08-16,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Texas/AI09-4396/2009|2009-09-19,EPI449976,H3N9,2009-09-19,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Wisconsin/08OS2270/2008|2008-10-19,EPI299465,H3N8,2008-10-19,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Wisconsin/08OS2291/2008|2008-10-20,EPI299473,H3N2,2008-10-20,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Wisconsin/08OS2292/2008|2008-10-20,CY079346,H3N2,2008-10-20,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_green-winged_teal/Wisconsin/13OS3462/2013|2013-09-29,KJ568031,H3N8,2013-09-29,Avian,Usa,North America,American Green-winged Teal,duck,Anseriformes
+A/American_widgeon/Alaska/7MP1061/2007|2007-09-10,EPI190716,H3N8,2007-09-10,Avian,Usa,North America,American Wigeon,duck,Anseriformes
+A/American_widgeon/Interior_Alaska/1/2007|2007-09-06,EPI221442,H3N8,2007-09-06,Avian,Usa,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/Alberta/215/1992|1992-08-24,EPI344681,H3N8,1992-08-24,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/Interior_Alaska/7MP1726/2007|2007-09-03,EPI298960,H3N8,2007-09-03,Avian,Usa,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/Minnesota/Sg-01067/2008|2008-10-12,EPI449691,H3N8,2008-10-12,Avian,Usa,North America,American Black Duck,duck,Anseriformes
+A/American_wigeon/New_Brunswick/04487/2007|2007-09-04,EPI391814,H3N8,2007-09-04,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/New_Brunswick/04488/2007|2007-09-04,CY125539,H3N8,2007-09-04,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/New_Brunswick/04490/2007|2007-09-04,EPI391828,H3N8,2007-09-04,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/New_Brunswick/04494/2007|2007-09-04,CY125299,H3N8,2007-09-04,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/New_Brunswick/04497/2007|2007-09-04,CY125531,H3N8,2007-09-04,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/American_wigeon/Ohio/16OS3665/2016|2016-10-15,MG280003,H3N8,2016-10-15,Avian,Usa,North America,American Wigeon,duck,Anseriformes
+A/American_Wigeon/Utah/D1615126/2016|2016-11-29,EPI1549558,H3N2,2016-11-29,Avian,Usa,North America,American Wigeon,duck,Anseriformes
+A/black_scoter/New_Brunswick/00002/2009|2009-05-02,EPI391705,H3N8,2009-05-02,Avian,Canada,North America,Duck,duck,Anseriformes
+A/black_scoter/Wisconsin/11OS4260/2011|2011-10-24,EPI512320,H3N2,2011-10-24,Avian,Usa,North America,Common Scoter,duck,Anseriformes
+A/blue-winged_teal/ALB/452/1983|1983-08-12,EPI87045,H3N1,1983-08-12,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/ALB/569/1985|1985-08-22,EPI87132,H3N8,1985-08-22,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/Blue-Winged_Teal/Alberta/1/2020|2020-09-02,EPI1896252,H3N8,2020-09-02,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/11646/2005|2005-08-05,CY047526,H3N8,2005-08-05,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/130/1987|1987-08-12,EPI345033,H3N8,1987-08-12,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/134/1989|1989-08-22,EPI345346,H3N6,1989-08-22,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/162/2017|2017-08-12,MH412250,H3N8,2017-08-12,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/164/2017|2017-08-12,MH412552,H3N8,2017-08-12,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/221/1978|1978-08-07,CY185711,H3N8,1978-08-07,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/222/2005|2005-08-10,CY102965,H3N8,2005-08-10,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/266/2023|2023-08-17,PP723173,H3N8,2023-08-17,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/3/2017|2017-08-12,EPI1303976,H3N8,2017-08-12,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/366/2007|2007-08-28,EPI343071,H3N8,2007-08-28,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/376/2007|2007-08-28,EPI345113,H3N6,2007-08-28,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/4/2017|2017-08-12,EPI1565354,H3N8,2017-08-12,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/456/2017|2017-08-13,EPI1299768,H3N8,2017-08-13,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/458/2017|2017-08-13,EPI1299811,H3N8,2017-08-13,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_Teal/Alberta/459/2017|2017-08-13,MH932201,H3N8,2017-08-13,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/459/2023|2023-08-19,PP723217,H3N8,2023-08-19,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/465/2023|2023-08-19,PP723199,H3N8,2023-08-19,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/467/2023|2023-08-19,PP723211,H3N8,2023-08-19,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/469/2023|2023-08-19,PP723181,H3N8,2023-08-19,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Alberta/90/2017|2017-08-12,EPI1304015,H3N8,2017-08-12,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3233/2011|2011-08-29,CY149666,H3N8,2011-08-29,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3244/2011|2011-09-19,CY149698,H3N8,2011-09-19,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3264/2011|2011-09-22,EPI476294,H3N8,2011-09-22,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3285/2011|2011-09-24,CY149714,H3N8,2011-09-24,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3286/2011|2011-09-24,EPI476317,H3N8,2011-09-24,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3287/2011|2011-09-24,CY149730,H3N8,2011-09-24,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3288/2011|2011-09-24,EPI476330,H3N8,2011-09-24,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Canada/3289/2011|2011-09-24,CY149746,H3N8,2011-09-24,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049-05/2010|2010-01-31,EPI331976,H3N8,2010-01-31,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049-I_H115-29/2013|2013-08-01,EPI1552590,H3N3,2013-08-01,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049-I_H116-16/2013|2013-08-01,EPI1552598,H3N8,2013-08-01,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049-I_H116-17/2013|2013-08-01,EPI1552606,H3N2,2013-08-01,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049-S_H115-29/2013|2013-08-01,EPI1552461,H3N3,2013-08-01,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049-S_H116-17/2013|2013-08-01,EPI1552494,H3N2,2013-08-01,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049-S_H116-76/2013|2013-08-01,EPI1552538,H3N2,2013-08-01,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H101-24/2011|2011-11-05,EPI965653,H3N8,2011-11-05,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H102-09/2011|2011-11-11,EPI965711,H3N2,2011-11-11,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H102-25/2011|2011-11-11,EPI891816,H3N2,2011-11-11,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H102-29/2011|2011-11-11,EPI891822,H3N2,2011-11-11,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H102-32/2011|2011-11-11,EPI965647,H3N8,2011-11-11,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H103-20/2011|2011-11-25,EPI965645,H3N2,2011-11-25,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H104-93/2011|2011-12-01,EPI965794,H3N3,2011-12-01,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H105-08/2011|2011-12-08,EPI966022,H3N3,2011-12-08,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H108-45/2012|2012-11-09,EPI965718,H3N2,2012-11-09,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H108-67/2012|2012-11-09,EPI891809,H3N2,2012-11-09,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H109-14/2012|2012-11-16,EPI965845,H3N3,2012-11-16,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H109-15/2012|2012-11-16,EPI965811,H3N2,2012-11-16,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H109-28/2012|2012-11-16,EPI891813,H3N2,2012-11-16,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H109-38/2012|2012-11-16,EPI965780,H3N8,2012-11-16,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Guatemala/CIP049H112-60/2012|2012-12-21,EPI965735,H3,2012-12-21,Avian,Guatemala,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Illinois/10OS1546/2010|2010-09-04,CY132663,H3N6,2010-09-04,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Illinois/12OS2929/2012|2012-09-08,CY186738,H3N8,2012-09-08,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Illinois/12OS2986/2012|2012-09-08,CY186443,H3N8,2012-09-08,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Illinois/15OS6152/2015|2015-10-29,EPI969195,H3N1,2015-10-29,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Illinois/16OS1724/2016|2016-09-11,EPI1154333,H3N8,2016-09-11,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Illinois/17OS2625/2017|2017-09-09,MK237928,H3N3,2017-09-09,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Illinois/17OS2629/2017|2017-09-09,MK237460,H3N8,2017-09-09,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Iowa/10OS2624/2010|2010-09-18,EPI419452,H3N2,2010-09-18,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Iowa/10OS2649/2010|2010-09-18,EPI419466,H3N6,2010-09-18,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Iowa/13OS2340/2013|2013-09-21,KJ568087,H3N8,2013-09-21,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Iowa/13OS2345/2013|2013-09-21,KJ568271,H3N8,2013-09-21,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Iowa/13OS2346/2013|2013-09-21,KJ567903,H3N8,2013-09-21,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Iowa/44555-551/2011|2011-09-17,EPI513028,H3N2,2011-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Kansas/ND0006685/2013|2013-09-10,KM374032,H3N8,2013-09-10,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Louisiana/AH054274/2015|2015-09-12,KY551227,H3N8,2015-09-12,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Louisiana/AI13-3483/2013|2013-09-21,CY206339,H3N8,2013-09-21,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Louisiana/Sg-00189/2007|2007-09-18,EPI187969,H3N6,2007-09-18,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Louisiana/Sg-00218/2007|2007-09-15,EPI298224,H3N8,2007-09-15,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Louisiana/UGAI15-0714/2015|2015-03-28,KY013746,H3N8,2015-03-28,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Lousiana/UGAI14-0342/2014|2014-03-30,KY063858,H3N8,2014-03-30,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Lousiana/UGAI14-0420/2014|2014-04-04,EPI974167,H3N2,2014-04-04,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Lousiana/UGAI14-0462/2014|2014-04-04,EPI974183,H3N2,2014-04-04,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Lousiana/UGAI14-0511/2014|2014-04-04,EPI974211,H3N2,2014-04-04,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Lousiana/UGAI14-0553/2014|2014-04-04,EPI974219,H3N2,2014-04-04,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Lousiana/UGAI14-1081/2014|2014-04-03,KY063990,H3N2,2014-04-03,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Manitoba/13436/2005|2005-08-30,EPI172225,H3N8,2005-08-30,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Minnesota/Sg-00787/2008|2008-08-03,EPI449319,H3N8,2008-08-03,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Mississippi/23-028162-001/2023|2023-09-13,EPI3351008,H3N8,2023-09-13,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/10MO0011/2010|2010-09-15,EPI419590,H3N6,2010-09-15,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/10MO013/2010|2010-09-15,EPI419603,H3N1,2010-09-15,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/15OS4769/2015|2015-09-12,KY284357,H3N2,2015-09-12,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/15OS4826/2015|2015-09-12,KY284378,H3N8,2015-09-12,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/15OS4859/2015|2015-09-12,KY284348,H3N8,2015-09-12,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/Blue-winged_Teal/Missouri/16OS2187/2016|2016-09-10,MN552524,H3N6,2016-09-10,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/Blue-winged_Teal/Missouri/17OS3072/2017|2017-09-09,MT824650,H3N8,2017-09-09,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/17OS3211/2017|2017-09-09,EPI1537441,H3N1,2017-09-09,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/17OS3219/2017|2017-09-09,MK236987,H3N8,2017-09-09,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Missouri/17OS3234/2017|2017-09-09,MK236858,H3N9,2017-09-09,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00283/2010|2010-09-14,CY138302,H3N8,2010-09-14,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00285/2010|2010-09-14,CY138310,H3N8,2010-09-14,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00291/2010|2010-09-14,EPI433971,H3N8,2010-09-14,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00595/2010|2010-08-15,EPI433985,H3N7,2010-08-15,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00597/2010|2010-08-15,EPI433992,H3N7,2010-08-15,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00598/2010|2010-08-15,EPI433999,H3N7,2010-08-15,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00599/2010|2010-08-15,EPI434006,H3N7,2010-08-15,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00600/2010|2010-08-15,EPI434013,H3N7,2010-08-15,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00766/2010|2010-08-25,EPI434027,H3N8,2010-08-25,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00767/2010|2010-08-25,EPI434049,H3N8,2010-08-25,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00768/2010|2010-08-25,EPI434064,H3N8,2010-08-25,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00771/2010|2010-08-25,EPI434078,H3N8,2010-08-25,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00774/2010|2010-08-25,CY138446,H3N8,2010-08-25,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/00775/2010|2010-08-25,EPI434102,H3N8,2010-08-25,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/New_Brunswick/03757/2009|2009-09-14,EPI391961,H3N6,2009-09-14,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_Teal/North_Dakota/AI09-3642/2009|2009-09-04,EPI449898,H3N1,2009-09-04,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_Teal/North_Dakota/AI09-4039/2009|2009-09-14,EPI449949,H3N6,2009-09-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/blue-winged_teal/North_Dakota/Sg-00740/2008|2008-09-07,EPI448677,H3N8,2008-09-07,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/North_Dakota/Sg-00759/2008|2008-09-11,EPI449467,H3N6,2008-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/blue-winged_teal/Nova_Scotia/00071/2010|2010-09-07,EPI433810,H3N8,2010-09-07,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Nova_Scotia/00072/2010|2010-09-07,EPI433817,H3N8,2010-09-07,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Nova_Scotia/00077/2010|2010-09-07,EPI433852,H3N8,2010-09-07,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Nova_Scotia/00079/2010|2010-09-07,EPI433908,H3N8,2010-09-07,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Nova_Scotia/00081/2010|2010-09-07,EPI433922,H3N8,2010-09-07,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Nova_Scotia/01027/2010|2010-09-22,EPI434184,H3N8,2010-09-22,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Nova_Scotia/03971/2009|2009-08-27,CY125272,H3N8,2009-08-27,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/12OS2123/2012|2012-09-02,CY186555,H3N2,2012-09-02,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/12OS2154/2012|2012-09-15,CY186917,H3N2,2012-09-15,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/12OS2229/2012|2012-09-07,CY186885,H3N6,2012-09-07,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/13OS1410/2013|2013-09-07,KJ526078,H3N6,2013-09-07,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/13OS1831/2013|2013-09-07,KJ567967,H3N2,2013-09-07,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/13OS2018/2013|2013-09-14,KJ568175,H3N8,2013-09-14,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/13OS3827/2013|2013-10-12,KJ568263,H3N8,2013-10-12,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/14OS1080/2014|2014-09-06,CY204070,H3N2,2014-09-06,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/15OS5135/2015|2015-09-12,KY583823,H3N8,2015-09-12,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/16OS1027/2016|2016-09-03,MG279790,H3N6,2016-09-03,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/16OS1061/2016|2016-09-07,MG280189,H3N2,2016-09-07,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/1714/2005|2005-01-01,EPI307584,H3N6,2005-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/17OS2004/2017|2017-09-08,MK237552,H3N8,2017-09-08,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/17OS2907/2017|2017-09-02,MK237894,H3N8,2017-09-02,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/17OS2925/2017|2017-09-02,MK237092,H3N8,2017-09-02,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/1858/2006|2006-01-01,CY095646,H3N8,2006-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/1864/2006|2006-01-01,EPI131991,H3N8,2006-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/Blue-winged_Teal/Ohio/18OS1705/2018|2018-09-05,EPI1601624,H3N8,2018-09-05,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/31/1999|1999-10-16,CY018005,H3N2,1999-10-16,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/908/2002|2002-09-07,EPI33738,H3N2,2002-09-07,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Ohio/926/2002|2002-09-07,CY011034,H3N8,2002-09-07,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Prince_Edward_Island/00831/2010|2010-09-02,EPI434124,H3N7,2010-09-02,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Prince_Edward_Island/03912/2009|2009-08-19,EPI391932,H3N8,2009-08-19,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Prince_Edward_Island/03927/2009|2009-08-19,CY125291,H3N8,2009-08-19,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Saskatchewan/75/1982|1982-01-01,CY178549,H3N8,1982-01-01,Avian,Canada,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI09-4405/2009|2009-09-19,CY140967,H3N6,2009-09-19,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI10-3317/2010|2010-09-11,EPI750563,H3N8,2010-09-11,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI10-4179/2010|2010-09-18,EPI751053,H3N8,2010-09-18,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-3100/2011|2011-09-17,CY205822,H3N6,2011-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-3220/2011|2011-09-17,CY205901,H3N8,2011-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-3387/2011|2011-09-18,CY205969,H3N6,2011-09-18,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-3407/2011|2011-09-17,CY205977,H3N8,2011-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-3764/2011|2011-09-16,EPI751446,H3N8,2011-09-16,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-3766/2011|2011-09-17,CY206065,H3N8,2011-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-4014/2011|2011-09-17,CY206097,H3N8,2011-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI11-4865/2011|2011-09-17,CY206169,H3N6,2011-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI12-3655/2012|2012-09-17,CY206225,H3N8,2012-09-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI12-3834/2012|2012-09-16,CY206258,H3N6,2012-09-16,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI12-4394/2012|2012-09-23,CY206274,H3N8,2012-09-23,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI12-4448/2012|2012-09-18,CY206290,H3N6,2012-09-18,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI13-3629/2013|2013-09-14,CY206436,H3N8,2013-09-14,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI13-3636/2013|2013-09-14,CY206444,H3N8,2013-09-14,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI13-3971/2013|2013-09-20,CY206494,H3N8,2013-09-20,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI13-4012/2013|2013-09-14,CY206518,H3N8,2013-09-14,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI13-4087/2013|2013-09-18,CY206550,H3N8,2013-09-18,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/AI13-4289/2013|2013-09-14,CY206585,H3N8,2013-09-14,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/Sg-00078/2007|2007-09-15,EPI263170,H3N8,2007-09-15,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/Sg-00083/2007|2007-09-16,CY032832,H3N6,2007-09-16,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/Sg-00085/2007|2007-09-16,CY078263,H3N6,2007-09-16,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/UGAI15-5684/2015|2015-09-15,EPI973872,H3N8,2015-09-15,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Texas/UGAI18-1914/2018|2018-09-26,EPI1789828,H3N8,2018-09-26,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/109/1980|1980-01-01,CY178388,H3N2,1980-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/10OS2862/2010|2010-10-02,CY133107,H3N2,2010-10-02,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/10OS3092/2010|2010-10-03,CY133151,H3N6,2010-10-03,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/11OS2873/2011|2011-09-24,EPI512268,H3N2,2011-09-24,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/11OS3052/2011|2011-09-24,EPI512975,H3N2,2011-09-24,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/11OS3301/2011|2011-10-01,EPI512790,H3N2,2011-10-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/11OS3303/2011|2011-10-01,EPI512797,H3N2,2011-10-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/123/1978|1978-01-01,CY181263,H3N6,1978-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/124/1980|1980-01-01,CY180874,H3N8,1980-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/13OS3463/2013|2013-09-29,KJ567863,H3N2,2013-09-29,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/156/1980|1980-01-01,CY180914,H3N2,1980-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/172/1978|1978-01-01,CY181287,H3N2,1978-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/2720/2009|2009-10-17,EPI333858,H3N2,2009-10-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/279/1975|1975-01-01,CY179745,H3N8,1975-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/3060/2009|2009-10-17,EPI334133,H3N2,2009-10-17,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/314/1976|1976-01-01,CY180177,H3N2,1976-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/634/1983|1983-01-01,CY180330,H3N2,1983-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/89/1979|1979-01-01,CY180265,H3N2,1979-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue-winged_teal/Wisconsin/97/1978|1978-01-01,CY181239,H3N2,1978-01-01,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue_winged-teal/Wisconsin/12OS2603/2012|2012-09-29,CY187117,H3N2,2012-09-29,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/blue_winged-teal/Wisconsin/12OS4239/2012|2012-10-13,CY187182,H3N2,2012-10-13,Avian,Usa,North America,Blue-winged Teal,duck,Anseriformes
+A/bufflehead/Alberta/400/2007|2007-08-28,EPI343030,H3N8,2007-08-28,Avian,Canada,North America,Duck,duck,Anseriformes
+A/Bufflehead/Alberta/600/2021|2021-08-26,EPI2257992,H3N2,2021-08-26,Avian,Canada,North America,Bufflehead,duck,Anseriformes
+A/chicken/NY/11602-12/1998|1998-01-01,EPI158892,H3N2,1998-01-01,Avian,Usa,North America,Chicken,chicken,Galliformes
+A/cinnamon_teal/Idaho/UGAI16-1864/2016|2016-08-15,CY235112,H3N8,2016-08-15,Avian,Usa,North America,Cinnamon Teal,duck,Anseriformes
+A/cinnamon_teal/Idaho/UGAI16-1905/2016|2016-08-16,CY235184,H3N8,2016-08-16,Avian,Usa,North America,Cinnamon Teal,duck,Anseriformes
+A/cinnamon_teal/Idaho/UGAI16-1907/2016|2016-08-16,CY235192,H3N8,2016-08-16,Avian,Usa,North America,Cinnamon Teal,duck,Anseriformes
+A/cinnamon_teal/Utah/AH0166335/2021|2021-08-06,EPI1933055,H3N8,2021-08-06,Avian,Usa,North America,Cinnamon Teal,duck,Anseriformes
+A/duck/Alaska/429/1991|1991-08-01,EPI1555273,H3N8,1991-08-01,Avian,Usa,North America,Avian,avian,Avian
+A/duck/Alberta/16/1976|1976-08-01,EPI1555265,H3N8,1976-08-01,Avian,Canada,North America,Avian,avian,Avian
+A/duck/Interior_Alaska/11PG00704/2011|2011-08-17,EPI702225,H3N8,2011-08-17,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Interior_Alaska/11PG00730/2011|2011-08-19,EPI702234,H3N8,2011-08-19,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Minnesota/36/1975|1975-01-01,CY177580,H3N2,1975-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/NY/13822/1995|1995-01-01,EPI239393,H3N8,1995-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/NY/6874/1978|1978-01-01,EPI156230,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1143/1978|1978-01-01,CY180930,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1149/1978|1978-01-01,CY180938,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1150/1978|1978-01-01,CY180946,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1151/1978|1978-01-01,CY180954,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1152/1978|1978-01-01,CY180962,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1155/1978|1978-01-01,CY180970,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1156/1978|1978-01-01,CY180978,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1159/1978|1978-01-01,CY180986,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1161/1978|1978-01-01,CY180994,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1164/1978|1978-01-01,CY181002,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1168/1978|1978-01-01,CY181010,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1175/1978|1978-01-01,CY181027,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/1179/1978|1978-01-01,CY181035,H3N2,1978-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/2791/1985|1985-01-01,CY178460,H3N6,1985-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/2810/1985|1985-01-01,CY178468,H3N6,1985-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/duck/Wisconsin/2843/1985|1985-01-01,CY179321,H3N6,1985-01-01,Avian,Usa,North America,Duck,duck,Anseriformes
+A/emperor_goose/Alaska/18/2012|2012-09-26,KY130769,H3N8,2012-09-26,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/279/2012|2012-09-26,KY130785,H3N8,2012-09-26,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-6734/2015|2015-09-19,KY131295,H3N8,2015-09-19,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-6758/2015|2015-09-20,KX949466,H3N8,2015-09-20,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-6759/2015|2015-09-20,KX949474,H3N8,2015-09-20,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8432/2015|2015-12-14,MH569221,H3N7,2015-12-14,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8435/2015|2015-12-14,MH569229,H3N7,2015-12-14,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8436/2015|2015-12-15,MH569237,H3N7,2015-12-15,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8440/2015|2015-12-15,MH569245,H3N7,2015-12-15,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8444/2015|2015-12-15,MH569253,H3N7,2015-12-15,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8445/2015|2015-12-15,MH569261,H3N7,2015-12-15,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8446/2015|2015-12-16,MH569269,H3N3,2015-12-16,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8448/2015|2015-12-16,MH569277,H3N3,2015-12-16,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8461/2015|2015-12-17,MH569301,H3N7,2015-12-17,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/emperor_goose/Alaska/UGAI15-8463/2015|2015-12-17,MH569309,H3N7,2015-12-17,Avian,Usa,North America,Emperor Goose,goose,Anseriformes
+A/gadwall/Ohio/12OS2222/2012|2012-11-16,CY187019,H3N8,2012-11-16,Avian,Usa,North America,Gadwall,duck,Anseriformes
+A/gadwall/Wisconsin/08OS2293/2008|2008-10-20,CY079354,H3N2,2008-10-20,Avian,Usa,North America,Gadwall,duck,Anseriformes
+A/gadwall_duck/Wisconsin/16OS4758/2016|2016-10-29,MG280517,H3N2,2016-10-29,Avian,Usa,North America,Gadwall,duck,Anseriformes
+A/glaucous-winged_gull/Alaska/473/2012|2012-09-28,KY130809,H3N8,2012-09-28,Avian,Usa,North America,Glaucous-winged Gull,gull,Neoave
+A/Glaucous-Winged_Gull/Southcentral_Alaska/17MB02917/2017|2017-07-10,MN210161,H3N2,2017-07-10,Avian,Usa,North America,Glaucous-winged Gull,gull,Neoave
+A/glaucous_gull/Alaska/44201-161/2006|2006-09-24,EPI275157,H3N8,2006-09-24,Avian,Usa,North America,Glaucous-winged Gull,gull,Neoave
+A/greater_white-fronted_goose/Alaska/44064-108/2006|2006-05-20,JX080891,H3N2,2006-05-20,Avian,Usa,North America,Greater White-fronted Goose,goose,Anseriformes
+A/greater_white-fronted_goose/Alaska/44299-055/2007|2007-05-14,JX080917,H3N8,2007-05-14,Avian,Usa,North America,Greater White-fronted Goose,goose,Anseriformes
+A/green-winged_teal/Alaska/239/2013|2013-09-09,KY130975,H3N8,2013-09-09,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/292/2011|2011-09-18,EPI966352,H3N8,2011-09-18,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/794/2012|2012-10-06,EPI966667,H3N8,2012-10-06,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/AK18-WB1-033A/2018|2018-09-09,EPI1772764,H3N8,2018-09-09,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/AK18-WB1-066A/2018|2018-09-21,EPI1772780,H3N6,2018-09-21,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/AK19-540/2019|2019-10-05,MW873620,H3N6,2019-10-05,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/AK20-372/2020|2020-09-24,MW873628,H3N8,2020-09-24,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/AK20-528/2020|2020-10-22,MW873652,H3N8,2020-10-22,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/UGAI15-6400/2015|2015-09-11,KX949434,H3N8,2015-09-11,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/UGAI15-7286/2015|2015-09-23,KX949482,H3N8,2015-09-23,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alaska/UGAI16-4602/2016|2016-09-15,MW513529,H3N8,2016-09-15,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/ALB/438/1979|1979-08-10,EPI86975,H3N8,1979-08-10,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/Green-Winged_Teal/Alberta/395/2023|2023-08-18,PP691607,H3N8,2023-08-18,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alberta/415/2017|2017-08-12,MH636957,H3N8,2017-08-12,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alberta/426/2017|2017-08-12,EPI1299926,H3N8,2017-08-12,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alberta/427/2017|2017-08-12,EPI1299401,H3N8,2017-08-12,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alberta/428/2017|2017-08-12,EPI1299711,H3N8,2017-08-12,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alberta/430/2017|2017-08-12,EPI1299456,H3N8,2017-08-12,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Alberta/431/2017|2017-08-12,EPI1299348,H3N8,2017-08-12,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Idaho/UGAI16-1900/2016|2016-08-16,CY235160,H3N8,2016-08-16,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Interior_Alaska/6MP0736/2006|2006-08-07,EPI298504,H3N8,2006-08-07,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Interior_Alaska/6MP1140/2006|2006-09-22,CY079738,H3N8,2006-09-22,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Louisiana/Sg-00092/2007|2007-09-15,EPI298248,H3N8,2007-09-15,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Minnesota/Sg-00131/2007|2007-09-29,EPI184477,H3N2,2007-09-29,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Minnesota/Sg-00991/2008|2008-09-11,EPI449576,H3N8,2008-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/green-winged_teal/Minnesota/Sg-01000/2008|2008-09-11,EPI449583,H3N6,2008-09-11,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/New_Brunswick/02595/2007|2007-09-20,CY125411,H3N8,2007-09-20,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/New_Brunswick/02596/2007|2007-09-20,EPI391786,H3N8,2007-09-20,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/New_Brunswick/03483/2009|2009-08-14,EPI391747,H3N8,2009-08-14,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Ohio/1289/2005|2005-01-01,EPI60191,H3N8,2005-01-01,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Ohio/14OS1964/2014|2014-09-06,CY204030,H3N2,2014-09-06,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Ohio/15OS5438/2015|2015-09-16,KY561318,H3N2,2015-09-16,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Ohio/16OS1008/2016|2016-09-03,EPI1154430,H3N6,2016-09-03,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Ohio/466/1987|1987-01-01,CY017843,H3N8,1987-01-01,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Ohio/960/2002|2002-09-07,EPI230688,H3N8,2002-09-07,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Prince_Edward_Island/00839/2010|2010-09-02,EPI435101,H3N8,2010-09-02,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Prince_Edward_Island/00840/2010|2010-09-02,EPI435138,H3N8,2010-09-02,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Prince_Edward_Island/00841/2010|2010-09-02,EPI435146,H3N8,2010-09-02,Avian,Canada,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Texas/AI11-3781/2011|2011-09-17,CY206081,H3N6,2011-09-17,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Wisconsin/282/1978|1978-01-01,CY181215,H3N8,1978-01-01,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Wisconsin/496/1983|1983-01-01,CY177916,H3N8,1983-01-01,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Wisconsin/539/1976|1976-01-01,CY180225,H3N1,1976-01-01,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/green-winged_teal/Wisconsin/7/1974|1974-01-01,CY181043,H3N2,1974-01-01,Avian,Usa,North America,Green-winged Teal,duck,Anseriformes
+A/guinea_fowl/NJ/8848-18/1998|1998-01-01,EPI158884,H3N2,1998-01-01,Avian,Usa,North America,Guinea Fowl,guinea_fowl,Galliformes
+A/hooded_merganser/New_Brunswick/03749/2009|2009-09-14,EPI391691,H3N8,2009-09-14,Avian,Canada,North America,Duck,duck,Anseriformes
+A/laughing_gull/Delaware_Bay/409/2017|2017-05-23,MH135740,H3N8,2017-05-23,Avian,Usa,North America,Laughing Gull,gull,Neoave
+A/laughing_gull/New_Jersey/UGAI17-2848/2017|2017-05-23,MH068357,H3N8,2017-05-23,Avian,Usa,North America,Laughing Gull,gull,Neoave
+A/laughing_gull/New_Jersey/UGAI17-2964/2017|2017-05-26,MH068381,H3N8,2017-05-26,Avian,Usa,North America,Laughing Gull,gull,Neoave
+A/lesser_scaup/Alberta/206/1995|1995-08-12,EPI344276,H3N8,1995-08-12,Avian,Canada,North America,Duck,duck,Anseriformes
+A/long-tailed_duck/Wisconsin/10OS3915/2010|2010-11-16,CY133551,H3N6,2010-11-16,Avian,Usa,North America,Long-tailed Duck,duck,Anseriformes
+A/long-tailed_duck/Wisconsin/11OS4248/2011|2011-10-24,EPI512313,H3N8,2011-10-24,Avian,Usa,North America,Long-tailed Duck,duck,Anseriformes
+A/long-tailed_duck/Wisconsin/16OS4632/2016|2016-11-27,EPI1154069,H3N8,2016-11-27,Avian,Usa,North America,Long-tailed Duck,duck,Anseriformes
+A/long-tailed_duck/Wisconsin/18OS2993/2018|2018-11-30,MN794971,H3N1,2018-11-30,Avian,Usa,North America,Long-tailed Duck,duck,Anseriformes
+A/long-tailed_duck/Wisconsin/18OS3407/2018|2018-11-30,MN795012,H3N6,2018-11-30,Avian,Usa,North America,Long-tailed Duck,duck,Anseriformes
+A/long-tailed_duck/Wisconsin/18OS3416/2018|2018-11-30,MN795043,H3N1,2018-11-30,Avian,Usa,North America,Long-tailed Duck,duck,Anseriformes
+A/longtail_duck/Maryland/291/2005|2005-12-05,EPI49480,H3N8,2005-12-05,Avian,Usa,North America,Avian,avian,Avian
+A/mallard-black_duck_hybrid/New_Brunswick/02642/2007|2007-09-23,EPI405304,H3N8,2007-09-23,Avian,Canada,North America,Duck,duck,Anseriformes
+A/mallard.Maryland/708/2005|2005-01-01,EPI227321,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/256/2005|2005-08-11,EPI44114,H3N8,2005-08-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/327/2013|2013-09-13,KY130991,H3N8,2013-09-13,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44185-043/2006|2006-08-19,EPI288929,H3N2,2006-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44185-067/2006|2006-08-19,EPI288909,H3N2,2006-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44185-078/2006|2006-08-19,EPI288918,H3N2,2006-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44187-129/2006|2006-08-19,EPI288917,H3N2,2006-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44187-131/2006|2006-08-19,EPI288915,H3N2,2006-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44244-050/2006|2006-09-01,EPI288899,H3N8,2006-09-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44421-148/2008|2008-10-13,EPI288894,H3N6,2008-10-13,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/44430-026/2008|2008-09-27,EPI288912,H3N8,2008-09-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/AH0185243/2021|2021-08-19,OL467050,H3N8,2021-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/AH0185252/2021|2021-08-19,OL467066,H3N8,2021-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/AH0185290/2021|2021-08-11,OL467074,H3N8,2021-08-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/AK18-WB1-048A/2018|2018-09-11,EPI1772804,H3N8,2018-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/AK18-WB1-048B/2018|2018-09-11,EPI1772812,H3N8,2018-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/AK19-199E_T1/2019|2019-09-29,MW874315,H3N2,2019-09-29,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Alaska/ND0006301/2013|2013-09-08,KM374024,H3N8,2013-09-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/ALB/118/1995|1995-08-01,EPI87185,H3N5,1995-08-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/ALB/394/1988|1988-09-04,EPI87155,H3N3,1988-09-04,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/100/2023|2023-08-15,PP691642,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/101/2023|2023-08-15,PP691708,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/107/2007|2007-08-22,EPI343254,H3N8,2007-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/108/2023|2023-08-15,PP691748,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/109/1991|1991-08-10,EPI344732,H3N8,1991-08-10,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/109/2023|2023-08-15,PP691863,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/113/2023|2023-08-15,PP691830,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/114/1997|1997-08-05,EPI344220,H3N8,1997-08-05,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/115/1991|1991-08-10,EPI344724,H3N8,1991-08-10,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/11527/2005|2005-08-03,CY047518,H3N8,2005-08-03,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/116/2007|2007-08-22,EPI343216,H3N8,2007-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/117/1997|1997-08-05,EPI344212,H3N8,1997-08-05,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/117/97|1997-01-01,EPI22003,H3N8,1997-01-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/118/1995|1995-08-01,CY004698,H3N5,1995-08-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/122/2007|2007-08-22,EPI343208,H3N8,2007-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/127/00|2000-01-01,EPI22035,H3N8,2000-01-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/129/1991|1991-08-26,EPI344708,H3N6,1991-08-26,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/130/2007|2007-08-22,EPI343192,H3N8,2007-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/131/2015|2015-08-11,EPI1038328,H3N8,2015-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/134/2007|2007-08-22,EPI343183,H3N8,2007-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/137/2007|2007-08-22,EPI343175,H3N8,2007-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/140/1987|1987-08-13,EPI345025,H3N8,1987-08-13,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/142/1994|1994-08-13,EPI344308,H3N6,1994-08-13,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/156/2001|2001-08-06,EPI87209,H3N8,2001-08-06,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/16/1987|1987-08-04,CY101436,H3N8,1987-08-04,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/160/2001|2001-08-06,EPI343777,H3N8,2001-08-06,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/166/2022|2022-08-21,EPI2258442,H3N8,2022-08-21,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/167/1998|1998-08-05,EPI344140,H3N8,1998-08-05,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/169/1998|1998-08-05,EPI344132,H3N8,1998-08-05,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/182/2017|2017-08-12,EPI1299483,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/192/1993|1993-08-22,EPI344631,H3N8,1993-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/192/2004|2004-08-13,CY102790,H3N1,2004-08-13,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/193/1994|1994-08-14,EPI344300,H3N8,1994-08-14,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/199/1999|1999-08-07,EPI343848,H3N6,1999-08-07,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/199/99|1999-01-01,EPI22083,H3N6,1999-01-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/20/1989|1989-08-02,EPI344876,H3N8,1989-08-02,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/203/2015|2015-08-11,EPI1073011,H3N4,2015-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/212/2006|2006-08-09,EPI343437,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/214/2006|2006-08-09,EPI343429,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/219/2006|2006-08-09,EPI343421,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/220/1990|1990-08-28,EPI344828,H3N8,1990-08-28,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/225/2006|2006-08-09,EPI343387,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/228/2006|2006-08-09,EPI343379,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/230/2017|2017-08-12,EPI1565490,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/237/2021|2021-08-26,EPI2258133,H3N8,2021-08-26,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/238/2006|2006-08-09,EPI343371,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/241/2004|2004-08-15,EPI343673,H3N8,2004-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/242/1998|1998-08-11,EPI344116,H3N8,1998-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/242/98|1998-01-01,EPI22227,H3N8,1998-01-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/246/2017|2017-08-12,EPI1565378,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/253/2023|2023-08-17,PP691840,H3N8,2023-08-17,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/254/2003|2003-08-08,EPI342911,H3N3,2003-08-08,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/274/2006|2006-08-09,EPI343319,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/279/2006|2006-08-09,EPI343311,H3N8,2006-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/279/98|1998-01-01,EPI22243,H3N8,1998-01-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/28/2007|2007-08-18,EPI343279,H3N8,2007-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/292/2017|2017-08-12,EPI1565362,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/297/2023|2023-08-17,PP691711,H3N6,2023-08-17,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/30/2017|2017-08-12,EPI1565522,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/306/2023|2023-08-17,PP691531,H3N8,2023-08-17,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/31/1994|1994-08-09,EPI344324,H3N8,1994-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/312/2007|2007-08-28,EPI343113,H3N8,2007-08-28,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/32/1991|1991-08-09,EPI344796,H3N8,1991-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/328/2017|2017-08-12,EPI1299446,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/337/2023|2023-08-18,PP691639,H3N8,2023-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/35/1992|1992-08-11,EPI344700,H3N6,1992-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/355/2022|2022-08-22,EPI2258397,H3N8,2022-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/361/2022|2022-08-22,EPI2258368,H3N8,2022-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/362/2017|2017-08-12,EPI1299432,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/362/2022|2022-08-22,EPI2258360,H3N8,2022-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/363/2018|2018-08-13,MK345666,H3N8,2018-08-13,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/365/2015|2015-08-11,MF613682,H3N8,2015-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/371/2023|2023-08-18,PP691589,H3N8,2023-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/377/2023|2023-08-18,PP692037,H3N8,2023-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/378/1988|1988-09-14,EPI344916,H3N8,1988-09-14,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/379/2023|2023-08-18,PP691883,H3N8,2023-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/398/2017|2017-08-12,EPI1299668,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/40/2017|2017-08-12,EPI1303807,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/408/2017|2017-08-12,EPI1299918,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/411/2017|2017-08-12,EPI1299939,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/418/2023|2023-08-18,PP691904,H3N8,2023-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/47/2017|2017-08-12,EPI1303867,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/478/2023|2023-08-19,PP691580,H3N8,2023-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/481/2023|2023-08-19,PP691921,H3N8,2023-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/482/2017|2017-08-13,EPI1565691,H3N8,2017-08-13,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/482/2023|2023-08-19,PP691956,H3N8,2023-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/483/2023|2023-08-19,PP691789,H3N8,2023-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/497/2023|2023-08-19,PP691856,H3N8,2023-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/507/2008|2008-08-08,CY103489,H3N8,2008-08-08,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/509/2023|2023-08-19,PP691972,H3N8,2023-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/515/2015|2015-08-11,MF046519,H3N8,2015-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/527/2008|2008-08-08,CY103497,H3N8,2008-08-08,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/53/2017|2017-08-12,EPI1565546,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/54/1991|1991-08-09,EPI344788,H3N8,1991-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/54/1993|1993-08-17,EPI344655,H3N9,1993-08-17,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/551/2009|2009-08-23,EPI342938,H3N8,2009-08-23,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/56/2022|2022-08-20,EPI2401284,H3N8,2022-08-20,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/595/2017|2017-08-13,MH932477,H3N8,2017-08-13,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/598/2023|2023-08-20,PP691814,H3N8,2023-08-20,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/60/1991|1991-08-09,CY101705,H3N8,1991-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/61/1991|1991-08-09,EPI344772,H3N8,1991-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/612/2015|2015-08-12,MF046428,H3N8,2015-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/62/1991|1991-08-09,EPI344764,H3N8,1991-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/635/1983|1983-08-19,CY004655,H3N5,1983-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/64/1991|1991-08-09,EPI344756,H3N8,1991-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/66/2016|2016-08-10,MF613770,H3N8,2016-08-10,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/67/2015|2015-08-11,MF613939,H3N8,2015-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/72/1993|1993-08-17,EPI344647,H3N8,1993-08-17,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/72/1994|1994-08-09,CY101200,H3N6,1994-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/772/1986|1986-08-26,EPI344892,H3N8,1986-08-26,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/782/1986|1986-08-26,EPI344884,H3N8,1986-08-26,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/81/2017|2017-08-12,MH412029,H3N8,2017-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/83/2023|2023-08-15,PP691592,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Alberta/85/1994|1994-08-12,EPI344316,H3N8,1994-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/95/2023|2023-08-15,PP691627,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/96/2023|2023-08-15,PP691614,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/98/2023|2023-08-15,PP691731,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard/Alberta/99/2023|2023-08-15,PP691672,H3N8,2023-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/British_Columbia/07569/2005|2005-08-18,EPI227255,H3N8,2005-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/British_Columbia/07706/2005|2005-08-22,CY047494,H3N8,2005-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/California/2521P/2011|2011-08-12,CY133923,H3N8,2011-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2547V/2011|2011-08-12,CY134035,H3N8,2011-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2550P/2011|2011-08-12,CY134051,H3N8,2011-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2568P/2011|2011-08-12,CY134147,H3N8,2011-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2569V/2011|2011-08-12,CY134171,H3N8,2011-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2578P/2011|2011-08-12,CY134212,H3N8,2011-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2744/2012|2012-07-11,EPI486136,H3N8,2012-07-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2752/2012|2012-07-11,EPI486162,H3N8,2012-07-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2783/2012|2012-07-13,CY157100,H3N8,2012-07-13,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2823/2012|2012-07-16,EPI486257,H3N8,2012-07-16,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2904/2012|2012-07-20,EPI486350,H3N8,2012-07-20,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/2924/2012|2012-07-23,CY157573,H3N8,2012-07-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/3036/2012|2012-07-27,EPI486671,H3N8,2012-07-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/3072/2012|2012-08-06,EPI486692,H3N8,2012-08-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/3304/2012|2012-08-10,EPI486832,H3N8,2012-08-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/6471/2008|2008-11-02,CY093605,H3N8,2008-11-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/M11t72maH3/2018|2018-08-14,MW132213,H3N8,2018-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/M15t72maH3/2018|2018-09-15,MW132235,H3N8,2018-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/SL01B72maH3/2018|2018-06-25,MW132339,H3N8,2018-06-25,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/SL06B72maH3/2018|2018-10-14,MW132298,H3N8,2018-10-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/UCD101475mdck/2016|2016-10-19,MW132227,H3N8,2016-10-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/UCD1322/2017|2017-07-31,EPI1514386,H3N8,2017-07-31,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/UCD1357/2017|2017-08-02,EPI1514340,H3N8,2017-08-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/UCD840/2015|2015-08-08,EPI812881,H3N8,2015-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/California/UCD880/2015|2015-07-30,KY828804,H3N8,2015-07-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/23-028149-057/2023|2023-09-12,EPI3358450,H3N6,2023-09-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/AH0011459/2015|2015-08-23,KY551337,H3N8,2015-08-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/ND0002644/2013|2013-08-21,KM373968,H3N8,2013-08-21,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/UGAI16-1929/2016|2016-08-18,CY235200,H3N8,2016-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/UGAI16-1930/2016|2016-08-18,CY235208,H3N8,2016-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/UGAI16-1942/2016|2016-08-18,CY235263,H3N8,2016-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/UGAI16-1943/2016|2016-08-18,EPI1037075,H3N8,2016-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Idaho/UGAI16-1948/2016|2016-08-18,CY235279,H3N8,2016-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Illinois/10OS2677/2010|2010-10-02,CY132703,H3N2,2010-10-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Illinois/11OS5570/2011|2011-11-12,EPI513042,H3N8,2011-11-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM05900R0/2010|2010-07-26,EPI436680,H3N8,2010-07-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM09158R0/2010|2010-08-06,CY143698,H3N8,2010-08-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM09159R0/2010|2010-08-06,CY143706,H3N8,2010-08-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM09561R0/2010|2010-08-07,EPI453808,H3N8,2010-08-07,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM09893R0/2010|2010-01-01,CY136339,H3N6,2010-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM09896R0/2010|2010-01-01,CY136347,H3N6,2010-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM11414R0/2010|2010-08-12,CY143891,H3N8,2010-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM11415R0/2010|2010-08-12,CY143899,H3N8,2010-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM11416R0/2010|2010-08-12,CY143907,H3N8,2010-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM11420R0/2010|2010-08-12,CY143931,H3N8,2010-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM11497R0/2010|2010-08-12,EPI454018,H3N6,2010-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM12049R0/2010|2010-08-13,CY144101,H3N8,2010-08-13,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM12350R0/2010|2010-08-14,CY144037,H3N8,2010-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM12352R0/2010|2010-08-14,CY144053,H3N8,2010-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM12362R0/2010|2010-08-14,CY141513,H3N8,2010-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/10BM12370R0/2010|2010-08-14,CY144069,H3N8,2010-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/11BM01255/2011|2011-08-03,EPI699441,H3N8,2011-08-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/11BM02923/2011|2011-08-14,CY196119,H3N8,2011-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/11BM03819/2011|2011-09-03,EPI699675,H3N8,2011-09-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/12ML00034/2012|2012-08-19,EPI699085,H3N8,2012-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0050R1/2006|2006-08-11,CY078569,H3N8,2006-08-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0163AR2/2006|2006-08-12,CY078705,H3N8,2006-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0878/2006|2006-08-16,CY078593,H3N8,2006-08-16,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0915/2006|2006-08-17,EPI298552,H3N8,2006-08-17,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0951/2006|2006-08-18,EPI298672,H3N8,2006-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0952/2006|2006-08-18,EPI298680,H3N6,2006-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0975/2006|2006-08-18,CY078497,H3N8,2006-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0983R1/2006|2006-08-18,CY079746,H3N8,2006-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0991/2006|2006-08-19,EPI298568,H3N2,2006-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP0992/2006|2006-08-19,EPI298576,H3N2,2006-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/6MP1142/2006|2006-09-22,CY078633,H3N6,2006-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/7MP0510/2007|2007-09-07,CY077236,H3N6,2007-09-07,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/7MP1094/2007|2007-09-13,CY077402,H3N8,2007-09-13,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/7MP1700/2007|2007-09-05,CY077378,H3N8,2007-09-05,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/7MP1835/2007|2007-09-05,EPI299056,H3N8,2007-09-05,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/8BM2312/2008|2008-08-11,EPI300124,H3N8,2008-08-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/8BM3586/2008|2008-09-14,CY079129,H3N8,2008-09-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/8BM3614/2008|2008-09-16,CY079137,H3N8,2008-09-16,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM10047R0/2009|2009-08-15,EPI452649,H3N8,2009-08-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM10051R0/2009|2009-08-15,EPI452656,H3N8,2009-08-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM10111R0/2009|2009-08-15,EPI452677,H3N8,2009-08-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM10851R0/2009|2009-08-17,EPI452965,H3N8,2009-08-17,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM11381R0/2009|2009-08-18,EPI452719,H3N8,2009-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM11382R0/2009|2009-01-01,EPI452369,H3N8,2009-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM11867R0/2009|2009-08-19,EPI452768,H3N8,2009-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM12326R0/2009|2009-09-02,CY143184,H3N8,2009-09-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM12388R0/2009|2009-09-02,CY143208,H3N8,2009-09-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM8465R0/2009|2009-01-01,EPI436949,H3N1,2009-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM8474R0/2009|2009-01-01,EPI437089,H3N1,2009-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM8524R0/2009|2009-01-01,EPI437096,H3N1,2009-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Interior_Alaska/9BM9755R0/2009|2009-08-14,CY143272,H3N1,2009-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Iowa/10OS2426/2010|2010-09-18,EPI419417,H3N8,2010-09-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Iowa/10OS2492/2010|2010-09-18,CY133599,H3N6,2010-09-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/AH0190539/2021|2021-08-30,OL539358,H3N8,2021-08-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/AH0190543/2021|2021-09-02,OL539366,H3N8,2021-09-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/ME-Y17-102/2017|2017-08-24,EPI1775025,H3N6,2017-08-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/ME-Y17-144/2017|2017-08-28,EPI1775068,H3N6,2017-08-28,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/ME-Y17-166/2017|2017-08-29,EPI1775092,H3N8,2017-08-29,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/ME-Y17-243/2017|2017-09-25,EPI1775132,H3N2,2017-09-25,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7648/2015|2015-08-28,EPI1775156,H3N8,2015-08-28,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7667/2015|2015-08-25,EPI1775164,H3N8,2015-08-25,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7670/2015|2015-08-25,EPI1775172,H3N8,2015-08-25,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7687/2015|2015-08-26,EPI1775180,H3N2,2015-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7688/2015|2015-08-26,EPI1775188,H3N2,2015-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7689/2015|2015-08-26,EPI1775196,H3N2,2015-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7690/2015|2015-08-26,EPI1775204,H3N2,2015-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7692/2015|2015-08-26,EPI1775212,H3N2,2015-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI15-7790/2015|2015-09-28,EPI1775228,H3N2,2015-09-28,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI16-5404/2016|2016-08-24,EPI1775236,H3N2,2016-08-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maine/UGAI16-5406/2016|2016-08-29,EPI1775244,H3N8,2016-08-29,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS1403/2005|2005-09-15,EPI733702,H3N8,2005-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS1508/2005|2005-09-16,EPI734676,H3N8,2005-09-16,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS622/2005|2005-06-30,CY203555,H3N8,2005-06-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS630/2005|2005-06-30,EPI734622,H3N2,2005-06-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS677/2005|2005-06-30,EPI734629,H3N2,2005-06-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS693/2005|2005-06-30,EPI734636,H3N2,2005-06-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS694/2005|2005-06-30,EPI734643,H3N2,2005-06-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS702/2005|2005-06-30,EPI734649,H3N2,2005-06-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/05OS713/2005|2005-06-30,EPI734656,H3N2,2005-06-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/06OS1207/2006|2006-08-07,CY203707,H3N6,2006-08-07,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/06OS479/2006|2006-06-19,EPI734717,H3N6,2006-06-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/07OS882/2007|2007-06-27,EPI734801,H3N6,2007-06-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/09OS1350/2009|2009-08-26,CY203170,H3N2,2009-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/09OS1351/2009|2009-08-26,CY203178,H3N2,2009-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/09OS1400/2009|2009-08-27,CY204945,H3N8,2009-08-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/09OS1403/2009|2009-08-27,CY205385,H3N8,2009-08-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/10OS1087/2010|2010-08-20,CY203267,H3N2,2010-08-20,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/10OS1094/2010|2010-08-20,CY203291,H3N2,2010-08-20,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/10OS1907/2010|2010-09-15,CY203315,H3N6,2010-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/10OS1934/2010|2010-09-15,CY203331,H3N2,2010-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/10OS1953/2010|2010-09-15,EPI734408,H3N2,2010-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/1127/2005|2005-06-27,EPI307576,H3N8,2005-06-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/1235/2006|2006-01-01,CY028698,H3N6,2006-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/12OS1511/2012|2012-08-10,CY205113,H3N6,2012-08-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/12OS1518/2012|2012-08-10,CY205121,H3N6,2012-08-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/12OS1520/2012|2012-08-10,CY205129,H3N6,2012-08-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/12OS1526/2012|2012-08-10,CY205137,H3N6,2012-08-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/12OS1536/2012|2012-08-10,CY205145,H3N6,2012-08-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/12OS1538/2012|2012-08-10,CY205153,H3N6,2012-08-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/14OS1430/2014|2014-09-15,CY204600,H3N9,2014-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/14OS1431/2014|2014-09-15,CY204608,H3N9,2014-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/14OS1438/2014|2014-09-15,CY204616,H3N9,2014-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/14OS1446/2014|2014-09-15,CY204624,H3N9,2014-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/14OS1447/2014|2014-09-15,CY204632,H3N9,2014-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/615/2005|2005-01-01,CY021459,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/631/2005|2005-01-01,EPI60096,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/681/2005|2005-01-01,CY021267,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/691/2005|2005-01-01,EPI60077,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/708/2005|2005-01-01,CY024816,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/710/2005|2005-01-01,EPI60533,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/712/2005|2005-01-01,CY022747,H3N2,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/UGAI15-8423/2015|2015-12-19,EPI1775420,H3N1,2015-12-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/UGAI16-5536/2016|2016-11-23,EPI1775444,H3N6,2016-11-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/UGAI16-5539/2016|2016-11-23,EPI1775452,H3N6,2016-11-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/UGAI16-5540/2016|2016-11-23,EPI1775460,H3N6,2016-11-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/UGAI16-5544/2016|2016-11-23,EPI1775468,H3N6,2016-11-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Maryland/UGAI16-5545/2016|2016-11-23,EPI1775476,H3N6,2016-11-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Michigan/10OS1497/2010|2010-08-20,CY132131,H3N2,2010-08-20,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/182749/1998|1998-09-01,EPI448363,H3N9,1998-09-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/190/1999|1999-01-01,EPI238514,H3N8,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/199036/1999|1999-01-01,EPI448562,H3N2,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/199106/1999|1999-01-01,EPI448808,H3N8,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/280/1999|1999-01-01,EU743534,H3N5,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/283/1999|1999-01-01,EPI238568,H3N8,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/290/1999|1999-01-01,EU743506,H3N2,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/346242/2000|2000-01-01,EPI448476,H3N6,2000-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/354/1999|1999-01-01,EPI238588,H3N8,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/380/1999|1999-01-01,EU743514,H3N2,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/68/1999|1999-01-01,EU743499,H3N2,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/AI09-1870/2009|2009-07-28,EPI449747,H3N3,2009-07-28,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/AI09-2434/2009|2009-08-05,EPI449761,H3N8,2009-08-05,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/AI09-2519/2009|2009-09-06,CY140733,H3N6,2009-09-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/AI09-3228/2009|2009-09-08,EPI449849,H3N1,2009-09-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/AI09-4022/2009|2009-09-06,CY140917,H3N2,2009-09-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB1-065A/2018|2018-09-10,EPI1772916,H3N8,2018-09-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB1-075A/2018|2018-09-10,EPI1772924,H3N6,2018-09-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB1-075B/2018|2018-09-10,EPI1772932,H3N6,2018-09-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB1-087A/2018|2018-09-10,EPI1772948,H3N8,2018-09-10,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB1-095A/2018|2018-09-11,EPI1772964,H3N8,2018-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB1-103A/2018|2018-09-11,EPI1772980,H3N8,2018-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB1-105A/2018|2018-09-11,EPI1772988,H3N8,2018-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB2-162A/2018|2018-09-11,EPI1773035,H3N8,2018-09-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/MN18-WB2-204A/2018|2018-09-15,EPI1773098,H3N8,2018-09-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00051/2007|2007-08-03,EPI263258,H3N8,2007-08-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00061/2007|2007-08-03,EPI263330,H3N8,2007-08-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00589/2008|2008-07-31,CY140019,H3N8,2008-07-31,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00590/2008|2008-07-31,CY140027,H3N8,2008-07-31,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00605/2008|2008-07-31,CY140043,H3N8,2008-07-31,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00672/2008|2008-08-03,EPI449411,H3N8,2008-08-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00674/2008|2008-08-03,EPI449417,H3N8,2008-08-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00804/2008|2008-09-01,EPI449332,H3N8,2008-09-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00831/2008|2008-09-04,EPI449489,H3N8,2008-09-04,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00868/2008|2008-09-03,CY140455,H3N8,2008-09-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-00949/2008|2008-09-03,EPI449569,H3N2,2008-09-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-01035/2008|2008-09-14,EPI449642,H3N8,2008-09-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/Sg-01040/2008|2008-09-14,CY140589,H3N2,2008-09-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Minnesota/UGAI15-7137/2015|2015-09-22,EPI973988,H3N8,2015-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Mississippi/354/2010|2010-01-16,EPI333642,H3N8,2010-01-16,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Mississippi/390/2010|2010-01-17,EPI333618,H3N8,2010-01-17,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/158/2000|2000-01-01,EPI159178,H3N9,2000-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/259/1999|1999-01-01,EPI158632,H3N6,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/280/99|1999-01-01,EPI158463,H3N5,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/290/99|1999-01-01,EPI158476,H3N2,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/330/1999|1999-01-01,EPI158640,H3N1,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/351/99|1999-01-01,EPI158469,H3N1,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/380/1999|1999-01-01,EPI158648,H3N2,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/515/2000|2000-01-01,EPI158616,H3N6,2000-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/68/99|1999-01-01,EPI158482,H3N2,1999-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/MN/99/2000|2000-01-01,EPI158624,H3N6,2000-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Nevada/D1511740/2015|2015-08-26,EPI1549606,H3N8,2015-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/00341/2010|2010-08-08,EPI434446,H3N8,2010-08-08,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/00495/2010|2010-08-12,EPI434804,H3N8,2010-08-12,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/00593/2010|2010-08-15,EPI434920,H3N7,2010-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/02747/2007|2007-09-04,CY129308,H3N8,2007-09-04,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/03396/2009|2009-08-09,EPI404682,H3N8,2009-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/03397/2009|2009-08-09,EPI404640,H3N8,2009-08-09,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/03482/2009|2009-08-14,CY128562,H3N8,2009-08-14,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/04482/2007|2007-09-04,EPI405148,H3N8,2007-09-04,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Brunswick/04485/2007|2007-09-04,CY129292,H3N8,2007-09-04,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/New_Jersey/AH0005870/2014|2014-01-01,KY551513,H3N8,2014-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/New_Jersey/AH0005885/2014|2014-01-01,KY551521,H3N8,2014-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/New_Jersey/Sg-00888/2008|2008-09-23,EPI455898,H3N2,2008-09-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/New_Jersey/Sg-00892/2008|2008-09-20,CY145765,H3N8,2008-09-20,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/New_Jersey/Sg-00893/2008|2008-09-23,CY145773,H3N2,2008-09-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/New_York/AH0179439/2021|2021-09-07,OL539643,H3N8,2021-09-07,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/New_York/AH0179440/2021|2021-09-07,OL539651,H3N1,2021-09-07,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/North_Dakota/AH0050030/2015|2015-10-09,KY551013,H3N8,2015-10-09,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Nova_Scotia/03271/2009|2009-08-06,EPI391974,H3N8,2009-08-06,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Nova_Scotia/14728/2005|2005-09-08,CY095352,H3N8,2005-09-08,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/10OS1467/2010|2010-08-18,CY132099,H3N2,2010-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/10OS1469/2010|2010-08-18,CY132107,H3N2,2010-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/10OS1470/2010|2010-08-18,CY132115,H3N2,2010-08-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/11OS1992/2011|2011-08-12,CY132355,H3N8,2011-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/11OS2049/2011|2011-08-17,CY132328,H3N6,2011-08-17,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/11OS2141/2011|2011-08-15,CY132307,H3N2,2011-08-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/11OS2142/2011|2011-08-15,CY132291,H3N1,2011-08-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/11OS2150/2011|2011-08-15,CY132299,H3N1,2011-08-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/12OS2351/2012|2012-09-01,CY186820,H3N6,2012-09-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0468/2014|2014-08-27,CY204119,H3N2,2014-08-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0470/2014|2014-08-27,CY204127,H3N2,2014-08-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0550/2014|2014-08-22,CY204135,H3N2,2014-08-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0554/2014|2014-08-22,CY204151,H3N2,2014-08-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0569/2014|2014-08-22,CY204183,H3N2,2014-08-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0589/2014|2014-08-26,CY204221,H3N2,2014-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0770/2014|2014-08-26,CY204078,H3N6,2014-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0961/2014|2014-09-03,CY204238,H3N2,2014-09-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0985/2014|2014-09-04,CY204295,H3N8,2014-09-04,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0986/2014|2014-09-04,CY204303,H3N2,2014-09-04,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/14OS0999/2014|2014-09-04,CY204320,H3N2,2014-09-04,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/1506/2006|2006-01-01,EPI230712,H3N6,2006-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/156/1990|1990-10-18,CY017715,H3N6,1990-10-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/15OS3603/2015|2015-08-21,KY284353,H3N8,2015-08-21,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/15OS3986/2015|2015-08-07,KY584025,H3N2,2015-08-07,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/15OS3988/2015|2015-08-07,KY583792,H3N1,2015-08-07,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/15OS4201/2015|2015-08-14,KY583740,H3N8,2015-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/15OS4229/2015|2015-08-14,KY583958,H3N8,2015-08-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/15OS4278/2015|2015-08-21,KY583917,H3N2,2015-08-21,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/15OS4288/2015|2015-08-21,EPI969168,H3N6,2015-08-21,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/1717/2005|2005-01-01,CY022723,H3N6,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1696/2017|2017-07-01,EPI1769075,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1716/2017|2017-07-01,EPI1768900,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1739/2017|2017-08-02,EPI1537331,H3N8,2017-08-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1781/2017|2017-07-01,EPI1768754,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1795/2017|2017-08-08,MK237277,H3N2,2017-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1796/2017|2017-08-08,MK237267,H3N2,2017-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1798/2017|2017-07-01,EPI1768784,H3N2,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1801/2017|2017-08-08,MK237339,H3N2,2017-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1802/2017|2017-08-08,EPI1538248,H3N2,2017-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1804/2017|2017-08-08,EPI1538090,H3N2,2017-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1805/2017|2017-07-01,EPI1768830,H3N2,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1806/2017|2017-08-08,EPI1537950,H3N2,2017-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1807/2017|2017-08-08,MK237192,H3N2,2017-08-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1816/2017|2017-08-09,MK237152,H3N8,2017-08-09,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1918/2017|2017-07-01,EPI1768837,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1919/2017|2017-07-01,EPI1768767,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1921/2017|2017-07-01,EPI1768742,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1925/2017|2017-07-01,EPI1768676,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1929/2017|2017-07-01,EPI1768999,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1936/2017|2017-07-01,EPI1768912,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/17OS1939/2017|2017-07-01,EPI1768930,H3N8,2017-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1964/2017|2017-08-11,EPI1538197,H3N2,2017-08-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS1973/2017|2017-08-12,MK237917,H3N8,2017-08-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/17OS5967/2017|2017-11-23,EPI1537711,H3N1,2017-11-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/1801/2005|2005-01-01,CY021347,H3N8,2005-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/181/1986|1986-11-06,EPI60457,H3N1,1986-11-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/184/1986|1986-11-06,EPI60778,H3N8,1986-11-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/18OS1219/2018|2018-05-01,EPI1601710,H3N8,2018-05-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/18OS1844/2018|2018-10-13,EPI1601588,H3N2,2018-10-13,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Mallard/Ohio/18OS4675/2018|2018-07-01,MT566450,H3N8,2018-07-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/264/1986|1986-11-08,CY016401,H3N8,1986-11-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/424/1988|1988-01-01,CY017417,H3N2,1988-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/48/1986|1986-10-20,CY020723,H3N2,1986-10-20,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/649/2002|2002-08-19,CY020763,H3N8,2002-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/651/2002|2002-08-19,CY053835,H3N8,2002-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ohio/654/2002|2002-08-19,CY020747,H3N8,2002-08-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Ontario/15873/2005|2005-08-29,CY095297,H3N2,2005-08-29,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Oregon/44221-105/2006|2006-10-14,EPI290554,H3N6,2006-10-14,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Oregon/AH0038704/2015|2015-08-11,EPI953295,H3N8,2015-08-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Pennsylvania/23-028155-001/2023|2023-09-12,EPI3364150,H3N6,2023-09-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Pennsylvania/23-028155-004/2023|2023-09-12,EPI3364158,H3N6,2023-09-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Pennsylvania/23-028155-005/2023|2023-09-12,EPI3350968,H3N6,2023-09-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Pennsylvania/23-028155-006/2023|2023-09-12,EPI3350976,H3N6,2023-09-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Pennsylvania/UGAI15-4737/2015|2015-09-08,MH341844,H3N1,2015-09-08,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11040/2006|2006-08-19,CY047598,H3N2,2006-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11045/2006|2006-08-19,CY047606,H3N2,2006-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11082/2006|2006-08-19,CY047614,H3N8,2006-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11093/2006|2006-08-20,CY095400,H3N2,2006-08-20,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11121/2006|2006-08-20,CY047638,H3N2,2006-08-20,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11194/2006|2006-08-24,CY047678,H3N2,2006-08-24,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11221/2006|2006-08-24,CY095416,H3N2,2006-08-24,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/11247/2006|2006-08-24,EPI225280,H3N2,2006-08-24,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Quebec/16485/2005|2005-08-19,EPI227353,H3N3,2005-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Saskatchewan/14/1982|1982-01-01,CY181091,H3N8,1982-01-01,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML00974/2014|2014-09-19,CY206707,H3N8,2014-09-19,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML00982/2014|2014-09-22,EPI762267,H3N8,2014-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML00986_AAF1/2014|2014-09-22,EPI689400,H3N8,2014-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML00993/2014|2014-09-22,EPI762287,H3N8,2014-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML00997_AAF1/2014|2014-09-22,CY194203,H3N8,2014-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML01001_AAF1/2014|2014-09-22,CY194211,H3N8,2014-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML01011/2014|2014-09-22,EPI762308,H3N8,2014-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Southcentral_Alaska/12ML01012/2014|2014-09-22,EPI762322,H3N8,2014-09-22,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Vermont/AH0188049/2021|2021-08-26,OL514130,H3N6,2021-08-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Vermont/AH0188131/2021|2021-09-02,OL514211,H3N8,2021-09-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Washington/44242-124/2006|2006-07-23,CY076187,H3N2,2006-07-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Washington/44338-052/2007|2007-09-12,EPI292620,H3N1,2007-09-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/10OS2538/2010|2010-09-26,CY132939,H3N2,2010-09-26,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/10OS2900/2010|2010-10-03,CY133199,H3N2,2010-10-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/10OS2909/2010|2010-10-03,CY133207,H3N8,2010-10-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/10OS3866/2010|2010-11-13,CY133346,H3N6,2010-11-13,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3079/2011|2011-09-24,EPI512989,H3N2,2011-09-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3092/2011|2011-09-25,EPI512996,H3N2,2011-09-25,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3106/2011|2011-09-25,EPI512923,H3N2,2011-09-25,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3157/2011|2011-09-24,EPI512562,H3N2,2011-09-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3158/2011|2011-09-24,EPI512482,H3N2,2011-09-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3159/2011|2011-09-24,EPI512489,H3N2,2011-09-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3161/2011|2011-09-24,EPI512496,H3N2,2011-09-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3171/2011|2011-09-24,EPI512510,H3N2,2011-09-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3192/2011|2011-09-24,EPI512445,H3N2,2011-09-24,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3305/2011|2011-10-01,EPI512804,H3N2,2011-10-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3408/2011|2011-10-15,EPI512698,H3N2,2011-10-15,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3482/2011|2011-10-23,EPI512907,H3N2,2011-10-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS3493/2011|2011-10-23,EPI512842,H3N2,2011-10-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS4238/2011|2011-10-23,EPI512893,H3N2,2011-10-23,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/11OS4383/2011|2011-11-05,EPI512639,H3N8,2011-11-05,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/12OS4331/2012|2012-10-27,CY187125,H3N8,2012-10-27,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/13OS2767/2013|2013-09-28,KJ567959,H3N8,2013-09-28,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/144/1979|1979-01-01,CY180273,H3N8,1979-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/155/1980|1980-01-01,CY180906,H3N2,1980-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/162/1977|1977-01-01,CY179553,H3N2,1977-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1636/1983|1983-01-01,CY179289,H3N8,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/168/1979|1979-01-01,CY180281,H3N8,1979-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/17/1975|1975-01-01,CY179873,H3N5,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1727/1983|1983-01-01,CY179313,H3N6,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1729/1983|1983-01-01,CY177924,H3N6,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1746/1983|1983-01-01,CY177932,H3N2,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1781/1983|1983-01-01,CY178412,H3N2,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1784/1983|1983-01-01,CY178420,H3N2,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1793/1983|1983-01-01,CY178428,H3N2,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/17OS3655/2017|2017-09-30,MK236752,H3N2,2017-09-30,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/18/1977|1977-01-01,CY179721,H3N6,1977-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/1804/1983|1983-01-01,CY178436,H3N2,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/19/1975|1975-01-01,CY179881,H3N5,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/20/1975|1975-01-01,CY179729,H3N5,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2083/1984|1984-01-01,CY177940,H3N8,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2084/1984|1984-01-01,CY177948,H3N8,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2087/1984|1984-01-01,CY177956,H3N8,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2090/1984|1984-01-01,CY177964,H3N8,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2117/1984|1984-01-01,CY177980,H3N8,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/213/1979|1979-01-01,CY180289,H3N8,1979-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2163/1984|1984-01-01,CY177996,H3N2,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/22/1974|1974-01-01,CY181051,H3N5,1974-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2211/1984|1984-01-01,CY178012,H3N8,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2215/1984|1984-01-01,CY178020,H3N2,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2221/1984|1984-01-01,CY178028,H3N8,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2263/1984|1984-01-01,CY178036,H3N2,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2272/1984|1984-01-01,CY178044,H3N2,1984-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/25/1975|1975-01-01,CY179889,H3N5,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2543/2009|2009-10-05,CY096992,H3N2,2009-10-05,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2549/2009|2009-10-05,EPI334018,H3N2,2009-10-05,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2575/2009|2009-10-06,EPI334002,H3N2,2009-10-06,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/260/1980|1980-01-01,CY178396,H3N2,1980-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/2712/2009|2009-10-11,EPI334293,H3N6,2009-10-11,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/283/1976|1976-01-01,CY180161,H3N8,1976-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/29/1979|1979-01-01,CY180241,H3N8,1979-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/31/1979|1979-01-01,CY180249,H3N8,1979-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/316/1975|1975-01-01,CY179753,H3N2,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/34/1976|1976-01-01,CY180121,H3N8,1976-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/408/1983|1983-01-01,CY177908,H3N6,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/409/1981|1981-01-01,CY178773,H3N8,1981-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/411/1977|1977-01-01,CY179385,H3N2,1977-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/414/1977|1977-01-01,CY179561,H3N2,1977-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/414/1981|1981-01-01,CY178781,H3N2,1981-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/415/1981|1981-01-01,CY177772,H3N8,1981-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/418/1976|1976-01-01,CY180426,H3N6,1976-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/420/1981|1981-01-01,CY177780,H3N8,1981-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/421/1981|1981-01-01,CY177788,H3N8,1981-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/471/1976|1976-01-01,CY180217,H3N8,1976-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/483/1983|1983-01-01,CY178589,H3N8,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/487/1981|1981-01-01,CY179281,H3N8,1981-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/52/1975|1975-01-01,CY179897,H3N5,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/53/1975|1975-01-01,CY179905,H3N5,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/55/1975|1975-01-01,CY179737,H3N5,1975-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/603/1983|1983-01-01,CY180314,H3N8,1983-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/72/1979|1979-01-01,CY180257,H3N8,1979-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/82/1976|1976-01-01,CY178984,H3N2,1976-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/827/1982|1982-01-01,CY177796,H3N8,1982-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/834/1982|1982-01-01,CY177812,H3N8,1982-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/847/1982|1982-01-01,CY177820,H3N8,1982-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/85/1977|1977-01-01,CY179545,H3N8,1977-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/856/1982|1982-01-01,CY178789,H3N5,1982-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/865/1982|1982-01-01,CY177844,H3N8,1982-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/890/1982|1982-01-01,CY177868,H3N8,1982-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard/Wisconsin/908/1982|1982-01-01,CY177884,H3N8,1982-01-01,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard_duck/ALB/26/1976|1976-08-11,EPI87226,H3N1,1976-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard_duck/ALB/525/1985|1985-08-22,EPI87113,H3N8,1985-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard_duck/ALB/564/1979|1979-08-11,EPI85766,H3N8,1979-08-11,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard_duck/ALB/635/1983|1983-08-19,EPI87081,H3N5,1983-08-19,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard_duck/ALB/676/1979|1979-08-13,EPI85802,H3N6,1979-08-13,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard_duck/ALB/712/1978|1978-08-15,EPI86958,H3N3,1978-08-15,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/147/2019|2019-08-22,EPI1832564,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/319/2019|2019-08-22,MT624396,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/328/2019|2019-08-22,MT624347,H3N6,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard_duck/Alberta/331/1985|1985-08-18,EPI41974,H3N6,1985-08-18,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/331/2019|2019-08-22,MT624482,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/339/2019|2019-08-22,MT624452,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/343/2019|2019-08-22,MT624507,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/347/2019|2019-08-22,MT624446,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/358/2019|2019-08-22,MT624533,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/471/2019|2019-08-22,MT624469,H3N8,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/Mallard_duck/Alberta/504/2019|2019-08-22,EPI1832562,H3N6,2019-08-22,Avian,Canada,North America,Mallard,duck,Anseriformes
+A/mallard_duck/California/UCD558/2016|2016-07-18,EPI1007594,H3N8,2016-07-18,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard_duck/Ohio/16OS0843/2016|2016-08-02,MG279962,H3N8,2016-08-02,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard_duck/Ohio/16OS0859/2016|2016-08-03,MG280319,H3N8,2016-08-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard_duck/Ohio/16OS0862/2016|2016-08-03,MG279830,H3N8,2016-08-03,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/mallard_duck/Ohio/16OS4983/2016|2016-11-12,EPI1154684,H3N2,2016-11-12,Avian,Usa,North America,Mallard,duck,Anseriformes
+A/Northern_Pintail/Alaska/19TL00162/2019|2019-08-12,MW872152,H3N8,2019-08-12,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/337/2012|2012-09-23,EPI966539,H3N8,2012-09-23,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/362/2013|2013-09-15,EPI966762,H3N8,2013-09-15,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/40/2011|2011-09-17,KY130526,H3N8,2011-09-17,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/404/2013|2013-09-15,EPI966815,H3N8,2013-09-15,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44155-158/2006|2006-08-15,EU557412,H3N8,2006-08-15,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44183-067/2006|2006-08-09,EU557417,H3N8,2006-08-09,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44184-003/2006|2006-08-25,EU557430,H3N8,2006-08-25,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44194-041/2006|2006-08-15,EU557423,H3N6,2006-08-15,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44194-071/2006|2006-08-18,EU557424,H3N6,2006-08-18,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44202-126/2006|2006-10-14,EU557445,H3N8,2006-10-14,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44228-173/2006|2006-09-29,EU557437,H3N8,2006-09-29,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44340-347/2007|2007-08-11,GU168213,H3N8,2007-08-11,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44344-503/2007|2007-08-02,GU168218,H3N6,2007-08-02,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44344-506/2007|2007-08-06,GU168222,H3N8,2007-08-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44344-730/2007|2007-08-25,GU168195,H3N6,2007-08-25,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44344-798/2007|2007-08-26,GU168200,H3N6,2007-08-26,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44344-881/2007|2007-08-23,GU168194,H3N6,2007-08-23,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44419-062/2008|2008-08-06,GU168185,H3N6,2008-08-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44419-104/2008|2008-08-06,GU168190,H3N6,2008-08-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44421-385/2008|2008-10-06,GU168184,H3N8,2008-10-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44421-431/2008|2008-10-05,GU168205,H3N6,2008-10-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44421-445/2008|2008-09-22,GU168181,H3N8,2008-09-22,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44421-446/2008|2008-10-06,GU168203,H3N6,2008-10-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/44500-075/2009|2009-08-10,JX080899,H3N6,2009-08-10,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/483/2012|2012-09-27,KY130817,H3N8,2012-09-27,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/52/2011|2011-09-15,KY130534,H3N6,2011-09-15,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/523/2014|2014-09-29,EPI729599,H3N8,2014-09-29,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/531/2011|2011-09-22,KY130673,H3N8,2011-09-22,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/562/2014|2014-09-30,EPI729615,H3N8,2014-09-30,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/580/2014|2014-09-28,KT338481,H3N8,2014-09-28,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/619/2013|2013-09-16,EPI966921,H3N8,2013-09-16,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/649/2011|2011-09-28,KY130705,H3N8,2011-09-28,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/679/2012|2012-10-05,EPI966603,H3N8,2012-10-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/687/2012|2012-10-05,EPI966611,H3N8,2012-10-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/750/2011|2011-09-30,KY130721,H3N8,2011-09-30,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/778/2012|2012-10-10,EPI966635,H3N8,2012-10-10,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/78/2011|2011-09-17,EPI966280,H3N8,2011-09-17,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/78/2012|2012-09-25,KY130777,H3N8,2012-09-25,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/782/2012|2012-10-05,EPI966659,H3N8,2012-10-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/7MP0508/2007|2007-09-09,CY045453,H3N8,2007-09-09,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/861/2014|2014-09-28,KT338559,H3N8,2014-09-28,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/887/2012|2012-10-17,EPI966689,H3N8,2012-10-17,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/911/2013|2013-09-23,EPI967057,H3N8,2013-09-23,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/AH0185234/2021|2021-08-19,OL467090,H3N8,2021-08-19,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/AH0185297/2021|2021-08-11,OL467106,H3N8,2021-08-11,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/AK18-WB1-098A/2018|2018-10-01,EPI1773138,H3N6,2018-10-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/AK19-130E_T1/2019|2019-09-21,MW874341,H3N8,2019-09-21,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/AK19-534/2019|2019-10-05,MW873774,H3N8,2019-10-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/AK20-463/2020|2020-10-09,MW873806,H3N8,2020-10-09,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI15-7291/2015|2015-09-23,KX949506,H3N8,2015-09-23,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI15-7320/2015|2015-09-30,KX949514,H3N8,2015-09-30,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI15-7399/2015|2015-10-03,KY131390,H3N6,2015-10-03,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI15-7415/2015|2015-10-04,KY131405,H3N6,2015-10-04,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI15-7417/2015|2015-10-04,KY131413,H3N6,2015-10-04,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI16-4606/2016|2016-09-20,MW513545,H3N8,2016-09-20,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI16-4607/2016|2016-09-20,MW513553,H3N8,2016-09-20,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alaska/UGAI16-5343/2016|2016-10-13,MW513599,H3N8,2016-10-13,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alberta/11701/2005|2005-08-05,EPI227378,H3N8,2005-08-05,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Alberta/8/2009|2009-08-19,CY103517,H3N8,2009-08-19,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/California/44221-794/2006|2006-10-05,FJ520037,H3N8,2006-10-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/California/44241-743/2006|2006-11-18,FJ520039,H3N8,2006-11-18,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/California/44242-711/2006|2006-08-29,FJ520020,H3N6,2006-08-29,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/California/44242-836/2006|2006-09-18,FJ520032,H3N6,2006-09-18,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM00303R0/2010|2010-05-14,CY130419,H3N8,2010-05-14,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM00849R2/2010|2010-05-23,EPI414514,H3N1,2010-05-23,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM05034R0/2010|2010-07-21,EPI436523,H3N6,2010-07-21,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM08488R0/2010|2010-08-04,CY143594,H3N8,2010-08-04,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM09105R0/2010|2010-08-05,CY143802,H3N8,2010-08-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM11989R0/2010|2010-08-13,CY144093,H3N8,2010-08-13,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM12163R0/2010|2010-08-13,CY143981,H3N8,2010-08-13,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/10BM12552R0/2010|2010-08-14,CY144117,H3N8,2010-08-14,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/11ML00065/2011|2011-09-24,EPI700503,H3N6,2011-09-24,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/6MP0964/2006|2006-08-17,CY078641,H3N8,2006-08-17,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/6MP1080R1/2006|2006-08-20,CY078689,H3N8,2006-08-20,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/7MP0345BR2/2007|2007-08-16,CY078905,H3N8,2007-08-16,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/7MP0408/2007|2007-08-18,CY078945,H3N8,2007-08-18,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/7MP0509/2007|2007-09-06,EPI299579,H3N8,2007-09-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/7MP1822/2007|2007-09-05,CY079009,H3N8,2007-09-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/8BM2528R1/2008|2008-08-13,EPI299104,H3N8,2008-08-13,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/8BM3582/2008|2008-09-14,EPI299160,H3N8,2008-09-14,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/8BM3696/2008|2008-09-26,EPI300076,H3N8,2008-09-26,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/8BM3700/2008|2008-09-26,EPI299200,H3N8,2008-09-26,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM10146R0/2009|2009-01-01,EPI437059,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM10525R2/2009|2009-01-01,EPI437024,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM11325R0/2009|2009-01-01,EPI436893,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM11431R0/2009|2009-01-01,EPI436909,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM11487R0/2009|2009-08-18,CY142816,H3N8,2009-08-18,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM11787R0/2009|2009-08-19,EPI451476,H3N7,2009-08-19,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM11789R0/2009|2009-08-19,CY142856,H3N8,2009-08-19,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM12176R0/2009|2009-08-20,EPI452972,H3N8,2009-08-20,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM12180R0/2009|2009-08-20,EPI452979,H3N8,2009-08-20,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM12210R0/2009|2009-08-21,EPI453014,H3N8,2009-08-21,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM12211R0/2009|2009-08-21,CY143418,H3N8,2009-08-21,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM12647R0/2009|2009-09-05,CY143328,H3N8,2009-09-05,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM12700R0/2009|2009-09-06,CY143346,H3N8,2009-09-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM6145R0/2009|2009-08-02,CY143370,H3N8,2009-08-02,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM7055R0/2009|2009-08-06,CY143378,H3N8,2009-08-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM7258R0/2009|2009-08-06,CY142712,H3N8,2009-08-06,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM8448R0/2009|2009-01-01,EPI437052,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM8459R0/2009|2009-01-01,EPI436935,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM8464R0/2009|2009-01-01,EPI436991,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM8502R0/2009|2009-01-01,EPI436998,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM8553R0/2009|2009-08-10,EPI452888,H3N8,2009-08-10,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM8907R0/2009|2009-08-11,EPI452916,H3N8,2009-08-11,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM9153R0/2009|2009-01-01,CY136219,H3N8,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Interior_Alaska/9BM9973R0/2009|2009-01-01,EPI437046,H3N1,2009-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/New_Brunswick/03547/2009|2009-09-11,EPI391726,H3N8,2009-09-11,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Oregon/44249-559/2006|2006-08-22,EPI290581,H3N8,2006-08-22,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Saskatchewan/22910/2007|2007-08-10,CY045325,H3N2,2007-08-10,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/northern_pintail/Wisconsin/2737/2009|2009-10-17,EPI333850,H3N2,2009-10-17,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/northern_shoveler/Alaska/UGAI15-7320/2015|2015-09-30,EPI973549,H3N8,2015-09-30,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF1021/2007|2007-12-02,EPI159441,H3N7,2007-12-02,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF1046/2007|2007-12-02,EPI159449,H3N5,2007-12-02,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF1046C/2007|2007-12-02,EPI328048,H3N5,2007-12-02,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF1131/2007|2007-12-02,EPI159465,H3N5,2007-12-02,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF1199/2007|2007-12-05,EPI159481,H3N5,2007-12-05,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF1201/2007|2007-12-05,EPI154559,H3N5,2007-12-05,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF1367/2007|2007-12-12,EPI159489,H3N7,2007-12-12,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF569/2007|2007-11-10,EPI178812,H3N1,2007-11-10,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF848/2007|2007-11-28,EPI160347,H3N7,2007-11-28,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/California/HKWF979/2007|2007-12-02,EPI154615,H3N3,2007-12-02,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/Northern_shoveler/Guatemala/CIP049HT114-14/2013|2013-01-19,EPI891807,H3N8,2013-01-19,Avian,Guatemala,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/10BM05491R0/2010|2010-07-26,EPI436619,H3N8,2010-07-26,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/10BM05649R0/2010|2010-07-26,EPI436640,H3N8,2010-07-26,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/11BM03889/2011|2011-09-03,EPI699721,H3N8,2011-09-03,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/2/2007|2007-09-06,EPI178606,H3N8,2007-09-06,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/4/2007|2007-09-05,EPI178669,H3N8,2007-09-05,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/6MP1283/2006|2006-09-02,EPI299772,H3N6,2006-09-02,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/6MP1287/2006|2006-09-02,CY078521,H3N8,2006-09-02,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/6MP1339/2006|2006-09-09,CY078561,H3N8,2006-09-09,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/7MP1765/2007|2007-09-04,EPI296896,H3N8,2007-09-04,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/7MP1766/2007|2007-09-04,CY080205,H3N8,2007-09-04,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Interior_Alaska/9BM12298R0/2009|2009-09-01,CY143160,H3N8,2009-09-01,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Minnesota/Sg-00645/2008|2008-07-31,CY042736,H3N8,2008-07-31,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Ohio/35/1986|1986-01-01,EPI59317,H3N8,1986-01-01,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/northern_shoveler/Ohio/454/1987|1987-01-01,EPI49689,H3N8,1987-01-01,Avian,Usa,North America,Northern Shoveler,duck,Anseriformes
+A/pintail/Alaska/211/2005|2005-08-10,CY016186,H3N8,2005-08-10,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alaska/279/2005|2005-08-11,EPI44133,H3N8,2005-08-11,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alaska/315/2005|2005-08-11,CY089555,H3N8,2005-08-11,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alaska/49/2005|2005-08-08,CY020883,H3N8,2005-08-08,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alaska/53/2005|2005-08-08,CY013269,H3N6,2005-08-08,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alaska/779/2005|2005-08-20,CY017763,H3N8,2005-08-20,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/105/1991|1991-08-10,EPI344740,H3N8,1991-08-10,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/114/1995|1995-08-07,EPI344284,H3N8,1995-08-07,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/118/1991|1991-08-10,EPI344716,H3N8,1991-08-10,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/128/1987|1987-08-12,EPI345041,H3N8,1987-08-12,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/156/97|1997-01-01,EPI22419,H3N8,1997-01-01,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/166/2003|2003-08-03,EPI343713,H3N6,2003-08-03,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/232/1992|1992-08-24,EPI344673,H3N8,1992-08-24,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/37/1999|1999-07-30,EPI343856,H3N8,1999-07-30,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/37/99|1999-01-01,EPI22483,H3N8,1999-01-01,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Alberta/81/1991|1991-08-09,EPI344748,H3N8,1991-08-09,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Barrow/155/2005|2005-01-01,EPI155072,H3N8,2005-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Minnesota/479/1999|1999-01-01,EU743566,H3N6,1999-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/MN/479/99|1999-01-01,EPI158608,H3N6,1999-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Ohio/339/1987|1987-10-19,EPI55232,H3N8,1987-10-19,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Ohio/454/1987|1987-10-23,CY016146,H3N8,1987-10-23,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Wisconsin/122/1978|1978-01-01,CY181191,H3N2,1978-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail/Wisconsin/424/1976|1976-01-01,CY180570,H3N2,1976-01-01,Avian,Usa,North America,Northern Pintail,duck,Anseriformes
+A/pintail_duck/ALB/169/1980|1980-08-05,EPI88036,H3N8,1980-08-05,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail_duck/ALB/462/1979|1979-08-10,EPI86992,H3N6,1979-08-10,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/pintail_duck/Alberta/169/1980|1980-08-05,CY005049,H3N8,1980-08-05,Avian,Canada,North America,Northern Pintail,duck,Anseriformes
+A/red_knot/Delaware_Bay/218/1994|1994-05-23,CY102090,H3N8,1994-05-23,Avian,Usa,North America,Red Knot,wader,Neoave
+A/red_knot/Delaware_Bay/236/1994|1994-05-23,CY102098,H3N8,1994-05-23,Avian,Usa,North America,Red Knot,wader,Neoave
+A/red_knot/Delaware_Bay/252/1994|1994-05-23,CY102106,H3N2,1994-05-23,Avian,Usa,North America,Red Knot,wader,Neoave
+A/redhead/Alberta/192/2002|2002-08-16,EPI343753,H3N6,2002-08-16,Avian,Canada,North America,Duck,duck,Anseriformes
+A/redhead/Ohio/13OS0373/2013|2013-02-01,KR077978,H3N6,2013-02-01,Avian,Usa,North America,Redhead,duck,Avian
+A/redhead/Ohio/13OS0399/2013|2013-02-01,KR077970,H3N6,2013-02-01,Avian,Usa,North America,Redhead,duck,Avian
+A/redhead/Ohio/13OS363/2013|2013-02-01,KR077986,H3N8,2013-02-01,Avian,Usa,North America,Redhead,duck,Avian
+A/ring-necked_duck/Interior_Alaska/10BM05792R0/2010|2010-07-26,EPI436646,H3N8,2010-07-26,Avian,Usa,North America,Ring-necked Duck,duck,Anseriformes
+A/ring-necked_duck/Minnesota/Sg-00066/2007|2007-08-03,EPI263370,H3N8,2007-08-03,Avian,Usa,North America,Duck,duck,Anseriformes
+A/ring-necked_duck/New_Brunswick/03400/2009|2009-08-09,EPI391753,H3N8,2009-08-09,Avian,Canada,North America,Duck,duck,Anseriformes
+A/ring-necked_duck/Nova_Scotia/03378/2009|2009-08-08,EPI391698,H3N8,2009-08-08,Avian,Canada,North America,Duck,duck,Anseriformes
+A/ring-necked_duck/Ontario/15530/2005|2005-08-26,CY095337,H3N2,2005-08-26,Avian,Canada,North America,Ring-necked Duck,duck,Anseriformes
+A/ruddy_duck/Nevada/AH0006859/2015|2015-01-23,EPI952592,H3N8,2015-01-23,Avian,Usa,North America,Ruddy Duck,duck,Anseriformes
+A/ruddy_turnstone/Canada/02937/2011|2011-08-30,CY149650,H3N5,2011-08-30,Avian,Canada,North America,Ruddy Turnstone,wader,Neoave
+A/Ruddy_Turnstone/Delaware/141/2021|2021-06-01,EPI2148020,H3N8,2021-06-01,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/Ruddy_Turnstone/Delaware/193/2021|2021-06-01,EPI2147835,H3N2,2021-06-01,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/Ruddy_Turnstone/Delaware/260/2021|2021-06-01,EPI2148012,H3N8,2021-06-01,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware/AI10-1021/2010|2010-05-15,MH501191,H3N2,2010-05-15,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware/Sg-00469/2008|2008-05-21,EPI175405,H3N2,2008-05-21,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/118/1994|1994-05-22,EPI344553,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/125/1994|1994-05-22,EPI344536,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/136/1999|1999-05-24,EPI345196,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/142/1999|1999-05-24,EPI344052,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/144/2016|2016-05-23,EPI1038180,H3N8,2016-05-23,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/150/1999|1999-05-24,EPI344033,H3N8,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/158/1994|1994-05-22,EPI344506,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/160/2005|2005-05-19,MH579085,H3N6,2005-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/167/1994|1994-05-22,EPI344498,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/170/1994|1994-05-22,EPI344476,H3N2,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/176/1994|1994-05-22,CY102017,H3N8,1994-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/178/2005|2005-05-19,EPI1300875,H3N6,2005-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/180/1994|1994-05-22,EPI344460,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/188/2005|2005-05-19,MH579257,H3N6,2005-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/189/1994|1994-05-22,CY102046,H3N8,1994-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/203/1994|1994-05-22,CY102054,H3N3,1994-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/215/2005|2005-05-19,EPI1300620,H3N8,2005-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/229/2005|2005-05-19,EPI1300810,H3N8,2005-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/238/2018|2018-05-21,MK345933,H3N1,2018-05-21,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/240/2018|2018-05-21,MK345947,H3N1,2018-05-21,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/244/1999|1999-05-24,EPI343932,H3N8,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/250/1998|1998-05-19,EPI344156,H3N8,1998-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/267/1998|1998-05-19,CY102314,H3N8,1998-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/276/2005|2005-05-19,EPI1300511,H3N8,2005-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/286/2018|2018-05-22,MK345787,H3N1,2018-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/296/2017|2017-05-21,EPI1213934,H3N8,2017-05-21,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/297/2017|2017-05-21,EPI1213943,H3N8,2017-05-21,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/298/2018|2018-05-22,MK345633,H3N1,2018-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/321/2018|2018-05-22,MK345759,H3N1,2018-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/324/2005|2005-05-21,EPI1300558,H3N8,2005-05-21,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/331/2016|2016-05-24,MF613853,H3N8,2016-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/347/2018|2018-05-22,MK376965,H3N8,2018-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/354/2018|2018-05-22,MK345800,H3N8,2018-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/368/2016|2016-05-24,EPI1038452,H3N4,2016-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/425/2016|2016-05-24,EPI1038416,H3N8,2016-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/429/2018|2018-05-22,MK377000,H3N1,2018-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/44/2005|2005-05-18,EPI1300373,H3N8,2005-05-18,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/45/2005|2005-05-18,EPI1300791,H3N8,2005-05-18,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/450/2016|2016-05-25,MF613718,H3N8,2016-05-25,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/451/2005|2005-05-21,EPI1300521,H3N8,2005-05-21,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/596/2017|2017-05-24,EPI1309341,H3N8,2017-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/633/2018|2018-05-20,MK345576,H3N1,2018-05-20,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Delaware_Bay/81/1994|1994-05-22,EPI344589,H3N2,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/86/1994|1994-05-22,EPI344581,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/87/1994|1994-05-22,EPI344573,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Delaware_Bay/88/1994|1994-05-22,EPI344562,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/Georgia/UGAI18-465/2018|2018-05-03,MN937852,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-615/2018|2018-05-03,MN937868,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-626/2018|2018-05-03,EPI1789956,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-643/2018|2018-05-03,EPI1789980,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-646/2018|2018-05-03,EPI1789996,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-713/2018|2018-05-03,EPI1790004,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-715/2018|2018-05-03,EPI1790012,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-722/2018|2018-05-03,EPI1790020,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/Georgia/UGAI18-765/2018|2018-05-03,EPI1790068,H3N8,2018-05-03,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321394/2005|2005-05-22,CY144641,H3N6,2005-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321398/2005|2005-05-22,MH597737,H3N6,2005-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321399/2005|2005-05-26,MH597745,H3N8,2005-05-26,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321402/2005|2005-05-26,EPI1625028,H3N6,2005-05-26,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321403/2005|2005-05-22,MH597770,H3N6,2005-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321413/2005|2005-05-22,MH597806,H3N6,2005-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321414/2005|2005-05-26,MH597814,H3N8,2005-05-26,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321415/2005|2005-05-26,CY144649,H3N8,2005-05-26,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321419/2005|2005-05-17,MH597822,H3N9,2005-05-17,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321420/2005|2005-05-17,MH597830,H3N8,2005-05-17,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321421/2005|2005-05-18,MH597838,H3N6,2005-05-18,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/1321430/2005|2005-05-22,CY144657,H3N8,2005-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/AI05-1094/2005|2005-05-17,CY144633,H3N6,2005-05-17,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00513/2008|2008-05-28,CY038154,H3N2,2008-05-28,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00518/2008|2008-05-28,CY038159,H3N2,2008-05-28,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00519/2008|2008-05-28,EPI455402,H3N2,2008-05-28,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00520/2008|2008-05-23,CY145199,H3N2,2008-05-23,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00522/2008|2008-05-22,CY038164,H3N7,2008-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00523/2008|2008-05-28,CY042501,H3N2,2008-05-28,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00525/2008|2008-05-22,CY038169,H3N8,2008-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00529/2008|2008-05-28,CY145263,H3N2,2008-05-28,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00543/2008|2008-06-01,CY042552,H3N7,2008-06-01,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/Sg-00555/2008|2008-05-22,CY042581,H3N2,2008-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI14-1748/2014|2014-05-22,MH502744,H3N6,2014-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI14-1758/2014|2014-05-22,MH502752,H3N6,2014-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI14-1837/2014|2014-05-27,MH502760,H3N6,2014-05-27,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI14-1840/2014|2014-05-27,MH502768,H3N6,2014-05-27,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI14-1868/2014|2014-05-24,MH502784,H3N4,2014-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI16-1244/2016|2016-05-18,CY241167,H3N8,2016-05-18,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI16-1289/2016|2016-05-18,EPI1066667,H3N8,2016-05-18,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI16-1296/2016|2016-05-18,EPI1066688,H3N5,2016-05-18,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2729/2017|2017-05-19,MH068477,H3N8,2017-05-19,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2766/2017|2017-05-22,MH068493,H3N2,2017-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2769/2017|2017-05-22,MH068501,H3N2,2017-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2773/2017|2017-05-22,MH068525,H3N2,2017-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2777/2017|2017-05-22,MH068541,H3N2,2017-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2778/2017|2017-05-22,MH068549,H3N2,2017-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2786/2017|2017-05-22,MH068573,H3N2,2017-05-22,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2892/2017|2017-05-24,MH068589,H3N2,2017-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2901/2017|2017-05-24,MH068597,H3N2,2017-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2912/2017|2017-05-24,MH068613,H3N2,2017-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2936/2017|2017-05-24,MH068637,H3N7,2017-05-24,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/New_Jersey/UGAI17-2983/2017|2017-05-27,MH068653,H3N7,2017-05-27,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/NJ/335/2005|2005-01-01,EU871850,H3N6,2005-01-01,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/NJ/357/2005|2005-01-01,EPI159194,H3N6,2005-01-01,Avian,Usa,North America,Avian,avian,Avian
+A/ruddy_turnstone/South_Carolina/UGAI18-1224/2018|2018-05-23,EPI1790148,H3N1,2018-05-23,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/ruddy_turnstone/South_Carolina/UGAI18-895/2018|2018-05-23,EPI1790196,H3N8,2018-05-23,Avian,Usa,North America,Ruddy Turnstone,wader,Neoave
+A/sanderling/Delaware_Bay/248/2005|2005-05-19,MH578821,H3N8,2005-05-19,Avian,Usa,North America,Sanderling,wader,Neoave
+A/sanderling/Delaware_Bay/28/2005|2005-05-18,EPI1300714,H3N6,2005-05-18,Avian,Usa,North America,Sanderling,wader,Neoave
+A/sanderling/Delaware_Bay/426/2016|2016-05-24,EPI1072994,H3N8,2016-05-24,Avian,Usa,North America,Sanderling,wader,Neoave
+A/sanderling/Delaware_Bay/70/1999|1999-05-23,EPI345204,H3N8,1999-05-23,Avian,Usa,North America,Avian,avian,Avian
+A/sanderling/NJ/1042/2005|2005-01-01,EPI159186,H3N6,2005-01-01,Avian,Usa,North America,Avian,avian,Avian
+A/semipalmated_sandpiper/Delaware_Bay/497/2018|2018-05-23,MK345918,H3N1,2018-05-23,Avian,Usa,North America,Semi-palmated Sandpiper,wader,Neoave
+A/semipalmated_sandpiper/Delaware_Bay/556/2018|2018-05-23,MK345774,H3N1,2018-05-23,Avian,Usa,North America,Semi-palmated Sandpiper,wader,Neoave
+A/semipalmated_sandpiper/Delaware_Bay/568/2018|2018-05-23,MK345651,H3N1,2018-05-23,Avian,Usa,North America,Semi-palmated Sandpiper,wader,Neoave
+A/semipalmated_sandpiper/Delaware_Bay/572/2018|2018-05-23,MK345688,H3N1,2018-05-23,Avian,Usa,North America,Semi-palmated Sandpiper,wader,Neoave
+A/semipalmated_sandpiper/Delaware_Bay/581/2005|2005-05-21,EPI1300609,H3N6,2005-05-21,Avian,Usa,North America,Semi-palmated Sandpiper,wader,Neoave
+A/shorebird/Delaware_Bay/106/1999|1999-05-24,EPI344092,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/11/1998|1998-05-18,CY102258,H3N8,1998-05-18,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/110/1999|1999-05-24,EPI344084,H3N8,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/120/1999|1999-05-24,EPI344076,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/122/1999|1999-05-24,EPI344068,H3N8,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/123/1999|1999-05-24,EPI344060,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/140/2005|2005-05-19,EPI343648,H3N6,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/148/2005|2005-05-19,EPI343640,H3N6,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/153/2005|2005-05-19,EPI343632,H3N6,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/159/1999|1999-05-24,EPI344025,H3N8,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/161/2005|2005-05-19,EPI343624,H3N6,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/167/2005|2005-05-19,EPI343616,H3N8,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/170/2005|2005-05-19,EPI343608,H3N6,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/179/2005|2005-05-19,EPI343600,H3N6,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/189/1999|1999-05-24,EPI344017,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/195/1999|1999-05-24,EPI344009,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/200/1999|1999-05-24,EPI344001,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/206/1994|1994-05-23,CY102062,H3N8,1994-05-23,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/206/1999|1999-05-24,EPI343980,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/207/1994|1994-05-23,CY102070,H3N8,1994-05-23,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/207/1998|1998-05-19,EPI344188,H3N8,1998-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/208/1999|1999-05-24,EPI343972,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/210/1998|1998-05-19,EPI344180,H3N8,1998-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/210/1999|1999-05-24,EPI343964,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/212/1999|1999-05-24,EPI343956,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/214/1999|1999-05-24,EPI343948,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/215/1999|1999-05-24,EPI343940,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/237/1998|1998-05-19,CY102290,H3N8,1998-05-19,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/239/1998|1998-05-19,EPI344164,H3N8,1998-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/268/1999|1999-05-24,EPI343907,H3N8,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/270/1999|1999-05-24,EPI343898,H3N8,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/272/1999|1999-05-24,CY102572,H3N8,1999-05-24,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/277/1994|1994-05-23,CY102122,H3N8,1994-05-23,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/28/1994|1994-05-22,EPI344615,H3N8,1994-05-22,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/280/1999|1999-05-24,EPI343882,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/282/1999|1999-05-24,CY102588,H3N8,1999-05-24,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/286/1994|1994-05-23,CY102130,H3N8,1994-05-23,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/289/2005|2005-05-19,EPI343573,H3N6,2005-05-19,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/3/1994|1994-05-22,CY101862,H3N2,1994-05-22,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/435/2005|2005-05-21,EPI343565,H3N8,2005-05-21,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/450/2005|2005-05-21,EPI343546,H3N8,2005-05-21,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/485/2008|2008-05-17,EPI343014,H3N2,2008-05-17,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/518/2005|2005-05-21,EPI343538,H3N6,2005-05-21,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/519/2005|2005-05-21,EPI343530,H3N6,2005-05-21,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/64/1994|1994-05-22,CY101878,H3N2,1994-05-22,Avian,Usa,North America,Shorebird,wader,Neoave
+A/shorebird/Delaware_Bay/74/1999|1999-05-24,EPI344108,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shorebird/Delaware_Bay/88/1999|1999-05-24,EPI344100,H3N2,1999-05-24,Avian,Usa,North America,Avian,avian,Avian
+A/shoveler/Saskatchewan/3/1982|1982-01-01,CY181067,H3N8,1982-01-01,Avian,Canada,North America,Northern Shoveler,duck,Anseriformes
+A/spectacled_eider/Alaska/44173-055/2006|2006-08-03,JX080852,H3N8,2006-08-03,Avian,Usa,North America,Spectacled Eider,duck,Anseriformes
+A/Stellers_eider/Alaska/44222-192/2006|2006-09-06,EPI328836,H3N3,2006-09-06,Avian,Usa,North America,Duck,duck,Anseriformes
+A/Stellers_eider/Alaska/44354-353/2007|2007-09-14,EPI328839,H3N6,2007-09-14,Avian,Usa,North America,Duck,duck,Anseriformes
+A/Stellers_eider/Alaska/44354-355/2007|2007-09-14,EPI328840,H3N6,2007-09-14,Avian,Usa,North America,Duck,duck,Anseriformes
+A/Stellers_eider/Alaska/44354-356/2007|2007-09-14,EPI328841,H3N6,2007-09-14,Avian,Usa,North America,Duck,duck,Anseriformes
+A/teal/Oregon/44336-122/2007|2007-08-16,EPI290771,H3N8,2007-08-16,Avian,Usa,North America,Duck,duck,Anseriformes
+A/widgeon/Saskatchewan/10/1982|1982-01-01,CY181075,H3N8,1982-01-01,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/widgeon/Saskatchewan/33/1982|1982-01-01,CY181099,H3N8,1982-01-01,Avian,Canada,North America,American Wigeon,duck,Anseriformes
+A/widgeon/Wisconsin/541/1976|1976-01-01,CY180233,H3N8,1976-01-01,Avian,Usa,North America,American Wigeon,duck,Anseriformes
+A/widgeon/Wisconsin/638/1983|1983-01-01,CY180338,H3N8,1983-01-01,Avian,Usa,North America,American Wigeon,duck,Anseriformes
+A/wildbird/California/187718-36/2008|2008-01-01,MT982381,H3N8,2008-01-01,Avian,Usa,North America,Bird,avian,Avian
+A/wood_duck/Nova_Scotia/00738/2010|2010-08-12,EPI435073,H3N8,2010-08-12,Avian,Canada,North America,Wood Duck,duck,Anseriformes
+A/wood_duck/Ohio/13OS3300/2013|2013-10-12,KJ568399,H3N8,2013-10-12,Avian,Usa,North America,Wood Duck,duck,Anseriformes
+A/wood_duck/Wisconsin/10OS2778/2010|2010-09-26,CY132963,H3N8,2010-09-26,Avian,Usa,North America,Wood Duck,duck,Anseriformes
+A/wood_duck/Wisconsin/11OS2912/2011|2011-09-24,EPI512275,H3N6,2011-09-24,Avian,Usa,North America,Wood Duck,duck,Anseriformes
+A/wood_duck/Wisconsin/158/1980|1980-01-01,CY180922,H3N2,1980-01-01,Avian,Usa,North America,Wood Duck,duck,Anseriformes
